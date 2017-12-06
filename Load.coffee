@@ -3,7 +3,7 @@ csv = require 'csvtojson'
 Promise = require 'bluebird'
 
 allEns = {}
-currentSemestre = null
+currentSemestre = undefined
 competences = {}
 competencesIndices = []
 
@@ -13,9 +13,19 @@ allUEs = {}
 insertMatrice = () ->
   setSemestre = (sem) ->
     if sem is '' then return Promise.resolve()
-    db.Semestre.create({nom: sem})
-    .then (sem) ->
-      currentSemestre = sem
+    if currentSemestre?
+      currentSemestre.save()
+      .then () ->
+        db.Semestre.create({nom: sem})
+        .then (sem) ->
+          currentSemestre = sem
+          Promise.resolve()
+    else
+      db.Semestre.create({nom: sem})
+      .then (sem) ->
+        currentSemestre = sem
+        Promise.resolve()
+
 
   setUE = (uneUE) ->
     if uneUE is '' then return Promise.resolve()
@@ -23,7 +33,7 @@ insertMatrice = () ->
     .then (lue) ->
       currentUE = lue
       currentSemestre.ue.push lue
-      currentSemestre.save()
+      Promise.resolve()
 
   setEnseignant = (ens) ->
     if allEns[ens]? then return Promise.resolve(allEns[ens])
@@ -102,12 +112,12 @@ insertMatrice = () ->
 db.connect()
 .then () ->
   return Promise.all [
-    db.Competence.remove({}).exec()
     db.Semestre.remove({}).exec()
     db.UE.remove({}).exec()
     db.Enseignant.remove({}).exec()
     db.EC.remove({}).exec()
     db.NiveauCompetence.remove({}).exec()
+    db.Competence.remove({}).exec()
     db.Vocabulaire.remove({}).exec()
   ]
   .then () ->
