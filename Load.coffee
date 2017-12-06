@@ -3,7 +3,7 @@ csv = require 'csvtojson'
 Promise = require 'bluebird'
 
 allEns = {}
-currentSemestre = null
+currentSemestre = undefined
 competences = {}
 competencesIndices = []
 
@@ -13,9 +13,19 @@ allUEs = {}
 insertMatrice = () ->
   setSemestre = (sem) ->
     if sem is '' then return Promise.resolve()
-    db.Semestre.create({nom: sem})
-    .then (sem) ->
-      currentSemestre = sem
+    if currentSemestre?
+      currentSemestre.save()
+      .then () ->
+        db.Semestre.create({nom: sem})
+        .then (sem) ->
+          currentSemestre = sem
+          Promise.resolve()
+    else
+      db.Semestre.create({nom: sem})
+      .then (sem) ->
+        currentSemestre = sem
+        Promise.resolve()
+
 
   setUE = (uneUE) ->
     if uneUE is '' then return Promise.resolve()
@@ -23,7 +33,7 @@ insertMatrice = () ->
     .then (lue) ->
       currentUE = lue
       currentSemestre.ue.push lue
-      currentSemestre.save()
+      Promise.resolve()
 
   setEnseignant = (ens) ->
     if allEns[ens]? then return Promise.resolve(allEns[ens])
@@ -75,36 +85,39 @@ insertMatrice = () ->
 
 
   new Promise (resolve, reject) ->
-    done = false
+    queries = []
 
     csv({flatKeys: true, delimiter: ";", noheader: true})
     .fromFile('./TC\ MatriceCompetence\ 2017-11-29.csv')
     .on 'json', (data) ->
       if data.field4 isnt ''
-        setSemestre(data.field1)
-        .then () ->
-          setUE(data.field2)
-          .then () ->
-            setEnseignant(data.field7)
-            .then (ens) ->
-              setECandCompetences(ens, data)
+        q = setSemestre(data.field1)
+            .then () ->
+              setUE(data.field2)
               .then () ->
-                if done then resolve()
+                setEnseignant(data.field7)
+                .then (ens) ->
+                  setECandCompetences(ens, data)
+
+        queries.push q
 
     .on 'done', (error) ->
       if error then return reject error
-      done = true
-
+      console.log "done"
+      Promise.all(queries)
+      .then () ->
+        console.log "coucou final"
+        resolve()
 
 db.connect()
 .then () ->
   Promise.all [
-    db.Competence.remove({}).exec()
     db.Semestre.remove({}).exec()
     db.UE.remove({}).exec()
     db.Enseignant.remove({}).exec()
     db.EC.remove({}).exec()
     db.NiveauCompetence.remove({}).exec()
+    db.Competence.remove({}).exec()
     db.Vocabulaire.remove({}).exec()
   ]
   .then () ->
@@ -137,5 +150,5 @@ db.connect()
 
 .catch (err) ->
   console.log("erreur", err)
-# .finally () ->
-#   db.disconnect()
+.finally () ->
+  db.disconnect()
