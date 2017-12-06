@@ -40,7 +40,7 @@ insertMatrice = () ->
     #   terme: competencesIndices[idx]
     #   niveau: field
 
-    console.log "ajout", data.field4,  ens
+    # console.log "ajout", data.field4,  ens
 
     db.EC.create({nom: data.field4, responsable: ens})
     .then (res) ->
@@ -74,8 +74,9 @@ insertMatrice = () ->
       #   console.log 'insert', insert
 
 
-
   new Promise (resolve, reject) ->
+    done = false
+
     csv({flatKeys: true, delimiter: ";", noheader: true})
     .fromFile('./TC\ MatriceCompetence\ 2017-11-29.csv')
     .on 'json', (data) ->
@@ -87,21 +88,23 @@ insertMatrice = () ->
             setEnseignant(data.field7)
             .then (ens) ->
               setECandCompetences(ens, data)
+              .then () ->
+                if done then resolve()
 
     .on 'done', (error) ->
       if error then return reject error
-      resolve competences
+      done = true
 
 
 db.connect()
 .then () ->
   Promise.all [
+    db.Competence.remove({}).exec()
     db.Semestre.remove({}).exec()
     db.UE.remove({}).exec()
-    db.EC.remove({}).exec()
     db.Enseignant.remove({}).exec()
+    db.EC.remove({}).exec()
     db.NiveauCompetence.remove({}).exec()
-    db.Competence.remove({}).exec()
     db.Vocabulaire.remove({}).exec()
   ]
   .then () ->
@@ -111,6 +114,7 @@ db.connect()
       .then (a) ->
         competences[elem] = a
         competencesIndices.push a
+        Promise.resolve()
     .then () ->
       insertMatrice()
 
@@ -133,5 +137,5 @@ db.connect()
 
 .catch (err) ->
   console.log("erreur", err)
-.finally () ->
-  db.disconnect()
+# .finally () ->
+#   db.disconnect()
