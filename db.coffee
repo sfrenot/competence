@@ -4,6 +4,16 @@ mongoose.Promise = Promise
 Schema = mongoose.Schema
 
 module.exports =
+
+  Semestre: mongoose.model 'Semestre', new mongoose.Schema
+    nom: String
+    ue:
+      type: [
+        _id:
+          type: Schema.Types.ObjectId
+          ref: 'UE'
+      ]
+
   UE: mongoose.model 'UE', new mongoose.Schema
     nom: String
     ec:
@@ -13,27 +23,31 @@ module.exports =
           ref: 'EC'
       ]
 
-  EC: mongoose.model 'EC', new mongoose.Schema
-    nom: String
-    responsable:
-      type: Schema.Types.ObjectId
-      ref: 'Enseignant'
-    niveauCompetence :
-      type: [
-        _id:
-          type: Schema.Types.ObjectId
-          ref: 'NiveauCompetence'
-      ]
-
   Enseignant: mongoose.model 'Enseignant', new mongoose.Schema
     nom: String
 
+  EC: mongoose.model 'EC', new mongoose.Schema
+    nom: String
+    responsable:
+      type:
+        _id:
+          type: Schema.Types.ObjectId
+          ref: 'Enseignant'
+
   NiveauCompetence: mongoose.model 'NiveauCompetence', new mongoose.Schema
-    nom:
+    terme:
       type: Schema.Types.ObjectId
       ref: 'Competence'
-    type: String   # Ciblé / Mobilisé
-    niveau: Number # 1, 2, 3
+    ec:
+      type: Schema.Types.ObjectId
+      ref: 'EC'
+    # type:
+    #   type: String
+    #   enum: ["C", "M"]
+    # niveau:
+    #   type: Number
+    #   enum: [1, 2, 3]
+    niveau: String
     capacité:
       type: [
         _id:

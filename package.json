@@ -1,0 +1,18 @@
+{
+  "name": "competence",
+  "version": "1.0.0",
+  "description": "Gestion des competences TC",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "csv": "^2.0.0",
+    "csvtojson": "^1.1.9",
+    "mongoose": "^4.13.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
