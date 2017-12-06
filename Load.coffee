@@ -73,32 +73,35 @@ insertMatrice = () ->
       # Promise.all inserts, (insert) ->
       #   console.log 'insert', insert
 
+  readCsv = ->
+    new Promise (resolve, reject) ->
+      datas = []
 
-  new Promise (resolve, reject) ->
-    done = false
+      csv({flatKeys: true, delimiter: ";", noheader: true})
+      .fromFile('./TC\ MatriceCompetence\ 2017-11-29.csv')
+      .on 'json', (data) ->
+        if data.field4 isnt ''
+          datas.push data
+      .on 'done', (error) ->
+        if error
+          return reject error
+        resolve(datas)
 
-    csv({flatKeys: true, delimiter: ";", noheader: true})
-    .fromFile('./TC\ MatriceCompetence\ 2017-11-29.csv')
-    .on 'json', (data) ->
-      if data.field4 isnt ''
-        setSemestre(data.field1)
-        .then () ->
-          setUE(data.field2)
-          .then () ->
-            setEnseignant(data.field7)
-            .then (ens) ->
-              setECandCompetences(ens, data)
-              .then () ->
-                if done then resolve()
-
-    .on 'done', (error) ->
-      if error then return reject error
-      done = true
-
+  readCsv()
+  .then (datas) ->
+    Promise.map datas, (data) ->
+      setSemestre(data.field1)
+      .then () ->
+        setUE(data.field2)
+      .then () ->
+        setEnseignant(data.field7)
+      .then (ens) ->
+        setECandCompetences(ens, data)
+    , concurrency: 1
 
 db.connect()
 .then () ->
-  Promise.all [
+  return Promise.all [
     db.Competence.remove({}).exec()
     db.Semestre.remove({}).exec()
     db.UE.remove({}).exec()
@@ -114,9 +117,8 @@ db.connect()
       .then (a) ->
         competences[elem] = a
         competencesIndices.push a
-        Promise.resolve()
-    .then () ->
-      insertMatrice()
+        return
+    .then insertMatrice
 
 
 
@@ -137,5 +139,5 @@ db.connect()
 
 .catch (err) ->
   console.log("erreur", err)
-# .finally () ->
-#   db.disconnect()
+.finally () ->
+  db.disconnect()
