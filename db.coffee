@@ -7,21 +7,17 @@ module.exports =
 
   Semestre: mongoose.model 'Semestre', new mongoose.Schema
     nom: String
-    ue:
-      type: [
-        _id:
-          type: Schema.Types.ObjectId
-          ref: 'UE'
-      ]
+    ues: [
+      type: Schema.Types.ObjectId
+      ref: 'UE'
+    ]
 
   UE: mongoose.model 'UE', new mongoose.Schema
     nom: String
-    ec:
-      type: [
-        _id:
-          type: Schema.Types.ObjectId
-          ref: 'EC'
-      ]
+    ecs: [
+      type: Schema.Types.ObjectId
+      ref: 'EC'
+    ]
 
   Enseignant: mongoose.model 'Enseignant', new mongoose.Schema
     nom: String
@@ -29,10 +25,8 @@ module.exports =
   EC: mongoose.model 'EC', new mongoose.Schema
     nom: String
     responsable:
-      type:
-        _id:
-          type: Schema.Types.ObjectId
-          ref: 'Enseignant'
+      type: Schema.Types.ObjectId
+      ref: 'Enseignant'
 
   NiveauCompetence: mongoose.model 'NiveauCompetence', new mongoose.Schema
     terme:
@@ -48,12 +42,10 @@ module.exports =
     #   type: Number
     #   enum: [1, 2, 3]
     niveau: String
-    capacité:
-      type: [
-        _id:
-          type: Schema.Types.ObjectId
-          ref: 'Vocabulaire'
-      ]
+    capacité: [
+      type: Schema.Types.ObjectId
+      ref: 'Vocabulaire'
+    ]
     connaissance:
       type: Schema.Types.ObjectId
       ref: 'Vocabulaire'
