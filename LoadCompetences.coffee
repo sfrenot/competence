@@ -1,15 +1,33 @@
 db = require './db'
 csv = require 'csvtojson'
 Promise = require 'bluebird'
+_ = require 'lodash'
 
-allEns = {}
-currentSemestre = undefined
-competencesIndices = []
+currentMat = undefined
 
-currentUE = undefined
-allUEs = {}
+insertDetail = () ->
+  setAndCheckMatiere = (data, matieres) ->
+    if data.field1 is '' and data.field2 isnt '' then return Promise.resolve()
+    # console.log "-->", _.last(data.field1.split('-'))
+    # matieres.forEach (matiere) -> console.log "-->", matiere.ec.nom
+    if data.field1 isnt ''
+      currentMat = _.last(data.field1.split('-'))
+    console.log "--> ", _.find matieres, {ec: {nom: 'AGP'}, niveau: data.field4}
+    res = _.find matieres, {ec: {nom: currentMat}, terme: {terme: data.field3}, niveau: data.field4}
 
-insertMatrice = () ->
+    unless res
+      return Promise.reject("Erreur sur #{currentMat}, #{data.field3}, #{data.field4}")
+
+    # res = _.find matieres, {'ec.nom': _.last(data.field1.split('-'))}
+    # console.log '--->', res
+    # #
+    #   unless res
+    #     return Promise.reject("Matière introuvable #{data.field1}")
+    #   if data.field3 isnt res.terme.terme
+    #     return Promise.reject("Compétence introuvable #{data.field3}")
+    #
+    return Promise.resolve()
+
   setSemestre = (sem) ->
     # console.log "Ajout Sem", sem
     if sem is '' then return Promise.resolve()
@@ -104,66 +122,50 @@ insertMatrice = () ->
       datas = []
 
       csv({flatKeys: true, delimiter: ";", noheader: true})
-      .fromFile('./TC\ MatriceCompetence\ 2017-11-29.csv')
+      .fromFile('./TC\ DetailCompetences\ 2017-12-04.csv')
       .on 'json', (data) ->
-        if data.field4 isnt ''
-          datas.push data
+        datas.push data
       .on 'done', (error) ->
         if error
           return reject error
         resolve(datas)
 
-  readCsv()
-  .then (datas) ->
+  loadDataBase = ->
+    db.NiveauCompetence
+    .find()
+    .populate 'terme'
+    .populate 'ec'
+    .exec()
+
+  Promise.all [
+    readCsv()
+    loadDataBase()
+  ]
+  .then ([datas, matieres]) ->
+    # console.log "matieres", matieres
     Promise.mapSeries datas, (data) ->
-      setSemestre(data.field1)
-      .then () ->
-        setUE(data.field2)
-      .then () ->
-        setEnseignant(data.field7)
-      .then (ens) ->
-        setECandCompetences(ens, data)
-    , concurrency: 1
+      setAndCheckMatiere(data, matieres)
+      # .then () ->
+      #   setUE(data.field2)
+      # .then () ->
+      #   setEnseignant(data.field7)
+      # .then (ens) ->
+      #   setECandCompetences(ens, data)
 
 db.connect()
 .then () ->
   return Promise.all [
-    db.Semestre.remove({}).exec()
-    db.UE.remove({}).exec()
-    db.Enseignant.remove({}).exec()
-    db.EC.remove({}).exec()
-    db.NiveauCompetence.remove({}).exec()
-    db.Competence.remove({}).exec()
+    db.NiveauCompetence.update({}, {$set: {capacités: [], connaissances: []}}, multi: true).exec()
     db.Vocabulaire.remove({}).exec()
   ]
-  .then () ->
-    a = require './Competences.json'
-    Promise.map a, (elem) ->
-      db.Competence.create({terme: elem})
-    .then (a) ->
-      competencesIndices = a
-    .then insertMatrice
-
-    # new Promise (resolve, reject) ->
-    #   csv({flatKeys: true, delimiter: ";", noheader: true})
-    #   .fromFile('./TC DetailCompetences 2017-12-04.csv')
-    #   .on 'json', (data) ->
-    #     switch data.field1
-    #       when ''
-    #         console.log 'Non Matiere'
-    #       else
-    #         console.log "Matiere", data.field1
-    #     # db.Competence.push data
-    #   .on 'done', (error) ->
-    #     if error then return reject error
-    #     resolve competences
+  .then insertDetail
 
 .catch (err) ->
   console.log("erreur", err)
 .finally () ->
   Promise.all [
-    currentSemestre.save()
-    currentUE.save()
+    # currentSemestre.save()
+    # currentUE.save()
   ]
   .then () ->
     db.disconnect()

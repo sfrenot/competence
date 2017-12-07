@@ -42,13 +42,14 @@ module.exports =
     #   type: Number
     #   enum: [1, 2, 3]
     niveau: String
-    capacité: [
+    capacites: [
       type: Schema.Types.ObjectId
       ref: 'Vocabulaire'
     ]
-    connaissance:
+    connaissances: [
       type: Schema.Types.ObjectId
       ref: 'Vocabulaire'
+    ]
 
   Competence: mongoose.model 'Competence', new mongoose.Schema
     terme: String
