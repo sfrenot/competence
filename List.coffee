@@ -1,12 +1,14 @@
 db = require './db'
 mongoose = require 'mongoose'
+Promise = require 'bluebird'
 
 
 db.connect()
 .then () ->
   db.Semestre
   .find()
-  .sort({nom:1})
+  .sort
+    nom: 1
   .populate
     path: 'ues'
     populate:
@@ -15,14 +17,19 @@ db.connect()
         path: 'responsable'
   .exec()
   .then (semestres) ->
-    semestres.forEach (sem) ->
-      sem.ues.forEach (ue) ->
-        ue.ecs.forEach (ec) ->
+    Promise.map semestres, (sem) ->
+      Promise.map sem.ues, (ue) ->
+        Promise.map ue.ecs, (ec) ->
           db.NiveauCompetence
           .find
-            ec: mongoose.Types.ObjectId("5a290e970907939265931dd8")
+            ec: mongoose.Types.ObjectId ec._id
+          .populate
+            path: 'terme'
           .exec()
           .then (comps) ->
-            console.log "-> #{sem.nom}, #{ue.nom}, #{ec.nom}, #{ec.responsable.nom}"
+            res = "-> #{sem.nom}, #{ue.nom}, #{ec.nom}, #{ec.responsable.nom}"
+            comps.forEach (comp) ->
+              res+=", #{comp.terme.terme.substring(0, 4)}:#{comp.niveau}"
+            console.log res
 .finally () ->
   db.disconnect()
