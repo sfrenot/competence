@@ -1,14 +1,14 @@
 db = require './db'
 mongoose = require 'mongoose'
 Promise = require 'bluebird'
+_ = require 'lodash'
 
 
 db.connect()
 .then () ->
   db.Semestre
   .find()
-  .sort
-    nom: 1
+  .sort "nom"
   .populate
     path: 'ues'
     populate:
@@ -28,8 +28,10 @@ db.connect()
           .exec()
           .then (comps) ->
             res = "-> #{sem.nom}, #{ue.nom}, #{ec.nom}, #{ec.responsable.nom}"
-            comps.forEach (comp) ->
+            _.sortBy(comps, ["terme.terme"]).forEach (comp) ->
               res+=", #{comp.terme.terme.substring(0, 4)}:#{comp.niveau}"
-            console.log res
+            res
+  .then _.flattenDeep
+  .map (res) -> console.log res
 .finally () ->
   db.disconnect()

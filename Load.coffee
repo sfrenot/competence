@@ -4,7 +4,6 @@ Promise = require 'bluebird'
 
 allEns = {}
 currentSemestre = undefined
-competences = {}
 competencesIndices = []
 
 currentUE = undefined
@@ -141,14 +140,9 @@ db.connect()
     a = require './Competences.json'
     Promise.map a, (elem) ->
       db.Competence.create({terme: elem})
-      .then (a) ->
-        competences[elem] = a
-        competencesIndices.push a
-        return
+    .then (a) ->
+      competencesIndices = a
     .then insertMatrice
-
-
-
 
     # new Promise (resolve, reject) ->
     #   csv({flatKeys: true, delimiter: ";", noheader: true})
