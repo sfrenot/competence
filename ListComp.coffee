@@ -3,7 +3,6 @@ mongoose = require 'mongoose'
 Promise = require 'bluebird'
 _ = require 'lodash'
 
-
 db.connect()
 .then () ->
   db.Semestre
