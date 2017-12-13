@@ -9,6 +9,7 @@ app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({ extended: true }))
 
 competences = []
+currentComp = ''
 
 getMatrix = (req) ->
   comps = req.competences.map (comp) -> [
@@ -32,17 +33,18 @@ injectCompetences = (aCompetence) ->
 getTemplate = (rows, nom) ->
   injectSelects = (row) ->
     if row[0] is ''
+      currentComp = row[1].substring(0, 4)
       row[1] = """<select name='competences'>\n
                    #{injectCompetences(row[1])}
                   </select>\n
                """
     else
-      row[0] = """<select name='coap'>\n
+      row[0] = """<select name='coap-#{currentComp}'>\n
                    #{injectOption('Capacite','Capacite', row[0])}
                    #{injectOption('Connaissance', 'Connaissance', row[0])}
                   </select>\n
                """
-      row[1] = "<textarea cols='115' rows='1' name='coapValue'>#{row[1]}</textarea>"
+      row[1] = "<textarea cols='115' rows='1' name='coapValue-#{currentComp}'>#{row[1]}</textarea>"
 
     row[2] = if row[2] isnt ''
       "<textarea cols='2' rows='1' name='compLevel'>#{row[2]}</textarea>"
@@ -105,18 +107,46 @@ render = (req) ->
     getTemplate(matrix, req.ec.nom)
 
 saveChanges = (req) ->
+  # console.log "--> #{JSON.stringify req.body, null, 2}"
+  Promise.mapSeries req.body.competences, (comp, idx) ->
+
+  saveVocabulaire = (idComp) ->
+    coaps = req.body["coapValue-#{idComp}"]
+    if coaps?
+      kinds = req.body["coap-#{idComp}"]
+      allConn = _.filter coaps, (coap, idx) ->
+        kinds[idx] is 'Connaissance'
+      allCapa = _.filter coaps, (coap, idx) ->
+        kinds[idx] is 'Capacite'
+
+      Promise.all [
+        Promise.map allCapa, (desc) ->
+          db.Vocabulaire.create
+            terme: desc
+        Promise.map allConn, (desc) ->
+          db.Vocabulaire.create
+            terme: desc
+      ]
+    else
+      Promise.resolve([undefined, undefined])
+
   db.NiveauCompetence.remove
     ec:req.ec
   .exec()
   .then () ->
     Promise.mapSeries req.body.competences, (comp, idx) ->
-      db.NiveauCompetence.create
-        ec: req.ec
-        terme: _.find competences, (compe) -> compe._id.toString() is comp
-        niveau: req.body.compLevel[idx]
-    .then (res) ->
-      req.competences = res
-      req
+      terme = _.find competences, (compe) -> compe._id.toString() is comp
+      saveVocabulaire(terme.terme.substring(0,4))
+      .then (tableauCapaConn) ->
+        db.NiveauCompetence.create
+          ec: req.ec
+          terme: terme
+          niveau: req.body.compLevel[idx]
+          capacites: tableauCapaConn[0]
+          connaissances: tableauCapaConn[1]
+  .then (res) ->
+    req.competences = res
+    req
 
 db.Competence.find({}).then (comps) ->
   competences = comps
