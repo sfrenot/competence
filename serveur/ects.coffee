@@ -1,5 +1,6 @@
 express = require('express')
 app = express()
+mongoose = require 'mongoose'
 db = require '../db'
 Promise = require 'bluebird'
 _ = require 'lodash'
@@ -31,20 +32,20 @@ injectCompetences = (aCompetence) ->
 getTemplate = (rows, nom) ->
   injectSelects = (row) ->
     if row[0] is ''
-      row[1] = """<select id='competence'>\n
+      row[1] = """<select name='competences'>\n
                    #{injectCompetences(row[1])}
                   </select>\n
                """
     else
-      row[0] = """<select id='coap'>\n
+      row[0] = """<select name='coap'>\n
                    #{injectOption('Capacite','Capacite', row[0])}
                    #{injectOption('Connaissance', 'Connaissance', row[0])}
                   </select>\n
                """
-      row[1] = "<textarea cols='115' rows='1'>#{row[1]}</textarea>"
+      row[1] = "<textarea cols='115' rows='1' name='coapValue'>#{row[1]}</textarea>"
 
     row[2] = if row[2] isnt ''
-      "<textarea cols='2' rows='1'>#{row[2]}</textarea>"
+      "<textarea cols='2' rows='1' name='compLevel'>#{row[2]}</textarea>"
 
     row
 
@@ -75,7 +76,7 @@ getTemplate = (rows, nom) ->
           <tr>
             <td colspan='3' style='text-align: center;'>
               <input type='submit' value='Valider'>
-              <input type='submit' value='Annuler'>
+              <input type='reset' value='Annuler'>
             </td>
           </tr>
         </table>
@@ -98,18 +99,37 @@ app.param 'ectsName', (req, res, next, ectsName) ->
   .then () -> next()
   .catch next
 
+render = (req) ->
+  getMatrix(req)
+  .then (matrix) ->
+    getTemplate(matrix, req.ec.nom)
+
+saveChanges = (req) ->
+  db.NiveauCompetence.remove
+    ec:req.ec
+  .exec()
+  .then () ->
+    Promise.mapSeries req.body.competences, (comp, idx) ->
+      db.NiveauCompetence.create
+        ec: req.ec
+        terme: _.find competences, (compe) -> compe._id.toString() is comp
+        niveau: req.body.compLevel[idx]
+    .then (res) ->
+      req.competences = res
+      req
+
 db.Competence.find({}).then (comps) ->
   competences = comps
 
   app.get '/:ectsName', (req, res) ->
-    getMatrix(req)
-    .then (matrix) ->
-      getTemplate(matrix, req.ec.nom)
+    render(req)
     .then (html) ->
       res.send(html)
 
   app.post '/:ectsName', (req, res) ->
-    console.log "->", req.body
-    res.send("ok")
+    saveChanges(req)
+    .then render
+    .then (html) ->
+      res.send(html)
 
 module.exports = app
