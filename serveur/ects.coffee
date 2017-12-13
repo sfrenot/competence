@@ -18,37 +18,34 @@ getMatrix = (req) ->
   ]
   Promise.resolve(_.flatten comps)
 
-injectCompetence = (aCompetence) ->
-  competences.map (competence) ->
-    """
-      <option value='#{competence._id}'
-      #{if competence.terme is aCompetence then 'selected'}>
-      #{competence.terme}</option>\n"""
+injectOption = (id, name, sel) ->
+  "<option value='#{id}' #{if name is sel then 'selected'}>#{name}</option>\n"
 
-injectCoap = (type, ori) ->
-  "<option value='#{type}' #{if ori is type then 'selected'}>#{type}</option>\n"
+injectCompetences = (aCompetence) ->
+  competences.map (competence) ->
+    injectOption(competence._id, competence.terme, aCompetence)
 
 getTemplate = (rows) ->
-  injectCompetences = (row) ->
+  injectSelects = (row) ->
     if row[0] is ''
       row[1] = """<select id='competence'>\n
-                   #{injectCompetence(row[1])}
+                   #{injectCompetences(row[1])}
                   </select>\n
                """
     else
       row[0] = """<select id='coap'>\n
-                   #{injectCoap('Capacite', row[0])}
-                   #{injectCoap('Connaissance', row[0])}
+                   #{injectOption('Capacite','Capacite', row[0])}
+                   #{injectOption('Connaissance', 'Connaissance', row[0])}
                   </select>\n
                """
-      row[1] = "<textarea cols='115'>#{row[1]}</textarea>"
+      row[1] = "<textarea cols='115' rows='1'>#{row[1]}</textarea>"
 
-    row[2] = if row[2] isnt '' then "<textarea cols='2'>#{row[2]}</textarea>"
+    row[2] = if row[2] isnt '' then "<textarea cols='2' rows='1'>#{row[2]}</textarea>"
 
     row
 
   trs = rows.map (row) ->
-    "<tr><td>#{injectCompetences(row).join('</td><td>')}</td></tr>"
+    "<tr><td>#{injectSelects(row).join('</td><td>')}</td></tr>"
 
   """
   <!DOCTYPE html>
@@ -65,7 +62,16 @@ getTemplate = (rows) ->
       </style>
     </head>
     <body>
-      <table>\n<tr><th colspan='3'>AGP</th></tr>\n#{trs.join('\n')}\n</table>
+      <form action='' method='post'>
+        <table>\n<tr><th colspan='3'>AGP</th></tr>\n#{trs.join('\n')}\n
+          <tr>
+            <td colspan='3' style='text-align: center;'>
+              <input type='submit' value='Valider'>
+              <input type='submit' value='Annuler'>
+            </td>
+          </tr>
+        </table>
+      </form>
     </body>
   </html>
   """

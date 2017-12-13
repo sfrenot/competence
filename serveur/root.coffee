@@ -51,6 +51,7 @@ getMatrix = (semestres) ->
 getTemplate = (rows) ->
   trs = rows.map (row) ->
     if row[0]
+      row[0] = "<a href='/ects/#{row[0]}'>#{row[0]}</a>"
       "<tr class='ec'><td>#{row.join('</td><td>')}</td></tr>"
     else
       "<tr><td>#{row.join('</td><td>')}</td></tr>"
