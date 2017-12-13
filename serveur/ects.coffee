@@ -4,6 +4,8 @@ db = require '../db'
 Promise = require 'bluebird'
 _ = require 'lodash'
 
+competences = []
+
 getMatrix = (req) ->
   comps = req.competences.map (comp) -> [
     ['', comp.terme.terme, comp.niveau],
@@ -16,9 +18,37 @@ getMatrix = (req) ->
   ]
   Promise.resolve(_.flatten comps)
 
+injectCompetence = (aCompetence) ->
+  competences.map (competence) ->
+    """
+      <option value='#{competence._id}'
+      #{if competence.terme is aCompetence then 'selected'}>
+      #{competence.terme}</option>\n"""
+
+injectCoap = (type, ori) ->
+  "<option value='#{type}' #{if ori is type then 'selected'}>#{type}</option>\n"
+
 getTemplate = (rows) ->
+  injectCompetences = (row) ->
+    if row[0] is ''
+      row[1] = """<select id='competence'>\n
+                   #{injectCompetence(row[1])}
+                  </select>\n
+               """
+    else
+      row[0] = """<select id='coap'>\n
+                   #{injectCoap('Capacite', row[0])}
+                   #{injectCoap('Connaissance', row[0])}
+                  </select>\n
+               """
+      row[1] = "<textarea cols='115'>#{row[1]}</textarea>"
+
+    row[2] = if row[2] isnt '' then "<textarea cols='2'>#{row[2]}</textarea>"
+
+    row
+
   trs = rows.map (row) ->
-    "<tr><td>#{row.join('</td><td>')}</td></tr>"
+    "<tr><td>#{injectCompetences(row).join('</td><td>')}</td></tr>"
 
   """
   <!DOCTYPE html>
@@ -54,10 +84,13 @@ app.param 'ectsName', (req, res, next, ectsName) ->
   .then () -> next()
   .catch next
 
-app.get '/:ectsName', (req, res) ->
-  getMatrix(req)
-  .then getTemplate
-  .then (html) ->
-    res.send(html)
+db.Competence.find({}).then (comps) ->
+  competences = comps
+
+  app.get '/:ectsName', (req, res) ->
+    getMatrix(req)
+    .then getTemplate
+    .then (html) ->
+      res.send(html)
 
 module.exports = app

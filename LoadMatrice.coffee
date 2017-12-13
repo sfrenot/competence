@@ -143,20 +143,6 @@ db.connect()
       competencesIndices = a
     .then insertMatrice
 
-    # new Promise (resolve, reject) ->
-    #   csv({flatKeys: true, delimiter: ";", noheader: true})
-    #   .fromFile('./TC DetailCompetences 2017-12-04.csv')
-    #   .on 'json', (data) ->
-    #     switch data.field1
-    #       when ''
-    #         console.log 'Non Matiere'
-    #       else
-    #         console.log "Matiere", data.field1
-    #     # db.Competence.push data
-    #   .on 'done', (error) ->
-    #     if error then return reject error
-    #     resolve competences
-
 .catch (err) ->
   console.log("erreur", err)
 .finally () ->
