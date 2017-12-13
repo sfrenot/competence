@@ -3,6 +3,9 @@ app = express()
 db = require '../db'
 Promise = require 'bluebird'
 _ = require 'lodash'
+bodyParser = require 'body-parser'
+app.use(bodyParser.json())
+app.use(bodyParser.urlencoded({ extended: true }))
 
 competences = []
 
@@ -25,7 +28,7 @@ injectCompetences = (aCompetence) ->
   competences.map (competence) ->
     injectOption(competence._id, competence.terme, aCompetence)
 
-getTemplate = (rows) ->
+getTemplate = (rows, nom) ->
   injectSelects = (row) ->
     if row[0] is ''
       row[1] = """<select id='competence'>\n
@@ -40,7 +43,8 @@ getTemplate = (rows) ->
                """
       row[1] = "<textarea cols='115' rows='1'>#{row[1]}</textarea>"
 
-    row[2] = if row[2] isnt '' then "<textarea cols='2' rows='1'>#{row[2]}</textarea>"
+    row[2] = if row[2] isnt ''
+      "<textarea cols='2' rows='1'>#{row[2]}</textarea>"
 
     row
 
@@ -63,7 +67,11 @@ getTemplate = (rows) ->
     </head>
     <body>
       <form action='' method='post'>
-        <table>\n<tr><th colspan='3'>AGP</th></tr>\n#{trs.join('\n')}\n
+        <table>\n
+          <tr>
+            <th colspan='3'>#{nom}</th>
+          </tr>\n
+          #{trs.join('\n')}\n
           <tr>
             <td colspan='3' style='text-align: center;'>
               <input type='submit' value='Valider'>
@@ -95,8 +103,13 @@ db.Competence.find({}).then (comps) ->
 
   app.get '/:ectsName', (req, res) ->
     getMatrix(req)
-    .then getTemplate
+    .then (matrix) ->
+      getTemplate(matrix, req.ec.nom)
     .then (html) ->
       res.send(html)
+
+  app.post '/:ectsName', (req, res) ->
+    console.log "->", req.body
+    res.send("ok")
 
 module.exports = app

@@ -5,6 +5,7 @@
   "main": "serveur/index.js",
   "dependencies": {
     "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
     "csv": "^2.0.0",
     "csvtojson": "^1.1.9",
     "express": "^4.16.2",
