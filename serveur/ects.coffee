@@ -24,7 +24,7 @@ getMatrix = (req) ->
   Promise.resolve(_.flatten comps)
 
 injectOption = (id, name, sel) ->
-  "<option value='#{id}' #{if name is sel then 'selected'}>#{name}</option>\n"
+  "<option value='#{id}' #{if name is sel then 'selected' else ''}>#{name}</option>\n"
 
 injectCompetences = (aCompetence) ->
   competences.map (competence) ->
@@ -35,7 +35,7 @@ getTemplate = (rows, nom) ->
     if row[0] is ''
       currentComp = row[1].substring(0, 4)
       row[1] = """<select name='competences'>\n
-                   #{injectCompetences(row[1])}
+                   #{injectCompetences(row[1]).join('')}
                   </select>\n
                """
     else
@@ -44,10 +44,16 @@ getTemplate = (rows, nom) ->
                    #{injectOption('Connaissance', 'Connaissance', row[0])}
                   </select>\n
                """
-      row[1] = "<textarea cols='115' rows='1' name='coapValue-#{currentComp}'>#{row[1]}</textarea>"
+      row[1] = "<input type='text' size='119' name='coapValue-#{currentComp}' value='#{row[1]}'"
 
     row[2] = if row[2] isnt ''
-      "<textarea cols='2' rows='1' name='compLevel'>#{row[2]}</textarea>"
+      "<select name='compLevel'>\n
+      #{[1..3].map((elem) -> injectOption('C'+elem, 'C'+elem, row[2])).join(' ')}
+      #{[1..3].map((elem) -> injectOption('M'+elem, 'M'+elem, row[2])).join(' ')}
+      </select>"
+    else
+      delete(row[3])
+      "<input type='submit' value='-' name=''>"
 
     row
 
@@ -69,7 +75,7 @@ getTemplate = (rows, nom) ->
       </style>
     </head>
     <body>
-      <form action='' method='post'>
+      <form id='formulaire' action='' method='post'>
         <table>\n
           <tr>
             <th colspan='3'>#{nom}</th>
@@ -77,12 +83,22 @@ getTemplate = (rows, nom) ->
           #{trs.join('\n')}\n
           <tr>
             <td colspan='3' style='text-align: center;'>
-              <input type='submit' value='Valider'>
+              <input type='submit' value='Valider' id='bouttonValider'>
               <input type='reset' value='Annuler'>
             </td>
           </tr>
         </table>
       </form>
+      <script>
+        const form = document.getElementById('formulaire');
+        const validerButton = document.getElementById('bouttonValider');
+        form.addEventListener('input', function () {
+          validerButton.style.backgroundColor = 'green';
+        });
+        form.addEventListener('reset', function () {
+          validerButton.style.backgroundColor = 'white';
+        });
+      </script>
     </body>
   </html>
   """
@@ -107,8 +123,6 @@ render = (req) ->
     getTemplate(matrix, req.ec.nom)
 
 saveChanges = (req) ->
-  # console.log "--> #{JSON.stringify req.body, null, 2}"
-  Promise.mapSeries req.body.competences, (comp, idx) ->
 
   saveVocabulaire = (idComp) ->
     coaps = req.body["coapValue-#{idComp}"]
