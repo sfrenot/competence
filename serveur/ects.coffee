@@ -14,11 +14,8 @@ currentComp = ''
 getMatrix = (req) ->
   comps = req.competences.map (comp) -> [
     ['', comp.terme.terme, comp.niveau],
-    comp.connaissances.map( (connaissance) ->
-      ['Connaissance', connaissance.terme, '', connaissance._id]
-    )...
-    comp.capacites.map( (capacite) ->
-      ['Capacite', capacite.terme, '', capacite._id]
+    comp.details.map( (detail) ->
+      [detail.classe, detail.terme.terme, '', detail._id]
     )...
   ]
   Promise.resolve(_.flatten comps)
@@ -49,9 +46,9 @@ getTemplate = (rows, nom) ->
     else
       [
         """<select name='coap-#{currentComp}'>\n
-                   #{injectOption('Capacite','Capacite', row[0])}
+                   #{injectOption('Capacité','Capacité', row[0])}
                    #{injectOption('Connaissance', 'Connaissance', row[0])}
-                  </select>\n
+           </select>\n
         """
       ,
         "<input type='text' size='119' name='coapValue-#{currentComp}' value='#{row[1].replace('\'', '&rsquo;')}'"
@@ -114,7 +111,7 @@ app.param 'ectsName', (req, res, next, ectsName) ->
     req.ec = res
     db.NiveauCompetence.find
       ec: res
-    .populate 'ec terme capacites connaissances'
+    .populate 'ec terme details.terme'
     .then (comps) ->
       req.competences = comps
   .then () -> next()
@@ -126,26 +123,19 @@ render = (req) ->
     getTemplate(matrix, req.ec.nom)
 
 saveChanges = (req) ->
-
   saveVocabulaire = (idComp) ->
     coaps = req.body["coapValue-#{idComp}"]
     if coaps?
       kinds = req.body["coap-#{idComp}"]
-      allConn = _.filter coaps, (coap, idx) ->
-        kinds[idx] is 'Connaissance'
-      allCapa = _.filter coaps, (coap, idx) ->
-        kinds[idx] is 'Capacite'
 
-      Promise.all [
-        Promise.map allCapa, (desc) ->
-          db.Vocabulaire.create
-            terme: desc
-        Promise.map allConn, (desc) ->
-          db.Vocabulaire.create
-            terme: desc
-      ]
+      Promise.mapSeries coaps, (coap, idx) ->
+        db.Vocabulaire.create
+          terme: coap
+        .then (terme) ->
+          classe: if kinds[idx] is 'Connaissance' then 'Connaissance' else 'Capacité'
+          terme: terme
     else
-      Promise.resolve([undefined, undefined])
+      Promise.resolve([])
 
   db.NiveauCompetence.remove
     ec:req.ec
@@ -158,20 +148,20 @@ saveChanges = (req) ->
         db.NiveauCompetence.create
           ec: req.ec
           terme: terme
+          details: tableauCapaConn
           niveau: req.body.compLevel[idx]
-          capacites: tableauCapaConn[0]
-          connaissances: tableauCapaConn[1]
   .then (res) ->
     req.competences = res
     req
 
 removeCoap = (req) ->
   competenceId = (_.find (_.keys req.body), (elem) ->
-    elem.startsWith('delete-')).substring("delete-".length)
+    elem.startsWith('delete-'))?.substring("delete-".length)
+  console.log "--> #{competenceId}"
   Promise.resolve(req)
 
-db.Competence.find({}).then (comps) ->
-  competences = comps
+db.Competence.find({}).then (lcomps) ->
+  competences = lcomps
 
   app.get '/:ectsName', (req, res) ->
     render(req)

@@ -34,19 +34,12 @@ insertDetail = () ->
   addCompetenceOrConnaissance = (data) ->
 
     if data.field2 is '' then return Promise.resolve()
-    if data.field2 is 'Capacité'
-      # console.log "-> Capa", ec.ec.nom, ec.terme.terme.substring(0,4), data.field3
-      return addVoc(data.field3)
-      .then (voc) ->
-        ec.capacites.push(voc)
 
-    if data.field2 is 'Connaissance'
-      # console.log "-> Conn", ec.ec.nom, ec.terme.terme.substring(0,4), data.field3
-      return addVoc(data.field3)
-      .then (voc) ->
-        ec.connaissances.push(voc)
-
-    return Promise.reject("#{currentMatName} : #{ec.terme.term}: #{JSON.stringify data, null, 2}")
+    return addVoc(data.field3)
+    .then (voc) ->
+      ec.details.push
+        terme: voc
+        classe: data.field2
 
   readCsv = ->
     new Promise (resolve, reject) ->
@@ -85,7 +78,7 @@ insertDetail = () ->
 db.connect()
 .then () ->
   return Promise.all [
-    db.NiveauCompetence.update({}, {$set: {capacités: [], connaissances: []}}, multi: true).exec()
+    db.NiveauCompetence.update({}, {$set: {details: []}}, multi: true).exec()
     db.Vocabulaire.remove({}).exec()
   ]
   .then insertDetail

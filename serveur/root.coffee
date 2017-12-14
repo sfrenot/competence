@@ -22,7 +22,7 @@ getData = () ->
         .find
           ec: ec
         .sort "niveau"
-        .populate "terme capacites connaissances"
+        .populate "terme details.terme capacites connaissances"
         .lean()
         .exec()
         .then (comps) ->
@@ -37,11 +37,8 @@ getMatrix = (semestres) ->
       ue.ecs.map (ec) ->
         comps = ec.comps.map (comp) -> [
           ['', '', comp.terme.terme, comp.niveau],
-          comp.connaissances.map( (connaissance) ->
-            ['', 'Connaissance', connaissance.terme, '']
-          )...
-          comp.capacites.map( (capacite) ->
-            ['', 'Capacite', capacite.terme, '']
+          comp.details.map( (detail) ->
+            ['', detail.classe, detail.terme.terme, '']
           )...
         ]
         comps[0][0][0] = ec.nom
