@@ -15,10 +15,10 @@ getMatrix = (req) ->
   comps = req.competences.map (comp) -> [
     ['', comp.terme.terme, comp.niveau],
     comp.connaissances.map( (connaissance) ->
-      ['Connaissance', connaissance.terme, '']
+      ['Connaissance', connaissance.terme, '', connaissance._id]
     )...
     comp.capacites.map( (capacite) ->
-      ['Capacite', capacite.terme, '']
+      ['Capacite', capacite.terme, '', capacite._id]
     )...
   ]
   Promise.resolve(_.flatten comps)
@@ -34,28 +34,31 @@ getTemplate = (rows, nom) ->
   injectSelects = (row) ->
     if row[0] is ''
       currentComp = row[1].substring(0, 4)
-      row[1] = """<select name='competences'>\n
+      [ ''
+      ,
+        """<select name='competences'>\n
                    #{injectCompetences(row[1]).join('')}
                   </select>\n
-               """
+        """
+      ,
+        "<select name='compLevel'>\n
+        #{[1..3].map((elem) -> injectOption('C'+elem, 'C'+elem, row[2])).join(' ')}
+        #{[1..3].map((elem) -> injectOption('M'+elem, 'M'+elem, row[2])).join(' ')}
+        </select>"
+      ]
     else
-      row[0] = """<select name='coap-#{currentComp}'>\n
+      [
+        """<select name='coap-#{currentComp}'>\n
                    #{injectOption('Capacite','Capacite', row[0])}
                    #{injectOption('Connaissance', 'Connaissance', row[0])}
                   </select>\n
-               """
-      row[1] = "<input type='text' size='119' name='coapValue-#{currentComp}' value='#{row[1]}'"
+        """
+      ,
+        "<input type='text' size='119' name='coapValue-#{currentComp}' value='#{row[1].replace('\'', '&rsquo;')}'"
+      ,
+        "<input type='submit' value='-' name='delete-#{row[3]}'>"
+      ]
 
-    row[2] = if row[2] isnt ''
-      "<select name='compLevel'>\n
-      #{[1..3].map((elem) -> injectOption('C'+elem, 'C'+elem, row[2])).join(' ')}
-      #{[1..3].map((elem) -> injectOption('M'+elem, 'M'+elem, row[2])).join(' ')}
-      </select>"
-    else
-      delete(row[3])
-      "<input type='submit' value='-' name=''>"
-
-    row
 
   trs = rows.map (row) ->
     "<tr><td>#{injectSelects(row).join('</td><td>')}</td></tr>"
@@ -162,6 +165,11 @@ saveChanges = (req) ->
     req.competences = res
     req
 
+removeCoap = (req) ->
+  competenceId = (_.find (_.keys req.body), (elem) ->
+    elem.startsWith('delete-')).substring("delete-".length)
+  Promise.resolve(req)
+
 db.Competence.find({}).then (comps) ->
   competences = comps
 
@@ -171,7 +179,8 @@ db.Competence.find({}).then (comps) ->
       res.send(html)
 
   app.post '/:ectsName', (req, res) ->
-    saveChanges(req)
+    removeCoap(req)
+    .then saveChanges
     .then render
     .then (html) ->
       res.send(html)
