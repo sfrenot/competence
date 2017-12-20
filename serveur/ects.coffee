@@ -13,9 +13,9 @@ currentComp = ''
 
 getMatrix = (req) ->
   comps = req.competences.map (comp) -> [
-    ['', comp.terme.terme, comp.niveau],
-    comp.details.map( (detail) ->
-      [detail.classe, detail.terme.terme, '', detail._id]
+    ['', comp.terme.terme, comp.niveau, comp.terme._id],
+    comp.details.map( (detail, idx) ->
+      [detail.classe, detail.terme.terme, '', detail._id, idx, comp.terme.terme.substring(0,4)]
     )...
   ]
   Promise.resolve(_.flatten comps)
@@ -42,6 +42,8 @@ getTemplate = (rows, nom) ->
         #{[1..3].map((elem) -> injectOption('C'+elem, 'C'+elem, row[2])).join(' ')}
         #{[1..3].map((elem) -> injectOption('M'+elem, 'M'+elem, row[2])).join(' ')}
         </select>"
+      ,
+        "<input type='submit' value='-' name='delete-comp-#{row[3]}'>"
       ]
     else
       [
@@ -53,7 +55,9 @@ getTemplate = (rows, nom) ->
       ,
         "<input type='text' size='119' name='coapValue-#{currentComp}' value='#{row[1].replace('\'', '&rsquo;')}'"
       ,
-        "<input type='submit' value='-' name='delete-#{row[3]}'>"
+        "<input type='submit' value='-' name='delete-coap-#{row[5]}-#{row[4]}-#{row[3]}'>"
+      ,
+        ''
       ]
 
 
@@ -78,11 +82,11 @@ getTemplate = (rows, nom) ->
       <form id='formulaire' action='' method='post'>
         <table>\n
           <tr>
-            <th colspan='3'>#{nom}</th>
+            <th colspan='4'>#{nom}</th>
           </tr>\n
           #{trs.join('\n')}\n
           <tr>
-            <td colspan='3' style='text-align: center;'>
+            <td colspan='4' style='text-align: center;'>
               <input type='submit' value='Valider' id='bouttonValider'>
               <input type='reset' value='Annuler'>
             </td>
@@ -157,7 +161,15 @@ saveChanges = (req) ->
 removeCoap = (req) ->
   competenceId = (_.find (_.keys req.body), (elem) ->
     elem.startsWith('delete-'))?.substring("delete-".length)
-  console.log "--> #{competenceId}"
+  unless competenceId? then return Promise.resolve(req)
+  [type, comp, idx, id] = competenceId.split('-')
+
+  if type is 'coap'
+    req.body["coap-#{comp}"].splice(idx, 1)
+    req.body["coapValue-#{comp}"].splice(idx, 1)
+  else
+    console.log "-->", req.body
+
   Promise.resolve(req)
 
 db.Competence.find({}).then (lcomps) ->
