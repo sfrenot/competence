@@ -41,7 +41,10 @@ getMatrix = (semestres) ->
             ['', detail.classe, detail.terme.terme, '']
           )...
         ]
-        comps[0][0][0] = ec.nom
+        if comps[0]?
+          comps[0][0][0] = ec.nom
+        else # Si la matière est vide
+          comps = [[[ec.nom,'', '', '']]]
         comps
   _.flattenDepth a, 4
 

@@ -6,14 +6,15 @@ Promise = require 'bluebird'
 _ = require 'lodash'
 bodyParser = require 'body-parser'
 app.use(bodyParser.json())
+
 app.use(bodyParser.urlencoded({ extended: true }))
 
 competences = []
 currentComp = ''
 
 getMatrix = (req) ->
-  comps = req.competences.map (comp) -> [
-    ['', comp.terme.terme, comp.niveau, comp.terme._id],
+  comps = req.competences.map (comp, comp_idx) -> [
+    ['', comp.terme.terme, comp.niveau, comp.terme._id, comp_idx],
     comp.details.map( (detail, idx) ->
       [detail.classe, detail.terme.terme, '', detail._id, idx, comp.terme.terme.substring(0,4)]
     )...
@@ -43,7 +44,7 @@ getTemplate = (rows, nom) ->
         #{[1..3].map((elem) -> injectOption('M'+elem, 'M'+elem, row[2])).join(' ')}
         </select>"
       ,
-        "<input type='submit' value='-' name='delete-comp-#{row[3]}'>"
+        "<input type='submit' value='-' name='delete-comp-#{row[3]}-#{row[4]}'>"
       ]
     else
       [
@@ -168,7 +169,9 @@ removeCoap = (req) ->
     req.body["coap-#{comp}"].splice(idx, 1)
     req.body["coapValue-#{comp}"].splice(idx, 1)
   else
-    console.log "-->", req.body
+    console.log "->", req.body
+    req.body["competences"].splice(idx, 1)
+    req.body["compLevel"].splice(idx, 1)
 
   Promise.resolve(req)
 
@@ -181,6 +184,12 @@ db.Competence.find({}).then (lcomps) ->
       res.send(html)
 
   app.post '/:ectsName', (req, res) ->
+    _.map req.body, (value, key) ->
+      if _.isString(value)
+        req.body[key] = [value]
+      else
+        req.body[key] = value
+
     removeCoap(req)
     .then saveChanges
     .then render
