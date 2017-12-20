@@ -126,6 +126,7 @@ app.param 'ectsName', (req, res, next, ectsName) ->
     db.NiveauCompetence.find
       ec: res
     .populate 'ec terme details.terme'
+    .sort "niveau"
     .then (comps) ->
       req.competences = comps
   .then () -> next()
@@ -185,8 +186,12 @@ addCompetence = (req) ->
   competencesId = _.map competences, (comp) -> comp._id.toString()
   notUsedCompetences = _.difference competencesId, req.body.competences
   if notUsedCompetences.length > 0
-    req.body["competences"].push(notUsedCompetences[0])
-    req.body["compLevel"].push('C1')
+    if req.body["competences"]?
+      req.body["competences"].push(notUsedCompetences[0])
+      req.body["compLevel"].push('C1')
+    else
+      req.body["competences"]=[notUsedCompetences[0]]
+      req.body["compLevel"] = ['C1']
   req
 
 addConnaissance = (req, connId) ->
