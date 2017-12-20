@@ -18,6 +18,7 @@ getMatrix = (req) ->
     comp.details.map( (detail, idx) ->
       [detail.classe, detail.terme.terme, '', detail._id, idx, comp.terme.terme.substring(0,4)]
     )...
+    ['addCoap', comp.terme.terme.substring(0, 4)]
   ]
   Promise.resolve(_.flatten comps)
 
@@ -30,7 +31,9 @@ injectCompetences = (aCompetence) ->
 
 getTemplate = (rows, nom) ->
   injectSelects = (row) ->
-    if row[0] is ''
+    if row[0] is 'addCoap'
+      ['', "<input type='submit' class='centerButton' name='addcoap-#{row[1]}' value='Ajouter Connaissance/Capacité'>", '', '']
+    else if row[0] is ''
       currentComp = row[1].substring(0, 4)
       [ ''
       ,
@@ -49,8 +52,8 @@ getTemplate = (rows, nom) ->
     else
       [
         """<select name='coap-#{currentComp}'>\n
-                   #{injectOption('Capacité','Capacité', row[0])}
-                   #{injectOption('Connaissance', 'Connaissance', row[0])}
+              #{injectOption('Capacité','Capacité', row[0])}
+              #{injectOption('Connaissance', 'Connaissance', row[0])}
            </select>\n
         """
       ,
@@ -60,7 +63,6 @@ getTemplate = (rows, nom) ->
       ,
         ''
       ]
-
 
   trs = rows.map (row) ->
     "<tr><td>#{injectSelects(row).join('</td><td>')}</td></tr>"
@@ -77,6 +79,9 @@ getTemplate = (rows, nom) ->
           border-color: black;
           border-style: groove;
         }
+        .centerButton {
+          margin-left: 25%;
+        }
       </style>
     </head>
     <body>
@@ -86,8 +91,12 @@ getTemplate = (rows, nom) ->
             <th colspan='4'>#{nom}</th>
           </tr>\n
           #{trs.join('\n')}\n
+          <tr><td colspan='4'><hr></td></tr>
           <tr>
-            <td colspan='4' style='text-align: center;'>
+            <td>
+             <input type='submit' value='Ajout Competence' name='addcomp'>
+            </td>
+            <td colspan='3' style='text-align: center;'>
               <input type='submit' value='Valider' id='bouttonValider'>
               <input type='reset' value='Annuler'>
             </td>
@@ -169,10 +178,37 @@ removeCoap = (req) ->
     req.body["coap-#{comp}"].splice(idx, 1)
     req.body["coapValue-#{comp}"].splice(idx, 1)
   else
-    console.log "->", req.body
     req.body["competences"].splice(idx, 1)
     req.body["compLevel"].splice(idx, 1)
 
+addCompetence = (req) ->
+  competencesId = _.map competences, (comp) -> comp._id.toString()
+  notUsedCompetences = _.difference competencesId, req.body.competences
+  if notUsedCompetences.length > 0
+    req.body["competences"].push(notUsedCompetences[0])
+    req.body["compLevel"].push('C1')
+  req
+
+addConnaissance = (req, connId) ->
+  attribute = req.body["coap-#{connId}"]
+  if attribute?
+    req.body["coapValue-#{connId}"].push('')
+    req.body["coap-#{connId}"].push('Connaissance')
+  else
+    req.body["coapValue-#{connId}"]=['']
+    req.body["coap-#{connId}"]=['Connaissance']
+  req
+
+removeOrAddCoap = (req) ->
+  competenceId = (_.find (_.keys req.body), (elem) ->
+    elem.startsWith('addcoap-'))?.substring("addcoap-".length)
+
+  if competenceId?
+    addConnaissance(req, competenceId)
+  else if req.body['addcomp']?
+    addCompetence(req)
+  else
+    removeCoap(req)
   Promise.resolve(req)
 
 db.Competence.find({}).then (lcomps) ->
@@ -190,7 +226,7 @@ db.Competence.find({}).then (lcomps) ->
       else
         req.body[key] = value
 
-    removeCoap(req)
+    removeOrAddCoap(req)
     .then saveChanges
     .then render
     .then (html) ->
