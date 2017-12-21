@@ -46,7 +46,7 @@ insertDetail = () ->
       datas = []
 
       csv({flatKeys: true, delimiter: ";", noheader: true})
-      .fromFile('./TC\ DetailCompetences\ 2017-12-04.csv')
+      .fromFile('./DetailCompetences.csv')
       .on 'json', (data) ->
         datas.push data
       .on 'done', (error) ->

@@ -104,7 +104,7 @@ insertMatrice = () ->
       datas = []
 
       csv({flatKeys: true, delimiter: ";", noheader: true})
-      .fromFile('./TC\ MatriceCompetence\ 2017-11-29.csv')
+      .fromFile('./MatriceCompetence.csv')
       .on 'json', (data) ->
         if data.field4 isnt ''
           datas.push data

@@ -53,6 +53,8 @@ getTemplate = (rows) ->
     if row[0]
       row[0] = "<a href='/ects/#{row[0]}'>#{row[0]}</a>"
       "<tr class='ec'><td>#{row.join('</td><td>')}</td></tr>"
+    else if row[3]
+      "<tr class='comp'><td>#{row.join('</td><td>')}</td></tr>"
     else
       "<tr><td>#{row.join('</td><td>')}</td></tr>"
   """
@@ -70,6 +72,12 @@ getTemplate = (rows) ->
         .ec td {
           border-top-color: black;
           border-top-style: groove;
+          font-style: italic;
+          font-weight: bold;
+        }
+        .comp td {
+          font-style: italic;
+          font-weight: bold;
         }
       </style>
     </head>
