@@ -119,7 +119,7 @@ getTemplate = (rows, nom) ->
 
 app.param 'ectsName', (req, res, next, ectsName) ->
   db.EC.findOne
-    nom: ectsName.toUpperCase()
+    nom: ectsName
   .exec()
   .then (res) ->
     req.ec = res
