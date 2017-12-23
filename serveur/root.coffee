@@ -100,15 +100,22 @@ app.post '/', (req, res) ->
   getData()
   .then getMatrix
   .then (mat) ->
-    res.xls('competences.xlsx', _.map mat, (m) ->
-      #TODO: garder la mémoire pour éviter de répéter semester, ue, etc. 
-      'Semestre': m[0]
-      'UE': m[1]
+    curSem = ''
+    curUE = ''
+    a = _.map mat, (m) ->
+      'Semestre': if m[0] isnt '' and curSem isnt m[0]
+        curSem = m[0]
+      else
+        ''
+      'UE': if m[1] isnt '' and curUE isnt m[1]
+        curUE = m[1]
+      else
+        ''
       'EC': m[2]
       'Type': m[3]
       'Compétence': m[4]
       'Niveau': m[5]
-    )
+    res.xls('competences.xlsx', a)
 
 app.get '/', (req, res) ->
   getData()
