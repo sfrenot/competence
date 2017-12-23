@@ -115,7 +115,8 @@ app.post '/', (req, res) ->
       'Type': m[3]
       'Compétence': m[4]
       'Niveau': m[5]
-    res.xls('competences.xlsx', a)
+
+    res.xls('competences.xlsx', a, {style: 'serveur/styles.xml'})
 
 app.get '/', (req, res) ->
   getData()
