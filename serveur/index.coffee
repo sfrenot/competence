@@ -19,7 +19,6 @@ cas = new CASAuthentication
   cas_url: 'https://login.insa-lyon.fr/cas'
   service_url: 'http://jumplyn.com:3000/auth/cas'
 
+app.use '/auth/cas', cas.bounce, (req, res) -> res.redirect('/')
 app.use '/ects', cas.block, require('./ects')
 app.use '/', cas.bounce, require('./root')
-
-app.get '/auth/cas', cas.bounce, (req, res) -> res.redirect('/')
