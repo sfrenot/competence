@@ -7,13 +7,21 @@ _ = require 'lodash'
 {spawn}  = require 'child_process'
 
 extractRe = (re, src) ->
-  return re.exec(src)[0].split(':')[1]
+  return re.exec(src)[0].split(' : ')[1]
 
 extractPdfStructure = (pdf) ->
   matiere = {}
+  # console.log "-->", pdf
   matiere.code = extractRe(/CODE : .*/, pdf)
-  console.log '--->', matiere
+  matiere.ects = extractRe(/ECTS : .*/, pdf)
+  matiere.cours = extractRe(/Cours : .*/, pdf)
+  matiere.td = extractRe(/TD : .*/, pdf)
+  matiere.tp = extractRe(/TP : .*/, pdf)
+  matiere.perso = extractRe(/Travail personnel : .*/, pdf)
 
+  matiere.competences = /COMPETENCES \/ CONNAISSANCES\n([\s\S]*)PROGRAMME/g.exec(pdf)[1]
+
+  console.log "-->", matiere
   matiere
 
 catalogue = {}
@@ -26,7 +34,7 @@ request()
     if departement is 'TC'
       unless catalogue[departement]? then catalogue[departement]={}
       $('.contenu table tr td a', @).each () ->
-        if $(@).attr('href') is '/fr/formation/parcours/729/4/2'
+        if $(@).attr('href') is '/fr/formation/parcours/729/4/1'
           semesters.push($(@).attr('href'))
       Promise.map semesters, (url) ->
         request
@@ -40,7 +48,7 @@ request()
           unless catalogue[departement][semestre]?
             catalogue[departement][semestre] = []
           $('.contenu-onglet .detail-parcours-table .even td a').each () ->
-            if $(@).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34172&_lang=fr'
+            if $(@).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=32965&_lang=fr'
               urls.push($(@).attr('href'))
           Promise.map urls, (url) ->
             new Promise (resolve) ->
@@ -57,7 +65,7 @@ request()
                 resolve(res)
             .then (pdf) ->
               catalogue[departement][semestre].push(extractPdfStructure(pdf))
-#     else
-#       false
+    # else
+    #   false
 # .then () ->
 #   console.log "#{JSON.stringify catalogue, null, 2}"
