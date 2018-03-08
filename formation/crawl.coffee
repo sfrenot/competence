@@ -12,6 +12,7 @@ extractRe = (re, src) ->
 extractPdfStructure = (pdf) ->
   matiere = {}
   # console.log "-->", pdf
+  # console.log "Recherche mat"
   matiere.code = extractRe(/CODE : .*/, pdf)
   matiere.ects = extractRe(/ECTS : .*/, pdf)
   matiere.cours = extractRe(/Cours : .*/, pdf)
@@ -19,7 +20,7 @@ extractPdfStructure = (pdf) ->
   matiere.tp = extractRe(/TP : .*/, pdf)
   matiere.perso = extractRe(/Travail personnel : .*/, pdf)
 
-  matiere.competences = /COMPETENCES \/ CONNAISSANCES\n([\s\S]*)PROGRAMME/g.exec(pdf)[1]
+  matiere.competences = /OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n([\s\S]*)PROGRAMME/g.exec(pdf)[1]
 
   console.log "-->", matiere
   matiere
@@ -48,9 +49,10 @@ request()
           unless catalogue[departement][semestre]?
             catalogue[departement][semestre] = []
           $('.contenu-onglet .detail-parcours-table .even td a').each () ->
-            if $(@).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=32965&_lang=fr'
-              urls.push($(@).attr('href'))
-          Promise.map urls, (url) ->
+            # if $(@).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=32965&_lang=fr'
+            urls.push($(@).attr('href'))
+          Promise.each urls, (url) ->
+            console.log '-->', url
             new Promise (resolve) ->
               res=''
               curl = spawn('curl', [url])
