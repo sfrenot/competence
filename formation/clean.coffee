@@ -14,17 +14,32 @@ headers =
   lzYXRpb24udHlwZXMuZW5naW5lZXJpbmdfc2Nob29sIiwicm9sZSI6IkFETUlOX09SR0EifSw
   iaWF0IjoxNTIzNjAzNDIwfQ.ZBY1EJYIt50khcx3Tg5heCEIxmrZEGVTSKvbT6caMKo'
 
+rootPath='https://skilvioo-training.herokuapp.com'
+
 request
-  url:'https://skilvioo-training.herokuapp.com/trainings'
+  url:"#{rootPath}/trainings"
   method: 'GET'
   headers: headers
 .then (dpts) ->
   Promise.map JSON.parse(dpts), (departement) ->
-    console.log "->", departement.id
     request
-      url:'https://skilvioo-training.herokuapp.com/trainings/'+departement.id
-      method: 'DELETE'
+      url:"#{rootPath}/trainings/#{departement.id}/blocks"
+      method: 'GET'
       headers: headers
+    .then (res) ->
+      blocks = JSON.parse(res)
+      Promise.map blocks, (block) ->
+        console.log "Suppression block", block.id
+        request
+          url:"#{rootPath}/blocks/#{block.id}"
+          method: 'DELETE'
+          headers: headers
+      .then () ->
+        console.log "Suppression departement", departement.id
+        request
+          url:"#{rootPath}/trainings/#{departement.id}"
+          method: 'DELETE'
+          headers: headers
 .then (res) ->
   console.log "Fini", res
 .catch (err) ->
