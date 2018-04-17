@@ -81,4 +81,30 @@ request()
               url: url.url
               detail: extractPdfStructure(pdf)
 .then () ->
+  headers = {
+    'Accept': 'application/json'
+    'Authorization':'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjFkMWEzMmJlLTM1ZDAtNGRmNy1iYzFhLTY0ZDNjYmU0Mjg5OSIsImZpcnN0bmFtZSI6IkJlbmphbWluIiwibGFzdG5hbWUiOiJSb3VsbGV0IiwiZW1haWwiOiJiZW5qYW1pbi5yb3VsbGV0QHNraWx2aW9vLm5ldCIsInBob25lIjoiMDY5NTU1MzcwMSIsInRvQmVDcmVhdGVkIjpudWxsLCJyb2xlIjpudWxsLCJyZWFsbSI6InNraWx2aW9vLWZvcm1hdGlvbi1mcm9udGVuZCIsImN1cnJlbnRPcmdhbmlzYXRpb24iOnsiYWRkcmVzcyI6IjIwIEF2ZW51ZSBBbGJlcnQgRWluc3RlaW4sIDY5MTAwIFZpbGxldXJiYW5uZSIsInRyYWluaW5nTnVtYmVyIjoiNSIsIm5hbWUiOiJJTlNBIEx5b24iLCJpZCI6Ijk4NmRjZjNiLTMyMWUtNDVmYi1hZjJlLTQxZWVlMDM5NWQxMyIsInR5cGUiOiJvcmdhbmlzYXRpb24udHlwZXMuZW5naW5lZXJpbmdfc2Nob29sIiwicm9sZSI6IkFETUlOX09SR0EifSwiaWF0IjoxNTIzNjAzNDIwfQ.ZBY1EJYIt50khcx3Tg5heCEIxmrZEGVTSKvbT6caMKo'
+  }
+
   console.log "#{JSON.stringify catalogue, null, 2}"
+  console.log "insertion"
+  Promise.map catalogue, (departement) ->
+    console.log 'ajout departement', departement.departement
+    request
+      url:'https://skilvioo-training.herokuapp.com/trainings'
+      method: 'POST'
+      headers: headers
+      form:
+        'idOrganisation':'986dcf3b-321e-45fb-af2e-41eee0395d13'
+        'trainingName': "INSA Lyon #{departement.departement}"
+        'trainingType': 'training.training_types.4'
+        'userId': '1d1a32be-35d0-4df7-bc1a-64d3cbe42899'
+        'isContinue': false
+        'isInitial': true
+        'trainingVae': true
+    .then (res) ->
+      departement.id = res.id
+.then () ->
+  console.log "#{JSON.stringify catalogue, null, 2}"
+.catch (err) ->
+  console.log '->', err
