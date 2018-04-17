@@ -51,15 +51,21 @@ request()
       .then (body) ->
         urls = []
         $ = cheerio.load(body)
-        # semestre = $('.contenu-onglet h2').text()
-        $('.contenu-onglet .detail-parcours-table .even td a').each () ->
-          if $(@).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36523&_lang=fr'
-            urls.push($(@).attr('href'))
+        currentUE = null
+        $('.contenu-onglet .detail-parcours-table tr').each () ->
+          if $('.thlike', @).get().length is 1
+            currentUE = /.*\((.*)\)/.exec($('.thlike', @).get(0).children[0].data)[1]
+          else if $('a', @).get().length is 1
+            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr'
+              urls.push
+                UE: currentUE
+                url: $('a', @).attr('href')
+
         Promise.each urls, (url) ->
-          console.log '-->', url
+          console.log '-->', url.url # A laisser pour la progession du code
           new Promise (resolve) ->
             res=''
-            curl = spawn('curl', [url])
+            curl = spawn('curl', [url.url])
             tika = spawn('java', ['-jar', 'tika-app-1.17.jar', '--text'])
             curl.stdout.on 'data', (chunk) ->
               tika.stdin.write(chunk)
@@ -71,7 +77,8 @@ request()
               resolve(res)
           .then (pdf) ->
             semestre.ecs.push
-              url: url
+              UE: url.UE
+              url: url.url
               detail: extractPdfStructure(pdf)
 .then () ->
   console.log "#{JSON.stringify catalogue, null, 2}"
