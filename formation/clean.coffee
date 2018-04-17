@@ -18,7 +18,14 @@ request
   url:'https://skilvioo-training.herokuapp.com/trainings'
   method: 'GET'
   headers: headers
+.then (dpts) ->
+  Promise.map JSON.parse(dpts), (departement) ->
+    console.log "->", departement.id
+    request
+      url:'https://skilvioo-training.herokuapp.com/trainings/'+departement.id
+      method: 'DELETE'
+      headers: headers
 .then (res) ->
-  console.log '-->', JSON.parse(res)
-  # Promise.map res, (departement) ->
-    # console.log '-->', departement
+  console.log "Fini", res
+.catch (err) ->
+  console.log "Erreur", err
