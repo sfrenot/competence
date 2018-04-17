@@ -27,13 +27,26 @@ request
       method: 'GET'
       headers: headers
     .then (res) ->
-      blocks = JSON.parse(res)
-      Promise.map blocks, (block) ->
-        console.log "Suppression block", block.id
+      ues = JSON.parse(res)
+      Promise.map ues, (ue) ->
         request
-          url:"#{rootPath}/blocks/#{block.id}"
-          method: 'DELETE'
+          url:"#{rootPath}/blocks/#{ue.id}/blocks"
+          method: 'GET'
           headers: headers
+        .then (res) ->
+          ecs = JSON.parse(res)
+          Promise.map ecs, (ec) ->
+            console.log "Suppression ec", ec
+            request
+              url:"#{rootPath}/blocks/#{ec.id}"
+              method: 'DELETE'
+              headers: headers
+          .then () ->
+            console.log "Suppression ue", ue
+            request
+              url:"#{rootPath}/blocks/#{ue.id}"
+              method: 'DELETE'
+              headers: headers
       .then () ->
         console.log "Suppression departement", departement.id
         request

@@ -68,6 +68,15 @@ insertUE = (departement_id, UE_name) ->
     console.log "Insert dans #{UE_name}"
     Promise.resolve(ue_id)
 
+insertEC = (UE_id, ec) ->
+  request
+    url: "https://skilvioo-training.herokuapp.com/blocks/#{UE_id}/blocks"
+    method: 'POST'
+    headers: headers
+    form:
+      "name": ec.detail.code
+      "color": '#FFFF00'
+
 catalogue = []
 request()
 .then (body) ->
@@ -135,8 +144,8 @@ request()
         console.log "Ajout semestre", semestre.url
         Promise.map semestre.ecs, (ec) ->
           insertUE(departement.id, ec.UE)
-          # .then (UE) ->
-          #   insertEC(departement.id, UE, ec )
+          .then (UE) ->
+            insertEC(UE, ec)
 
 .then () ->
   # console.log "#{JSON.stringify catalogue, null, 2}"
