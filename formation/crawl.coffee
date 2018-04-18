@@ -1,3 +1,6 @@
+# Lancement du parser tika
+# java -jar tika-app-1.17.jar --text -s -p 1234
+
 Promise = require 'bluebird'
 cheerio = require 'cheerio'
 request = require('request-promise').defaults
@@ -37,10 +40,10 @@ request()
     if departement is 'TC'
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        if $(@).attr('href') is '/fr/formation/parcours/729/4/1'
-          semestres.push
-            url: $(@).attr('href')
-            ecs: []
+        # if $(@).attr('href') is '/fr/formation/parcours/729/4/1'
+        semestres.push
+          url: $(@).attr('href')
+          ecs: []
       catalogue.push
         'departement': departement
         'semestres': semestres
@@ -59,20 +62,25 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /.*\((.*)\)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
-            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr' or
             # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36040&_lang=fr' or
             # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34969&_lang=fr' or
             # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36060&_lang=fr' or
             # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34873&_lang=fr'
-              urls.push
-                UE: currentUE
-                url: $('a', @).attr('href')
+            urls.push
+              UE: currentUE
+              url: $('a', @).attr('href')
 
         Promise.each urls, (url) ->
           console.log '-->', url.url # A laisser pour la progession du code
           new Promise (resolve) ->
             res=''
-            tika = spawn('java', ['-jar', 'tika-app-1.17.jar', '--text', url.url])
+            curl = spawn('curl', [url.url])
+            tika = spawn('nc', ['localhost', 1234])
+            curl.stdout.on 'data', (chunk) ->
+              tika.stdin.write(chunk)
+            curl.on 'close', (code) ->
+              tika.stdin.end()
             tika.stdout.on 'data', (data) ->
               res += data
             tika.on 'close', (code) ->
@@ -84,7 +92,7 @@ request()
               detail: extractPdfStructure(pdf)
 .then () ->
   console.log "#{JSON.stringify catalogue, null, 2}"
-  # skilvioo.insert(catalogue)
+  skilvioo.insert(catalogue)
 
 .then () ->
   # console.log "#{JSON.stringify catalogue, null, 2}"
