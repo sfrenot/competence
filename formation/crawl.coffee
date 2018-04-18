@@ -108,10 +108,14 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /.*\((.*)\)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
-            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr'
-              urls.push
-                UE: currentUE
-                url: $('a', @).attr('href')
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr' or
+            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36040&_lang=fr' or
+            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34969&_lang=fr' or
+            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36060&_lang=fr' or
+            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34873&_lang=fr'
+            urls.push
+              UE: currentUE
+              url: $('a', @).attr('href')
 
         Promise.each urls, (url) ->
           console.log '-->', url.url # A laisser pour la progession du code
@@ -133,16 +137,15 @@ request()
               url: url.url
               detail: extractPdfStructure(pdf)
 .then () ->
-
   console.log "#{JSON.stringify catalogue, null, 2}"
-  console.log "insertion"
+  console.log "insertion Skilvioo"
   Promise.map catalogue, (departement) ->
     insertDepartement("INSA Lyon #{departement.departement}")
     .then (res) ->
       departement.id = JSON.parse(res).id
       Promise.map departement.semestres, (semestre) ->
         console.log "Ajout semestre", semestre.url
-        Promise.map semestre.ecs, (ec) ->
+        Promise.each semestre.ecs, (ec) ->
           insertUE(departement.id, ec.UE)
           .then (UE) ->
             insertEC(UE, ec)
