@@ -60,10 +60,10 @@ request()
             currentUE = /.*\((.*)\)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
             if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr'
-            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36040&_lang=fr' or
-            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34969&_lang=fr' or
-            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36060&_lang=fr' or
-            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34873&_lang=fr'
+            # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36040&_lang=fr' or
+            # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34969&_lang=fr' or
+            # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36060&_lang=fr' or
+            # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34873&_lang=fr'
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')
@@ -72,12 +72,7 @@ request()
           console.log '-->', url.url # A laisser pour la progession du code
           new Promise (resolve) ->
             res=''
-            curl = spawn('curl', [url.url])
-            tika = spawn('java', ['-jar', 'tika-app-1.17.jar', '--text'])
-            curl.stdout.on 'data', (chunk) ->
-              tika.stdin.write(chunk)
-            curl.on 'close', (code) ->
-              tika.stdin.end()
+            tika = spawn('java', ['-jar', 'tika-app-1.17.jar', '--text', url.url])
             tika.stdout.on 'data', (data) ->
               res += data
             tika.on 'close', (code) ->
@@ -89,7 +84,7 @@ request()
               detail: extractPdfStructure(pdf)
 .then () ->
   console.log "#{JSON.stringify catalogue, null, 2}"
-  skilvioo.insert(catalogue)
+  # skilvioo.insert(catalogue)
 
 .then () ->
   # console.log "#{JSON.stringify catalogue, null, 2}"
