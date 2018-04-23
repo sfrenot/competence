@@ -7,21 +7,25 @@ headers = {
 }
 
 UEs = {}
+departements = {
+  'TC': 'c0c6ce75-2214-47c6-aed3-b6b80e53ad2a'
+}
 
 insertDepartement = (name) ->
-  console.log 'ajout departement', name
-  request
-    url:'https://skilvioo-training.herokuapp.com/trainings'
-    method: 'POST'
-    headers: headers
-    form:
-      'idOrganisation':'986dcf3b-321e-45fb-af2e-41eee0395d13'
-      'trainingName': "INSA Lyon #{name}"
-      'trainingType': 'training.training_types.4'
-      'userId': '1d1a32be-35d0-4df7-bc1a-64d3cbe42899'
-      'isContinue': false
-      'isInitial': true
-      'trainingVae': true
+  console.log 'ajout dans departement', name
+  # request
+  #   url:'https://skilvioo-training.herokuapp.com/trainings'
+  #   method: 'POST'
+  #   headers: headers
+  #   form:
+  #     'idOrganisation':'986dcf3b-321e-45fb-af2e-41eee0395d13'
+  #     'trainingName': "INSA Lyon #{name}"
+  #     'trainingType': 'training.training_types.4'
+  #     'userId': '1d1a32be-35d0-4df7-bc1a-64d3cbe42899'
+  #     'isContinue': false
+  #     'isInitial': true
+  #     'trainingVae': true
+  Promise.resolve("{\"id\": \"#{departements[name]}\"}")
 
 
 insertUE = (departement_id, UE_name) ->
@@ -49,13 +53,13 @@ insertEC = (UE_id, ec) ->
     method: 'POST'
     headers: headers
     form:
-      "name": ec.detail.code
+      "name": "#{ec.detail.nom}(#{ec.detail.code})"
       "color": '#FFFF00'
 
 module.exports.insert = (catalogue) ->
   console.log "insertion Skilvioo"
   Promise.map catalogue, (departement) ->
-    insertDepartement("INSA Lyon #{departement.departement}")
+    insertDepartement(departement.departement)
     .then (res) ->
       departement.id = JSON.parse(res).id
       Promise.map departement.semestres, (semestre) ->

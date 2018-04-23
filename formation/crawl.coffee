@@ -15,21 +15,22 @@ extractRe = (re, src) ->
 
 extractPdfStructure = (pdf) ->
   matiere = {}
-  # console.log "-->", pdf
-  # console.log "Recherche mat"
+  # console.warn "-->", pdf
+  # console.warn "Recherche mat"
   matiere.code = extractRe(/CODE : .*/, pdf)
   matiere.ects = extractRe(/ECTS : .*/, pdf)
   matiere.cours = extractRe(/Cours : .*/, pdf)
   matiere.td = extractRe(/TD : .*/, pdf)
   matiere.tp = extractRe(/TP : .*/, pdf)
   matiere.perso = extractRe(/Travail personnel : .*/, pdf)
+  matiere.nom = /CONTACT\n([\s\S]*)OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT/g.exec(pdf)[1].split('\n')[5..6].join(' : ')
 
   matiere.competences = /OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n([\s\S]*)PROGRAMME/g.exec(pdf)[1]
 
-  # console.log "-->", matiere
+  # console.warn "-->", matiere
   matiere
 
-spawn('java', ['-jar', 'tika-app-1.17.jar', '--text', '-s', '-p', '1234'])
+tika=spawn('java', ['-jar', 'tika-app-1.17.jar', '--text', '-s', '-p', '1234'])
 
 catalogue = []
 request()
@@ -48,7 +49,7 @@ request()
         'departement': departement
         'semestres': semestres
 
-  # console.log "#{JSON.stringify catalogue, null, 2}"
+  # console.warn "#{JSON.stringify catalogue, null, 2}"
   Promise.each catalogue, (departement) ->
     Promise.each departement.semestres, (semestre) ->
       request
@@ -60,9 +61,9 @@ request()
         currentUE = null
         $('.contenu-onglet .detail-parcours-table tr').each () ->
           if $('.thlike', @).get().length is 1
-            currentUE = /.*\((.*)\)/.exec($('.thlike', @).get(0).children[0].data)[1]
+            currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr' or
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr'
             # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36040&_lang=fr' or
             # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34969&_lang=fr' or
             # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36060&_lang=fr' or
@@ -72,7 +73,7 @@ request()
               url: $('a', @).attr('href')
 
         Promise.each urls, (url) ->
-          console.log '-->', url.url # A laisser pour la progession du code
+          console.warn '-->', url.url # A laisser pour la progession du code
           new Promise (resolve) ->
             res=''
             curl = spawn('curl', [url.url])
@@ -91,11 +92,13 @@ request()
               url: url.url
               detail: extractPdfStructure(pdf)
 .then () ->
-  console.log "#{JSON.stringify catalogue, null, 2}"
-  # skilvioo.insert(catalogue)
+  # console.log "#{JSON.stringify catalogue, null, 2}"
+  skilvioo.insert(catalogue)
 
 .then () ->
-  # console.log "#{JSON.stringify catalogue, null, 2}"
-  console.log "fin"
+  # console.warn "#{JSON.stringify catalogue, null, 2}"
+  console.warn "fin"
 .catch (err) ->
-  console.log 'ERR', err
+  console.warn 'ERR', err
+.finally () ->
+  spawn("sh", ["-c", "killall java"])
