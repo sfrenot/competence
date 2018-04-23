@@ -47,12 +47,12 @@ request
               url:"#{rootPath}/blocks/#{ue.id}"
               method: 'DELETE'
               headers: headers
-      .then () ->
-        console.log "Suppression departement", departement.id
-        request
-          url:"#{rootPath}/trainings/#{departement.id}"
-          method: 'DELETE'
-          headers: headers
+      # .then () ->
+      #   console.log "Suppression departement", departement.id
+      #   request
+      #     url:"#{rootPath}/trainings/#{departement.id}"
+      #     method: 'DELETE'
+      #     headers: headers
 .then (res) ->
   console.log "Fini", res
 .catch (err) ->
