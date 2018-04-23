@@ -29,7 +29,7 @@ extractPdfStructure = (pdf) ->
   # console.log "-->", matiere
   matiere
 
-
+spawn('java', ['-jar', 'tika-app-1.17.jar', '--text', '-s', '-p', '1234'])
 
 catalogue = []
 request()
@@ -49,8 +49,8 @@ request()
         'semestres': semestres
 
   # console.log "#{JSON.stringify catalogue, null, 2}"
-  Promise.map catalogue, (departement) ->
-    Promise.map departement.semestres, (semestre) ->
+  Promise.each catalogue, (departement) ->
+    Promise.each departement.semestres, (semestre) ->
       request
         url:'https://www.insa-lyon.fr'+semestre.url
         method: 'GET'
@@ -92,7 +92,7 @@ request()
               detail: extractPdfStructure(pdf)
 .then () ->
   console.log "#{JSON.stringify catalogue, null, 2}"
-  skilvioo.insert(catalogue)
+  # skilvioo.insert(catalogue)
 
 .then () ->
   # console.log "#{JSON.stringify catalogue, null, 2}"
