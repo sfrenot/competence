@@ -9,6 +9,7 @@ headers = {
 UEs = {}
 departements = {
   'TC': 'c0c6ce75-2214-47c6-aed3-b6b80e53ad2a'
+  'GCU': '4d3a7e42-c251-4211-a760-03454977893f'
 }
 
 insertDepartement = (name) ->
@@ -20,7 +21,7 @@ insertDepartement = (name) ->
   #   form:
   #     'idOrganisation':'986dcf3b-321e-45fb-af2e-41eee0395d13'
   #     'trainingName': "INSA Lyon #{name}"
-  #     'trainingType': 'training.training_types.4'
+  #     'trainingType': 'training.training_types.5'
   #     'userId': '1d1a32be-35d0-4df7-bc1a-64d3cbe42899'
   #     'isContinue': false
   #     'isInitial': true
@@ -56,6 +57,16 @@ insertEC = (UE_id, ec) ->
       "name": "#{ec.detail.nom}(#{ec.detail.code})"
       "color": '#FFFF00'
 
+insertCompetences = (ec) ->
+  Promise.map ec.detail.listeComp, (comp) ->
+    request
+      url: "https://skilvioo-training.herokuapp.com/blocks/#{ec.id}/blocks"
+      method: 'POST'
+      headers: headers
+      form:
+        "name": "#{comp.code} - #{comp.val}"
+        "color": '#FFAA00'
+
 module.exports.insert = (catalogue) ->
   console.log "insertion Skilvioo"
   Promise.map catalogue, (departement) ->
@@ -68,3 +79,6 @@ module.exports.insert = (catalogue) ->
           insertUE(departement.id, ec.UE)
           .then (UE) ->
             insertEC(UE, ec)
+            .then (res) ->
+              ec.id = JSON.parse(res).id
+              insertCompetences(ec)

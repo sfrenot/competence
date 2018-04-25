@@ -21,7 +21,7 @@ request
   method: 'GET'
   headers: headers
 .then (dpts) ->
-  Promise.map JSON.parse(dpts), (departement) ->
+  Promise.each JSON.parse(dpts), (departement) ->
     request
       url:"#{rootPath}/trainings/#{departement.id}/blocks"
       method: 'GET'
@@ -35,7 +35,19 @@ request
           headers: headers
         .then (res) ->
           ecs = JSON.parse(res)
-          Promise.map ecs, (ec) ->
+          Promise.each ecs, (ec) ->
+            request
+              url:"#{rootPath}/blocks/#{ec.id}/blocks"
+              method: 'GET'
+              headers: headers
+            .then (res) ->
+              comps = JSON.parse(res)
+              Promise.map comps, (comp) ->
+                console.log "Suppression competence", comp
+                request
+                  url:"#{rootPath}/blocks/#{comp.id}"
+                  method: 'DELETE'
+                  headers: headers
             console.log "Suppression ec", ec
             request
               url:"#{rootPath}/blocks/#{ec.id}"
@@ -47,12 +59,12 @@ request
               url:"#{rootPath}/blocks/#{ue.id}"
               method: 'DELETE'
               headers: headers
-      # .then () ->
-      #   console.log "Suppression departement", departement.id
-      #   request
-      #     url:"#{rootPath}/trainings/#{departement.id}"
-      #     method: 'DELETE'
-      #     headers: headers
+      .then () ->
+        console.log "Suppression departement", departement.id
+        # request
+        #   url:"#{rootPath}/trainings/#{departement.id}"
+        #   method: 'DELETE'
+        #   headers: headers
 .then (res) ->
   console.log "Fini", res
 .catch (err) ->
