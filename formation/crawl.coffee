@@ -27,9 +27,9 @@ extractPdfStructure = (pdf) ->
 
   matiere.competencesBrutes = (/OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n([\s\S]*)PROGRAMME/g.exec(pdf)[1]).trim().replace(/\n/g,' ')
 
-  lcompetences = /[\s\S]*Compétences visées(?:| ): ([\s\S]*)Capacités visées:/g.exec(matiere.competencesBrutes)
+  lcompetences = /[\s\S]*Compétences visées(?: |: | : )([\s\S]*)Capacités visées/g.exec(matiere.competencesBrutes)
   if lcompetences?
-    matiere.listeComp = lcompetences[1].match(/E\d : |SPI-\d : /g).map (x) ->
+    matiere.listeComp = lcompetences[1].match(/E\d : |SPI-\d : |T\d : |SI\d - |R - /g).map (x) ->
       comp = refCompetences[x.substring(0, x.length-3)]
       unless comp?
         throw Error("#{x} est inconnue")
@@ -75,6 +75,7 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36418&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36408&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr'
@@ -82,9 +83,9 @@ request()
             # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34969&_lang=fr' or
             # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36060&_lang=fr' or
             # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34873&_lang=fr'
-              urls.push
-                UE: currentUE
-                url: $('a', @).attr('href')
+            urls.push
+              UE: currentUE
+              url: $('a', @).attr('href')
 
         Promise.each urls, (url) ->
           console.warn '-->', url.url # A laisser pour la progession du code
