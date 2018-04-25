@@ -23,7 +23,8 @@ extractPdfStructure = (pdf) ->
   matiere.td = extractRe(/TD : .*/, pdf)
   matiere.tp = extractRe(/TP : .*/, pdf)
   matiere.perso = extractRe(/Travail personnel : .*/, pdf)
-  matiere.nom = /CONTACT\n([\s\S]*)OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT/g.exec(pdf)[1].split('\n')[5..6].join(' : ')
+  [..., avant, dernier, blanc, blanc] = /CONTACT\n([\s\S]*)OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT/g.exec(pdf)[1].split('\n')
+  matiere.nom = "#{avant} : #{dernier}"
 
   matiere.competencesBrutes = (/OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n([\s\S]*)PROGRAMME/g.exec(pdf)[1]).trim().replace(/\n/g,' ')
 
@@ -75,7 +76,13 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
-            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr'
+            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36412&_lang=fr' or
+            $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36417&_lang=fr" or
+            $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr' or
+            $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr' or
+            $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36418&_lang=fr" or
+            $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36419&_lang=fr" or
+            $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=35883&_lang=fr"
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36418&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36408&_lang=fr'
