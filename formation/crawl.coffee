@@ -29,17 +29,40 @@ extractPdfStructure = (pdf) ->
 
   matiere.competencesBrutes = (/OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n([\s\S]*)PROGRAMME/g.exec(pdf)[1]).trim().replace(/\n/g,' ')
 
-  lcompetences = /[\s\S]*Compétences visées(?: |: | : )([\s\S]*)Capacités visées/g.exec(matiere.competencesBrutes)
+  lcompetences = /[\s\S]*Compétences visées(?: |: | : )([\s\S]*)(Capacités visées|\* Être capable de : )/g.exec(matiere.competencesBrutes)
   if lcompetences?
-    matiere.listeComp = lcompetences[1].match(/E\d : |SPI-\d : |T\d : |SI\d - |R - /g).map (x) ->
+    matiere.listeComp = lcompetences[1].match(/E\d : |SPI-\d : |GCU-T\d : |SI\d - |R - |GCU-P\d : /g).map (x) ->
       comp = refCompetences[x.substring(0, x.length-3)]
       unless comp?
         throw Error("#{x} est inconnue")
       comp
 
-  lcapacites = (/Capacités visées: ([\s\S]*)Connaissances visées:/g.exec(matiere.competencesBrutes))
+  matiere.capacite = []
+  matiere.competenceToCapaciteEtConnaissance = {}
+  lcapacites = (/(?:Capacités visées: |\* Être capable de : )([\s\S]*)(Connaissances visées:|\* Connaître: )/g.exec(matiere.competencesBrutes))
   if lcapacites?
-    matiere.capacites = lcapacites[1]
+    splitCapacites = lcapacites[1].split(' ; ');
+    splitCapacites.map (capa) ->
+      [,capaDescription,listComp] = capa.match(/([\s\S]*) \(([\s\S]*)\)/)
+      capaDescription = "Capacité : #{capaDescription}"
+      matiere.capacite.push(capaDescription)
+      lcomps = listComp.split(', ')
+      lcomps.map (comp) ->
+        unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
+        matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
+
+  matiere.connaissance = []
+  lconnaissance = (/(?:\* Connaître: )([\s\S]*)/g.exec(matiere.competencesBrutes))
+  if lconnaissance?
+    splitConnaissance = lconnaissance[1].split(' ; ');
+    splitConnaissance.map (capa) ->
+      [,capaDescription,listComp] = capa.match(/(.*) \((.*)\)/)
+      capaDescription = "Connaissance : #{capaDescription}"
+      matiere.connaissance.push(capaDescription)
+      lcomps = listComp.split(', ')
+      lcomps.map (comp) ->
+        unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
+        matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
 
   # console.warn "-->", matiere
   matiere
@@ -52,13 +75,14 @@ request()
   $ = cheerio.load(body)
   $('.diplome').each () ->
     departement = $(@).attr('id')
-    if departement is 'TC'
+    if departement is 'GCU'
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        # if $(@).attr('href') is '/fr/formation/parcours/729/4/1'
-        semestres.push
-          url: $(@).attr('href')
-          ecs: []
+        #TC if $(@).attr('href') is '/fr/formation/parcours/729/4/1'
+        if $(@).attr('href') is '/fr/formation/parcours/719/3/1' #GCU
+          semestres.push
+            url: $(@).attr('href')
+            ecs: []
       catalogue.push
         'departement': departement
         'semestres': semestres
@@ -78,14 +102,16 @@ request()
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
             # GCU
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36412&_lang=fr' or
-            # $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36417&_lang=fr" or
-            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr' or
-            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr' or
-            # $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36418&_lang=fr" or
-            # $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36419&_lang=fr" or
-            # $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=35883&_lang=fr"
-            # TC
+            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36412&_lang=fr'
+
+            #  if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36412&_lang=fr' or
+            #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36417&_lang=fr" or
+            #  $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr' or
+            #  $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr' or
+            #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36418&_lang=fr" or
+            #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36419&_lang=fr" or
+            #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=35883&_lang=fr"
+            # # TC
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36418&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36408&_lang=fr'
@@ -94,9 +120,9 @@ request()
             # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34969&_lang=fr' or
             # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36060&_lang=fr' or
             # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34873&_lang=fr'
-            urls.push
-              UE: currentUE
-              url: $('a', @).attr('href')
+              urls.push
+                UE: currentUE
+                url: $('a', @).attr('href')
 
         Promise.each urls, (url) ->
           console.warn '-->', url.url # A laisser pour la progession du code
@@ -118,8 +144,8 @@ request()
               url: url.url
               detail: extractPdfStructure(pdf)
 .then () ->
-  console.log "#{JSON.stringify catalogue, null, 2}"
-  #skilvioo.insert(catalogue)
+  # console.log "#{JSON.stringify catalogue, null, 2}"
+  skilvioo.insert(catalogue)
 
 .then () ->
   # console.warn "#{JSON.stringify catalogue, null, 2}"

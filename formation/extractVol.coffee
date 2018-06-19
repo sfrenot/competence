@@ -11,4 +11,5 @@ courses.forEach (departement) ->
   departement.semestres.forEach (semestre) ->
     semestre.ecs.forEach (ec) ->
       console.log "#{ec.detail.code},#{split(ec.detail.cours)},\
-        #{split(ec.detail.td)},#{split(ec.detail.tp)},#{split(ec.detail.projet)}"
+        #{split(ec.detail.td)},#{split(ec.detail.tp)},\
+        #{split(ec.detail.projet)}"

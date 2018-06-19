@@ -1,5 +1,6 @@
 request = require 'request-promise'
 Promise = require 'bluebird'
+_ = require 'lodash'
 
 headers = {
   'Accept': 'application/json'
@@ -11,6 +12,9 @@ departements = {
   'TC': 'c0c6ce75-2214-47c6-aed3-b6b80e53ad2a'
   'GCU': '4d3a7e42-c251-4211-a760-03454977893f'
 }
+
+randomColor = () ->
+  Math.floor(Math.random()*1000000000).toString(16)[0...6]
 
 insertDepartement = (name) ->
   console.log 'ajout dans departement', name
@@ -57,15 +61,58 @@ insertEC = (UE_id, ec) ->
       "name": "#{ec.detail.nom}(#{ec.detail.code})"
       "color": '#FFFF00'
 
-insertCompetences = (ec) ->
+insertCompetencesAsTag = (departementId, ec) ->
   Promise.map ec.detail.listeComp, (comp) ->
     request
-      url: "https://skilvioo-training.herokuapp.com/blocks/#{ec.id}/blocks"
+      url: "https://skilvioo-training.herokuapp.com/trainings/#{departementId}/tags"
       method: 'POST'
       headers: headers
       form:
-        "name": "#{comp.code} - #{comp.val}"
-        "color": '#FFAA00'
+        "label": "#{comp.code} - #{comp.val}"
+        "color": "##{randomColor()}"
+    .then (res) ->
+      JSON.parse(res)[0]
+    .then (data) ->
+      data.code = comp.code
+      data
+  .then (res) ->
+    res.reduce (acc, val) ->
+      acc[val.code] = val.id
+      acc
+    , {}
+
+insertResource = (departementId, ecId, type) ->
+  Promise.map type, (comp) ->
+    request
+      url: "https://skilvioo-training.herokuapp.com/trainings/#{departementId}/resources"
+      method: 'POST'
+      headers: headers
+      form:
+        "name": "#{comp}"
+    .then (res) ->
+      JSON.parse(res)[0]
+    .then (ressource) ->
+      request
+        url: "https://skilvioo-training.herokuapp.com/blocks/#{ecId}/resources/#{ressource.id}"
+        method: 'POST'
+        headers: headers
+      .then () ->
+        ressource
+  , concurrency: 1
+  .then (res) ->
+    res.reduce (acc, val) ->
+      acc[val.name] = val.id
+      acc
+    , {}
+
+linkResourceToTags = (links, mapTags, resources) ->
+  Promise.all _.map links, (elems, tag) ->
+    Promise.map elems, (elem) ->
+      console.log "-> #{tag}: #{mapTags[tag]} --> #{elem} : #{resources[elem]}"
+      request
+        url: "https://skilvioo-training.herokuapp.com/tags/#{mapTags[tag]}/resources/#{resources[elem]}"
+        method: 'POST'
+        headers: headers
 
 module.exports.insert = (catalogue) ->
   console.log "insertion Skilvioo"
@@ -81,4 +128,12 @@ module.exports.insert = (catalogue) ->
             insertEC(UE, ec)
             .then (res) ->
               ec.id = JSON.parse(res).id
-              insertCompetences(ec)
+              insertCompetencesAsTag(departement.id, ec)
+              .then (mapTags) ->
+                console.log '->', mapTags
+                Promise.all [
+                  insertResource(departement.id, ec.id, ec.detail.capacite)
+                  insertResource(departement.id, ec.id, ec.detail.connaissance)
+                ]
+                .then (res) ->
+                  linkResourceToTags(ec.detail.competenceToCapaciteEtConnaissance, mapTags, _.assignIn(res[0], res[1]))

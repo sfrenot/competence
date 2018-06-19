@@ -43,12 +43,15 @@ module.exports =
   'R':
     'code': 'SPI-7'
     'val': "Mener une étude d'innovation et de R&D"
-  'T3':
-    'code':'T3'
+  'GCU-T3':
+    'code':'GCU-T3'
     'val': 'Contribuer à des aménagements et constructions durables'
-  'T2':
-    'code': 'T2'
+  'GCU-T2':
+    'code': 'GCU-T2'
     'val': "Contribuer à l'organisation de chantiers de construction, au respect des règles de sécurité, à la maîtrise des délais, etc."
-  'T4':
-    'code': 'T4'
+  'GCU-T4':
+    'code': 'GCU-T4'
     'val': "Gérer (évaluer, maintenir, réhabiliter) des ouvrages existants  Capacités visées : Mettre en œuvre des méthodes d'optimisation"
+  'GCU-P1':
+    'code': 'GCU-P1'
+    'val': "Concevoir et dimensionner / contrôler les solutions techniques pour la qualité thermique, aéraulique, acoustique d'un bâtiment"

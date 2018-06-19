@@ -23,48 +23,78 @@ request
 .then (dpts) ->
   Promise.each JSON.parse(dpts), (departement) ->
     request
-      url:"#{rootPath}/trainings/#{departement.id}/blocks"
+      url:"#{rootPath}/trainings/#{departement.id}/tags"
       method: 'GET'
       headers: headers
     .then (res) ->
-      ues = JSON.parse(res)
-      Promise.map ues, (ue) ->
+      unless res then return
+      console.log "-->", JSON.stringify(res)
+      tags = JSON.parse(res)
+      Promise.each tags, (tag) ->
+        console.log "-->", tag.id
         request
-          url:"#{rootPath}/blocks/#{ue.id}/blocks"
-          method: 'GET'
+          url:"#{rootPath}/tags/#{tag.id}"
+          method: 'DELETE'
           headers: headers
-        .then (res) ->
-          ecs = JSON.parse(res)
-          Promise.each ecs, (ec) ->
-            request
-              url:"#{rootPath}/blocks/#{ec.id}/blocks"
-              method: 'GET'
-              headers: headers
-            .then (res) ->
-              comps = JSON.parse(res)
-              Promise.map comps, (comp) ->
-                console.log "Suppression competence", comp
-                request
-                  url:"#{rootPath}/blocks/#{comp.id}"
-                  method: 'DELETE'
-                  headers: headers
-            console.log "Suppression ec", ec
-            request
-              url:"#{rootPath}/blocks/#{ec.id}"
-              method: 'DELETE'
-              headers: headers
-          .then () ->
-            console.log "Suppression ue", ue
-            request
-              url:"#{rootPath}/blocks/#{ue.id}"
-              method: 'DELETE'
-              headers: headers
-      .then () ->
-        console.log "Suppression departement", departement.id
-        # request
-        #   url:"#{rootPath}/trainings/#{departement.id}"
-        #   method: 'DELETE'
-        #   headers: headers
+    .then () ->
+      request
+        url:"#{rootPath}/trainings/#{departement.id}/resources"
+        method: 'GET'
+        headers: headers
+      .then (res) ->
+        unless res then return
+        console.log "-->", JSON.stringify(res)
+        tags = JSON.parse(res)
+        Promise.each tags, (tag) ->
+          console.log "-->", tag.id
+          request
+            url:"#{rootPath}/resources/#{tag.id}"
+            method: 'DELETE'
+            headers: headers
+    .then () ->
+      request
+        url:"#{rootPath}/trainings/#{departement.id}/blocks"
+        method: 'GET'
+        headers: headers
+      .then (res) ->
+        ues = JSON.parse(res)
+        Promise.map ues, (ue) ->
+          request
+            url:"#{rootPath}/blocks/#{ue.id}/blocks"
+            method: 'GET'
+            headers: headers
+          .then (res) ->
+            ecs = JSON.parse(res)
+            Promise.each ecs, (ec) ->
+              request
+                url:"#{rootPath}/blocks/#{ec.id}/blocks"
+                method: 'GET'
+                headers: headers
+              .then (res) ->
+                comps = JSON.parse(res)
+                Promise.map comps, (comp) ->
+                  console.log "Suppression competence", comp
+                  request
+                    url:"#{rootPath}/blocks/#{comp.id}"
+                    method: 'DELETE'
+                    headers: headers
+              console.log "Suppression ec", ec
+              request
+                url:"#{rootPath}/blocks/#{ec.id}"
+                method: 'DELETE'
+                headers: headers
+            .then () ->
+              console.log "Suppression ue", ue
+              request
+                url:"#{rootPath}/blocks/#{ue.id}"
+                method: 'DELETE'
+                headers: headers
+        .then () ->
+          console.log "Suppression departement non réalisée", departement.id
+          # request
+          #   url:"#{rootPath}/trainings/#{departement.id}"
+          #   method: 'DELETE'
+          #   headers: headers
 .then (res) ->
   console.log "Fini", res
 .catch (err) ->
