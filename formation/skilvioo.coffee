@@ -62,24 +62,28 @@ insertEC = (UE_id, ec) ->
       "color": '#FFFF00'
 
 insertCompetencesAsTag = (departementId, ec) ->
-  Promise.map ec.detail.listeComp, (comp) ->
-    request
-      url: "https://skilvioo-training.herokuapp.com/trainings/#{departementId}/tags"
-      method: 'POST'
-      headers: headers
-      form:
-        "label": "#{comp.code} - #{comp.val}"
-        "color": "##{randomColor()}"
+  if ec.detail.listeComp?
+    Promise.map ec.detail.listeComp, (comp) ->
+      request
+        url: "https://skilvioo-training.herokuapp.com/trainings/#{departementId}/tags"
+        method: 'POST'
+        headers: headers
+        form:
+          "label": "#{comp.code} - #{comp.val}"
+          "color": "##{randomColor()}"
+      .then (res) ->
+        JSON.parse(res)[0]
+      .then (data) ->
+        data.code = comp.code
+        data
     .then (res) ->
-      JSON.parse(res)[0]
-    .then (data) ->
-      data.code = comp.code
-      data
-  .then (res) ->
-    res.reduce (acc, val) ->
-      acc[val.code] = val.id
-      acc
-    , {}
+      res.reduce (acc, val) ->
+        acc[val.code] = val.id
+        acc
+      , {}
+  else
+    console.error("Pas de structure pour #{JSON.stringify(ec.url)}")
+    return Promise.resolve(null)
 
 insertResource = (departementId, ecId, type) ->
   Promise.map type, (comp) ->
@@ -131,9 +135,10 @@ module.exports.insert = (catalogue) ->
               insertCompetencesAsTag(departement.id, ec)
               .then (mapTags) ->
                 console.log '->', mapTags
-                Promise.all [
-                  insertResource(departement.id, ec.id, ec.detail.capacite)
-                  insertResource(departement.id, ec.id, ec.detail.connaissance)
-                ]
-                .then (res) ->
-                  linkResourceToTags(ec.detail.competenceToCapaciteEtConnaissance, mapTags, _.assignIn(res[0], res[1]))
+                if mapTags?
+                  Promise.all [
+                    insertResource(departement.id, ec.id, ec.detail.capacite)
+                    insertResource(departement.id, ec.id, ec.detail.connaissance)
+                  ]
+                  .then (res) ->
+                    linkResourceToTags(ec.detail.competenceToCapaciteEtConnaissance, mapTags, _.assignIn(res[0], res[1]))

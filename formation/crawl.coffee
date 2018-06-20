@@ -29,38 +29,51 @@ extractPdfStructure = (pdf) ->
 
   matiere.competencesBrutes = (/OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n([\s\S]*)PROGRAMME/g.exec(pdf)[1]).trim().replace(/\n/g,' ')
 
-  lcompetences = /[\s\S]*Compétences visées(?: |: | : )([\s\S]*)(Capacités visées|\* Être capable de : )/g.exec(matiere.competencesBrutes)
+  lcompetences = /[\s\S]*Compétences visées *:* *([\s\S]*)(Capacités visées|\* Être capable de : )/ig.exec(matiere.competencesBrutes)
   if lcompetences?
-    matiere.listeComp = lcompetences[1].match(/E\d : |SPI-\d : |GCU-T\d : |SI\d - |R - |GCU-P\d : /g).map (x) ->
-      comp = refCompetences[x.substring(0, x.length-3)]
-      unless comp?
-        throw Error("#{x} est inconnue")
-      comp
+    try
+      matiere.listeComp = lcompetences[1].match(/E\d : |SPI-\d : |GCU-[A-Z]\d : |SI\d - |R - |SHS-\d : /g).map (x) ->
+        comp = refCompetences[x.substring(0, x.length-3)]
+        unless comp?
+          throw Error("#{x} est inconnue")
+        comp
+    catch error
+      console.error(lcompetences)
+      console.error(error)
+      throw error
 
   matiere.capacite = []
   matiere.competenceToCapaciteEtConnaissance = {}
-  lcapacites = (/(?:Capacités visées: |\* Être capable de : )([\s\S]*)(Connaissances visées:|\* Connaître: )/g.exec(matiere.competencesBrutes))
+  lcapacites = (/(?:Capacités visées: |\* Être capable de : )([\s\S]*)(Connaissances visées:|\* Connaître *: )/ig.exec(matiere.competencesBrutes))
   if lcapacites?
     splitCapacites = lcapacites[1].split(' ; ');
     splitCapacites.map (capa) ->
-      [,capaDescription,listComp] = capa.match(/([\s\S]*) \(([\s\S]*)\)/)
-      capaDescription = "Capacité : #{capaDescription}"
+
+      [,capaDescription,listComp] = capa.match(/([\s\S]*) *\((?!.*\()([\s\S]*)\)/)
+
+      capaDescription = "Capacité : #{capaDescription.trim()}"
       matiere.capacite.push(capaDescription)
       lcomps = listComp.split(', ')
       lcomps.map (comp) ->
+        if comp is 'GCU- C2'
+          console.error("GCU -C2 a corriger")
+          comp = 'GCU-C2'
         unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
         matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
 
   matiere.connaissance = []
-  lconnaissance = (/(?:\* Connaître: )([\s\S]*)/g.exec(matiere.competencesBrutes))
+  lconnaissance = (/(?:\* Connaître *: )([\s\S]*)/ig.exec(matiere.competencesBrutes))
   if lconnaissance?
     splitConnaissance = lconnaissance[1].split(' ; ');
     splitConnaissance.map (capa) ->
       [,capaDescription,listComp] = capa.match(/(.*) \((.*)\)/)
-      capaDescription = "Connaissance : #{capaDescription}"
+      capaDescription = "Connaissance : #{capaDescription.trim()}"
       matiere.connaissance.push(capaDescription)
       lcomps = listComp.split(', ')
       lcomps.map (comp) ->
+        if comp is 'GCU- P2'
+          console.error("GCU -P2 a corriger")
+          comp = 'GCU-P2'
         unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
         matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
 
@@ -102,7 +115,11 @@ request()
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
             # GCU
-            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36412&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36412&_lang=fr' or
+            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36410&_lang=fr' or
+            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36410&_lang=fr' or
+            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36407&_lang=fr' or
+            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36411&_lang=fr'
 
             #  if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36412&_lang=fr' or
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36417&_lang=fr" or
@@ -144,8 +161,8 @@ request()
               url: url.url
               detail: extractPdfStructure(pdf)
 .then () ->
-  # console.log "#{JSON.stringify catalogue, null, 2}"
-  skilvioo.insert(catalogue)
+  console.log "#{JSON.stringify catalogue, null, 2}"
+  # skilvioo.insert(catalogue)
 
 .then () ->
   # console.warn "#{JSON.stringify catalogue, null, 2}"
