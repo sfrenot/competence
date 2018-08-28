@@ -4,6 +4,7 @@
   "description": "Gestion des competences TC",
   "main": "serveur/index.js",
   "dependencies": {
+    "@google-cloud/translate": "^1.1.0",
     "bluebird": "^3.5.1",
     "body-parser": "^1.18.2",
     "cas-authentication": "0.0.8",

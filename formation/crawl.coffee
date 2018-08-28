@@ -6,7 +6,7 @@ cheerio = require 'cheerio'
 request = require('request-promise').defaults
   url: 'https://www.insa-lyon.fr/fr/formation/diplomes/ING'
 _ = require 'lodash'
-skilvioo = require './skilvioo'
+skilvioo = require './skilvioo/skilvioo'
 refCompetences = require './refCompetences'
 {spawn}  = require 'child_process'
 

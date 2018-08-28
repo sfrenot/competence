@@ -1,0 +1,40 @@
+elasticsearch-urls = ["http://tc405-112-01.insa-lyon.fr:9200"]
+namespace-regex = "competences.niveaucompetences"
+
+[[script]]
+namespace = "competences.niveaucompetences"
+script = """
+module.exports = function (niveaucompetence) {
+   if (niveaucompetence.terme) {
+     niveaucompetence.terme = findId(niveaucompetence.terme, {
+       database: "competences",
+       collection: "competences"
+     });
+   }
+   if (niveaucompetence.ec) {
+     niveaucompetence.ec = findId(niveaucompetence.ec, {
+       database: "competences",
+       collection: "ecs"
+     });
+     niveaucompetence.ec.responsable = findId(niveaucompetence.ec.responsable, {
+       database: "competences",
+       collection: "enseignants"
+     });
+   }
+
+   if (niveaucompetence.details.length > 0) {
+     console.log("Competences", JSON.stringify(niveaucompetence.details));
+
+     niveaucompetence.details.forEach(function(detail) {
+       if (niveaucompetence.lst == undefined) { niveaucompetence.lst = []; }
+       tmp = findId(detail.terme, {
+         database: "competences",
+         collection: "vocabulaires"
+       });
+       niveaucompetence.lst.push(tmp);
+     });
+
+   }
+
+   return niveaucompetence; }
+"""
