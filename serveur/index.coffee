@@ -25,4 +25,5 @@ cas = new CASAuthentication
 
 app.use '/auth/cas', (req, res) -> res.redirect('/')
 app.use '/ects', require('./ects')
+app.use '/matrice', require('./matrice')
 app.use '/', require('./root')
