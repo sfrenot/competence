@@ -29,13 +29,19 @@ extractPdfStructure = (pdf) ->
 
   matiere.competencesBrutes = (/OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n([\s\S]*)PROGRAMME/g.exec(pdf)[1]).trim().replace(/\n/g,' ')
 
-  lcompetences = /[\s\S]*Compétences visées *:* *([\s\S]*)(Capacités visées|\* Être capable de : )/ig.exec(matiere.competencesBrutes)
+  # lcompetences = /[\s\S]*Compétences visées *:* *([\s\S]*)(Capacités visées|\* Être capable de : )/ig.exec(matiere.competencesBrutes)
+  lcompetences = /[\s\S]*Cet EC relève de l'unité d'enseignement.*et contribue aux compétences suivantes : ([\s\S]*)De plus, elle nécessite de mobiliser les compétences suivantes : /ig.exec(matiere.competencesBrutes)
+
+  # console.log(lcompetences[1])
   if lcompetences?
     try
-      matiere.listeComp = lcompetences[1].match(/E\d : |SPI-\d : |GCU-[A-Z]\d : |SI\d - |R - |SHS-\d : /g).map (x) ->
-        comp = refCompetences[x.substring(0, x.length-3)]
+      matiere.listeComp = lcompetences[1].split(/(?=C\d.\d )/g).map (x) ->
+        [toto, compet, niveau] = /(C\d.\d).*\(niveau (.*)\)/ig.exec(x)
+
+        comp = refCompetences[compet]
         unless comp?
           throw Error("#{x} est inconnue")
+        comp.niveau = niveau
         comp
     catch error
       console.error(lcompetences)
