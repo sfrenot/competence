@@ -29,14 +29,12 @@ extractPdfStructure = (pdf) ->
 
   matiere.competencesBrutes = (/OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n([\s\S]*)PROGRAMME/g.exec(pdf)[1]).trim().replace(/\n/g,' ')
 
-  # lcompetences = /[\s\S]*Compétences visées *:* *([\s\S]*)(Capacités visées|\* Être capable de : )/ig.exec(matiere.competencesBrutes)
   lcompetences = /[\s\S]*Cet EC relève de l'unité d'enseignement.*et contribue aux compétences suivantes : ([\s\S]*)De plus, elle nécessite de mobiliser les compétences suivantes : /ig.exec(matiere.competencesBrutes)
-
   # console.log(lcompetences[1])
   if lcompetences?
     try
       matiere.listeComp = lcompetences[1].split(/(?=C\d.\d )/g).map (x) ->
-        [toto, compet, niveau] = /(C\d.\d).*\(niveau (.*)\)/ig.exec(x)
+        [, compet, niveau] = /(C\d.\d).*\(niveau (.*)\)/ig.exec(x)
 
         comp = refCompetences[compet]
         unless comp?
@@ -50,38 +48,35 @@ extractPdfStructure = (pdf) ->
 
   matiere.capacite = []
   matiere.competenceToCapaciteEtConnaissance = {}
-  lcapacites = (/(?:Capacités visées: |\* Être capable de : )([\s\S]*)(Connaissances visées:|\* Connaître *: )/ig.exec(matiere.competencesBrutes))
+  lcapacites = (/En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : ([\s\S]*)En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes/ig.exec(matiere.competencesBrutes))
+
   if lcapacites?
-    splitCapacites = lcapacites[1].split(' ; ');
+    splitCapacites = lcapacites[1].split(' - ');
     splitCapacites.map (capa) ->
+      if capa isnt ''
+        [,capaDescription,listComp] = capa.match(/([\s\S]*) *\((?!.*\()([\s\S]*)\)/)
 
-      [,capaDescription,listComp] = capa.match(/([\s\S]*) *\((?!.*\()([\s\S]*)\)/)
-
-      capaDescription = "Capacité : #{capaDescription.trim()}"
-      matiere.capacite.push(capaDescription)
-      lcomps = listComp.split(', ')
-      lcomps.map (comp) ->
-        if comp is 'GCU- C2'
-          console.error("GCU -C2 a corriger")
-          comp = 'GCU-C2'
-        unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
-        matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
+        capaDescription = "Capacité : #{capaDescription.trim()}"
+        matiere.capacite.push(capaDescription)
+        lcomps = listComp.split(', ')
+        lcomps.map (comp) ->
+          unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
+          matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
 
   matiere.connaissance = []
-  lconnaissance = (/(?:\* Connaître *: )([\s\S]*)/ig.exec(matiere.competencesBrutes))
+  lconnaissance = (/En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :([\s\S]*)/ig.exec(matiere.competencesBrutes))
   if lconnaissance?
-    splitConnaissance = lconnaissance[1].split(' ; ');
+    splitConnaissance = lconnaissance[1].split(' - ');
+
     splitConnaissance.map (capa) ->
-      [,capaDescription,listComp] = capa.match(/(.*) \((.*)\)/)
-      capaDescription = "Connaissance : #{capaDescription.trim()}"
-      matiere.connaissance.push(capaDescription)
-      lcomps = listComp.split(', ')
-      lcomps.map (comp) ->
-        if comp is 'GCU- P2'
-          console.error("GCU -P2 a corriger")
-          comp = 'GCU-P2'
-        unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
-        matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
+      if capa isnt ''
+        [,capaDescription,listComp] = capa.match(/(.*) \((.*)\)/)
+        capaDescription = "Connaissance : #{capaDescription.trim()}"
+        matiere.connaissance.push(capaDescription)
+        lcomps = listComp.split(', ')
+        lcomps.map (comp) ->
+          unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
+          matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
 
   # console.warn "-->", matiere
   matiere
