@@ -46,6 +46,20 @@ extractPdfStructure = (pdf) ->
       console.error(error)
       throw error
 
+  # Competences mobilisées
+  lcompetences = /[\s\S]*De plus, elle nécessite de mobiliser les compétences suivantes : ([\s\S]*) En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : /ig.exec(matiere.competencesBrutes)
+  if lcompetences?
+    try
+      matiere.listeCompMobilise = lcompetences[1].match(/C\d.\d/g).map (x) ->
+        comp = refCompetences[x]
+        unless comp?
+          throw Error("#{x} est inconnue")
+        comp
+    catch error
+      console.error(lcompetences)
+      console.error(error)
+      throw error
+
   matiere.capacite = []
   matiere.competenceToCapaciteEtConnaissance = {}
   lcapacites = (/En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : ([\s\S]*)En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes/ig.exec(matiere.competencesBrutes))
