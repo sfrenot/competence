@@ -85,66 +85,66 @@ module.exports =
   'SHS-6':
     'code': 'SHS-6'
     'val': "Se situer, travailler, évoluer dans une entreprise, une organisation socioproductive"
-  'C1.1':
-    'code':'C1.1'
+  'A1':
+    'code':'A1'
     'val': "Résoudre les questions posées par un problème scientifique en étant conscient des limites"
-  'C1.2':
-    'code':'C1.2'
+  'A2':
+    'code':'A2'
     'val': "Développer une démarche expérimentale"
-  'C1.3':
-    'code':'C1.3'
+  'A3':
+    'code':'A3'
     'val': "Mettre en œuvre une démarche scientifique"
-  'C1.4':
-    'code':'C1.4'
+  'A4':
+    'code':'A4'
     'val': "Mettre en perspective les connaissances scientifiques avec l\'évolution des savoirs et des technologies"
-  'C1.5':
-    'code':'C1.5'
+  'A5':
+    'code':'A5'
     'val': "Identifier, formuler et résoudre un problème d\'ingénierie complexe"
-  'C2.1':
-    'code':'C2.1'
+  'C1':
+    'code':'C1'
     'val': "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données"
-  'C2.2':
-    'code':'C2.2'
+  'C2':
+    'code':'C2'
     'val': "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles"
-  'C2.3':
-    'code':'C2.3'
+  'C3':
+    'code':'C3'
     'val': "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques"
-  'C2.4':
-    'code':'C2.4'
+  'C4':
+    'code':'C4'
     'val': "Spécifier et dimensionner des systèmes numériques en réponse au besoin clients"
-  'C2.5':
-    'code':'C2.5'
+  'C5':
+    'code':'C5'
     'val': "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données"
-  'C2.6':
-    'code':'C2.6'
+  'C6':
+    'code':'C6'
     'val': "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles"
-  'C2.7':
-    'code':'C2.7'
+  'C7':
+    'code':'C7'
     'val': "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques"
-  'C2.8':
-    'code':'C2.8'
+  'C8':
+    'code':'C8'
     'val': "Opérer, analyser, améliorer des systèmes numériques"
-  'C2.9':
-    'code':'C2.9'
+  'C9':
+    'code':'C9'
     'val': "Conduire des projets dans le domaine du numérique"
-  'C3.1':
-    'code':'C3.1'
+  'B1':
+    'code':'B1'
     'val': "Se connaître, se gérer physiquement et mentalement"
-  'C3.2':
-    'code':'C3.2'
+  'B2':
+    'code':'B2'
     'val': "Travailler, apprendre, évoluer de manière autonome"
-  'C3.3':
-    'code':'C3.3'
+  'B3':
+    'code':'B3'
     'val': "Interagir avec les autres, travailler en équipe"
-  'C3.4':
-    'code':'C3.4'
+  'B4':
+    'code':'B4'
     'val': "Faire preuve de créativité, innover, entreprendre"
-  'C3.5':
-    'code':'C3.5'
+  'B5':
+    'code':'B5'
     'val': "Agir de manière responsable dans un monde complexe"
-  'C3.6':
-    'code':'C3.6'
+  'B6':
+    'code':'B6'
     'val': "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive"
-  'C3.7':
-    'code':'C3.7'
+  'B7':
+    'code':'B7'
     'val': "Travailler dans un contexte international et interculturel"

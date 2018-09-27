@@ -33,25 +33,24 @@ extractPdfStructure = (pdf) ->
   # console.log(lcompetences[1])
   if lcompetences?
     try
-      matiere.listeComp = lcompetences[1].split(/(?=C\d.\d )/g).map (x) ->
-        [, compet, niveau] = /(C\d.\d).*\(niveau (.*)\)/ig.exec(x)
+      matiere.listeComp = lcompetences[1].trim().split(/ (?=[ABC]\d)/).map (x) ->
+        [, compet, niveau] = /([ABC]\d) .*\(niveau (.*)\)/ig.exec(x)
 
         comp = refCompetences[compet]
         unless comp?
-          throw Error("#{x} est inconnue")
+          throw Error("*#{x}* est inconnue")
         comp.niveau = niveau
         comp
     catch error
       console.error(lcompetences)
       console.error(error)
       throw error
-
   # Competences mobilisées
   lcompetences = /[\s\S]*De plus, elle nécessite de mobiliser les compétences suivantes : ([\s\S]*) En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : /ig.exec(matiere.competencesBrutes)
   if lcompetences?
     try
-      matiere.listeCompMobilise = lcompetences[1].match(/C\d.\d/g).map (x) ->
-        comp = refCompetences[x]
+      matiere.listeCompMobilise = lcompetences[1].trim().match(/[ABC]\d /g).map (x) ->
+        comp = refCompetences[x.trim()]
         unless comp?
           throw Error("#{x} est inconnue")
         comp
