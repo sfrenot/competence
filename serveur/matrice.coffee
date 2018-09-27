@@ -41,7 +41,7 @@ ecComp = (ec) ->
   .join("\n")
 
 semestreTr = (semestre, name) ->
-  semestre.ecs.filter((ec) -> ec.comp?).map (ec, index) ->
+  semestre.ecs.filter((ec) -> ec.detail.listeComp?).map (ec, index) ->
     if index is 0
       """
       <tr>
