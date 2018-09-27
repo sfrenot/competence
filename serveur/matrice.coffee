@@ -2,11 +2,12 @@ express = require('express')
 app = express()
 _ = require('lodash')
 
-data = require('../formation/catalogue-GCU.json')[0]
+data = require('../formation/catalogue-TC.json')[0]
 
 calculComps = ->
   data.semestres.reduce (comps, semestre) ->
     semestre.ecs.reduce (comps, ec) ->
+      unless ec.detail then return comps
       if ec.detail.listeComp
         ec.detail.listeComp.reduce (comps, comp) ->
           comps[comp.code] =
@@ -28,19 +29,19 @@ console.log "keys", keys
 
 headComp = ->
   keys.map (key) ->
-    "<th><span>#{key} : #{comps[key].val}</span></th>"
+    "<th class='#{key[0]}'><span>#{key} : #{comps[key].val}</span></th>"
   .join('\n')
 
 ecComp = (ec) ->
   keys.map (key) ->
     if ec.detail.competenceToCapaciteEtConnaissance?[key]
-      "<td>x</td>"
+      "<td class='#{key[0]}'>x</td>"
     else
-      "<td></td>"
+      "<td class='#{key[0]}'></td>"
   .join("\n")
 
 semestreTr = (semestre, name) ->
-  semestre.ecs.map (ec, index) ->
+  semestre.ecs.filter((ec) -> ec.comp?).map (ec, index) ->
     if index is 0
       """
       <tr>
@@ -66,16 +67,27 @@ app.get '/GCU', (req, res) ->
     <meta charset="utf-8">
     <title>#{data.departement}</title>
     <style>
-      * {
+      .A {
+        background-color: #f3e3e3;
+      }
+      .B {
+        background-color: #ecfdd8;
+      }
+      .C {
+        background-color: #d8defd;
+      }
+      table td {
         white-space: nowrap;
       }
+
       thead tr th span {
         writing-mode: vertical-rl;
         text-orientation: mixed;
-        white-space: nowrap;
-        max-height: 200px;
+        height: 300px;
+        width: 30px;
         overflow: hidden;
         text-overflow: ellipsis;
+        font-size: x-small;
       }
 
       table {

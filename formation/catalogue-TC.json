@@ -22,24 +22,22 @@
                 {
                   "code": "C2",
                   "val": "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles",
-                  "niveau": "2"
+                  "niveau": "3"
                 },
                 {
                   "code": "C6",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles",
-                  "niveau": "3"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "A3",
-                  "val": "Mettre en œuvre une démarche scientifique",
-                  "niveau": "1"
+                  "val": "Mettre en œuvre une démarche scientifique"
                 },
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 }
               ],
               "capacite": [
@@ -152,7 +150,7 @@
                 {
                   "code": "C5",
                   "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "C8",
@@ -162,29 +160,25 @@
                 {
                   "code": "C1",
                   "val": "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "2"
+                  "niveau": "1"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "A1",
-                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites"
                 },
                 {
                   "code": "A3",
-                  "val": "Mettre en œuvre une démarche scientifique",
-                  "niveau": "1"
+                  "val": "Mettre en œuvre une démarche scientifique"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 }
               ],
               "capacite": [
@@ -254,28 +248,23 @@
               "listeCompMobilise": [
                 {
                   "code": "A1",
-                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites"
                 },
                 {
                   "code": "A3",
-                  "val": "Mettre en œuvre une démarche scientifique",
-                  "niveau": "1"
+                  "val": "Mettre en œuvre une démarche scientifique"
                 },
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 }
               ],
               "capacite": [
@@ -340,14 +329,13 @@
                 {
                   "code": "C7",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques",
-                  "niveau": "3"
+                  "niveau": "1"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 }
               ],
               "capacite": [
@@ -446,29 +434,27 @@
                 {
                   "code": "A5",
                   "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "C3",
                   "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "C7",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques",
-                  "niveau": "3"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 }
               ],
               "capacite": [
@@ -512,19 +498,18 @@
                 {
                   "code": "C3",
                   "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "C7",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques",
-                  "niveau": "3"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "A4",
-                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies"
                 }
               ],
               "capacite": [
@@ -578,7 +563,7 @@
                 {
                   "code": "A1",
                   "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "niveau": "3"
                 },
                 {
                   "code": "A5",
@@ -588,7 +573,7 @@
                 {
                   "code": "C3",
                   "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
-                  "niveau": "1"
+                  "niveau": "3"
                 },
                 {
                   "code": "A3",
@@ -599,8 +584,7 @@
               "listeCompMobilise": [
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 }
               ],
               "capacite": [],
@@ -625,19 +609,18 @@
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche scientifique",
-                  "niveau": "1"
+                  "niveau": "3"
                 },
                 {
                   "code": "A5",
                   "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "niveau": "1"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "A2",
-                  "val": "Développer une démarche expérimentale",
-                  "niveau": "1"
+                  "val": "Développer une démarche expérimentale"
                 }
               ],
               "capacite": [
@@ -698,28 +681,23 @@
               "listeCompMobilise": [
                 {
                   "code": "A1",
-                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites"
                 },
                 {
                   "code": "A3",
-                  "val": "Mettre en œuvre une démarche scientifique",
-                  "niveau": "1"
+                  "val": "Mettre en œuvre une démarche scientifique"
                 },
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 },
                 {
                   "code": "B1",
-                  "val": "Se connaître, se gérer physiquement et mentalement",
-                  "niveau": "1"
+                  "val": "Se connaître, se gérer physiquement et mentalement"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 }
               ],
               "capacite": [
@@ -1375,7 +1353,16 @@
           {
             "UE": "Humanités 1 (TC-3-S1-HUMA)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34569&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "HU-L-FLECRL2hS1",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "0.0 h",
+              "tp": "25.0 h",
+              "projet": "0.0 h",
+              "perso": "10.0 h",
+              "nom": "Langues Étrangères : Tutorat fle au CRL"
+            }
           },
           {
             "UE": "Humanités 1 (TC-3-S1-HUMA)",
@@ -1436,28 +1423,23 @@
               "listeCompMobilise": [
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "A1",
-                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites"
                 },
                 {
                   "code": "A3",
-                  "val": "Mettre en œuvre une démarche scientifique",
-                  "niveau": "1"
+                  "val": "Mettre en œuvre une démarche scientifique"
                 },
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 }
               ],
               "capacite": [
@@ -1525,29 +1507,25 @@
                 {
                   "code": "C5",
                   "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "3"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "A2",
-                  "val": "Développer une démarche expérimentale",
-                  "niveau": "1"
+                  "val": "Développer une démarche expérimentale"
                 },
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 }
               ],
               "capacite": [
@@ -1603,7 +1581,7 @@
                 {
                   "code": "C3",
                   "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
-                  "niveau": "1"
+                  "niveau": "3"
                 },
                 {
                   "code": "C7",
@@ -1613,19 +1591,17 @@
                 {
                   "code": "A5",
                   "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "niveau": "1"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "A3",
-                  "val": "Mettre en œuvre une démarche scientifique",
-                  "niveau": "1"
+                  "val": "Mettre en œuvre une démarche scientifique"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 }
               ],
               "capacite": [
@@ -1677,49 +1653,46 @@
                 {
                   "code": "A4",
                   "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "A5",
                   "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "C3",
                   "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "C7",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "C9",
                   "val": "Conduire des projets dans le domaine du numérique",
-                  "niveau": "3"
+                  "niveau": "1"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "niveau": "1"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "C6",
-                  "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles",
-                  "niveau": "3"
+                  "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles"
                 },
                 {
                   "code": "A2",
-                  "val": "Développer une démarche expérimentale",
-                  "niveau": "1"
+                  "val": "Développer une démarche expérimentale"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 }
               ],
               "capacite": [
@@ -1781,24 +1754,21 @@
                 {
                   "code": "C6",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles",
-                  "niveau": "3"
+                  "niveau": "1"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "C2",
-                  "val": "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles",
-                  "niveau": "2"
+                  "val": "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles"
                 },
                 {
                   "code": "C5",
-                  "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "3"
+                  "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 }
               ],
               "capacite": [
@@ -1844,49 +1814,46 @@
                 {
                   "code": "A4",
                   "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "A5",
                   "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "C3",
                   "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "C7",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "C9",
                   "val": "Conduire des projets dans le domaine du numérique",
-                  "niveau": "3"
+                  "niveau": "1"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "niveau": "1"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "C6",
-                  "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles",
-                  "niveau": "3"
+                  "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles"
                 },
                 {
                   "code": "A2",
-                  "val": "Développer une démarche expérimentale",
-                  "niveau": "1"
+                  "val": "Développer une démarche expérimentale"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 }
               ],
               "capacite": [
@@ -1937,39 +1904,33 @@
                 {
                   "code": "C5",
                   "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "3"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "A2",
-                  "val": "Développer une démarche expérimentale",
-                  "niveau": "1"
+                  "val": "Développer une démarche expérimentale"
                 },
                 {
                   "code": "A1",
-                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites"
                 },
                 {
                   "code": "A3",
-                  "val": "Mettre en œuvre une démarche scientifique",
-                  "niveau": "1"
+                  "val": "Mettre en œuvre une démarche scientifique"
                 },
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 },
                 {
                   "code": "B1",
-                  "val": "Se connaître, se gérer physiquement et mentalement",
-                  "niveau": "1"
+                  "val": "Se connaître, se gérer physiquement et mentalement"
                 }
               ],
               "capacite": [
@@ -2060,24 +2021,21 @@
                 {
                   "code": "B1",
                   "val": "Se connaître, se gérer physiquement et mentalement",
-                  "niveau": "1"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "A1",
-                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites"
                 },
                 {
                   "code": "A4",
-                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies"
                 },
                 {
                   "code": "A2",
-                  "val": "Développer une démarche expérimentale",
-                  "niveau": "1"
+                  "val": "Développer une démarche expérimentale"
                 }
               ],
               "capacite": [
@@ -2127,7 +2085,7 @@
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche scientifique",
-                  "niveau": "1"
+                  "niveau": "3"
                 },
                 {
                   "code": "B3",
@@ -2137,7 +2095,7 @@
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "A1",
@@ -2152,7 +2110,7 @@
                 {
                   "code": "C1",
                   "val": "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "2"
+                  "niveau": "1"
                 },
                 {
                   "code": "C3",
@@ -2167,29 +2125,25 @@
                 {
                   "code": "B4",
                   "val": "Faire preuve de créativité, innover, entreprendre",
-                  "niveau": "2"
+                  "niveau": "1"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "A4",
-                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies"
                 },
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 },
                 {
                   "code": "B5",
-                  "val": "Agir de manière responsable dans un monde complexe",
-                  "niveau": "3"
+                  "val": "Agir de manière responsable dans un monde complexe"
                 },
                 {
                   "code": "B6",
-                  "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
-                  "niveau": "2"
+                  "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive"
                 }
               ],
               "capacite": [
@@ -2270,19 +2224,18 @@
                 {
                   "code": "C9",
                   "val": "Conduire des projets dans le domaine du numérique",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "B6",
-                  "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
-                  "niveau": "2"
+                  "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive"
                 }
               ],
               "capacite": [
@@ -2342,28 +2295,23 @@
               "listeCompMobilise": [
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "A1",
-                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites"
                 },
                 {
                   "code": "A3",
-                  "val": "Mettre en œuvre une démarche scientifique",
-                  "niveau": "1"
+                  "val": "Mettre en œuvre une démarche scientifique"
                 },
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 }
               ],
               "capacite": [
@@ -2560,7 +2508,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : RUSSE S2",
-              "competencesBrutes": "Cet EC relève de l'UE : HUMANITÉS  Il contribue aux compétences Ecole transversales suivantes : CT7: Travailler dans un contexte international et interculturel --CT7.1 : Communiquer en langues étrangères  en permettant à l'él��ve ingénieur de travailler et d'être évalué sur les connaissances et les capacités suivantes :  Être capable de : -- comprendre et mettre en œuvre les codes sociaux propres aux diverses cultures --avoir une conversation adaptée au niveau ciblé --faire face à des situations de communication de difficulté croissante --produire divers types de textes --comprendre des documents (écrits, audio-visuels) authentiques --parler d'une société ou d'un phénomène de société --mettre en œuvre la grammaire et le vocabulaire présentés en cours  Le niveau d'acquisition attendu (A1-B2) est fixé en fonction du groupe.",
+              "competencesBrutes": "Cet EC relève de l'UE : HUMANITÉS  Il contribue aux compétences Ecole transversales suivantes : CT7: Travailler dans un contexte international et interculturel --CT7.1 : Communiquer en langues étrangères  en permettant à l'élève ingénieur de travailler et d'être évalué sur les connaissances et les capacités suivantes :  Être capable de : -- comprendre et mettre en œuvre les codes sociaux propres aux diverses cultures --avoir une conversation adaptée au niveau ciblé --faire face à des situations de communication de difficulté croissante --produire divers types de textes --comprendre des documents (écrits, audio-visuels) authentiques --parler d'une société ou d'un phénomène de société --mettre en œuvre la grammaire et le vocabulaire présentés en cours  Le niveau d'acquisition attendu (A1-B2) est fixé en fonction du groupe.",
               "capacite": [],
               "competenceToCapaciteEtConnaissance": {},
               "connaissance": []
@@ -2641,7 +2589,16 @@
           {
             "UE": "Humanités 2 (TC-3-S2-HUMA)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34865&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "HU-L-FLECRL2hS2",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "0.0 h",
+              "tp": "25.0 h",
+              "projet": "0.0 h",
+              "perso": "10.0 h",
+              "nom": "Langues Étrangères : Tutorat fle au CRL"
+            }
           }
         ]
       },
@@ -2651,7 +2608,15 @@
           {
             "UE": "Projet de recherche (IST-4-REP)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=35627&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "IST-4-REP",
+              "ects": "10.0",
+              "cours": "0.0 h",
+              "td": "10.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "150.0 h"
+            }
           },
           {
             "UE": "Des bases de donnés à la fouille de données - Partie2 : fouille de données (IST-4-DBM2)",
@@ -2944,7 +2909,16 @@
           {
             "UE": "FLE pour les étudiants en département sem1 (HU-L-FLE S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34569&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "HU-L-FLECRL2hS1",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "0.0 h",
+              "tp": "25.0 h",
+              "projet": "0.0 h",
+              "perso": "10.0 h",
+              "nom": "Langues Étrangères : Tutorat fle au CRL"
+            }
           }
         ]
       },
@@ -2968,24 +2942,21 @@
                 {
                   "code": "C6",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles",
-                  "niveau": "3"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "C2",
-                  "val": "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles",
-                  "niveau": "2"
+                  "val": "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "C5",
-                  "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "3"
+                  "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données"
                 }
               ],
               "capacite": [
@@ -3037,17 +3008,17 @@
                 {
                   "code": "C2",
                   "val": "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles",
-                  "niveau": "2"
+                  "niveau": "3"
                 },
                 {
                   "code": "C1",
                   "val": "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "2"
+                  "niveau": "1"
                 },
                 {
                   "code": "C8",
                   "val": "Opérer, analyser, améliorer des systèmes numériques",
-                  "niveau": "2"
+                  "niveau": "1"
                 },
                 {
                   "code": "A3",
@@ -3057,24 +3028,21 @@
                 {
                   "code": "A5",
                   "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "niveau": "1"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "C3",
-                  "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
-                  "niveau": "1"
+                  "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 }
               ],
               "capacite": [
@@ -3140,44 +3108,39 @@
                 {
                   "code": "C1",
                   "val": "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "2"
+                  "niveau": "3"
                 },
                 {
                   "code": "C5",
                   "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "A4",
                   "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "A1",
-                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites"
                 },
                 {
                   "code": "A3",
-                  "val": "Mettre en œuvre une démarche scientifique",
-                  "niveau": "1"
+                  "val": "Mettre en œuvre une démarche scientifique"
                 },
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 }
               ],
               "capacite": [
@@ -3241,44 +3204,39 @@
                 {
                   "code": "C1",
                   "val": "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "2"
+                  "niveau": "3"
                 },
                 {
                   "code": "A4",
                   "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "niveau": "3"
                 },
                 {
                   "code": "C5",
                   "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "3"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "A1",
-                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "A3",
-                  "val": "Mettre en œuvre une démarche scientifique",
-                  "niveau": "1"
+                  "val": "Mettre en œuvre une démarche scientifique"
                 },
                 {
                   "code": "A2",
-                  "val": "Développer une démarche expérimentale",
-                  "niveau": "1"
+                  "val": "Développer une démarche expérimentale"
                 }
               ],
               "capacite": [
@@ -3350,12 +3308,12 @@
                 {
                   "code": "C1",
                   "val": "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "2"
+                  "niveau": "3"
                 },
                 {
                   "code": "A2",
                   "val": "Développer une démarche expérimentale",
-                  "niveau": "1"
+                  "niveau": "3"
                 },
                 {
                   "code": "B3",
@@ -3365,14 +3323,13 @@
                 {
                   "code": "C9",
                   "val": "Conduire des projets dans le domaine du numérique",
-                  "niveau": "3"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 }
               ],
               "capacite": [
@@ -3428,24 +3385,21 @@
                 {
                   "code": "C6",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles",
-                  "niveau": "3"
+                  "niveau": "1"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "C2",
-                  "val": "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles",
-                  "niveau": "2"
+                  "val": "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles"
                 },
                 {
                   "code": "C5",
-                  "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "3"
+                  "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 }
               ],
               "capacite": [
@@ -3491,7 +3445,7 @@
                 {
                   "code": "C3",
                   "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
-                  "niveau": "1"
+                  "niveau": "3"
                 },
                 {
                   "code": "C8",
@@ -3502,8 +3456,7 @@
               "listeCompMobilise": [
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 }
               ],
               "capacite": [
@@ -3556,13 +3509,11 @@
               "listeCompMobilise": [
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 }
               ],
               "capacite": [
@@ -3613,13 +3564,11 @@
               "listeCompMobilise": [
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 }
               ],
               "capacite": [
@@ -3654,7 +3603,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : TANDEM INTERNATIONAL",
-              "competencesBrutes": "Cibl��es CECRL - perfectionnement de la compréhension orale et de l¿expression orale visant l¿aisance et la spontanéité communicationnelles - enrichissement culturel INSA, Référentiel de compétences en Humanités 4. Faire preuve de créativité, innover, entreprendre 7. Travailler dans un contexte international et interculturel  Mobilisées CECRL - prise de parole en langue étrangère (en binôme et devant un groupe) - réinvestissement d¿éléments étudiés INSA, Référentiel de compétences en Humanités 2. Travailler, apprendre, évoluer de manière autonome. 3. Interagir avec les autres, travailler en équipe",
+              "competencesBrutes": "Ciblées CECRL - perfectionnement de la compréhension orale et de l¿expression orale visant l¿aisance et la spontanéité communicationnelles - enrichissement culturel INSA, Référentiel de compétences en Humanités 4. Faire preuve de créativité, innover, entreprendre 7. Travailler dans un contexte international et interculturel  Mobilisées CECRL - prise de parole en langue étrangère (en binôme et devant un groupe) - réinvestissement d¿éléments étudiés INSA, Référentiel de compétences en Humanités 2. Travailler, apprendre, évoluer de manière autonome. 3. Interagir avec les autres, travailler en équipe",
               "capacite": [],
               "competenceToCapaciteEtConnaissance": {},
               "connaissance": []
@@ -4131,7 +4080,16 @@
           {
             "UE": "Humanités 3 (TC-4-S1-HUMA)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34569&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "HU-L-FLECRL2hS1",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "0.0 h",
+              "tp": "25.0 h",
+              "projet": "0.0 h",
+              "perso": "10.0 h",
+              "nom": "Langues Étrangères : Tutorat fle au CRL"
+            }
           },
           {
             "UE": "Humanités 3 (TC-4-S1-HUMA)",
@@ -4256,7 +4214,7 @@
                 {
                   "code": "C7",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "C8",
@@ -4266,14 +4224,13 @@
                 {
                   "code": "B5",
                   "val": "Agir de manière responsable dans un monde complexe",
-                  "niveau": "3"
+                  "niveau": "1"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 }
               ],
               "capacite": [
@@ -4335,7 +4292,7 @@
                 {
                   "code": "C2",
                   "val": "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles",
-                  "niveau": "2"
+                  "niveau": "3"
                 },
                 {
                   "code": "A3",
@@ -4346,18 +4303,15 @@
               "listeCompMobilise": [
                 {
                   "code": "C3",
-                  "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
-                  "niveau": "1"
+                  "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques"
                 },
                 {
                   "code": "C7",
-                  "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques",
-                  "niveau": "3"
+                  "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques"
                 },
                 {
                   "code": "C6",
-                  "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles",
-                  "niveau": "3"
+                  "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles"
                 }
               ],
               "capacite": [
@@ -4420,14 +4374,13 @@
                 {
                   "code": "C7",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques",
-                  "niveau": "3"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "C3",
-                  "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
-                  "niveau": "1"
+                  "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques"
                 }
               ],
               "capacite": [
@@ -4485,7 +4438,7 @@
                 {
                   "code": "C8",
                   "val": "Opérer, analyser, améliorer des systèmes numériques",
-                  "niveau": "2"
+                  "niveau": "3"
                 },
                 {
                   "code": "C2",
@@ -4495,29 +4448,25 @@
                 {
                   "code": "C6",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles",
-                  "niveau": "3"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "A1",
-                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites"
                 },
                 {
                   "code": "A4",
-                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies"
                 },
                 {
                   "code": "B4",
-                  "val": "Faire preuve de créativité, innover, entreprendre",
-                  "niveau": "2"
+                  "val": "Faire preuve de créativité, innover, entreprendre"
                 },
                 {
                   "code": "B5",
-                  "val": "Agir de manière responsable dans un monde complexe",
-                  "niveau": "3"
+                  "val": "Agir de manière responsable dans un monde complexe"
                 }
               ],
               "capacite": [
@@ -4634,7 +4583,7 @@
                 {
                   "code": "C1",
                   "val": "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "2"
+                  "niveau": "3"
                 },
                 {
                   "code": "C5",
@@ -4650,23 +4599,19 @@
               "listeCompMobilise": [
                 {
                   "code": "A2",
-                  "val": "Développer une démarche expérimentale",
-                  "niveau": "1"
+                  "val": "Développer une démarche expérimentale"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 }
               ],
               "capacite": [
@@ -4734,14 +4679,13 @@
                 {
                   "code": "C2",
                   "val": "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles",
-                  "niveau": "2"
+                  "niveau": "3"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "C6",
-                  "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles",
-                  "niveau": "3"
+                  "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles"
                 },
                 {
                   "code": "C4",
@@ -4749,38 +4693,31 @@
                 },
                 {
                   "code": "C9",
-                  "val": "Conduire des projets dans le domaine du numérique",
-                  "niveau": "3"
+                  "val": "Conduire des projets dans le domaine du numérique"
                 },
                 {
                   "code": "A4",
-                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B4",
-                  "val": "Faire preuve de créativité, innover, entreprendre",
-                  "niveau": "2"
+                  "val": "Faire preuve de créativité, innover, entreprendre"
                 },
                 {
                   "code": "B5",
-                  "val": "Agir de manière responsable dans un monde complexe",
-                  "niveau": "3"
+                  "val": "Agir de manière responsable dans un monde complexe"
                 },
                 {
                   "code": "B7",
@@ -4876,28 +4813,23 @@
               "listeCompMobilise": [
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "B4",
-                  "val": "Faire preuve de créativité, innover, entreprendre",
-                  "niveau": "2"
+                  "val": "Faire preuve de créativité, innover, entreprendre"
                 },
                 {
                   "code": "B5",
-                  "val": "Agir de manière responsable dans un monde complexe",
-                  "niveau": "3"
+                  "val": "Agir de manière responsable dans un monde complexe"
                 },
                 {
                   "code": "B1",
-                  "val": "Se connaître, se gérer physiquement et mentalement",
-                  "niveau": "1"
+                  "val": "Se connaître, se gérer physiquement et mentalement"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 }
               ],
               "capacite": [
@@ -4968,38 +4900,31 @@
               "listeCompMobilise": [
                 {
                   "code": "C2",
-                  "val": "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles",
-                  "niveau": "2"
+                  "val": "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles"
                 },
                 {
                   "code": "C7",
-                  "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques",
-                  "niveau": "3"
+                  "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 },
                 {
                   "code": "C5",
-                  "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "3"
+                  "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données"
                 },
                 {
                   "code": "C9",
-                  "val": "Conduire des projets dans le domaine du numérique",
-                  "niveau": "3"
+                  "val": "Conduire des projets dans le domaine du numérique"
                 }
               ],
               "capacite": [
@@ -5043,7 +4968,7 @@
                 {
                   "code": "C1",
                   "val": "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "2"
+                  "niveau": "3"
                 },
                 {
                   "code": "C5",
@@ -5058,19 +4983,17 @@
                 {
                   "code": "C6",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles",
-                  "niveau": "3"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "A4",
-                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 }
               ],
               "capacite": [
@@ -5114,24 +5037,22 @@
                 {
                   "code": "C1",
                   "val": "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "2"
+                  "niveau": "3"
                 },
                 {
                   "code": "C2",
                   "val": "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles",
-                  "niveau": "2"
+                  "niveau": "3"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "A1",
-                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites"
                 },
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 }
               ],
               "capacite": [
@@ -5238,28 +5159,23 @@
               "listeCompMobilise": [
                 {
                   "code": "C2",
-                  "val": "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles",
-                  "niveau": "2"
+                  "val": "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B4",
-                  "val": "Faire preuve de créativité, innover, entreprendre",
-                  "niveau": "2"
+                  "val": "Faire preuve de créativité, innover, entreprendre"
                 },
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 }
               ],
               "capacite": [
@@ -5303,7 +5219,7 @@
                 {
                   "code": "A1",
                   "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "C2",
@@ -5314,18 +5230,15 @@
               "listeCompMobilise": [
                 {
                   "code": "A4",
-                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies"
                 },
                 {
                   "code": "C6",
-                  "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles",
-                  "niveau": "3"
+                  "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 }
               ],
               "capacite": [
@@ -5357,7 +5270,15 @@
           {
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36886&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "TC-5-OP2-RLD",
+              "ects": "2.0",
+              "cours": "32.0 h",
+              "td": "0.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "0.0 h"
+            }
           },
           {
             "UE": "Options de 5TC (TC-5-OPT)",
@@ -5376,7 +5297,7 @@
                 {
                   "code": "A4",
                   "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "niveau": "3"
                 },
                 {
                   "code": "A5",
@@ -5396,34 +5317,30 @@
                 {
                   "code": "C6",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "C9",
                   "val": "Conduire des projets dans le domaine du numérique",
-                  "niveau": "3"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "C3",
-                  "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
-                  "niveau": "1"
+                  "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "A2",
-                  "val": "Développer une démarche expérimentale",
-                  "niveau": "1"
+                  "val": "Développer une démarche expérimentale"
                 },
                 {
                   "code": "A1",
-                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites"
                 }
               ],
               "capacite": [
@@ -5477,7 +5394,7 @@
                 {
                   "code": "C1",
                   "val": "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "2"
+                  "niveau": "3"
                 },
                 {
                   "code": "C5",
@@ -5487,39 +5404,34 @@
                 {
                   "code": "A5",
                   "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "C3",
                   "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
-                  "niveau": "1"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "A1",
-                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites"
                 },
                 {
                   "code": "A2",
-                  "val": "Développer une démarche expérimentale",
-                  "niveau": "1"
+                  "val": "Développer une démarche expérimentale"
                 },
                 {
                   "code": "A3",
-                  "val": "Mettre en œuvre une démarche scientifique",
-                  "niveau": "1"
+                  "val": "Mettre en œuvre une démarche scientifique"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "B4",
-                  "val": "Faire preuve de créativité, innover, entreprendre",
-                  "niveau": "2"
+                  "val": "Faire preuve de créativité, innover, entreprendre"
                 }
               ],
               "capacite": [
@@ -5568,12 +5480,12 @@
                 {
                   "code": "C9",
                   "val": "Conduire des projets dans le domaine du numérique",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "niveau": "2"
                 }
               ],
               "capacite": [],
@@ -5593,17 +5505,17 @@
               "projet": "0.0 h",
               "perso": "8.0 h",
               "nom": "Informatique : Interface matériel/logiciel dans les systèmes embarqués",
-              "competencesBrutes": "Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :  A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 2) A3 Mettre en œuvre une démarche scientifique (niveau 2) C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 1) C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2) C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 1)  De plus, elle nécessite de mobiliser les compétences suivantes :  B2 Travailler, apprendre, évoluer de manière autonome B3 Interagir avec les autres, travailler en équipe A2 Développer une démarche expérimentale A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :  - Configuration réseau (A5) - Protocole de communication numérique sans fil (A5) - Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet (A5) - Programmation C embarqués (A5) - Gestionnaire d'interruption, pilotes de périphériques, OS léger (A5) - Administration linux (A5) - Programmation C embarqués (A3) - Gestionnaire d'interruption, pilotes de périphériques, OS léger (A3) - Configuration réseau (C3) - Protocole de communication numérique sans fil (C3) - Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet (C3) - Programmation C embarqués (C3) - Gestionnaire d'interruption, pilotes de périphériques, OS léger (C3) - Administration linux (C3) - Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet (C7) - Programmation C embarqués (C7)  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - Programmer un micro-contrôleur: (A5) - Configurer un chip radio (A5) - Programmer un micro-contrôleur: (A3) - Construire une distribution linux pour un système embarqué (A3) - Construire une chaîne de compilation croisée (C3) - Programmer un micro-contrôleur (C7) - Configurer un chip radio (C7) - Construire une chaîne de compilation croisée (C7) - Configurer un chip radio (C1)",
+              "competencesBrutes": "Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :  A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 2) A3 Mettre en œuvre une démarche scientifique (niveau 2) C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 1) C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2) C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 1)  De plus, elle nécessite de mobiliser les compétences suivantes :  B2 Travailler, apprendre, évoluer de manière autonome B3 Interagir avec les autres, travailler en équipe A2 Développer une démarche expérimentale A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :  - Configuration réseau (A5) - Protocole de communication numérique sans fil (A5) - Ma��triser les outils de programmation embarqué: JTAG, UART, ethernet (A5) - Programmation C embarqués (A5) - Gestionnaire d'interruption, pilotes de périphériques, OS léger (A5) - Administration linux (A5) - Programmation C embarqués (A3) - Gestionnaire d'interruption, pilotes de périphériques, OS léger (A3) - Configuration réseau (C3) - Protocole de communication numérique sans fil (C3) - Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet (C3) - Programmation C embarqués (C3) - Gestionnaire d'interruption, pilotes de périphériques, OS léger (C3) - Administration linux (C3) - Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet (C7) - Programmation C embarqués (C7)  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - Programmer un micro-contrôleur: (A5) - Configurer un chip radio (A5) - Programmer un micro-contrôleur: (A3) - Construire une distribution linux pour un système embarqué (A3) - Construire une chaîne de compilation croisée (C3) - Programmer un micro-contrôleur (C7) - Configurer un chip radio (C7) - Construire une chaîne de compilation croisée (C7) - Configurer un chip radio (C1)",
               "listeComp": [
                 {
                   "code": "A5",
                   "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche scientifique",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "C3",
@@ -5613,45 +5525,40 @@
                 {
                   "code": "C7",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "C1",
                   "val": "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "2"
+                  "niveau": "1"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "A2",
-                  "val": "Développer une démarche expérimentale",
-                  "niveau": "1"
+                  "val": "Développer une démarche expérimentale"
                 },
                 {
                   "code": "A4",
-                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies"
                 },
                 {
                   "code": "C5",
-                  "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "3"
+                  "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données"
                 }
               ],
               "capacite": [
                 "Capacité : Configuration réseau",
                 "Capacité : Protocole de communication numérique sans fil",
-                "Capacité : Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet",
+                "Capacité : Ma��triser les outils de programmation embarqué: JTAG, UART, ethernet",
                 "Capacité : Programmation C embarqués",
                 "Capacité : Gestionnaire d'interruption, pilotes de périphériques, OS léger",
                 "Capacité : Administration linux",
@@ -5670,7 +5577,7 @@
                 "A5": [
                   "Capacité : Configuration réseau",
                   "Capacité : Protocole de communication numérique sans fil",
-                  "Capacité : Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet",
+                  "Capacité : Ma��triser les outils de programmation embarqué: JTAG, UART, ethernet",
                   "Capacité : Programmation C embarqués",
                   "Capacité : Gestionnaire d'interruption, pilotes de périphériques, OS léger",
                   "Capacité : Administration linux",
@@ -5733,17 +5640,17 @@
                 {
                   "code": "A1",
                   "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "A5",
                   "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "C7",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "C3",
@@ -5754,28 +5661,23 @@
               "listeCompMobilise": [
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "A2",
-                  "val": "Développer une démarche expérimentale",
-                  "niveau": "1"
+                  "val": "Développer une démarche expérimentale"
                 },
                 {
                   "code": "A4",
-                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies"
                 },
                 {
                   "code": "C5",
-                  "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "3"
+                  "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données"
                 }
               ],
               "capacite": [
@@ -5863,54 +5765,49 @@
                 {
                   "code": "A1",
                   "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "A5",
                   "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "C3",
                   "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "C7",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "C1",
                   "val": "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "2"
+                  "niveau": "1"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "A2",
-                  "val": "Développer une démarche expérimentale",
-                  "niveau": "1"
+                  "val": "Développer une démarche expérimentale"
                 },
                 {
                   "code": "A4",
-                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies"
                 },
                 {
                   "code": "C5",
-                  "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "3"
+                  "val": "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données"
                 }
               ],
               "capacite": [
@@ -5959,32 +5856,32 @@
               "projet": "0.0 h",
               "perso": "0.0 h",
               "nom": "Télécommunications : IA pour la Robotique",
-              "competencesBrutes": "Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :  A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites (niveau 2) A2 Développer une démarche expérimentale (niveau 2) A3 Mettre en œuvre une démarche scientifique (niveau 2) A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies (niveau 2) A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 2) C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 2) C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 2) C8 Opérer, analyser, améliorer des systèmes numériques (niveau 2)  De plus, elle nécessite de mobiliser les compétences suivantes :  B2 Travailler, apprendre, évoluer de manière autonome B3 Interagir avec les autres, travailler en équipe  En permettant à l'étudiant de travailler et d'être évalu�� sur les connaissances suivantes :  - Agent : architectures pour la robotique, Systèmes-Multi-Agents (A1) - Architectures bio-inspirées et Swarm robotics (A1) - Algorithmes de planification A* (A1) - Processus décisionnel de Markov (MDP) (A1) - Problème d¿apprentissage par renforcement (A1) - Algorithmes d¿apprentissage par renforcement: policy, value iteration, Qlearning, Sarsa, DQN, policy gradient (A1) - Schémas d'approximation linéaire et non-linéaire (avec réseaux de neurones) (A1)  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - Connaître les enjeux de l'IA en Robotique (A1) - Implémenter un algorithme de plus court chemin comme A* (A1) - Modéliser un problème de prise de décision comme un MDP (A1) - Expliquer les objectifs sous-jacents de l¿apprentissage par renforcement (A1) - Comprendre les principaux résultats de convergence des algorithmes de programmation dynamique (A1) - Implémenter les algorithmes d¿apprentissage par renforcement exacts et approchés (A1)",
+              "competencesBrutes": "Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :  A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites (niveau 2) A2 Développer une démarche expérimentale (niveau 2) A3 Mettre en œuvre une démarche scientifique (niveau 2) A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies (niveau 2) A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 2) C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 2) C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 2) C8 Opérer, analyser, améliorer des systèmes numériques (niveau 2)  De plus, elle nécessite de mobiliser les compétences suivantes :  B2 Travailler, apprendre, évoluer de manière autonome B3 Interagir avec les autres, travailler en équipe  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :  - Agent : architectures pour la robotique, Systèmes-Multi-Agents (A1) - Architectures bio-inspirées et Swarm robotics (A1) - Algorithmes de planification A* (A1) - Processus décisionnel de Markov (MDP) (A1) - Problème d¿apprentissage par renforcement (A1) - Algorithmes d¿apprentissage par renforcement: policy, value iteration, Qlearning, Sarsa, DQN, policy gradient (A1) - Schémas d'approximation linéaire et non-linéaire (avec réseaux de neurones) (A1)  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - Connaître les enjeux de l'IA en Robotique (A1) - Implémenter un algorithme de plus court chemin comme A* (A1) - Modéliser un problème de prise de décision comme un MDP (A1) - Expliquer les objectifs sous-jacents de l¿apprentissage par renforcement (A1) - Comprendre les principaux résultats de convergence des algorithmes de programmation dynamique (A1) - Implémenter les algorithmes d¿apprentissage par renforcement exacts et approchés (A1)",
               "listeComp": [
                 {
                   "code": "A1",
                   "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "A2",
                   "val": "Développer une démarche expérimentale",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche scientifique",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "A4",
                   "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "A5",
                   "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "C1",
@@ -5994,7 +5891,7 @@
                 {
                   "code": "C3",
                   "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "C8",
@@ -6002,9 +5899,34 @@
                   "niveau": "2"
                 }
               ],
-              "capacite": [],
+              "listeCompMobilise": [
+                {
+                  "code": "B2",
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
+                },
+                {
+                  "code": "B3",
+                  "val": "Interagir avec les autres, travailler en équipe"
+                }
+              ],
+              "capacite": [
+                "Capacité : Agent : architectures pour la robotique, Systèmes-Multi-Agents",
+                "Capacité : Architectures bio-inspirées et Swarm robotics",
+                "Capacité : Algorithmes de planification A*",
+                "Capacité : Processus décisionnel de Markov (MDP)",
+                "Capacité : Problème d¿apprentissage par renforcement",
+                "Capacité : Algorithmes d¿apprentissage par renforcement: policy, value iteration, Qlearning, Sarsa, DQN, policy gradient",
+                "Capacité : Schémas d'approximation linéaire et non-linéaire (avec réseaux de neurones)"
+              ],
               "competenceToCapaciteEtConnaissance": {
                 "A1": [
+                  "Capacité : Agent : architectures pour la robotique, Systèmes-Multi-Agents",
+                  "Capacité : Architectures bio-inspirées et Swarm robotics",
+                  "Capacité : Algorithmes de planification A*",
+                  "Capacité : Processus décisionnel de Markov (MDP)",
+                  "Capacité : Problème d¿apprentissage par renforcement",
+                  "Capacité : Algorithmes d¿apprentissage par renforcement: policy, value iteration, Qlearning, Sarsa, DQN, policy gradient",
+                  "Capacité : Schémas d'approximation linéaire et non-linéaire (avec réseaux de neurones)",
                   "Connaissance : Connaître les enjeux de l'IA en Robotique",
                   "Connaissance : Implémenter un algorithme de plus court chemin comme A*",
                   "Connaissance : Modéliser un problème de prise de décision comme un MDP",
@@ -6045,7 +5967,7 @@
                 {
                   "code": "C3",
                   "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
-                  "niveau": "1"
+                  "niveau": "3"
                 },
                 {
                   "code": "B3",
@@ -6055,22 +5977,22 @@
                 {
                   "code": "A1",
                   "val": "Résoudre les questions posées par un problème scientifique en étant conscient des limites",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "A2",
                   "val": "Développer une démarche expérimentale",
-                  "niveau": "1"
+                  "niveau": "2"
                 },
                 {
                   "code": "C7",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "niveau": "2"
                 },
                 {
                   "code": "B4",
@@ -6100,19 +6022,17 @@
                 {
                   "code": "C7",
                   "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques",
-                  "niveau": "3"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "C3",
-                  "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
-                  "niveau": "1"
+                  "val": "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 }
               ],
               "capacite": [
@@ -6188,14 +6108,13 @@
                 {
                   "code": "A4",
                   "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "niveau": "2"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "B5",
-                  "val": "Agir de manière responsable dans un monde complexe",
-                  "niveau": "3"
+                  "val": "Agir de manière responsable dans un monde complexe"
                 }
               ],
               "capacite": [
@@ -6263,12 +6182,12 @@
                 {
                   "code": "A5",
                   "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "niveau": "1"
                 },
                 {
                   "code": "B5",
                   "val": "Agir de manière responsable dans un monde complexe",
-                  "niveau": "3"
+                  "niveau": "1"
                 }
               ],
               "capacite": [],
@@ -6318,7 +6237,7 @@
                 {
                   "code": "C9",
                   "val": "Conduire des projets dans le domaine du numérique",
-                  "niveau": "3"
+                  "niveau": "1"
                 }
               ],
               "capacite": [],
@@ -6364,28 +6283,23 @@
               "listeCompMobilise": [
                 {
                   "code": "C1",
-                  "val": "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données",
-                  "niveau": "2"
+                  "val": "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données"
                 },
                 {
                   "code": "A4",
-                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies",
-                  "niveau": "1"
+                  "val": "Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies"
                 },
                 {
                   "code": "C7",
-                  "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques",
-                  "niveau": "3"
+                  "val": "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "B4",
-                  "val": "Faire preuve de créativité, innover, entreprendre",
-                  "niveau": "2"
+                  "val": "Faire preuve de créativité, innover, entreprendre"
                 }
               ],
               "capacite": [
@@ -6433,29 +6347,25 @@
                 {
                   "code": "C8",
                   "val": "Opérer, analyser, améliorer des systèmes numériques",
-                  "niveau": "2"
+                  "niveau": "3"
                 }
               ],
               "listeCompMobilise": [
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "B4",
-                  "val": "Faire preuve de créativité, innover, entreprendre",
-                  "niveau": "2"
+                  "val": "Faire preuve de créativité, innover, entreprendre"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 }
               ],
               "capacite": [
@@ -6501,13 +6411,11 @@
               "listeCompMobilise": [
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 }
               ],
               "capacite": [
@@ -6554,18 +6462,15 @@
               "listeCompMobilise": [
                 {
                   "code": "B4",
-                  "val": "Faire preuve de créativité, innover, entreprendre",
-                  "niveau": "2"
+                  "val": "Faire preuve de créativité, innover, entreprendre"
                 },
                 {
                   "code": "B2",
-                  "val": "Travailler, apprendre, évoluer de manière autonome",
-                  "niveau": "3"
+                  "val": "Travailler, apprendre, évoluer de manière autonome"
                 },
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 }
               ],
               "capacite": [
@@ -6630,18 +6535,15 @@
               "listeCompMobilise": [
                 {
                   "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "niveau": "3"
+                  "val": "Interagir avec les autres, travailler en équipe"
                 },
                 {
                   "code": "B4",
-                  "val": "Faire preuve de créativité, innover, entreprendre",
-                  "niveau": "2"
+                  "val": "Faire preuve de créativité, innover, entreprendre"
                 },
                 {
                   "code": "A5",
-                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe",
-                  "niveau": "3"
+                  "val": "Identifier, formuler et résoudre un problème d'ingénierie complexe"
                 }
               ],
               "capacite": [
@@ -6675,12 +6577,28 @@
           {
             "UE": "Projet de Fin d'Etudes R&D (TC-5-P-PFE-S9)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36633&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "TC-5-P-PILS-RAP",
+              "ects": "3.0",
+              "cours": "0.0 h",
+              "td": "0.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "20.0 h"
+            }
           },
           {
             "UE": "Projet de Fin d'Etudes R&D (TC-5-P-PFE-S9)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36634&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "TC-5-P-PILS-SOU",
+              "ects": "3.0",
+              "cours": "0.0 h",
+              "td": "0.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "20.0 h"
+            }
           },
           {
             "UE": "Entreprise et Sport (TC-5-SHES)",
@@ -6721,62 +6639,158 @@
           {
             "UE": "Entreprise et Sport (TC-5-SHES)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36939&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "HU-SHS-OPTION08",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "24.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "24.0 h"
+            }
           },
           {
             "UE": "Entreprise et Sport (TC-5-SHES)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36940&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "HU-SHS-OPTION09",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "24.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "24.0 h"
+            }
           },
           {
             "UE": "Entreprise et Sport (TC-5-SHES)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36941&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "HU-SHS-OPTION10",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "24.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "24.0 h"
+            }
           },
           {
             "UE": "Entreprise et Sport (TC-5-SHES)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36942&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "HU-SHS-OPTION11",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "24.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "24.0 h"
+            }
           },
           {
             "UE": "Entreprise et Sport (TC-5-SHES)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36943&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "HU-SHS-OPTION12",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "24.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "24.0 h"
+            }
           },
           {
             "UE": "Entreprise et Sport (TC-5-SHES)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36944&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "HU-SHS-OPTION04b",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "24.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "24.0 h"
+            }
           },
           {
             "UE": "Entreprise et Sport (TC-5-SHES)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36945&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "HU-SHS-OPTION13",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "24.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "24.0 h"
+            }
           },
           {
             "UE": "Entreprise et Sport (TC-5-SHES)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36947&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "HU-SHS-OPTION14b",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "24.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "24.0 h"
+            }
           },
           {
             "UE": "Entreprise et Sport (TC-5-SHES)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36948&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "HU-SHS-OPTION15",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "24.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "24.0 h"
+            }
           },
           {
             "UE": "Entreprise et Sport (TC-5-SHES)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36949&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "HU-SHS-OPTION16",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "24.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "24.0 h"
+            }
           },
           {
             "UE": "Entreprise et Sport (TC-5-SHES)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36950&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "HU-SHS-OPTION17b",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "24.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "24.0 h"
+            }
           },
           {
             "UE": "Entreprise et Sport (TC-5-SHES)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36952&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "HU-SHS-OPTION18b",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "24.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "24.0 h"
+            }
           }
         ]
       },
@@ -6786,27 +6800,68 @@
           {
             "UE": "Filière Chine : Internet des objets (TC-5-FCHINE-IOT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36200&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "TC-5-CHINE-IVB",
+              "ects": "2.0",
+              "cours": "16.0 h",
+              "td": "0.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "0.0 h",
+              "nom": "Télécommunications : Image and Video Broadcasting"
+            }
           },
           {
             "UE": "Filière Chine : Internet des objets (TC-5-FCHINE-IOT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34509&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "TC-5-CHINE-AWN",
+              "ects": "2.0",
+              "cours": "16.0 h",
+              "td": "0.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "0.0 h"
+            }
           },
           {
             "UE": "Filière Chine : Internet des objets (TC-5-FCHINE-IOT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36357&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "TC-5-CHINE-ARC",
+              "ects": "2.0",
+              "cours": "16.0 h",
+              "td": "0.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "0.0 h"
+            }
           },
           {
             "UE": "Filière Chine : Internet des objets (TC-5-FCHINE-IOT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36282&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "TC-5-CHINE-ASI",
+              "ects": "2.0",
+              "cours": "16.0 h",
+              "td": "0.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "0.0 h"
+            }
           },
           {
             "UE": "Filière Chine : Internet des objets (TC-5-FCHINE-IOT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=35454&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "TC-5-CHINE-PIO",
+              "ects": "4.0",
+              "cours": "0.0 h",
+              "td": "0.0 h",
+              "tp": "8.0 h",
+              "projet": "16.0 h",
+              "perso": "150.0 h"
+            }
           },
           {
             "UE": "Projet de Fin d'Etudes R&D (TC-5-P-PFE-S10)",
@@ -6865,12 +6920,28 @@
           {
             "UE": "Multi culturelle (TC-5-FCHINE-MCU)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=35455&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "TC-5-CHINE-DLG",
+              "ects": "2.0",
+              "cours": "50.0 h",
+              "td": "0.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "20.0 h"
+            }
           },
           {
             "UE": "Multi culturelle (TC-5-FCHINE-MCU)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36358&_lang=fr",
-            "detail": null
+            "detail": {
+              "code": "TC-5-CHINE-IMP",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "0.0 h",
+              "tp": "8.0 h",
+              "projet": "0.0 h",
+              "perso": "30.0 h"
+            }
           }
         ]
       },

@@ -2,12 +2,15 @@ app = require('express')()
 session = require 'express-session'
 CASAuthentication = require 'cas-authentication'
 
-db = require '../db'
+## Si formation
+# db = require '../db'
 
-db.connect()
-.then () ->
-  app.listen 3000, () ->
-    console.log('Example app listening on port 3000!')
+# db.connect()
+# .then () ->
+#   app.listen 3000, () ->
+#     console.log('Example app listening on port 3000!')
+
+app.listen 3000
 
 app.use(session(
   secret: '12087371912'

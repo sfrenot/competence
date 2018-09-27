@@ -34,7 +34,7 @@ extractPdfStructure = (pdf) ->
   catch error
     console.error("Warning matiere mal saisie #{matiere.code}")
     console.error(error.message)
-    return null
+    return matiere
 
   lcompetences = /[\s\S]*Cet EC relève de l'unité d'enseignement.*et contribue aux compétences suivantes : ([\s\S]*)De plus, elle nécessite de mobiliser les compétences suivantes : /ig.exec(matiere.competencesBrutes)
   # console.log(lcompetences[1])
@@ -43,7 +43,7 @@ extractPdfStructure = (pdf) ->
       matiere.listeComp = lcompetences[1].trim().split(/ (?=[ABC]\d)/).map (x) ->
         [, compet, niveau] = /([ABC]\d) .*\(niveau (.*)\)/ig.exec(x)
 
-        comp = refCompetences[compet]
+        comp = _.clone(refCompetences[compet])
         unless comp?
           throw Error("*#{x}* est inconnue")
         comp.niveau = niveau
@@ -150,7 +150,7 @@ request()
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36419&_lang=fr" or
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=35883&_lang=fr"
             # # TC
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35113&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36002&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36408&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr'
