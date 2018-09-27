@@ -14,6 +14,9 @@ extractRe = (re, src) ->
   return re.exec(src)[0].split(' : ')[1]
 
 extractPdfStructure = (pdf) ->
+  # console.log '->', pdf
+  # Suppression de l'addresse et du numéro de page sous toutes les pages
+  pdf = pdf.replace(/mailto:[\s\S]*Dernière modification le : [^\n]+/g,'')
   matiere = {}
   # console.warn "-->", pdf
   # console.warn "Recherche mat"
@@ -24,10 +27,14 @@ extractPdfStructure = (pdf) ->
   matiere.tp = extractRe(/TP : .*/, pdf)
   matiere.projet = extractRe(/Projet : .*/, pdf)
   matiere.perso = extractRe(/Travail personnel : .*/, pdf)
-  [..., avant, dernier, blanc, blanc] = /CONTACT\n([\s\S]*)OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT/g.exec(pdf)[1].split('\n')
-  matiere.nom = "#{avant} : #{dernier}"
-
-  matiere.competencesBrutes = (/OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n([\s\S]*)PROGRAMME/g.exec(pdf)[1]).trim().replace(/\n/g,' ')
+  try
+    [..., avant, dernier, blanc, blanc] = /CONTACT\n([\s\S]*)OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT/g.exec(pdf)[1].split('\n')
+    matiere.nom = "#{avant} : #{dernier}"
+    matiere.competencesBrutes = (/OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n([\s\S]*)PROGRAMME/g.exec(pdf)[1]).trim().replace(/\n/g,' ')
+  catch error
+    console.error("Warning matiere mal saisie #{matiere.code}")
+    console.error(error.message)
+    return null
 
   lcompetences = /[\s\S]*Cet EC relève de l'unité d'enseignement.*et contribue aux compétences suivantes : ([\s\S]*)De plus, elle nécessite de mobiliser les compétences suivantes : /ig.exec(matiere.competencesBrutes)
   # console.log(lcompetences[1])
@@ -64,7 +71,8 @@ extractPdfStructure = (pdf) ->
   lcapacites = (/En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : ([\s\S]*)En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes/ig.exec(matiere.competencesBrutes))
 
   if lcapacites?
-    splitCapacites = lcapacites[1].split(' - ');
+    splitCapacites = lcapacites[1].trim().split(/ *- /)
+
     splitCapacites.map (capa) ->
       if capa isnt ''
         [,capaDescription,listComp] = capa.match(/([\s\S]*) *\((?!.*\()([\s\S]*)\)/)
@@ -79,8 +87,7 @@ extractPdfStructure = (pdf) ->
   matiere.connaissance = []
   lconnaissance = (/En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :([\s\S]*)/ig.exec(matiere.competencesBrutes))
   if lconnaissance?
-    splitConnaissance = lconnaissance[1].split(' - ');
-
+    splitConnaissance = lconnaissance[1].trim().split(/ *- /)
     splitConnaissance.map (capa) ->
       if capa isnt ''
         [,capaDescription,listComp] = capa.match(/(.*) \((.*)\)/)
@@ -105,7 +112,7 @@ request()
     if departement is 'TC'
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        if $(@).attr('href') is '/fr/formation/parcours/729/3/1'
+        # if $(@).attr('href') is '/fr/formation/parcours/729/3/1'
         # if $(@).attr('href') is '/fr/formation/parcours/719/3/1' #GCU
           semestres.push
             url: $(@).attr('href')
@@ -143,7 +150,7 @@ request()
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36419&_lang=fr" or
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=35883&_lang=fr"
             # # TC
-            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36774&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35113&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36408&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr'
