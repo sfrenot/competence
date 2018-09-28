@@ -1,0 +1,67 @@
+,,,MATRICE PRESENTEE A LA CTI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,DEPARTEMENT GE - MATRICE DE COMPETENCES,,,,COMPETENCES DES SCIENCES FONDAMENTALES,,,,,,COMPETENCES SPECIFIQUES DE LA SPECIALITE,,,,,,,,,"DEVELOPPEMENT 
+PERSONNEL",,,,,,,"SAVOIR INTEGRER LES 
+ENJEUX DE L'ENTREPRISE",,,,
+,,,"Niveaux :
+- 1 : sensibilisation
+- 2 : appropriation
+- 3 : maîtrise",,,,"Etre capable d'analyser, formaliser ou modéliser", Etre capable de résoudre un problème en maîtrisant les limites,"Etre capable d'observer, d'identifier, de mesurer, d'expérimenter","Etre capable de collecter, analyser et interpréter des données",Savoir utiliser les outils informatiques de l'ingénieur et connaître leurs limites,,Mettre en oeuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage,Mettre en œuvre les propriétés physiques des matériaux pour le domaine du génie électrique,"Mettre en œuvre les différents éléments de production d’énergie, de transport d’énergie électrique et de conversion d'énergie","Spécifier, modéliser et concevoir les méthodes et algorithmes pour le traitement et la gestion de l'information véhiculée par les signaux et les images","Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données",Mettre en oeuvre les étapes permettant le contrôle du fonctionnement d’un système discret ou continu,Concevoir et développer des logiciels haut et bas niveau pour des systèmes  (traitement et gestion de l’information),Mettre en œuvre des principes et stratégies d’ordonnancements des taches et de gestion,,"Être capable de s'intégrer dans une équipe, de l’animer, de l'organiser et de la faire évoluer", Être capable de communiquer oralement en s'adaptant à son interlocuteur,Savoir s'organiser (gestion du temps),Mener une réflexion personnelle dans le cadre de son projet professionnel,Construire une réflexion éthique pour prendre en compte les enjeux sociétaux,Etre apte à travailler en contexte international,,Prendre en compte les enjeux énergétiques dans l’optique du développement durable,Prendre en compte les enjeux industriels et économiques,Savoir analyser et rédiger des documents professionnels ,Mettre en œuvre les différentes phases de gestion d’un projet ,Comprendre les enjeux et le management de l'innovation
+,,,,,Crédits,Nbe h.,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3GE ,UE31,"Signaux, Systèmes et Mathématique des Transformées ",SSMT,5,66,2,2,,1,1,,,,,1,,2,1,,,,,,,,,,,,,,
+,Sem 5,,Télécommunications 1,TC1,2,31,1,2,,2,2,,2,2,1,,1,,,,,,,,,,,,,,,,
+,,,Mathématiques 1 ,MA1,4,58,2,2,,,1,,,,,2,,,1,,,,1,,,,,,,,,,
+,,UE32,Electronique de puissance et Electrotechnique 1,ETEP1,5,60,2,2,1,1,,,1,2,1,,,,,,,,,,,,,,1,,,,
+,,,Electronique et Capteurs 1 ,EC1,5,72,2,2,1,1,1,,2,1,,,,,,,,,,,,,,,,,1,,
+,,,Informatique 1 ,IF1,4,59,1,1,1,,2,,,,,,1,,2,,,1,,,,,,,,1,,1,
+,,UE33,Humanités 1,HU1,2,32,2,2,2,2,,,,,,,,,,,,2,2,2,1,1,1,,1,2,2,2,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3GE ,UE34,Automatique 1 ,AU1,5,72,3,2,2,2,1,,2,,2,2,2,2,,,,,,,,,,,2,1,1,1,
+,Sem 6,,Transferts Thermiques,TT,2,32,3,2,2,1,,,,2,,,,,,,,,,,,,,,,,,,
+,,,Mathématiques 2,MA2,5,58,2,2,,,2,,,,,2,,,1,,,,,,,,,,,,,,
+,,UE35,Electronique de puissance et Electrotechnique 2,ETEP2,5,78,2,2,2,2,,,2,2,2,,,1,,,,,,,,,,,1,,,,
+,,,Electronique et Capteurs 2,EC2,6,88,2,2,2,2,2,,2,,,,2,1,,,,,1,,,,,,1,1,2,,
+,,,Informatique 2,IF2,2,31,2,2,2,,2,,,,,1,2,,2,1,,2,,,,,,,1,1,2,2,
+,,UE36,Humanités 2,HU2,2,35,2,2,3,3,,,,,,,,,,,,2,3,3,1,1,1,,1,2,3,3,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4GE,UE41,Automatique 2 Continue,AU2,4,60,3,2,3,2,2,,2,,2,2,3,3,2,,,,,,,,,,2,2,2,2,
+,Sem 7-8,,Automatique 3 SED,AU3,3,56,3,2,3,2,2,,,,3,3,,3,2,2,,,,,,,,,2,2,2,3,
+,,,Mathématiques 3,MA3,3,40,2,2,,1,,,,,,2,,,,,,,2,,,,,,,,,,
+,,,Traitement du signal ,TS,3,38,3,2,3,2,1,,,,,2,2,,1,,,,,,,,,,1,,,,
+,,UE42,Electronique de puissance et Electrotechnique 3,ETEP3,3,50,3,2,3,3,1,,3,3,2,,,1,,,,,,,,,,,2,,,,
+,,,Télécommunications 2,TC2,4,74,3,3,2,3,3,,3,2,2,,2,,,2,,3,2,2,,,,,,,,,
+,,,Informatique 3,IF3,3,34,3,,3,,3,,,,,3,,,3,2,,,,,,,,,1,2,,2,
+,,,Projet 1,PRT,3,7,✻,✻,✻,✻,✻,,✻,✻,✻,✻,✻,✻,✻,✻,,,2,3,,,,,,,,2,
+,,UE43,Humanités 3,HU3,1,16,,,,,,,,,,,,,,,,,,3,,,,,,2,3,3,2
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4GE,UE44,Stage,,30,,✻,✻,✻,✻,✻,,✻,✻,✻,✻,✻,✻,✻,✻,,✻,✻,✻,✻,✻,✻,,✻,✻,✻,✻,✻
+,Sem 7-8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,5GE ,UE51,Informatique 4,IF4,4,46,3,,3,,3,,,,,,,,3,3,,,,,,,,,,2,,,
+,Sem 9,,Automatique 4,AU4,4,50,3,3,3,3,2,,2,,3,3,3,3,2,,,,,,,,,,2,3,3,3,
+,,,Mathématiques 4,MA4,3,40,2,2,,,,,,,,2,,,,,,,,,,,,,,,,,
+,,UE52,Télécommunications 3,TC3,2,24,2,,2,3,2,,2,,,,2,,,2,,,,,,,,,,,,,
+,,,Electronique et Capteurs 3,EC3,2,38,3,2,2,,3,,3,2,,,2,,3,2,,,,,,,,,,,,,
+,,,Travaux Pratiques Transversaux ,TPTR,3,64,2,,3,3,3,,3,2,3,3,3,3,3,2,,,,,,,,,,,,,
+,,UE53,Humanités 4,HU4,2,16,2,,,2,,,,,,,,,,,,✻,,,,✻,✻,,,✻,,,✻
+,,UE54,Option C2E,Option,12,180,3,3,2,,2,,,3,3,,,2,,,,2,2,,,,,,2,2,,,
+,,,Option TDSI,Option,12,180,3,3,3,3,3,,,,,3,3,,3,,,3,2,,2,,3,,,3,3,3,
+,,,Option SEI,Option,12,180,3,3,3,3,3,,3,3,,,,,,,,3,3,2,,,,,,2,2,,
+,,,Option ISIP,Option,12,180,3,2,,3,3,,,,2,3,,3,3,2,,3,3,3,,,,,✻,3,2,3,2
+,,,Option SEC,Option,12,180,3,3,2,3,2,,3,,2,2,3,,,,,3,2,2,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,5GE,UE55,Option transversale,OT,6,96,✻,✻,✻,✻,✻,,✻,✻,✻,✻,✻,✻,✻,✻,,✻,✻,✻,✻,✻,✻,,✻,✻,✻,✻,✻
+,Sem 10,UE56,Projet de fin d'études ,PFE,21,15,✻,✻,✻,✻,✻,,✻,✻,✻,✻,✻,✻,✻,✻,,✻,✻,✻,✻,✻,✻,,✻,✻,✻,✻,✻
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Partenariat entreprise Projet et accompagnement dans la formalisation du projet professionnel,,,,,,,,,,,,,,,,,,,,,,,1,2,,,,,1,,,1
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,✻: niveau spécifique dépendant des choix de l'étudiant,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Groupe de travail :,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Info. indus. : T. Grenier,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Autom : X. Brun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Electronique :  M. Lallart,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,ETEP : C. Richard,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,TC : J. Verdier,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Maths et Signal : E. Bretin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

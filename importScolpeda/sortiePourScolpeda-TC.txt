@@ -1,0 +1,1741 @@
+MAC ****************************
+Cet EC relève de l'unité d'enseignement Fondamentaux des réseaux (TC-3-S1-RES) et contribue aux compétences suivantes :            
+
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 3)
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A3 Mettre en œuvre une démarche scientifique
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Décrire le role et les fonctionnalités de la couche MAC dans un réseau (C2)
+- Aloha (C2)
+- CSMA/CD (C2)
+- CSMA/CA (C2)
+- WiFi (C2)
+- Ethernet (C2)
+- Spanning Tree (C2)
+- TDMA (C6)
+- FDMA (C6)
+- CDMA (C6)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Choisir la meilleure stratégie de reprise sur erreur dans un réseau (C2)
+- Identifier les méthodes de partage de canal utilisables dans un réseau. (C6)
+IP ****************************
+Cet EC relève de l'unité d'enseignement Fondamentaux des réseaux (TC-3-S1-RES) et contribue aux compétences suivantes :            
+
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 3)
+A2 Développer une démarche expérimentale (niveau 2)
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 2)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- IPv4 (C2)
+- IPv6 (C2)
+- ICMP (C2)
+- TCP (C2)
+- UDP (C2)
+- DHCP (C6)
+- DNS (C6)
+- NAT (C6)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Décrire le role et les fonctionnalités de la couche réseau. (C2)
+- Décrire le role et les fonctionnalités de la couche transport (C2)
+- Déployer et configurer un réseau local (A2)
+- Câbler, manipuler une baie de brassage (A2)
+- Utiliser le logiciel Wireshark pour collecter et analyser des traces (A2)
+- Mesurer les performances d'un réseau local (A2)
+- Concevoir un plan d'adressage pour un réseau local (C6)
+CMN ****************************
+Cet EC relève de l'unité d'enseignement Systèmes de communication (TC-3-S1-SCM) et contribue aux compétences suivantes :            
+
+C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données (niveau 2)
+C8 Opérer, analyser, améliorer des systèmes numériques (niveau 2)
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites
+A3 Mettre en œuvre une démarche scientifique
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Codage de l'information, Algèbre de Boole, Logique combinatoire et logique séquentielle (C5)
+- Codage de source : Théorème du codage de source, codage Shannon-Fano, codage de Huffman, codage Arithmétique, codage RLC et codage LZW (C5)
+- Codage de canal  : Théorème du codage de canal, codes groupes (Hamming), codes cycliques (BCH), codes convolutifs. (C5)
+- Principe des modulations numériques, critères d'évaluation (C8)
+- Modulation des signaux numériques: par déplacement d'amplitude (MDA), de phase (MDP) et de fréquence (MDF) et modulation QAM. (C8)
+- Structure des modulateurs et démodulateurs. (C8)
+- Codage de source, codage de canal (C1)
+- Modulation des signaux numériques: par déplacement d'amplitude (MDA), de phase (MDP) et de fréquence (MDF) et modulation QAM. (C1)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Manipuler des codes numériques (C5)
+- Mettre en œuvre des codeurs source/canal (C5)
+- Analyser des systèmes logiques (C8)
+- Evaluer les performances d'une modulation numérique (C8)
+- Analyser la structure d'un modulateur numérique. (C8)
+- Dimensionner et évaluer des codeurs (source/canal) (C1)
+- Réaliser une modélisation et une analyse fonctionnelles d'un système de transmission numérique (C1)
+ACM ****************************
+Cet EC relève de l'unité d'enseignement Systèmes de communication (TC-3-S1-SCM) et contribue aux compétences suivantes :            
+
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites
+A3 Mettre en œuvre une démarche scientifique
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+B3 Interagir avec les autres, travailler en équipe
+B2 Travailler, apprendre, évoluer de manière autonome
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Diagramme de rayonnement (C1)
+- Modèle d'un canal radio en espace libre et avec 1 réflexion (C1)
+- Caractéristiques des antennes (C1)
+- Caractéristiques des différentes techologies de modulation (C1)
+- Fonctionnement d'une antenne (C1)
+- Gain (C1)
+- Propagation en espace libre (C1)
+- Modèle à 2 raies (C1)
+- Bilan de liaison (C1)
+- Modulation analogique (C1)
+- Modulation d'amplitude (C1)
+- Modulation de fréquence (C1)
+- SNR (C1)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Evaluer la qualité d'un signal reçu (C1)
+- Evaluer les principaux paramètres des différentes modulations analogiques (C1)
+PIT ****************************
+Cet EC relève de l'unité d'enseignement Bases de l'informatique et Architecture (TC-3-S1-BIA) et contribue aux compétences suivantes :            
+
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 1)
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Opérations basiques (déplacement, écriture, enregistrement) sous vi (C3)
+- Opérations standard (copier, coller, annuler) sous vi (C3)
+- Opérations avancées (split, fusion, recherche) sous vi (C3)
+- Interpréteur de commandes Python (C3)
+- Concepts basiques (listes, tuples, dictionnaires, structures conditionnelles, boucles) sous Python (C3)
+- Concepts standard (modularité, exceptions, classes, manipulation de fichiers) sous Python (C3)
+- Script Bash (C3)
+- Instructions simples de l’interpréteur de commandes Python (C3)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Manipuler des variables sous Bash et Python (C7)
+- Traduire un énoncé simple en un programme fonctionnel  Bash ou Python (C7)
+- Suivre un tutoriel en autonomie (C7)
+3TC-ARC ****************************
+Cet EC relève de l'unité d'enseignement Bases de l'informatique et Architecture (TC-3-S1-BIA) et contribue aux compétences suivantes :            
+
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 3)
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 1)
+C8 Opérer, analyser, améliorer des systèmes numériques (niveau 1)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Codage de l'information (C8)
+- Logique booléenne (C8)
+- Logique séquentielle (C8)
+- Jeu d'instruction (C8)
+- Architecture d'un (vrai) processeur (C8)
+- Notions de Langage de haut niveau et compilation (C8)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Coder et décoder une information en binaire (C8)
+- Construire des circuits combinatoires complexes (C8)
+- Modéliser le comportement d'un circuit séquentiel par un automate fini (C8)
+- Construire le circuit séquentiel correspondant à un automate fini (C8)
+- Evaluer les coûts en temps et en espace d'un circuit numérique (C8)
+PPC ****************************
+Cet EC relève de l'unité d'enseignement Programmation (TC-3-S1-PRO) et contribue aux compétences suivantes :            
+
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 2)
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 2)
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Fondamentaux des systèmes d'exploitation (structure, services, interruptions) (C7)
+- Processus (C7)
+- Fils d'exécution (C7)
+- Modèles de communication inter-processus (C7)
+- Mécanismes de synchronisation entre processus et fils d'exécution (C7)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Mise en œuvre des outils de communication et synchronisation  en langage Python (tubes, signaux, files de messages, mémoires partagées, sémaphores) (C7)
+- Concevoir, implanter et analyser des programmes en exécution parallèle et concurrente en langage Python (C7)
+ELP ****************************
+Cet EC relève de l'unité d'enseignement Programmation (TC-3-S1-PRO) et contribue aux compétences suivantes :            
+
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 2)
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Principe de récurrence, structures de données récursives (listes, arbres), (C3)
+- Polymorphisme (en java), (C3)
+- Duck typing (en python), (C3)
+- Callback et promesse javascript, goroutine et channel, (C7)
+- Visualisation de données avec NumPy, SciPy et matplotlib. (C7)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Traduire l'énoncé mathématique d'un problème en un programme fonctionnel (C3)
+- Structurer des programmes java et python (C3)
+- Choisir de coder pour des comportements plutôt que pour des objets particuliers (C3)
+- Exécuter de manière asynchrone un flot de fonctions en javascript (C7)
+- Exécuter des tâches en concurrence en go. (C7)
+- Prototyper un flot de traitements de données en python. (C7)
+ALG ****************************
+Cet EC relève de l'unité d'enseignement Outils théoriques (TC-3-S1-OTE) et contribue aux compétences suivantes :            
+
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites (niveau 3)
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 3)
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 3)
+A3 Mettre en œuvre une démarche scientifique (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Notions de l'algorithmique :  définition, écriture, preuve, complexité en temps et mémoire (A3)
+- Algorithmes fondamentaux :  tris, file/liste, parcours d'arbre, de graphes (A3)
+PBS ****************************
+Cet EC relève de l'unité d'enseignement Outils théoriques (TC-3-S1-OTE) et contribue aux compétences suivantes :            
+
+A3 Mettre en œuvre une démarche scientifique (niveau 3)
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A2 Développer une démarche expérimentale
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Univers, expérience, évènement. Notion de probabilité (fréquentielle, axiomatique). Prob. élémentaires et conditionnelles, indépendance, théorème de Bayes (A3)
+- Principales lois de probabilité des variables aléatoires discrètes et continues. Espérance, variance, fonction d'une variable aléatoire. (A3)
+- Théorème de Bienaymé-Tchebycheff, Théorème de Bernouilli, Théorème central limite (A3)
+- Couples de variables aléatoires : loi conjointe, lois marginales, conditionnelles. Covariance, coef de corrélation. Fonction d'un couple de variables aléatoires (A3)
+- Processus stochastique, stationnarité et ergodisme, dsp d'un signal aléatoire (théorème de Wiener Khintchine), filtrage d'un signal aléatoire. (A3)
+- Variable aléatoire, loi de probabilité, loi normale, Théorème Central Limite, Modèle (A3)
+- Principales lois de probabilité des variables aléatoires discrètes et continues. Espérance, variance, fonction d'une variable aléatoire. (A5)
+- Théorème de Bienaymé-Tchebycheff, Théorème de Bernouilli, Théorème central limite (A5)
+- Couples de variables aléatoires : loi conjointe, lois marginales, conditionnelles. Covariance, coef de corrélation. Fonction d'un couple de variables aléatoires (A5)
+- Loi d'erlang, canal de rayleigh, détection (A5)
+- Principales lois de probabilité des variables aléatoires discrètes et continues. Espérance, variance, fonction d'une variable aléatoire. (A5)
+- Matlab, histogramme, caal de rayleigh (A5)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Modéliser une expérience aléatoire : univers, évènement, variables aléatoire, signal aléatoire (A3)
+- Exploiter la modélisation statistique d'un problème pour le résoudre en calculant une probablité, une espérance, la dsp d'un signal aléatoire, etc (A3)
+- Modéliser une expérience aléatoire : univers, évènement, variables aléatoire, signal aléatoire (A5)
+SIS ****************************
+Cet EC relève de l'unité d'enseignement Outils théoriques (TC-3-S1-OTE) et contribue aux compétences suivantes :            
+
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 2)
+C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites
+A3 Mettre en œuvre une démarche scientifique
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Représentation des signaux déterministes (C1)
+- Signaux particuliers: Dirac, Peigne de Dirac, échelon, sinusoïde, exponentielle complexe (C1)
+- Transformation de la variable changement d'échelle, inversion temporelle (C1)
+- Corrélation entre les signaux, autocorrélation, intercorrélation (C1)
+- Stabilité, causalité, invariance temporelle (C1)
+- Réponse impulsionnelle, réponse indicielle (C1)
+- Opération de convolution (C1)
+- Séries de Fourier, (C1)
+- Transformée de Fourier: en temps continu et en temps discret, DFT. (C1)
+- Transformée de Laplace, Transformée en Z. (C1)
+- Réponse fréquentielle, diagramme de Bode, densité spectrale (C1)
+- Fonction de transfert (C1)
+- Filtres de 1er ordre et 2nd ordre (C1)
+- Filtrage adapté (C1)
+- Théorème de l'échantillonnage (C1)
+- Signal déterministe, Système Linéaire Temporellement Invariant (SLTI), analyse temporelle et fréquentielle, Transformées, Echantillonnage (C1)
+- Corrélation entre les signaux, autocorrélation, intercorrélation (C5)
+- Opération de convolution (C5)
+- Filtres de 1er ordre et 2nd ordre (C5)
+- Filtrage adapté (C5)
+- Filtrage, Matlab, FDATool (C5)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Caractériser en temps et en fréquence un « signal déterministe » (C1)
+- Caractériser en temps et en fréquence un « Système Linéaire Temporellement Invariant (SLTI)» (C1)
+- Choisir la représentation la plus adaptée au signal à étudier et analyser ce signal en temps et en fréquence (C1)
+- Calculer la sortie d'un SLTI par l'opération de convolution (C1)
+- Déterminer la sortie d'un système régi par une équation différentielle à coefficients constants, initialement au repos ou non (C1)
+- Déterminer la sortie d'un système régi par une équation aux différences à coefficients constants, initialement au repos ou non (C1)
+- Calculer la sortie d'un SLTI à l'aide des Transformées (Fourier, Laplace, Z) (C1)
+- Echantillonner un signal (C1)
+- Détecter un signal par filtrage adapté (C5)
+- Filtrer un signal (C5)
+CTC ****************************
+Cet EC relève de l'unité d'enseignement Humanités 1 (TC-3-S1-HUMA) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites
+A3 Mettre en œuvre une démarche scientifique
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Acquérir une culture générale du secteur des télécoms (B6)
+- Culture générale, communication orale, recherche documentaire (B6)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Analyser les dimensions technique, sociologique et économique des télécommunications (B6)
+- Réaliser une recherche documentaire (B6)
+- Réaliser une présentation adaptée à la cible (B6)
+ANG ****************************
+Cet EC relève de l'unité d'enseignement Humanités 1 (TC-3-S1-HUMA) et contribue aux compétences suivantes :            
+
+B7 Travailler dans un contexte international et interculturel (niveau 3)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- mettre en œuvre la Grammaire et le vocabulaire présentés en cours (B7)
+- comprendre et mettre en œuvre les codes linguistiques sociaux propres aux divers registres et cultures (B7)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- comprendre des documents authentiques audio-visuels (B7)
+- parler d'un phénomène de société OU (B7)
+- parler d'un phénomène culturel OU (B7)
+- parler d'un phénomène scientifique (B7)
+- avoir une conversation adaptée au niveau ciblé (B7)
+- comprendre des documents authentiques écrits (B7)
+- produire divers types de textes (B7)
+SPO ****************************
+Cet EC relève de l'unité d'enseignement Humanités 1 (TC-3-S1-HUMA) et contribue aux compétences suivantes :            
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+B3 Interagir avec les autres, travailler en équipe (niveau 1)
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+B7 Travailler dans un contexte international et interculturel
+TSA ****************************
+Cet EC relève de l'unité d'enseignement Traitement du signal et C (TC-3-S2-TSC) et contribue aux compétences suivantes :            
+
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 2)
+C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A2 Développer une démarche expérimentale
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Les principes du filtrage numérique (C1)
+- Les méthodes pour le calcul des filtres numériques (C1)
+- Les contraintes liées à l'environnement numérique (C1)
+- les méthodes d'évaluation des performances des filtres numériques (C1)
+- Signaux et système, filtres numériques, échantillonnage (C1)
+- Les techniques d'implémentation des filtres numériques (C5)
+- La mise en œuvre d'un système de développement pour DSP (C5)
+- Structure des filtres numériques,  DSP (C5)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Etre capable de modéliser et de concevoir un filtre numérique (C1)
+- Etre capable d'analyser les propriétés/caractéristiques des filtres numériques (C1)
+- Etre capable d'implémenter un filtre numérique sur un DSP (C5)
+- Etre capable d'utiliser des logiciels de simulation pour simuler / évaluer des filtres numériques (C5)
+CRO ****************************
+Cet EC relève de l'unité d'enseignement Traitement du signal et C (TC-3-S2-TSC) et contribue aux compétences suivantes :            
+
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 3)
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 3)
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A3 Mettre en œuvre une démarche scientifique
+B3 Interagir avec les autres, travailler en équipe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Liste chainée, tableau, arbre (C7)
+- Le Langage C (C7)
+- Base de l'exécutif: chaîne de compilation, exécution d'un programme, pile d'exécution (C7)
+- Connaitre les bases des grammaire et de la compilation des langages de programmation (C7)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Concevoir un algorithme à partir d'un problème (C7)
+- Maîtriser la récursivité (C7)
+- Choisir une structure de donnée pour implémenter un algorithme (C7)
+- Maîtriser le mécanisme d'indirection (pointeurs en C) (C7)
+- Concevoir, réaliser, déverminer, optimiser un programme en C pour résoudre un problème. (C7)
+- Utiliser les outils de compilation et déverminage: gcc, gdb, make, valgrind. (C7)
+- Utiliser les outils de méta-compilation sur des exemple simple: lex, yacc. (C7)
+WEB ****************************
+Cet EC relève de l'unité d'enseignement Web et Réseau (TC-3-S2-WER) et contribue aux compétences suivantes :            
+
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies (niveau 2)
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 2)
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 2)
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2)
+C9 Conduire des projets dans le domaine du numérique (niveau 1)
+B3 Interagir avec les autres, travailler en équipe (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles
+A2 Développer une démarche expérimentale
+B2 Travailler, apprendre, évoluer de manière autonome
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Différences entre bases de données relationnelles, NoSQL, objets (B3)
+- Format Entité/Association et schéma relationnel (B3)
+- Écriture de requêtes au format SQL et prise en compte des contraintes de clés primaires et étrangères (B3)
+- Services WEB et protocoles client-serveur (B3)
+- Protocole HTTP (B3)
+- Langage HTML, CSS (B3)
+- Structuration modèle-vue-controlleur (B3)
+- Moteurs de rendu coté serveur (B3)
+- Applications riches coté client (Ajax, JavaScript) (B3)
+- Déploiements multi-instances avec serveur HTTP (B3)
+- CGI, FastCGI, Proxy HTTP, modules Sécurisation HTTPS (B3)
+- Maintien de sessions applicatives (B3)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Modéliser, concevoir et interroger un système d'information (B3)
+- Mener une analyse conceptuelle (B3)
+- Développer des applications web modernes (B3)
+- Déployer des applications sur le web (B3)
+NRP ****************************
+Cet EC relève de l'unité d'enseignement Web et Réseau (TC-3-S2-WER) et contribue aux compétences suivantes :            
+
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles
+C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données
+B3 Interagir avec les autres, travailler en équipe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Principes du routage IP et algorithmes associés Bellman Ford, Dijkstra (C6)
+- Protocoles de routage intérieur RIP, OSPF et extérieur à l'Internet, BGP (C6)
+- Protocole IP Multicast PIM Dense et Sparse (C6)
+- Routage IPV6 et Tunnel IPV4 IPV6 (C6)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Configurer des éléments actifs (switch, routeur) d'un réseau dans des architectures élémentaires LOAN et WAN (C6)
+- Implémenter le routage des réseaux à l'échelle de l'Internet (C6)
+- Mettre en oeuvre une diffusion Multicast Vidéo (C6)
+- Implémenter le routage des Réseaux IPv6, RIPng, OSPFv4 et BGP (C6)
+PWEB ****************************
+Cet EC relève de l'unité d'enseignement Pratique et projets (TC-3-S2-PRA) et contribue aux compétences suivantes :            
+
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies (niveau 2)
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 2)
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 2)
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2)
+C9 Conduire des projets dans le domaine du numérique (niveau 1)
+B3 Interagir avec les autres, travailler en équipe (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles
+A2 Développer une démarche expérimentale
+B2 Travailler, apprendre, évoluer de manière autonome
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Langage de programmation Web dynamique (python, javascript, PHP, etc) (B3)
+- Langage de structuration de données Web (JSON, XML, HTML, etc) (B3)
+- Modèles de structuration d'application Web (MVC, MVT, Microservices,    etc) (B3)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Effectuer une veille technologique sur les frameworks web (B3)
+- Modéliser, concevoir un système d'information (B3)
+- Intégrer différents outils/frameworks web de programmation front/back-end (B3)
+- Effectuer des tests de déploiement à partir d'un use case précis (B3)
+- Effectuer une démonstration des fonctionnalités du site déployé (B3)
+TPS ****************************
+Cet EC relève de l'unité d'enseignement Pratique et projets (TC-3-S2-PRA) et contribue aux compétences suivantes :            
+
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 2)
+C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B3 Interagir avec les autres, travailler en équipe
+A2 Développer une démarche expérimentale
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites
+A3 Mettre en œuvre une démarche scientifique
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+B1 Se connaître, se gérer physiquement et mentalement
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Mesures et analyse de signaux , DSP d'un bruit blanc (C1)
+- Caractérisation d'un système (réponse impulsionnelle et fréquentielle) (C1)
+- Techniques d'implantation de filtres en temps réel (ligne à retard, buffer circulaire, trame) (C1)
+- Etude d'un signal radio, caractéristiques d'une antenne, bilan de liaison, pertes, diagramme de rayonnement. (C1)
+- Paramètres d'une modulation numérique: rapidité de modulation, débit, filtres de mise en forme, constellation, diagramme de l'oeil, EVM (C1)
+- FDATool, Simulink USRP radio, GNU Radio companion, Analyse spectrale (C1)
+- Mesures et analyse de signaux , DSP d'un bruit blanc (C5)
+- Caractérisation d'un système (réponse impulsionnelle et fréquentielle) (C5)
+- Techniques d'implantation de filtres en temps réel (ligne à retard, buffer circulaire, trame) (C5)
+- Etude d'un signal radio, caractéristiques d'une antenne, bilan de liaison, pertes, diagramme de rayonnement. (C5)
+- Paramètres d'une modulation numérique: rapidité de modulation, débit, filtres de mise en forme, constellation, diagramme de l'oeil, EVM (C5)
+- DSP, FPGA,  VHDL,Matlab, FDATool, Antenne (C5)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Réaliser des mesures expérimentales (C1)
+- Savoir utiliser et manipuler l'instrumentation de laboratoire (générateurs de signaux, oscilloscope, analyseur de spectre) (C1)
+- Analyser en temps et en fréquence un signal analogique ou numérique (C1)
+- Implanter des filtres numériques sur des systèmes temps réel (C1)
+- Caractériser des modulations analogiques (AM et FM), fréquences, puissances (porteuses et modulant), taux de modulation, excursion en fréquence (C1)
+- Modéliser et caractériser des modulations numériques (BPSK,QPSK, MPSK) sous Simulink (C1)
+- Démoduler numériquement un signal FM (C1)
+- Faire un bilan de liaison d'une chaine de transmission radio (C1)
+- Synthétiser et implanter des filtres numériques sur DSP Texas Instrument (C5)
+- Synthétiser et implanter des filtres numériques sur FPGA en VHDL (C5)
+- Maitriser un environnement de développement et de test pour DSP (Code Composer Studio, Matlab). (C5)
+- Maitriser un environnement de développement et de test pour FPGA (Altera, Matlab, Simulink). (C5)
+- Configurer des cartes de transmission radio (USRP, Dongle USB RTL-SDR radio) (C5)
+- Manipuler des systèmes de développement radio logicielle (GNU Radio, Communications System Toolbox Support Package for USRP Radio). (C5)
+- Etudier un récepteur FM conçu dans un environnement de radio logicielle (C5)
+ASDS ****************************
+Cet EC relève de l'unité d'enseignement Pratique et projets (TC-3-S2-PRA) et contribue aux compétences suivantes :            
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+B1 Se connaître, se gérer physiquement et mentalement (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies
+A2 Développer une démarche expérimentale
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Connaitre des différents types de documents scientifiques, savoir comment ils sont élaborés et être capable d'évaluer leur fiabilité (B2)
+- Connaitre la structure des différents documents scientifiques (B2)
+- Savoir où et comment chercher un document pertinent sur un sujet donné (B2)
+- Connaitre des règles de présentation de résultats scientifiques (B2)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Savoir trouver des documents pertinents et fiables par rapport à un problème posé (B2)
+- Analyser la structure et le contenu des différents documents scientifiques (B2)
+- Savoir situer un résultat dans un état de l'art (B2)
+- Réaliser une étude bibliographique sur un sujet de recherche récent (B2)
+- Présenter des résultats scientifiques à l'écrit, à l'oral et sous forme de poster (B1)
+PTIR ****************************
+Cet EC relève de l'unité d'enseignement Pratique et projets (TC-3-S2-PRA) et contribue aux compétences suivantes :            
+
+A3 Mettre en œuvre une démarche scientifique (niveau 3)
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites (niveau 1)
+A2 Développer une démarche expérimentale (niveau 1)
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 1)
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 1)
+B1 Se connaître, se gérer physiquement et mentalement (niveau 1)
+B4 Faire preuve de créativité, innover, entreprendre (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+B5 Agir de manière responsable dans un monde complexe
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Etat de l'art d'un sujet d'actualité en recherche (A3)
+- Méthodologie pour une étude bibliographique (A3)
+- Méthodologie pour réaliser un travail de recherche (théorique ou expérimental). (A3)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- S'insérer dans une équipe de recherche (A3)
+- Travailler en groupe (avec 4 autres étudiants) (A3)
+- RÉaliser un travail individuel dans le cadre d'un projet de groupe (A3)
+- Présentation synthétique et régulière, à l'oral, de ses travaux (A3)
+- Rédaction d'une état de l'art (A3)
+- Rédaction d'un rapport de synthèse d'une activité d'initiation recherche (A3)
+DRE ****************************
+Cet EC relève de l'unité d'enseignement Pratique et projets (TC-3-S2-PRA) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies (niveau 1)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 1)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Les activités de l'enseignant-chercheur (B6)
+- La vie d'une équipe de recherche (B6)
+- Les questions ouvertes sur un sujet scientifique (B6)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Saisir les grandes lignes d'un exposé scientifique (B6)
+- Connaître les acteurs d'un laboratoire (B6)
+PALE ****************************
+Cet EC relève de l'unité d'enseignement Pratique et projets (TC-3-S2-PRA) et contribue aux compétences suivantes :            
+
+C9 Conduire des projets dans le domaine du numérique (niveau 2)
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Cycle agile Scrum (C9)
+- Flux agile Kanban (C9)
+- Gestion de projet, développement agile (C9)
+- Artistes et specifieurs (B3)
+- Marshmallow Challenge (B3)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Gérer un projet agile en mode iteratif (C9)
+- Gérer un projet en flux de fonctions (C9)
+- Estimer les tâches d'un projet (C9)
+- Accompagner un client dans un projet (C9)
+- Prendre le lead d'un projet (B3)
+- Interagir avec une équipe, un client (B3)
+NAS ****************************
+Cet EC relève de l'unité d'enseignement Modélisation et Architectures Réseaux (TC-4-S1-MAR) et contribue aux compétences suivantes :            
+
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles
+B3 Interagir avec les autres, travailler en équipe
+C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Réseaux privés virtuels, 802.1Q, VLAN, Tunnel GRE, (C6)
+- Politique IPSec, réseau privé virtuel sécurisé, chiffrement des données (C6)
+- MPLS, protocoles LDP, technologie des VRF, routage M-BGP (C6)
+- Protocoles de voix sur IP, SIP, RTP/RTCP, (C6)
+- Qualité de service, modèles DiffServ, RSVP et ingénierie de trafic MPLS TE (C6)
+- Configuration des éléments actifs (switch, routeur) dans ces architectures réseau (C6)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Concevoir et déployer une architecture de réseau MPLS, M-BGP et MPLS VPN, (C6)
+- Dimensionner la qualité de service avec DiffServ, RSVP, (C6)
+- Ingénierie de trafic avec MPLS TE et élaboration d'une politique de QoS (C6)
+- Mettre en oeuvre un réseau de VoIP, téléphones SIP, IPBX, Centre d'appels, SVI (C6)
+- Définir une politique de sécurité réseau IPSec. (C6)
+PRF ****************************
+Cet EC relève de l'unité d'enseignement Modélisation et Architectures Réseaux (TC-4-S1-MAR) et contribue aux compétences suivantes :            
+
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 3)
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 1)
+C8 Opérer, analyser, améliorer des systèmes numériques (niveau 1)
+A3 Mettre en œuvre une démarche scientifique (niveau 1)
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Connaître les outils analytiques de modélisation: Chaîne de Markov à temps discret, Chaîne de Markov à temps continu, Files d'attente, Réseaux de file d'attente. (C2)
+- Connaître les différentes équations caractérisant les régimes transitoires et permanents des modèles analytiques. (C2)
+- Connaître le principe de la génération de nombres aléatoires (C2)
+- Connaître les fondements théoriques de la simulation à évènements discrets et les base du simulateur NS2 (C2)
+- Connaître les outils analytiques de modélisation: Chaîne de Markov à temps discret, Chaîne de Markov à temps continu, Files d'attente, Réseaux de file d'attente. (C1)
+- Connaître des outils analytiques et de simulations utiles pour l'évaluations de performances de systèmes numériques déjà déployés ( capacités, limites, fiabilité, goulots d'étranglement, etc.) (C8)
+- Connaître quelques outils analytiques et de simulation utiles pour la forumation de différents problèmes d'ingénierie (A5)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Savoir modéliser un système de réseau en utilisant des outils analytiques (C2)
+- Savoir simuler un système en utilisant un simulateur à événements discrets (C2)
+- Savoir évaluer les performances en régime transitoire et stationnaire d'un système en utilisant des outils analytiques ou de simulation. (C2)
+- Savoir dimensionner un réseau en menant une évaluation de performances adéquate (C2)
+- Savoir modéliser et évaluer quelques systèmes simples de trasmission (approches d'accès au canal, des codes correcteurs, retransmissions, etc.) en utilisant des outils analytiques (C1)
+- Savoir mettre en place une approche scientifique permettant l'analyse des performances d'un système en modélisant correctement le système et les entrées et en calculant et analysant des métriques de performance en sortie (A3)
+- Savoir modéliser quelques problèmes d'ingénieirie en utilisant des outils analytiques (Chaine de Markov) ayant un inéteret dans différents domaines de l’ingénierie (A5)
+CNA ****************************
+Cet EC relève de l'unité d'enseignement Signal et Image (TC-4-S1-S&I) et contribue aux compétences suivantes :            
+
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 3)
+C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données (niveau 2)
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites
+A3 Mettre en œuvre une démarche scientifique
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Modèle théorique en bande de base d'un système de transmission (C1)
+- Modèle d'un canal radio en bande de base (C1)
+- Méthodes d'évaluation des performances d'un système de transmission (C1)
+- Techniques de transmission en canal réel : codage canal, égalisation, diversité, étalement de spectre, multi-porteuses, MIMO (C1)
+- Communications numériques, traitement du signal, codage, égalisation, étalement de spectre, multi-porteuses, MIMO (C1)
+- Fonctions principales d'une chaine de transmission complète en point à point (C5)
+- Rôle et mise en œuvre des différentes fonctions élémentaire de la chaine de traitement (C5)
+- Simulink, modélisation, performance (C5)
+- Standards radio (couche PHY) : Wifi, GSM, UMTS, LTE,… (A4)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Concevoir un système de transmission numérique (point à point) suivant une démarche cohérente et validée, adapté à un canal de transmission (C1)
+- Optimiser des blocs d'un système de transmission en sachant démontrer ses performances, par la théorie (C1)
+- Simuler un système de transmission simple sous Simulink (Matlab) (C5)
+- Analyser un standard : identifier les différentes fonctions et leurs rôles (A4)
+- Comprendre les nouvelles technologies (A4)
+- Anticiper sur les évolutions technologiques à venir pour les systèmes radio (A4)
+TIP ****************************
+Cet EC relève de l'unité d'enseignement Signal et Image (TC-4-S1-S&I) et contribue aux compétences suivantes :            
+
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 3)
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies (niveau 3)
+C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+A3 Mettre en œuvre une démarche scientifique
+A2 Développer une démarche expérimentale
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Caractéristiques principales des espaces de représentations des signaux et des images (C1)
+- Approximation optimale des signaux et des images (C1)
+- Compréhension de la transformée en ondelettes et de l'analyse multi-résolution (C1)
+- Traitements de base pour les images (C1)
+- Espace de Hilbert, Transformée de Fourier, Transformée Cosinus, Transformée en ondelettes, (C1)
+- Approximation optimale des signaux et des images (A4)
+- Techniques de quantification et de codage parole, audio, image 2D et vidéo (A4)
+- Standards de compression de parole, audio, image et vidéo (A4)
+- Méthodologies d'analyse et de synhèse de la parole et de l'audio (C5)
+- Techniques de quantification et de codage parole, audio, image et vidéo (C5)
+- Méthodologies d'analyse de données (C5)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Modéliser un signal continu ou discret par un signal approximant (C1)
+- Modéliser le système phonatoire et le système auditif pour analyser et synthétiser la parole et l'audio (C1)
+- Etant donné une problématique (segmentation ou débruitage ou identification ou autre), concevoir une chaîne de traitement d'images pour résoudre cette problématique (C1)
+- Analyser (comprendre la chaîne de traitement, identifier les différentes briques) les standards de compression de la parole, de l'audio, des images et des vidéos (A4)
+- Concevoir une chaîne de compression de la parole, de l'audio, des images et des vidéos (A4)
+- Mettre en oeuvre les techniques d'analyse multirésolution des signaux et des images (C5)
+- Réaliser une chaîne logicielle de traitement d'image en utilisant des outils tels que MATLAB ou STARLING (C5)
+- Etant donné une base de données images ou vidéos, mettre en œuvre les techniques d'analyse de données (méthodes supervisées ou non supervisées) pour classer ou identifier des objets visuels (C5)
+PSC ****************************
+Cet EC relève de l'unité d'enseignement Signal et Image (TC-4-S1-S&I) et contribue aux compétences suivantes :            
+
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 3)
+A2 Développer une démarche expérimentale (niveau 3)
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+C9 Conduire des projets dans le domaine du numérique (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- radio logicielle, multipaths, OFDM (C1)
+- timeline, communicaton, organisation, suivi (B3)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Utiliser un environnement de développement nouveau, type matlab, labview, gnu radio. (C1)
+- Dans le but de concevoir un émetteur/récepteur respectant un ensemble de critères techniques précisé par le cahier des charges ou une norme à respecter, savoir établir un découpage fonctionnel du projet. (C1)
+- Approfondir un point technique particulier pour être capable de concevoir et développer un programme réalisant la fonction concernée (simulation et/ou implémentation physique sur PC ou système embarqué). Ceci peut impliquer de modéliser un phénomène physique; identifier les entrées/sorties pertinentes et les relations entre elles; développer un algorithme; mettre au point une procédure de test de la fonction. (C1)
+- Concevoir un banc de test permettant de mettre en évidence expérimentalement un aspect connu de façon théorique (A2)
+- Concevoir une procédure de test et d'évaluation du système complet en fonction de critères pertinents. Par exemple, évaluer : le taux d'erreur binaire, le débit atteint, le nombre d'utilisateurs, etc;  en fonction de : la longueur d'une ligne ADSL, la charge d'une zone donnée desservie par un AP wifi, la norme de référence utilisée, etc etc (A2)
+- Utiliser les outils de conduite de projet (travail en équipe, planning, etc) (B3)
+- Utiliser les outils de conduite de projet (travail en équipe, planning, etc) (C9)
+- Approfondir un point technique particulier pour être capable de concevoir et développer un programme réalisant la fonction concernée (simulation et/ou implémentation physique sur PC ou système embarqué). Ceci peut impliquer de modéliser un phénomène physique; identifier les entrées/sorties pertinentes et les relations entre elles; développer un algorithme; mettre au point une procédure de test de la fonction. (C9)
+NRP ****************************
+Cet EC relève de l'unité d'enseignement Réseaux et Systèmes distribués (TC-4-S1-RSD) et contribue aux compétences suivantes :            
+
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles
+C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données
+B3 Interagir avec les autres, travailler en équipe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Principes du routage IP et algorithmes associés Bellman Ford, Dijkstra (C6)
+- Protocoles de routage intérieur RIP, OSPF et extérieur à l'Internet, BGP (C6)
+- Protocole IP Multicast PIM Dense et Sparse (C6)
+- Routage IPV6 et Tunnel IPV4 IPV6 (C6)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Configurer des éléments actifs (switch, routeur) d'un réseau dans des architectures élémentaires LOAN et WAN (C6)
+- Implémenter le routage des réseaux à l'échelle de l'Internet (C6)
+- Mettre en oeuvre une diffusion Multicast Vidéo (C6)
+- Implémenter le routage des Réseaux IPv6, RIPng, OSPFv4 et BGP (C6)
+ASY ****************************
+Cet EC relève de l'unité d'enseignement Réseaux et Systèmes distribués (TC-4-S1-RSD) et contribue aux compétences suivantes :            
+
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 3)
+C8 Opérer, analyser, améliorer des systèmes numériques (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Base de Docker (C3)
+- Base de Spring (C3)
+- Vocabulaire lié à l'architecture des systèmes informatiques (C3)
+- Problématiques liés aux grands systèmes (C3)
+- Sun RPC, RMI, DCOM (C3)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Savoir comparer différentes architectures distribuées (C3)
+GES1/2 ****************************
+Cet EC relève de l'unité d'enseignement Gestion de projet entrepreneurial responsable (TC-4-S1-GESPER) et contribue aux compétences suivantes :            
+
+B5 Agir de manière responsable dans un monde complexe (niveau 3)
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Innovation, Responsabilité sociétale des organisations (GES 1 et 2) (B5)
+- Design thinking (GES1) (B5)
+- Marché, utilisateurs, gouvernance, business model canvas, modèles économique et financier, communication des organisations (GES2) (B5)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Conduire une démarche de Design thinking pour trouver une idée de produit/service le plus possible innovant, technique & responsable (GES1) (B5)
+- Réaliser une étude de faisabilité et le business model canevas de l'organisation lié à ce produit/service (GES2) (B5)
+RSM ****************************
+Cet EC relève de l'unité d'enseignement Humanités 3 (TC-4-S1-HUMA) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 1)
+B1 Se connaître, se gérer physiquement et mentalement (niveau M2)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Connaissance du secteur et des métiers des Technologies de l'Information (B6)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Rédiger son CV (B6)
+- Utiliser différents outils et techniques pour rechercher un stage ou un emploi en lien avec son projet professionnel (B6)
+CSC ****************************
+Cet EC relève de l'unité d'enseignement Développement et sécurité (TC-4-S2-DEV) et contribue aux compétences suivantes :            
+
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2)
+C8 Opérer, analyser, améliorer des systèmes numériques (niveau 2)
+B5 Agir de manière responsable dans un monde complexe (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Principe d'utilisation des cryptographies symétrique et asymétrique (C7)
+- Architectures de gestion de clé (CA, DANE/TLSA, PGP) (C7)
+- Protocoles cryptographiques (TLS, Kerberos, etc.) (C7)
+- RSA, AES, PKI, TLS (C7)
+- Exemples de fondations mathématiques (C8)
+- Coûts de chiffrement/déchiffrement/attaque (C8)
+- Cryptographie, Cryptanalyse (C8)
+- Principe d'utilisation des cryptographies symétrique et asymétrique (B5)
+- Architectures de gestion de clé (CA, DANE/TLSA, PGP) (B5)
+- Coûts de chiffrement/déchiffrement/attaque (B5)
+- Éthique, cryptographie, vie privée (B5)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Déployer une architecture de communication sécurisée (C7)
+- Analyser les lacunes de sécurité d'une communication (C8)
+- Enjeux éthiques de la cryptographie (B5)
+SYD ****************************
+Cet EC relève de l'unité d'enseignement Développement et sécurité (TC-4-S2-DEV) et contribue aux compétences suivantes :            
+
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 3)
+A3 Mettre en œuvre une démarche scientifique (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Principes définissant les systèmes distribués concernant la mémoire globale et le temps (C2)
+- Vocabulaire associé aux grands algorithmes distribués et à la tolérance de panne (C2)
+- Algorithmes et résultats de référence en distribué : FLP, Paxos, Bitcoin, 2PC (C2)
+- Mécanisme de synchronisation temporel associé aux horloges de Lamport et vectorielles (C2)
+- Protocoles distribués, Transactions, Consensus, Délais (C2)
+- Thrift (A3)
+- Réseau P2P : chord, bittorrent (A3)
+- Raft, Bitcoin (A3)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Concevoir un système distribué sans mémoire centrale de type RPC (C2)
+- Implanter une chaîne de transaction prouvée à concensus dynamique type Bitcoin (C2)
+- Implémenter un réseau P2P de gestion de tables de hash type Chord (C2)
+- Analyser les biais de sécurité d’un système distribué (C2)
+- Conception de mécanismes d'invocations de procédures distantes (A3)
+MGL ****************************
+Cet EC relève de l'unité d'enseignement Développement et sécurité (TC-4-S2-DEV) et contribue aux compétences suivantes :            
+
+C9 Conduire des projets dans le domaine du numérique (niveau 3)
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Représentation et utilisation des Schemas UML pour représenter une architecture IT (C9)
+- Approches formelles. Langage B (C9)
+- Utilisation des Designs patterns logiciels pour décrire un programme (C9)
+- Développement Agile et méthode SCRUM (C9)
+- Objets Calistenics (C9)
+- Programmation Junit, TDD (C7)
+- Langage B (C7)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Savoir présenter et communiquer sur un système informatique complexe avec les outils du génie logiciel (C9)
+- Comprendre les enjeux liés à la vérification de programmes informatiques. Principalement liés à l'opposition entre un code prouvé formellement et un code testé (C9)
+- Comprendre les grandes lignes de la gestion de projet informatique. (C9)
+- Comprendre les cycles de vie du produit logiciel (C9)
+- Développement par les tests (C7)
+- Abstraction formelle d'un système (C7)
+ARM ****************************
+Cet EC relève de l'unité d'enseignement Réseau Avancé (TC-4-S2-RA) et contribue aux compétences suivantes :            
+
+C8 Opérer, analyser, améliorer des systèmes numériques (niveau 3)
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 2)
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies
+B4 Faire preuve de créativité, innover, entreprendre
+B5 Agir de manière responsable dans un monde complexe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Gestion de mobilité (C8)
+- Canaux de transport (C8)
+- Canaux logiques (C8)
+- Gestion des ressources (C8)
+- Mapping des canaux, zone de localisation, paging, handover, etablissement, protocole RRC (C8)
+- Réseau d'accès / réseau cœur (C2)
+- Sécurité des réseaux mobiles (C2)
+- Protocoles du plan données et du plan contrôle (C2)
+- Plan controle, plan donnees, reseau d'acces, reseau coeur (C2)
+- Éléments d'architecture des réseaux 2G, 3G ou 4G (C6)
+- Réseaux cellulaire, etablissement d'appel, etablissement d'une session IP, access stratum, non-access stratum (C6)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Analyser des traces d'utilisation des réseaux mobiles (C8)
+- Proposer des solutions d'évolution des architectures de réseaux mobile (C2)
+- Décrire les concepts de bases d'un réseau cellulaire (C6)
+- Décrire l'émission/réception de messages (données ou voix) (C6)
+BLF ****************************
+Cet EC relève de l'unité d'enseignement Réseau Avancé (TC-4-S2-RA) et contribue aux compétences suivantes :            
+
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 2)
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies (niveau 2)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Boucle locale : réseau de distribution, unité de raccordement d'abonné (C6)
+- Fonction commutation, hiérarchie de commutateurs (C6)
+- Signalisation SS7 : architecture, Protocoles, établissement d'appel (C6)
+- Fonction transmission, multiplexage SDH (C6)
+- Téléphonie d'entreprise : PABX, charge de trafic, dimensionnement (C6)
+- Générations de technologies xDSL (C6)
+- ADSL : architecture accès/collecte, couches de protocoles mises en jeu : PPP, ATM, Ethernet. (C6)
+- riple play, Notion de QoS (C6)
+- RTC, boucle locale, PABX, ADSL, DSLAM (C6)
+- Perspective historique sur l'évolution du RTC et des technologies d'accès/collecte ADSL (A4)
+- Générations de technologies xDSL (A4)
+- Rentabiliser, convergence (A4)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Dimensionner un réseau téléphonique d'entreprise à partir d'un cahier des charges (C6)
+- Configurer des équipements du réseau d'accès ADSL : routeur domestique, DSLAM, BAS (C6)
+RAN ****************************
+Cet EC relève de l'unité d'enseignement Réseau Avancé (TC-4-S2-RA) et contribue aux compétences suivantes :            
+
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 3)
+C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données (niveau 3)
+C8 Opérer, analyser, améliorer des systèmes numériques (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A2 Développer une démarche expérimentale
+B3 Interagir avec les autres, travailler en équipe
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+B2 Travailler, apprendre, évoluer de manière autonome
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Connaître les techniques de l'accès radio cellulaire et de partage des ressources (C1)
+- Techniques de multiplexage (TDMA, FDMA, CDMA, OFDMA) (C1)
+- Modèle hexagonal pour les réseaux cellulaires (C1)
+- Calcul d'interférences (C1)
+- Réseaux cellulaire, partage des ressources radio, multiplexage (FDMA, TDMA, CDMA, OFDMA) (C1)
+- Caractéristiques principales des couches 1&2 des systèmes cellulaires (C5)
+- Caractéristiques principale des couches 1&2 du Wifi (C5)
+- Dimensionnement, planification cellulaire, gestion des interférences (C5)
+- Techniques de calcul de charge d'un réseau cellulaire (C8)
+- Techniques d'optimisation d'un réseau cellulaire (C8)
+- Futures évolutions (vers la 5G) (C8)
+- Performances des réseaux cellulaires (C8)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Comprendre les caractéristiques des protocoles de couches 1& 2 des systèmes radio cellulaires ou wlan (C1)
+- Appréhender les problématiques de l'ingénierie radio : dimensionnement, planification, gestion des interférences (C5)
+- Etudier une trace réelle sur analyseur de signaux vectoriel et analyser les signaux présents (C5)
+- Calculer la charge d'un réseau cellulaire et l'optimiser (C8)
+- Savoir utiliser des informations diverses pour évaluer les performances d'un réseau cellulaire (trafic, QoS, qualité des liens radio) (C8)
+PAO ****************************
+Cet EC relève de l'unité d'enseignement Projet appel d'offre (TC-4-S2-PAO) et contribue aux compétences suivantes :            
+
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 3)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles
+C4 Spécifier et dimensionner des systèmes numériques en réponse au besoin clients
+C9 Conduire des projets dans le domaine du numérique
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies
+B3 Interagir avec les autres, travailler en équipe
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+B2 Travailler, apprendre, évoluer de manière autonome
+B4 Faire preuve de créativité, innover, entreprendre
+B5 Agir de manière responsable dans un monde complexe
+B7 Travailler dans un contexte international et interculturel
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Les phases d'un appel d'offres (C2)
+- Architecture et services dans un réseau de communication (C2)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Analyser un existant, les besoins et les contraintes (C2)
+- Concevoir une architecture de réseau LAN/MAN/WAN (C2)
+- Sélectionner et caractériser les matériels et logiciels appropriés (LAN/MAN, sécurité, administration de réseau, TOIP, WIFI) (C2)
+- Organiser et planifier un déploiement avec les contraintes de migration et le support à l'exploitation de la solution (C2)
+- Mettre en œuvre une démarche de réponse à un appel d'offres (C2)
+- Elaborer une offre technique, organisationnelle et financière (C2)
+- Effectuer une soutenance de défense d'offre, argumenter face au client (C2)
+- Travailler en équipe d'experts (C2)
+TC-4-S-ENT ****************************
+Cet EC relève de l'unité d'enseignement Projet appel d'offre (TC-4-S2-PAO) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B3 Interagir avec les autres, travailler en équipe
+B4 Faire preuve de créativité, innover, entreprendre
+B5 Agir de manière responsable dans un monde complexe
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Notions de savoir être, code en entreprise (B6)
+- Notions de relations manager, équipe, collaborateur (B6)
+- Management de projet, méthodologie Agile (B6)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Estimer leur charge de travail, (B6)
+- Travailler en équipe, collaborer (B6)
+- Rédiger un rapport de projet, une note de synthèse (B6)
+VSR ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 3)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données
+C9 Conduire des projets dans le domaine du numérique
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Techniques de virtualisation, hyperviseur, machine virtuelle, docker, vSwitch. (C6)
+- Haute disponibilité et Déduplication et techniques de virtualisation des systèmes de fichiers, RAID, LVM, ZFS, ZPOOL, (C6)
+- Architectures de virtualisation des serveurs, des postes de travail et des réseaux (C6)
+- Virtualisation des ressources matérielles, des réseaux et des applications. (C6)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Conduire un projet de virtualisation d'un système d'information (C6)
+- Choix d'architecture technique de virtualisation et de cloud (C6)
+- Concevoir et déployer une architecture de virtualisation (C6)
+5G ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 3)
+C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données (niveau 3)
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 2)
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies
+B2 Travailler, apprendre, évoluer de manière autonome
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Défis de la 5G (C1)
+- Processus de standardisation (C1)
+- Technologies émergeantes : massive MIMO, mmWaves, cloud RAN, I.A. dans les réseaux (C1)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Comprendre les mécanismes de standardisation (C1)
+- Comprendre les enjeux des futurs standards (C1)
+- Rédiger une note de lecture sur une nouvelle technologie (C1)
+- Appréhender l'évolution technologique (C1)
+SAT ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 3)
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 3)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Connaitre le secteur d'activité lié aux communications par satellites (C1)
+- Localisation (C1)
+- Radionavigation (C1)
+- Collecte de donnée (C1)
+- Acteurs du marché (C1)
+- Notion d'orbite (C1)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Caractériser les techniques de transmission spécifiques aux liaisons satellites (C1)
+- Caractéristiques des liens radio (C1)
+- Modulation (C1)
+- Protocoles MAC (C2)
+- Etude de cas réels (C2)
+CVDI ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 3)
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 3)
+C4 Spécifier et dimensionner des systèmes numériques en réponse au besoin clients (niveau M2)
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies (niveau M2)
+C9 Conduire des projets dans le domaine du numérique (niveau M2)
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau M1)
+B4 Faire preuve de créativité, innover, entreprendre (niveau M1)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Problématiques spécifiques au transport des données multimédia sur les Réseaux IP (C2)
+- Etude de la qualité de service sur les réseaux ATM, Frame Relay, Ethernet (C2)
+- Etude de différents modèles de qualité de service IP (Diffserv, Intserv,MPLS) (C2)
+- Etude détaillée du Protocole SIP (C2)
+- Etude de l'architecture IMS (C2)
+- Etude du service VoiceXML (C2)
+- Etude de cas pour migration de téléphonie classique vers téléphonie sur IP (C6)
+- Travaux pratiques sur la mise  en œuvre d'un IPBX ASTERISK. (C6)
+- Travaux pratiques sur la qualité de service sur IP (C6)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Concevoir une infrastructure de réseaux multiservices (Voix, Vidéo, Image) (C2)
+- Mettre en œuvre une infrastructure de réseaux multiservices (C6)
+OP1-PRJ ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 3)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles
+B3 Interagir avec les autres, travailler en équipe
+B2 Travailler, apprendre, évoluer de manière autonome
+B4 Faire preuve de créativité, innover, entreprendre
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Protocole SIP et services associés : Téléphonie, Serveur vocal interactif, redirection d'appel, messagerie vocale et interconnexion multi-sites (C6)
+- Protocole SNMP, agent, MIB, manager, NMS (Nagios). (C6)
+- Technologie VRF, protocoles de labellisation. (C6)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Concevoir une architecture Voix sur IP et les services de communication unifiée (C6)
+- Concevoir des VPNs dans une architecture de réseau MPLS (C6)
+- Mettre en œuvre des stratégies de routage à l'aide du protocole BGP (C6)
+- Mettre en oeuvre le monitoring et la supervision SNMP de systèmes et équipements (C6)
+SCP ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites (niveau 2)
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles
+B3 Interagir avec les autres, travailler en équipe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Problématiques des villes intelligentes et de l'Internet des objets (A1)
+- Déploiements d'architectures de réseaux, notamment de capteurs, dans l'espace urbain (A1)
+- Différentes familles de topologies et protocoles réseaux utilisés (A1)
+- Tour d'horizon des acteurs et cas d'usage majeurs sur le marché ou à venir (A1)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Savoir manipuler la plateforme IoT-lab (A1)
+- Programmer des capteurs communicants (A1)
+- Collecter des données de capteurs et d'usage du réseau (A1)
+- Analyser les caractéristiques d'un réseau radio (A1)
+RLD ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+ (niveau )
+CIT ****************************
+Cet EC relève de l'unité d'enseignement  () et contribue aux compétences suivantes :            
+
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies (niveau 3)
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 3)
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 3)
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 2)
+C9 Conduire des projets dans le domaine du numérique (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques
+B2 Travailler, apprendre, évoluer de manière autonome
+A2 Développer une démarche expérimentale
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Boards, processeurs ARM (Raspberry PI) (C9)
+- Brokers d'événements (MQTT) (C9)
+- Frameworks de développement d'application à haute disponiblité (Vert.x, Akka) (C9)
+- Plateformes de déploiement, monitoring et d'orchestration (Docker, Kubernetes) (C9)
+- Base de données distribuées (MongoDB) (C9)
+- Frameworks de calcul distribué (Spark, etc) (C9)
+- Frameworks de Machine Learning (TensorFlow, etc) (C9)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Reprendre un projet complexe existant (C9)
+- Analyser des contraintes opérationnelles de fonctionnement d'une plateforme matérielle contrainte en ressource (C9)
+- Mettre en place des stratégies et configurations de consensus distribués pour de la tolérance aux pannes (C9)
+- Mettre en place des services à haute disponiblité (C9)
+- Mettre en place en gestion d'équipe agile à la fois à gros grain avec une grande équipe, et à la fois à grain fin en binôme (C9)
+RLO ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 3)
+C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données (niveau 3)
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 2)
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites
+A2 Développer une démarche expérimentale
+A3 Mettre en œuvre une démarche scientifique
+B3 Interagir avec les autres, travailler en équipe
+B4 Faire preuve de créativité, innover, entreprendre
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Fonctionnement approfondi des chaines radio pour les systèmes de communication sans fil. (C1)
+- Techniques de traitement de signal pour la mise en forme d'un signal radio réel (filtrage, synchronisation, demodulation, etc...). (C1)
+- GNU Radio et les systèmes de traitement de signal orienté à data-flow. (C1)
+- Techniques d'implementation de radio logicielle. (C1)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Concevoir et Implementer un système de reception radio. (C1)
+- Analyser un standard: identifier les caractéristiques relevantes pour la radio e leurs impacts sur la performance. (C1)
+- Savoir reconnaitre les limitations des techniques employés dans l'implementation d'une chaine radio. (C1)
+OP2-PRJ ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 2)
+C9 Conduire des projets dans le domaine du numérique (niveau 2)
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies
+C4 Spécifier et dimensionner des systèmes numériques en réponse au besoin clients
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles
+B4 Faire preuve de créativité, innover, entreprendre
+BED ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 2)
+A3 Mettre en œuvre une démarche scientifique (niveau 2)
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 1)
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2)
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+A2 Développer une démarche expérimentale
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies
+C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Configuration réseau (A5)
+- Protocole de communication numérique sans fil (A5)
+- Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet (A5)
+- Programmation C embarqués (A5)
+- Gestionnaire d'interruption, pilotes de périphériques, OS léger (A5)
+- Administration linux (A5)
+- Programmation C embarqués (A3)
+- Gestionnaire d'interruption, pilotes de périphériques, OS léger (A3)
+- Configuration réseau (C3)
+- Protocole de communication numérique sans fil (C3)
+- Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet (C3)
+- Programmation C embarqués (C3)
+- Gestionnaire d'interruption, pilotes de périphériques, OS léger (C3)
+- Administration linux (C3)
+- Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet (C7)
+- Programmation C embarqués (C7)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Programmer un micro-contrôleur: (A5)
+- Configurer un chip radio (A5)
+- Programmer un micro-contrôleur: (A3)
+- Construire une distribution linux pour un système embarqué (A3)
+- Construire une chaîne de compilation croisée (C3)
+- Programmer un micro-contrôleur (C7)
+- Configurer un chip radio (C7)
+- Construire une chaîne de compilation croisée (C7)
+- Configurer un chip radio (C1)
+OSA ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites (niveau 2)
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 2)
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2)
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+A2 Développer une démarche expérimentale
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies
+C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Compilation séparé, édition de lien (A1)
+- Mode d'exécutions et privilèges CPU (A1)
+- Appels système (A1)
+- Isolation noyau/application (A1)
+- Changement de contexte (A1)
+- Mode d'exécutions et privilèges CPU (A5)
+- Appels système (A5)
+- Isolation noyau/application (A5)
+- Compilation séparé, édition de lien (C7)
+- Mode d'exécutions et privilèges CPU (C7)
+- Appels système (C7)
+- Isolation noyau/application (C7)
+- Structures de données d'un ordonnanceur : liste de processus, process control block (C7)
+- Gestionnaire d'interruptions (C7)
+- Pour les plus rapides : gestion mémoire, pagination, isolation processus, MMU, traduction d'adresse (C7)
+- Compilation séparé, édition de lien (C3)
+- Mode d'exécutions et privilèges CPU (C3)
+- Appels système (C3)
+- Isolation noyau/application (C3)
+- Changement de contexte (C3)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Programmer un mécanisme d'appel système (A1)
+- Programmer un mécanisme d'appel système (A5)
+- Cross-compiler, émuler, et deboguer un logiciel pour une plateforme embarquée contenant un processeur ARM (Raspberry Pi) (C7)
+- Programmer en assembleur ARM (C7)
+- Programmer un mécanisme d'appel système (C7)
+- Programmer un mécanisme d'appel système (C3)
+MLR ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites (niveau 2)
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 2)
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 2)
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2)
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+A2 Développer une démarche expérimentale
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies
+C5 Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Différentes architectures de contrôle (A1)
+- Représentations de l'environnement (carte métrique, topologique,..) (A1)
+- Problèmes multi-robot tel que la connectivité et la cartographie et solutions (A1)
+- Navigation réactive pour robot mobile (A1)
+- Principaux types de capteurs (laser, camera 2D/3D) (A1)
+- Le middleware ROS (A1)
+- Plateforme robots Turtlebots. (A1)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Implémenter un comportement de navigation réactive et de téléopération (A1)
+- Implémenter un algorithme de planification et suivi de chemin (type A*) (A1)
+- Développer sur le middleware ROS (Robotic Operating System) (A1)
+- Piloter un robot Turtlebot (A1)
+- Exploiter une camera pour la navigation d'un robot (A1)
+IAR ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites (niveau 2)
+A2 Développer une démarche expérimentale (niveau 2)
+A3 Mettre en œuvre une démarche scientifique (niveau 2)
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies (niveau 2)
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 2)
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 2)
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 2)
+C8 Opérer, analyser, améliorer des systèmes numériques (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Agent : architectures pour la robotique, Systèmes-Multi-Agents (A1)
+- Architectures bio-inspirées et Swarm robotics (A1)
+- Algorithmes de planification A* (A1)
+- Processus décisionnel de Markov (MDP) (A1)
+- Problème d¿apprentissage par renforcement (A1)
+- Algorithmes d¿apprentissage par renforcement: policy, value iteration, Qlearning, Sarsa, DQN, policy gradient (A1)
+- Schémas d'approximation linéaire et non-linéaire (avec réseaux de neurones) (A1)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Connaître les enjeux de l'IA en Robotique (A1)
+- Implémenter un algorithme de plus court chemin comme A* (A1)
+- Modéliser un problème de prise de décision comme un MDP (A1)
+- Expliquer les objectifs sous-jacents de l¿apprentissage par renforcement (A1)
+- Comprendre les principaux résultats de convergence des algorithmes de programmation dynamique (A1)
+- Implémenter les algorithmes d¿apprentissage par renforcement exacts et approchés (A1)
+OP3-PRJ ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 3)
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 3)
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites (niveau 2)
+A2 Développer une démarche expérimentale (niveau 2)
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données
+B1 Se connaître, se gérer physiquement et mentalement
+A3 Mettre en œuvre une démarche scientifique
+ELK ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques
+B2 Travailler, apprendre, évoluer de manière autonome
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- ElasticSearch (C7)
+- Kibana (C7)
+- LogStash (C7)
+- Beats (C7)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Prendre en main une infrastructure de traitement massif de données (C7)
+- Visualiser des données sous différentes formes (C7)
+- Collecter des données issues de sites web distant d'information (C7)
+- Comprendre les problèmes de passage à l'échelle pour la collecte de données (C7)
+- Développer des outils de collectes conformes aux contraintes d'accès (C7)
+CIA ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 3)
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+A2 Développer une démarche expérimentale (niveau 2)
+C8 Opérer, analyser, améliorer des systèmes numériques (niveau 2)
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites (niveau 1)
+C9 Conduire des projets dans le domaine du numérique (niveau 1)
+B5 Agir de manière responsable dans un monde complexe (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques
+C4 Spécifier et dimensionner des systèmes numériques en réponse au besoin clients
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+SRS ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 3)
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 3)
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B5 Agir de manière responsable dans un monde complexe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Classes de vulnérabilités (C7)
+- Modèles de contrôle d'accès (C7)
+- Limites théoriques et pratiques des outils de sécurité (C7)
+- Sécurité logicielle, vulnérabilités, contrôle d'accès (C7)
+- Usage et mise en oeuvre d'un IDS (C6)
+- Mécanismes de sécurité du WiFi (C6)
+- IDS, Sécurité wifi (C6)
+- Usage et mise en oeuvre d'un IDS (A4)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Concevoir un système d'information sécurisé (C7)
+- Réaliser une analyse critique des produits de sécurité (C7)
+- Concevoir un système d'information sécurisé (C6)
+- Analyser et expliquer une attaque documentée (A4)
+SVP ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+C8 Opérer, analyser, améliorer des systèmes numériques (niveau 2)
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies (niveau 1)
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 1)
+B5 Agir de manière responsable dans un monde complexe (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B4 Faire preuve de créativité, innover, entreprendre
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques
+C4 Spécifier et dimensionner des systèmes numériques en réponse au besoin clients
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Comprendre les enjeux en matière de vie privée, les risques associés et leurs impacts (C8)
+- Réaliser une analyse critique d'un système sous l'angle de la protection des données personnelles (C8)
+- Intégrer des solutions de protection de la vie privée au sein de produits (C8)
+OP4-PRJ ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe (niveau 3)
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 3)
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 3)
+C9 Conduire des projets dans le domaine du numérique (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+B4 Faire preuve de créativité, innover, entreprendre
+CSAD ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+A1 Résoudre les questions posées par un problème scientifique en étant conscient des limites (niveau 1)
+A2 Développer une démarche expérimentale (niveau 1)
+A3 Mettre en œuvre une démarche scientifique (niveau 1)
+C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 1)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données
+A4 Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques
+B3 Interagir avec les autres, travailler en équipe
+B4 Faire preuve de créativité, innover, entreprendre
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Comprendre l'écosystème de calcul scientifique en Python (A1)
+- Comprendre les principes algorithmiques de l'apprentissage statistique et neuronal (A1)
+- Comprendre les infrastructures de calcul distribué (Data_Form et cloud) et leurs usages (A1)
+- Comprendre les algorithmes de détection de communautés appliqués aux graphes aléatoires, temporels, small world et "scale-free". (A1)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Implanter un workflow de calcul allant de l'accès aux données jusqu'à la visualisation des résultats (A1)
+- Concevoir et entraîner un réseau de neurones profond pour un problème de classification (A1)
+- Exploiter les infrastructures de calcul distribué (lancement d'applications dans le cloud, manipulation d'images virtuelles etc.) (A1)
+- Modéliser un jeu de données sous la forme d'un graphe (A1)
+- Identifier et appliquer les algorithmes adaptés à un modèle de graphe donné (A1)
+5TC-ARC ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+C8 Opérer, analyser, améliorer des systèmes numériques (niveau 3)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+B3 Interagir avec les autres, travailler en équipe
+B4 Faire preuve de créativité, innover, entreprendre
+B2 Travailler, apprendre, évoluer de manière autonome
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Etudier et utiliser deux méthodes différentes d'analyse de risques (C8)
+- Etude de la norme iso27005 (C8)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Analyser des enjeux stratégiques, (C8)
+- Auditer de sécurité pour identifier les scénarios de menace , caractériser et évaluer les risques, (C8)
+- Produire un plan de traitement des risques (C8)
+HOPE ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+B5 Agir de manière responsable dans un monde complexe (niveau 3)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Etude sociologique de terrain (B5)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Evaluer les apports et limites d'un enjeu socio-technique (B5)
+- Transmettre les résultats d'une étude sous forme de partage collectif (B5)
+BTC ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 3)
+C8 Opérer, analyser, améliorer des systèmes numériques (niveau 2)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B4 Faire preuve de créativité, innover, entreprendre
+B2 Travailler, apprendre, évoluer de manière autonome
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Codes du bitcoin et des crypto-monnaies à preuve de travail (C7)
+- Organisation des projets blockchain/crypto-monnaies (C8)
+- Histoire et évolution des technologies blockchain/crypto-monnaies/DAO (C8)
+- Logiciels et services participant à l’écosystème des réseaux crypto-monétaires (C8)
+- Tokens ERC20 et smart contracts Ethereum (C8)
+- Habitat numérique des projets blockchain/crypto-monnaies (C8)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Paramétrer et compiler une crypto-monnaie, amorcer une blockchain, expérimenter (C7)
+- Mobiliser et articuler les différents logiciels blockchain et crypto-monnaies (C7)
+- Créer des smart contracts (C8)
+- Trouver l'information relative aux projets blockchain/crypto-monnaies (C8)
+- Faire des choix technologiques liés à l’état de la technique et au contexte d’usage (C8)
+PILS ****************************
+Cet EC relève de l'unité d'enseignement Projet de Fin d'Etudes R&D (TC-5-P-PFE-S9) et contribue aux compétences suivantes :            
+
+C9 Conduire des projets dans le domaine du numérique (niveau 3)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B3 Interagir avec les autres, travailler en équipe
+B4 Faire preuve de créativité, innover, entreprendre
+A5 Identifier, formuler et résoudre un problème d'ingénierie complexe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- LeanStartup (C9)
+- Réalisation de vidéos support (C9)
+- Prototypage rapide de solutions (C9)
+- Projet, Innovation, LeanStartup (C9)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Mettre en place un processus d'amélioration d'idées (C9)
+- Savoir démarrer un projet technologique sur la base de connaissances acquises (C9)
+- Comprendre la valeur de l'usage (C9)
+- Mettre en place un outil de gestion de projet d'équipe (B2)
