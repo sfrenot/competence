@@ -134,8 +134,7 @@ TC-3-S1-OTE;Outils théoriques;ALG;OSI;;"A1 ""Résoudre les questions posées pa
 ;;;;;"C3 ""Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques""";3;
 ;;;;;"A3 ""Mettre en œuvre une démarche scientifique""";1;
 ;;;;Connaissance;Notions de l'algorithmique :  définition, écriture, preuve, complexité en temps et mémoire;;
-;;;;Connaissance;"Algorithmes fondamentaux :  tris, file/liste, parcours d'arbre, de
-graphes";;
+;;;;Connaissance;Algorithmes fondamentaux :  tris, file/liste, parcours d'arbre, de graphes;;
 ;;;;;"B2 ""Travailler, apprendre, évoluer de manière autonome""";M;
 TC-3-S1-OTE;Outils théoriques;PBS;SPE;;"A3 ""Mettre en œuvre une démarche scientifique""";3;
 ;;;;Capacité;Modéliser une expérience aléatoire : univers, évènement, variables aléatoire, signal aléatoire;;
@@ -241,20 +240,20 @@ TC-3-S2-TSC;Traitement du signal et C;TSA;KID;;"C1 ""Spécifier, concevoir et mo
 ;;;;;"B3 ""Interagir avec les autres, travailler en équipe""";M;
 TC-3-S2-TSC;Traitement du signal et C;CRO;TRI;;"C3 ""Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques""";3;
 ;;;;;"C7 ""Mettre en œuvre, réaliser, développer, déployer des programmes informatiques""";3;
-;;;;;"A5 ""Identifier, formuler et résoudre un problème d'ingénierie complexe""";1;
-;;;;;"A3 ""Mettre en œuvre une démarche scientifique""";M;
-;;;;;"B3 ""Interagir avec les autres, travailler en équipe""";M;
 ;;;;Capacité;Concevoir un algorithme à partir d'un problème;;
 ;;;;Capacité;Maîtriser la récursivité;;
 ;;;;Capacité;Choisir une structure de donnée pour implémenter un algorithme;;
 ;;;;Capacité;Maîtriser le mécanisme d'indirection (pointeurs en C);;
 ;;;;Capacité;Concevoir, réaliser, déverminer, optimiser un programme en C pour résoudre un problème.;;
-;;;;Capacité;Utiliser les outils de compilation et déverminage: gcc, gdb, make, valgrind.-    ;;
+;;;;Capacité;Utiliser les outils de compilation et déverminage: gcc, gdb, make, valgrind.;;
 ;;;;Capacité;Utiliser les outils de méta-compilation sur des exemple simple: lex, yacc.;;
 ;;;;Connaissance;Liste chainée, tableau, arbre;;
 ;;;;Connaissance;Le Langage C;;
 ;;;;Connaissance;Base de l'exécutif: chaîne de compilation, exécution d'un programme, pile d'exécution;;
 ;;;;Connaissance;Connaitre les bases des grammaire et de la compilation des langages de programmation;;
+;;;;;"A5 ""Identifier, formuler et résoudre un problème d'ingénierie complexe""";1;
+;;;;;"A3 ""Mettre en œuvre une démarche scientifique""";M;
+;;;;;"B3 ""Interagir avec les autres, travailler en équipe""";M;
 TC-3-S2-WER;Web et Réseau;WEB;FLM;;"A4 ""Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies""";2;
 ;;;;;"A5 ""Identifier, formuler et résoudre un problème d'ingénierie complexe""";2;
 ;;;;;"C3 ""Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques""";2;
@@ -674,7 +673,7 @@ TC-4-S2-PAO;Projet appel d'offre;PAO;OGA;;"C2 ""Spécifier, concevoir et modéli
 ;;;;;"B4 ""Faire preuve de créativité, innover, entreprendre""";M;
 ;;;;;"B5 ""Agir de manière responsable dans un monde complexe""";M;
 ;;;;;"B7 ""Travailler dans un contexte international et interculturel""";M;
-TC-4-S2-PAO;Projet appel d'offre;STA4;ISO;;"B6 ""Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive""";2;x
+TC-4-S2-PAO;Projet appel d'offre;TC-4-S-ENT;ISO;;"B6 ""Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive""";2;x
 ;;;;Capacité;Estimer leur charge de travail,;;
 ;;;;Capacité;Travailler en équipe, collaborer;;
 ;;;;Capacité;Rédiger un rapport de projet, une note de synthèse;;
@@ -958,7 +957,20 @@ TC-5-OPT;Options de 5TC;ELK;SFR;;"C7 ""Mettre en œuvre, réaliser, développer,
 ;;;;Connaissance;Beats;;
 ;;;;;"C3 ""Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques""";M;
 ;;;;;"B2 ""Travailler, apprendre, évoluer de manière autonome""";M;
-TC-5-OPT;Options de 5TC;CIA;HTR;;;;
+TC-5-OPT;Options de 5TC;CIA;HTR;;"A5 ""Identifier, formuler et résoudre un problème d'ingénierie complexe""";3;
+;;;;;"B3 ""Interagir avec les autres, travailler en équipe""";3;
+;;;;;"A2 ""Développer une démarche expérimentale""";2;
+;;;;;"C8 ""Opérer, analyser, améliorer des systèmes numériques""";2;
+;;;;;"B4 ""Faire preuve de créativité, innover, entreprendre""";2;
+;;;;;"A1 ""Résoudre les questions posées par un problème scientifique en étant conscient des limites""";1;
+;;;;;"C9 ""Conduire des projets dans le domaine du numérique""";1;
+;;;;;"B5 ""Agir de manière responsable dans un monde complexe""";1;
+;;;;;"A4 ""Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies""";M;
+;;;;;"C3 ""Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques""";M;
+;;;;;"C4 ""Spécifier et dimensionner des systèmes numériques en réponse au besoin clients""";M;
+;;;;;"C7 ""Mettre en œuvre, réaliser, développer, déployer des programmes informatiques""";M;
+;;;;;"B1 ""Se connaître, se gérer physiquement et mentalement""";M;
+;;;;;"B2 ""Travailler, apprendre, évoluer de manière autonome""";M;
 TC-5-OPT;Options de 5TC;SRS;FLE;;"C7 ""Mettre en œuvre, réaliser, développer, déployer des programmes informatiques""";3;
 ;;;;Capacité;Concevoir un système d'information sécurisé;;
 ;;;;Capacité;Réaliser une analyse critique des produits de sécurité;;

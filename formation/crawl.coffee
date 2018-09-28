@@ -1,5 +1,7 @@
 # Lancement du parser tika
 # java -jar tika-app-1.17.jar --text -s -p 1234
+# TODO : fonction de liste de section
+# Extraire la section parmis cette liste
 
 Promise = require 'bluebird'
 cheerio = require 'cheerio'
@@ -12,6 +14,10 @@ refCompetences = require './refCompetences'
 
 extractRe = (re, src) ->
   return re.exec(src)[0].split(' : ')[1]
+
+buildCaptureMiddle = (from, to, mod) ->
+  regle = new RegExp("#{from}([\\s\\S]*)#{to}")
+  return regle
 
 extractPdfStructure = (pdf) ->
   # console.log '->', pdf
@@ -28,7 +34,7 @@ extractPdfStructure = (pdf) ->
   matiere.projet = extractRe(/Projet : .*/, pdf)
   matiere.perso = extractRe(/Travail personnel : .*/, pdf)
   try
-    [..., avant, dernier, blanc, blanc] = /CONTACT\n([\s\S]*)OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT/g.exec(pdf)[1].split('\n')
+    [..., avant, dernier, blanc, blanc] = buildCaptureMiddle("CONTACT\n","OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT").exec(pdf)[1].split('\n')
     matiere.nom = "#{avant} : #{dernier}"
     matiere.competencesBrutes = (/OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n([\s\S]*)PROGRAMME/g.exec(pdf)[1]).trim().replace(/\n/g,' ')
   catch error
@@ -112,7 +118,7 @@ request()
     if departement is 'TC'
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        # if $(@).attr('href') is '/fr/formation/parcours/729/3/1'
+        if $(@).attr('href') is '/fr/formation/parcours/729/3/1'
         # if $(@).attr('href') is '/fr/formation/parcours/719/3/1' #GCU
           semestres.push
             url: $(@).attr('href')
@@ -150,7 +156,7 @@ request()
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36419&_lang=fr" or
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=35883&_lang=fr"
             # # TC
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36002&_lang=fr'
+            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36774&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36408&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr'
