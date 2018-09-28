@@ -16,7 +16,7 @@ extractRe = (re, src) ->
   return re.exec(src)[0].split(' : ')[1]
 
 buildCaptureMiddle = (from, to, mod) ->
-  regle = new RegExp("#{from}([\\s\\S]*)#{to}")
+  regle = new RegExp("#{from}([\\s\\S]*)#{to}", 'g')
   return regle
 
 extractPdfStructure = (pdf) ->
@@ -36,7 +36,7 @@ extractPdfStructure = (pdf) ->
   try
     [..., avant, dernier, blanc, blanc] = buildCaptureMiddle("CONTACT\n","OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT").exec(pdf)[1].split('\n')
     matiere.nom = "#{avant} : #{dernier}"
-    matiere.competencesBrutes = (/OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n([\s\S]*)PROGRAMME/g.exec(pdf)[1]).trim().replace(/\n/g,' ')
+    matiere.competencesBrutes = (buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n","PROGRAMME").exec(pdf)[1]).trim().replace(/\n/g,' ')
   catch error
     console.error("Warning matiere mal saisie #{matiere.code}")
     console.error(error.message)
