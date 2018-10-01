@@ -15,9 +15,36 @@ refCompetences = require './refCompetences'
 extractRe = (re, src) ->
   return re.exec(src)[0].split(' : ')[1]
 
-buildCaptureMiddle = (from, to, mod) ->
+buildCaptureMiddle = (from, to) ->
   regle = new RegExp("#{from}([\\s\\S]*)#{to}", 'g')
   return regle
+
+getCompetenceBruteSection = (pdf) ->
+  mainSections = ["PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "mailto"]
+  for section in mainSections
+    rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
+    if rech?
+      return rech[1].trim().replace(/\n/g,' ')
+  return null
+
+getCompetenceSection = (matiere, start) ->
+  compSections = [
+    "Cet EC relève de l'unité d'enseignement\.\*et contribue aux compétences suivantes : "
+    "De plus, elle nécessite de mobiliser les compétences suivantes : "
+    "En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : "
+    "En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : "
+    ""
+  ]
+  startfound = false
+  for section in compSections
+    unless startfound
+      if section is start && matiere.competencesBrutes.match(section)
+        startfound = true
+    else
+      rech = buildCaptureMiddle(start, section).exec(matiere.competencesBrutes)
+      if rech?
+        return rech
+  console.error "#{matiere.code} section \"#{start}\" introuvable}."
 
 extractPdfStructure = (pdf) ->
   # console.log '->', pdf
@@ -36,13 +63,14 @@ extractPdfStructure = (pdf) ->
   try
     [..., avant, dernier, blanc, blanc] = buildCaptureMiddle("CONTACT\n","OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT").exec(pdf)[1].split('\n')
     matiere.nom = "#{avant} : #{dernier}"
-    matiere.competencesBrutes = (buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n","PROGRAMME").exec(pdf)[1]).trim().replace(/\n/g,' ')
+    matiere.competencesBrutes = getCompetenceBruteSection(pdf)
   catch error
     console.error("Warning matiere mal saisie #{matiere.code}")
-    console.error(error.message)
+    console.error(error)
     return matiere
 
-  lcompetences = /[\s\S]*Cet EC relève de l'unité d'enseignement.*et contribue aux compétences suivantes : ([\s\S]*)De plus, elle nécessite de mobiliser les compétences suivantes : /ig.exec(matiere.competencesBrutes)
+  # Compétences
+  lcompetences = getCompetenceSection(matiere, "Cet EC relève de l'unité d'enseignement\.\*et contribue aux compétences suivantes : ")
   # console.log(lcompetences[1])
   if lcompetences?
     try
@@ -58,8 +86,9 @@ extractPdfStructure = (pdf) ->
       console.error(lcompetences)
       console.error(error)
       throw error
+
   # Competences mobilisées
-  lcompetences = /[\s\S]*De plus, elle nécessite de mobiliser les compétences suivantes : ([\s\S]*) En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : /ig.exec(matiere.competencesBrutes)
+  lcompetences = getCompetenceSection(matiere, "De plus, elle nécessite de mobiliser les compétences suivantes : ")
   if lcompetences?
     try
       matiere.listeCompMobilise = lcompetences[1].trim().match(/[ABC]\d /g).map (x) ->
@@ -74,11 +103,9 @@ extractPdfStructure = (pdf) ->
 
   matiere.capacite = []
   matiere.competenceToCapaciteEtConnaissance = {}
-  lcapacites = (/En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : ([\s\S]*)En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes/ig.exec(matiere.competencesBrutes))
-
+  lcapacites = getCompetenceSection(matiere, "En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : ")
   if lcapacites?
     splitCapacites = lcapacites[1].trim().split(/ *- /)
-
     splitCapacites.map (capa) ->
       if capa isnt ''
         [,capaDescription,listComp] = capa.match(/([\s\S]*) *\((?!.*\()([\s\S]*)\)/)
@@ -91,7 +118,7 @@ extractPdfStructure = (pdf) ->
           matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
 
   matiere.connaissance = []
-  lconnaissance = (/En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :([\s\S]*)/ig.exec(matiere.competencesBrutes))
+  lconnaissance = getCompetenceSection(matiere, "En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : ")
   if lconnaissance?
     splitConnaissance = lconnaissance[1].trim().split(/ *- /)
     splitConnaissance.map (capa) ->
@@ -118,7 +145,7 @@ request()
     if departement is 'TC'
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        if $(@).attr('href') is '/fr/formation/parcours/729/3/1'
+        if $(@).attr('href') is '/fr/formation/parcours/729/4/2'
         # if $(@).attr('href') is '/fr/formation/parcours/719/3/1' #GCU
           semestres.push
             url: $(@).attr('href')
@@ -156,7 +183,7 @@ request()
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36419&_lang=fr" or
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=35883&_lang=fr"
             # # TC
-            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36774&_lang=fr'
+            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35786&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36408&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr'
