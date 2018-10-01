@@ -125,7 +125,7 @@ extractPdfStructure = (pdf) ->
           lcomps.map (comp) ->
             unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
             matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
-            
+
   injectCapacitesConnaissances("Connaissance", matiere, "En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : ")
   injectCapacitesConnaissances("Capacité", matiere, "En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : ")
 
@@ -143,7 +143,7 @@ request()
     if departement is 'TC'
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        if $(@).attr('href') is '/fr/formation/parcours/729/4/2'
+        # if $(@).attr('href') is '/fr/formation/parcours/729/4/2'
         # if $(@).attr('href') is '/fr/formation/parcours/719/3/1' #GCU
           semestres.push
             url: $(@).attr('href')
@@ -181,7 +181,7 @@ request()
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36419&_lang=fr" or
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=35883&_lang=fr"
             # # TC
-            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35786&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35786&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36408&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr'
