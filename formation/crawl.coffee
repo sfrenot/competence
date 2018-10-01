@@ -101,35 +101,33 @@ extractPdfStructure = (pdf) ->
       console.error(error)
       throw error
 
+
   matiere.capacite = []
-  matiere.competenceToCapaciteEtConnaissance = {}
-  lcapacites = getCompetenceSection(matiere, "En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : ")
-  if lcapacites?
-    splitCapacites = lcapacites[1].trim().split(/ *- /)
-    splitCapacites.map (capa) ->
-      if capa isnt ''
-        [,capaDescription,listComp] = capa.match(/([\s\S]*) *\((?!.*\()([\s\S]*)\)/)
-
-        capaDescription = "Capacité : #{capaDescription.trim()}"
-        matiere.capacite.push(capaDescription)
-        lcomps = listComp.split(', ')
-        lcomps.map (comp) ->
-          unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
-          matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
-
   matiere.connaissance = []
-  lconnaissance = getCompetenceSection(matiere, "En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : ")
-  if lconnaissance?
-    splitConnaissance = lconnaissance[1].trim().split(/ *- /)
-    splitConnaissance.map (capa) ->
-      if capa isnt ''
-        [,capaDescription,listComp] = capa.match(/(.*) \((.*)\)/)
-        capaDescription = "Connaissance : #{capaDescription.trim()}"
-        matiere.connaissance.push(capaDescription)
-        lcomps = listComp.split(', ')
-        lcomps.map (comp) ->
-          unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
-          matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
+  matiere.competenceToCapaciteEtConnaissance = {}
+
+  injectCapacitesConnaissances = (name, matiere, sectionStartName) ->
+    lcapacites = getCompetenceSection(matiere, sectionStartName)
+    if lcapacites?
+      splitCapacites = lcapacites[1].trim().split(/ *- /)
+      splitCapacites.map (capa) ->
+        if capa isnt ''
+          [,capaDescription,listComp] = capa.match(/(.*) \((.*)\)/)
+
+          if name is 'Capacité'
+            capaDescription = "Capacité : #{capaDescription.trim()}"
+            matiere.capacite.push(capaDescription)
+          else
+            capaDescription = "Connaissance : #{capaDescription.trim()}"
+            matiere.connaissance.push(capaDescription)
+
+          lcomps = listComp.split(', ')
+          lcomps.map (comp) ->
+            unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
+            matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
+            
+  injectCapacitesConnaissances("Connaissance", matiere, "En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : ")
+  injectCapacitesConnaissances("Capacité", matiere, "En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : ")
 
   # console.warn "-->", matiere
   matiere
