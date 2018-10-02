@@ -106,12 +106,29 @@ loadDepartement = (departement, res) ->
           overflow: hidden;
         }
 
+        .tableheader th{
+          border: 0;
+        }
+
         table td {
           text-align: center;
+        }
+
+        a {
+          text-decoration: none;
         }
       </style>
     </head>
     <body>
+      <table class="tableheader">
+       <thead>
+         <tr>
+           <th><a href="GCU">GCU</a></th><th><a href="TC">TC</a></th>
+         </tr>
+       </thead>
+      </table>
+      </br>
+
       <table>
         <thead>
             <tr>
@@ -137,6 +154,15 @@ app.get '/:departement', (req, res) ->
   loadDepartement(req.departement, res)
 
 app.get "/", (req, res) ->
-  res.send("coucou")
+  res.send """
+    <table class="tableheader">
+     <thead>
+       <tr>
+         <th><a href="/matrice/GCU">GCU</a></th>
+         <th><a href="/matrice/TC">TC</a></th>
+       </tr>
+     </thead>
+    </table>
+  """
 
 module.exports = app

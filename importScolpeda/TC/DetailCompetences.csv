@@ -479,10 +479,10 @@ TC-4-S1-S&I;Signal et Image;TIP;ATI;;"C1 ""Spécifier, concevoir et modéliser d
 ;;;;;"C5 ""Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données""";2;
 ;;;;Capacité;Mettre en oeuvre les techniques d'analyse multirésolution des signaux et des images;;
 ;;;;Capacité;Réaliser une chaîne logicielle de traitement d'image en utilisant des outils tels que MATLAB ou STARLING;;
-;;;;Capacité;Etant donné une base de données images ou vidéos, mettre en œuvre les techniques d'analyse de données (méthodes supervisées ou non supervisées) pour classer ou identifier des objets visuels;;
+;;;;Capacité;"Etant donné une base de données images ou vidéos, mettre en œuvre les techniques d'analyse de données (Apprentissage ""Machine Learning"" et Apprentissage profond ""Deep Learning"") pour classer ou identifier des objets visuels (Intelligence Artificielle)";;
 ;;;;Connaissance;Méthodologies d'analyse et de synhèse de la parole et de l'audio;;
 ;;;;Connaissance;Techniques de quantification et de codage parole, audio, image et vidéo;;
-;;;;Connaissance;Méthodologies d'analyse de données;;
+;;;;Connaissance;"Méthodologies d'analyse de masse de données (""Machine Learning"" et ""Deep Learning"")";;
 ;;;;;"A1 ""Résoudre les questions posées par un problème scientifique en étant conscient des limites""";M;
 ;;;;;"B2 ""Travailler, apprendre, évoluer de manière autonome""";M;
 ;;;;;"B3 ""Interagir avec les autres, travailler en équipe""";M;

@@ -766,7 +766,7 @@ En permettant à l'étudiant de travailler et d'être évalué sur les connaissa
 - Standards de compression de parole, audio, image et vidéo (A4)
 - Méthodologies d'analyse et de synhèse de la parole et de l'audio (C5)
 - Techniques de quantification et de codage parole, audio, image et vidéo (C5)
-- Méthodologies d'analyse de données (C5)
+- Méthodologies d'analyse de masse de données ("Machine Learning" et "Deep Learning") (C5)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
 - Modéliser un signal continu ou discret par un signal approximant (C1)
@@ -776,7 +776,7 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 - Concevoir une chaîne de compression de la parole, de l'audio, des images et des vidéos (A4)
 - Mettre en oeuvre les techniques d'analyse multirésolution des signaux et des images (C5)
 - Réaliser une chaîne logicielle de traitement d'image en utilisant des outils tels que MATLAB ou STARLING (C5)
-- Etant donné une base de données images ou vidéos, mettre en œuvre les techniques d'analyse de données (méthodes supervisées ou non supervisées) pour classer ou identifier des objets visuels (C5)
+- Etant donné une base de données images ou vidéos, mettre en œuvre les techniques d'analyse de données (Apprentissage "Machine Learning" et Apprentissage profond "Deep Learning") pour classer ou identifier des objets visuels (Intelligence Artificielle) (C5)
 PSC ****************************
 Cet EC relève de l'unité d'enseignement Signal et Image (TC-4-S1-S&I) et contribue aux compétences suivantes :            
 
