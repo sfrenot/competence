@@ -47,7 +47,7 @@ Compétence 2,,Mettre en oeuvre les étapes permettant le contrôle du fonctionn
 ,Connaissance,,,,,,,,,,,,,,,,Temps d'absorption,,,,,,,,,,,,,
 ,Mots-clés,"Chaîne de Markov, File d’attente,  Temps avant absorption",,,,,,,,,,,,,,,Files d'attente M/M,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Compétence 3,,Mettre en œuvre des principes et stratégies d’ordonnancements des taches et de gestion,,,,,,,,,,,,3,C,,MOTS-CLES,,,,,,,,,,,,,
+Compétence 3,,Mettre en œuvre des principes et stratégies d’ordonnancements des tâches et de gestion,,,,,,,,,,,,3,C,,MOTS-CLES,,,,,,,,,,,,,
 ,Capacité,Discerner des modélisations en terme de chemins ou de flôts dans un problème d’ordonnancement ou de planning,,,,,,,,,,,,,,,"Algorithme du simplexe, dual, chaîne de markov, MM1, MM2, Mmnn, chemin, flot, affectation, voyageur de commerce",,,,,,,,,,,,,
 ,Capacité,Savoir modéliser un problème d’ordonnancement présentant des caractéristiques linéaires,,,,,,,,,,,,,,,"Modélisation, complexité, algorithme",,,,,,,,,,,,,
 ,Capacité,Différencier les problèmes d’ordonnancement P et NP-complets,,,,,,,,,,,,,,,"Chaîne de Markov, File d’attente, Problème de flots avec coûts, Temps avant absorption",,,,,,,,,,,,,
