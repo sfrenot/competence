@@ -31,8 +31,6 @@ loadDepartement = (departement, res) ->
   keys.forEach (key, index) ->
     comps[key].index = index
 
-  console.log "keys", keys
-
   headComp = ->
     keys.map (key) ->
       "<th class='#{key[0]}'><span>#{key} : #{comps[key].val}</span></th>"
@@ -40,18 +38,25 @@ loadDepartement = (departement, res) ->
 
   ecComp = (ec) ->
     keys.map (key) ->
-      if ec.detail.competenceToCapaciteEtConnaissance?[key]
-        "<td class='#{key[0]}'>x</td>"
+      competence = _.find(ec.detail.listeComp, {'code': key})
+      if competence?
+        "<td class='#{key[0]}'>#{competence.niveau}</td>"
       else
-        "<td class='#{key[0]}'></td>"
+        competence = _.find(ec.detail.listeCompMobilise, {'code': key})
+        if competence?
+          "<td class='#{key[0]}'>M</td>"
+        else
+          "<td class='#{key[0]}'></td>"
+
     .join("\n")
 
   semestreTr = (semestre, name) ->
-    semestre.ecs.filter((ec) -> ec.detail.listeComp?).map (ec, index) ->
+    goodEcs = semestre.ecs.filter((ec) -> ec.detail.listeComp?)
+    goodEcs.map (ec, index) ->
       if index is 0
         """
         <tr>
-          <td rowspan="#{semestre.ecs.length}">#{name}</td>
+          <td rowspan="#{goodEcs.length}">#{name}</td>
           <td>#{ec.detail.code}</td>
           #{ecComp(ec)}
         </tr>
@@ -64,6 +69,14 @@ loadDepartement = (departement, res) ->
         </tr>
         """
     .join('\n')
+
+  getMatrice = () ->
+    display = ""
+
+    data.semestres.forEach (semestre, idx) ->
+      display = display.concat(semestreTr(semestre, "Semestre #{idx}"))
+
+    display
 
   res.send """
     <!doctype html>
@@ -138,7 +151,7 @@ loadDepartement = (departement, res) ->
             </tr>
         </thead>
         <tbody>
-          #{semestreTr(data.semestres[0], "Semestre 5")}
+          #{getMatrice()}
         </tbody>
       </table>
     </body>
@@ -150,7 +163,7 @@ app.param 'departement', (req, res, next, departement) ->
   next()
 
 app.get '/:departement', (req, res) ->
-  console.log('->', req.departement)
+  # console.log('->', req.departement)
   loadDepartement(req.departement, res)
 
 app.get "/", (req, res) ->
