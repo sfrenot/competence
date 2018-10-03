@@ -74,13 +74,12 @@ loadDepartement = (departement, res) ->
     .join('\n')
 
   getMatrice = () ->
-    display = ""
 
-    data.semestres.forEach (semestre, idx) ->
+    data.semestres.map (semestre, idx) ->
       #console.log '->', semestre, idx
-      display = display.concat(semestreTr(semestre, "Semestre #{idx}"))
+      semestreTr(semestre, "Semestre #{idx}")
+    .join('')
 
-    display
 
   res.send """
     <!doctype html>
