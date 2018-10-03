@@ -40,7 +40,10 @@ loadDepartement = (departement, res) ->
     keys.map (key) ->
       competence = _.find(ec.detail.listeComp, {'code': key})
       if competence?
-        "<td class='#{key[0]}'>#{competence.niveau}</td>"
+        if competence.niveau
+          "<td class='#{key[0]}'>#{competence.niveau}</td>"
+        else
+          "<td class='#{key[0]}'>X</td>"
       else
         competence = _.find(ec.detail.listeCompMobilise, {'code': key})
         if competence?
@@ -74,6 +77,7 @@ loadDepartement = (departement, res) ->
     display = ""
 
     data.semestres.forEach (semestre, idx) ->
+      #console.log '->', semestre, idx
       display = display.concat(semestreTr(semestre, "Semestre #{idx}"))
 
     display

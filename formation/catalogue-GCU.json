@@ -362,28 +362,10 @@
                   "val": "Traiter des données"
                 }
               ],
-              "capacite": [
-                "Capacité : mettre en œuvre les principales techniques numériques de résolution de problèmes sous matlab"
-              ],
+              "capacite": [],
               "competenceToCapaciteEtConnaissance": {
                 "SPI-2": [
-                  "Capacité : mettre en œuvre les principales techniques numériques de résolution de problèmes sous matlab",
                   "Connaissance : les principales techniques numériques de résolution de problèmes : résolution des équations algébriques, résolution des équations différentielles à conditions initiales, résolution des équations aux dérivées partielles"
-                ],
-                "SPI-5) : a) calcul des racines d'une équation": [
-                  "Capacité : mettre en œuvre les principales techniques numériques de résolution de problèmes sous matlab"
-                ],
-                " b) équations différentielles à conditions initiales : méthode de Runge-Kutta": [
-                  "Capacité : mettre en œuvre les principales techniques numériques de résolution de problèmes sous matlab"
-                ],
-                "c) méthode des différences finies : équations différentielles et EDP elliptiques": [
-                  "Capacité : mettre en œuvre les principales techniques numériques de résolution de problèmes sous matlab"
-                ],
-                " paraboliques et hyperboliques": [
-                  "Capacité : mettre en œuvre les principales techniques numériques de résolution de problèmes sous matlab"
-                ],
-                " d": [
-                  "Capacité : mettre en œuvre les principales techniques numériques de résolution de problèmes sous matlab"
                 ],
                 "SPI-5": [
                   "Connaissance : les principales techniques numériques de résolution de problèmes : résolution des équations algébriques, résolution des équations différentielles à conditions initiales, résolution des équations aux dérivées partielles"
@@ -1179,7 +1161,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : MODULE Porfessionnel",
-              "competencesBrutes": "COMPETENCES Ciblées - Lexique professionnel et technique - Consolider les 4 compétences linguistiques - Acquisition d¿outils nécessaires dans un contexte professionnel hispanophone et interculturel -  INSA, Référentiel de compétences en Humanités 2. Travailler, apprendre, évoluer de manière autonome  Mobilisées - Prise de parole et écoute - Savoir présenter et défendre un point de vue - Approfondir la capacité d¿analyse - INSA, Référentiel de compétences en Humanités 3. Interagir avec les autres, travailler en équipe. 7. Travailler dans un contexte international et interculturel.",
+              "competencesBrutes": "COMPETENCES Ciblées - Lexique professionnel et technique - Consolider les 4 comp��tences linguistiques - Acquisition d¿outils nécessaires dans un contexte professionnel hispanophone et interculturel -  INSA, Référentiel de compétences en Humanités 2. Travailler, apprendre, évoluer de manière autonome  Mobilisées - Prise de parole et écoute - Savoir présenter et défendre un point de vue - Approfondir la capacité d¿analyse - INSA, Référentiel de compétences en Humanités 3. Interagir avec les autres, travailler en équipe. 7. Travailler dans un contexte international et interculturel.",
               "capacite": [],
               "competenceToCapaciteEtConnaissance": {},
               "connaissance": []
@@ -2983,7 +2965,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : TANDEM INTERNATIONAL",
-              "competencesBrutes": "Cibl��es CECRL - perfectionnement de la compréhension orale et de l¿expression orale visant l¿aisance et la spontanéité communicationnelles - enrichissement culturel INSA, Référentiel de compétences en Humanités 4. Faire preuve de créativité, innover, entreprendre 7. Travailler dans un contexte international et interculturel  Mobilisées CECRL - prise de parole en langue étrangère (en binôme et devant un groupe) - réinvestissement d¿éléments étudiés INSA, Référentiel de compétences en Humanités 2. Travailler, apprendre, évoluer de manière autonome. 3. Interagir avec les autres, travailler en équipe",
+              "competencesBrutes": "Ciblées CECRL - perfectionnement de la compréhension orale et de l¿expression orale visant l¿aisance et la spontanéité communicationnelles - enrichissement culturel INSA, Référentiel de compétences en Humanités 4. Faire preuve de créativité, innover, entreprendre 7. Travailler dans un contexte international et interculturel  Mobilisées CECRL - prise de parole en langue étrangère (en binôme et devant un groupe) - réinvestissement d¿éléments étudiés INSA, Référentiel de compétences en Humanités 2. Travailler, apprendre, évoluer de manière autonome. 3. Interagir avec les autres, travailler en équipe",
               "capacite": [],
               "competenceToCapaciteEtConnaissance": {},
               "connaissance": []
@@ -4402,7 +4384,7 @@
               "projet": "0.0 h",
               "perso": "30.0 h",
               "nom": "Métiers : MAG4 - Management de projets collectifs",
-              "competencesBrutes": "Les acquis de l'apprentissage visés sont les suivants :  SHS1. Se conna��tre, se gérer physiquement et mentalement ; SHS2. Travailler, apprendre, évoluer de manière autonome ; SHS3. Interagir avec les autres, travailler en équipe ; SHS5. Agir de manière responsable dans un monde complexe ; SHS6. Se situer, travailler, évoluer dans une organisation socioproductive ; SHS7. Travailler dans un contexte international et interculturel.  Ces compétences sont travaillées en ateliers et en séances de coaching associées au \"Projet Métier\" (EC GCU-52-PM option Aménagement ou Bâtiment ou Infrastrctures et OA).  Les acquis sont évalués avec le livrable individuel REX.",
+              "competencesBrutes": "Les acquis de l'apprentissage visés sont les suivants :  SHS1. Se connaître, se gérer physiquement et mentalement ; SHS2. Travailler, apprendre, évoluer de manière autonome ; SHS3. Interagir avec les autres, travailler en équipe ; SHS5. Agir de manière responsable dans un monde complexe ; SHS6. Se situer, travailler, évoluer dans une organisation socioproductive ; SHS7. Travailler dans un contexte international et interculturel.  Ces compétences sont travaillées en ateliers et en séances de coaching associées au \"Projet Métier\" (EC GCU-52-PM option Aménagement ou Bâtiment ou Infrastrctures et OA).  Les acquis sont évalués avec le livrable individuel REX.",
               "capacite": [],
               "competenceToCapaciteEtConnaissance": {},
               "connaissance": []

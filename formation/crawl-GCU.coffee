@@ -44,7 +44,7 @@ extractPdfStructure = (pdf) ->
     console.error("Warning matiere mal saisie #{matiere.code}")
     console.error(error)
     return matiere
-    
+
   lcompetences = /[\s\S]*Compétences visées *:* *([\s\S]*)(Capacités visées|\* Être capable de : )/ig.exec(matiere.competencesBrutes)
   if lcompetences?
     try
@@ -65,14 +65,16 @@ extractPdfStructure = (pdf) ->
     splitCapacites = lcapacites[1].split('; ');
     splitCapacites.map (capa) ->
       if capa isnt ''
-        [,capaDescription,listComp] = capa.match(/([\s\S]*) *\((?!.*\()([\s\S]*)\)/)
-
-        capaDescription = "Capacité : #{capaDescription.trim()}"
-        matiere.capacite.push(capaDescription)
-        lcomps = listComp.split(', ')
-        lcomps.map (comp) ->
-          unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
-          matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
+        if not capa.startsWith("mettre en œuvre les principales techniques numériques de résolution de problèmes sous matlab (SPI-2, SPI-5) : a) calcul des racines d'une équation")
+          [,capaDescription,listComp] = capa.match(/([\s\S]*) *\((?!.*\()([\s\S]*)\)/)
+          capaDescription = "Capacité : #{capaDescription.trim()}"
+          matiere.capacite.push(capaDescription)
+          lcomps = listComp.split(', ')
+          lcomps.map (comp) ->
+            unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
+            matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
+        else
+          console.error "Corriger http://planete.insa-lyon.fr/scolpeda/f/ects?id=36406&_lang=fr"
 
   matiere.connaissance = []
   lconnaissance = (/(?:\* Connaître *: )([\s\S]*)/ig.exec(matiere.competencesBrutes))
@@ -134,7 +136,7 @@ request()
             # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36407&_lang=fr' or
             # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36411&_lang=fr'
 
-            #  if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36412&_lang=fr' or
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36406&_lang=fr'
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36417&_lang=fr" or
             #  $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr' or
             #  $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr' or
