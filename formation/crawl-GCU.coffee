@@ -13,6 +13,18 @@ refCompetences = require './refCompetences'
 extractRe = (re, src) ->
   return re.exec(src)[0].split(' : ')[1]
 
+buildCaptureMiddle = (from, to) ->
+  regle = new RegExp("#{from}([\\s\\S]*)#{to}", 'g')
+  return regle
+
+getCompetenceBruteSection = (pdf) ->
+  mainSections = ["PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "mailto"]
+  for section in mainSections
+    rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
+    if rech?
+      return rech[1].trim().replace(/\n/g,' ')
+  return null
+
 extractPdfStructure = (pdf) ->
   matiere = {}
   # console.warn "-->", pdf
@@ -24,11 +36,15 @@ extractPdfStructure = (pdf) ->
   matiere.tp = extractRe(/TP : .*/, pdf)
   matiere.projet = extractRe(/Projet : .*/, pdf)
   matiere.perso = extractRe(/Travail personnel : .*/, pdf)
-  [..., avant, dernier, blanc, blanc] = /CONTACT\n([\s\S]*)OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT/g.exec(pdf)[1].split('\n')
-  matiere.nom = "#{avant} : #{dernier}"
-
-  matiere.competencesBrutes = (/OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n([\s\S]*)PROGRAMME/g.exec(pdf)[1]).trim().replace(/\n/g,' ')
-
+  try
+    [..., avant, dernier, blanc, blanc] = buildCaptureMiddle("CONTACT\n","OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT").exec(pdf)[1].split('\n')
+    matiere.nom = "#{avant} : #{dernier}"
+    matiere.competencesBrutes = getCompetenceBruteSection(pdf)
+  catch error
+    console.error("Warning matiere mal saisie #{matiere.code}")
+    console.error(error)
+    return matiere
+    
   lcompetences = /[\s\S]*Compétences visées *:* *([\s\S]*)(Capacités visées|\* Être capable de : )/ig.exec(matiere.competencesBrutes)
   if lcompetences?
     try
@@ -46,20 +62,17 @@ extractPdfStructure = (pdf) ->
   matiere.competenceToCapaciteEtConnaissance = {}
   lcapacites = (/(?:Capacités visées: |\* Être capable de : )([\s\S]*)(Connaissances visées:|\* Connaître *: )/ig.exec(matiere.competencesBrutes))
   if lcapacites?
-    splitCapacites = lcapacites[1].split(' ; ');
+    splitCapacites = lcapacites[1].split('; ');
     splitCapacites.map (capa) ->
+      if capa isnt ''
+        [,capaDescription,listComp] = capa.match(/([\s\S]*) *\((?!.*\()([\s\S]*)\)/)
 
-      [,capaDescription,listComp] = capa.match(/([\s\S]*) *\((?!.*\()([\s\S]*)\)/)
-
-      capaDescription = "Capacité : #{capaDescription.trim()}"
-      matiere.capacite.push(capaDescription)
-      lcomps = listComp.split(', ')
-      lcomps.map (comp) ->
-        if comp is 'GCU- C2'
-          console.error("GCU -C2 a corriger")
-          comp = 'GCU-C2'
-        unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
-        matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
+        capaDescription = "Capacité : #{capaDescription.trim()}"
+        matiere.capacite.push(capaDescription)
+        lcomps = listComp.split(', ')
+        lcomps.map (comp) ->
+          unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
+          matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
 
   matiere.connaissance = []
   lconnaissance = (/(?:\* Connaître *: )([\s\S]*)/ig.exec(matiere.competencesBrutes))
@@ -92,7 +105,7 @@ request()
       semestres = []
       $('.contenu table tr td a', @).each () ->
         #TC if $(@).attr('href') is '/fr/formation/parcours/729/4/1'
-        if $(@).attr('href') is '/fr/formation/parcours/719/3/1' #GCU
+        # if $(@).attr('href') is '/fr/formation/parcours/719/3/1' #GCU
           semestres.push
             url: $(@).attr('href')
             ecs: []

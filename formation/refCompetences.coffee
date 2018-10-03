@@ -2,7 +2,10 @@
 # Erreur Projet Métier Phase 1 (GCU-51-PM1) : http://planete.insa-lyon.fr/scolpeda/f/ects?id=35951&_lang=fr
 module.exports =
   'E1':
-    'code': 'E1'
+    'code': 'GCU-E1'
+    'val': "Concevoir et dimensionner des réseaux et ouvrages en (hydrologie et) hydraulique pour les projets d'aménagement urbain, de bâtiments et d'ouvrage d'art"
+  'GCU-E1':
+    'code': 'GCU-E1'
     'val': "Concevoir et dimensionner des réseaux et ouvrages en (hydrologie et) hydraulique pour les projets d'aménagement urbain, de bâtiments et d'ouvrage d'art"
   'SI1':
     'code' : 'SPI-1'
@@ -43,12 +46,30 @@ module.exports =
   'R':
     'code': 'SPI-7'
     'val': "Mener une étude d'innovation et de R&D"
+  'GCU-S2':
+    'code': 'GCU-S2'
+    'val': "Évaluer un risque d'instabilité hydraulique des sols"
+  'GCU-S3':
+    'code': 'GCU-S3'
+    'val': "Réaliser et/ou interpréter des essais géotechniques en laboratoire de classification et de comportement"
+  'GCU-S4':
+    'code': 'GCU-S4'
+    'val': "Évaluer un risque de rupture de pente sous diverses sollicitations"
+  'GCU-S5':
+    'code': 'GCU-S5'
+    'val': "Concevoir, dimensionner, modéliser ou vérifier des systèmes de fondations et de soutènements"
   'GCU-C1':
     'code':'GCU-C1'
     'val': "concevoir et dimensionner / contrôler une structure de bâtiment"
   'GCU-C2':
     'code':'GCU-C2'
     'val': "Concevoir et dimensionner / contrôler un ouvrage d\'art (pont)"
+  'GCU-C3':
+    'code':'GCU-C3'
+    'val': "Concevoir et dimensionner / contrôler une infrastructure sur le plan structurel"
+  'GCU-C6':
+    'code':'GCU-C6'
+    'val': "Evaluer les modes constructifs (critères techniques, sécurité, coûts, délais)"
   'GCU-T1':
     'code':'GCU-T1'
     'val': "Contribuer à une conception pluridisciplinaire des bâtiments"
@@ -63,13 +84,16 @@ module.exports =
     'val': "Gérer (évaluer, maintenir, réhabiliter) des ouvrages existants  Capacités visées : Mettre en œuvre des méthodes d'optimisation"
   'GCU-U1':
     'code':'GCU-U1'
-    'val': "Analyser une situation urbaine (technique, politique, sociale,...)'
+    'val': 'Analyser une situation urbaine (technique, politique, sociale,...)'
+  'GCU-U3':
+    'code':'GCU-U3'
+    'val': "Concevoir et conduire un projet d'aménagement urbain"
   'GCU-P1':
     'code': 'GCU-P1'
     'val': 'Concevoir et dimensionner / contrôler les solutions techniques pour la qualité thermique, aéraulique, acoustique d\'un bâtiment'
   'GCU-P2':
     'code': 'GCU-P2'
-    'val': 'Évaluer les performances thermiques d\'un bâtiment ou équipement, définir les actions nécessaires"
+    'val': 'Évaluer les performances thermiques d\'un bâtiment ou équipement, définir les actions nécessaires'
   'SHS-2':
     'code': 'SHS-2'
     'val': "Travailler, apprendre, évoluer de manière autonome"
