@@ -1,0 +1,1560 @@
+EPS-3-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-HU EPS-S1 () et contribue aux compétences suivantes :            
+
+EPS-3-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-HU EPS -S2 () et contribue aux compétences suivantes :            
+
+EPS-4-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-HU EPS-S1 () et contribue aux compétences suivantes :            
+
+EPS-4-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-4 HU EPS-S2 () et contribue aux compétences suivantes :            
+
+EPS-5-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-EPS-S1 () et contribue aux compétences suivantes :            
+
+GI-3-ADM-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-INFO-S2 () et contribue aux compétences suivantes :            
+
+9 Evaluer, prototyper ou simuler un système
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Programmation linéaire
+- Simulation de scénarios
+- Utilisation du solveur d'EXCEL pour l'aide à la décision
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Spécifier un programme linéaire à partir de la description d'un existant déterministe (3,5)
+- Concevoir un outil d'aide à la décision monocritère pour le pilotage d'un processus de production sous contraintes de ressources cumulatives (9,11)
+GI-3-ALP-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-INFO-S1 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Types, variables, actions élémentaires (8)
+- Fonctions/procédures (8)
+- Structures de contrôle séquentielles, conditionnelles et itératives (8)
+- Algorithmes fondamentaux sur les tableaux (tri, recherche dichotomique) (2, 9), Algorithmes fondamentaux sur les listes chaînées, les piles, les files, les arbres, les graphes (création, insertion, suppression, parcours) (2, 9)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Avoir une démarche structurée de programmation en vue de la résolution d'un problème complexe (1, 4, 8)
+- Rédiger les spécifications d'un problème complexe (1, 4, 8)
+- Construire des algorithmes en pseudo-langage à partir de spécifications (2, 9)
+- Transcrire un algorithme écrit en pseudo-langage en programme Java (2, 9)
+GI-3-ANF-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-MECA-S1 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+12 Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=
+19 Prendre en compte l'innovation technologique et méthodologique
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Conception du moule
+- Contraintes d'antériorités en usinage
+- Isostatisme
+- Paramètres de coupe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Concevoir une gamme de fabrication mécanique en choisissant un brut adapté,  en concevant un moule métallique, en respectant les contraintes géométriques,en  tenant compte des contraintes économiques, en  prenant en compte les capabilités machines (8,9,12,19)
+GI-3-ARO-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-INFO-S1 () et contribue aux compétences suivantes :            
+
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Mémoires (4)
+- CPU / langage machine (4)
+- Communication du matériel (4)
+- Principes clés des systèmes d'exploitation (gestion de la mémoire et des fichiers, pilotes) (4,10)
+- Programmation concurrente et synchronisation des processus (5,8)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Choisir les caractéristiques techniques d'un matériel informatique en fonction des besoins hardware et software (4,10)
+- Utiliser les systèmes d'exploitation standards et optimiser la gestion des ressources (10)
+- Identifier des ressources partagées par des processus et les synchroniser (5,8)
+GI-3-BDD-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-INFO-S2 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Architecture des SGBD (1,8)
+- Modèle Entité/Association (1,8)
+- Notions de dépendances fonctionnelles, multivaluées (1,8)
+- Fermeture transitive (1,8)
+- Couverture minimale (1,8)
+- Formes normales : Relations en 1NF, 2NF, 3NF, Boyce Codd, 4NF (1,8)
+- Structure d'un document XML (1)
+- HTML/CSS (8)
+- DTD (Document Type Définition) (1,8)
+- Langage XSLT (2)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Concevoir un modèle E/A (1,5,8)
+- Traduire un modèle E/A en modèle relationnel normalisé (1,5,8)
+- Ecrire une requête à l'aide de l'algèbre relationnelle (2,5)
+- Interroger une base de données relationnelle à l'aide de requêtes SQL (2,5)
+- Créer un document XML bien formé à partir d'une DTD (1)
+- Transformer un document XML à l'aide du langage XSLT (5)
+GI-3-CMP-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-MECA-S2 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+16 Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue
+18 Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+20 Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+21 Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette)
+22 Identifier, analyser et maîtriser les risques inhérents à un projet
+23 Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Fiabilité générale d'un mécanisme
+- Calculs de roulements
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Gérer un projet
+- Respecter des normes, des coûts et des délais
+- Dimensionner un bâti mécano soudé
+- Dimensionner paliers,  courroies
+- Dimensionner un arbre en statique et en dynamique
+GI-3-CNU-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-MECA-S1 () et contribue aux compétences suivantes :            
+
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+12 Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=
+19 Prendre en compte l'innovation technologique et méthodologique
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Architecture d'une MOCN
+- Architecture du directeur de commande
+- Le langage de CN ISO
+- Autres méthodes d'usinage
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Comprendre les enjeux de la CFAO (1012)
+- Appréhender les enjeux économiques des stratégies d'usinage(10,12,19)
+GI-3-COM-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-HU EPS-S1 () et contribue aux compétences suivantes :            
+
+20 Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Les grandes notions de la pratique théâtrale pour une prise de parole en public (regard, corps, voix, argumentation) (27,28,29,30)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Identifier ses modes de fonctionnement (27)
+- Donner du sens à ses apprentissages (27)
+- Mobiliser ses ressources en s'adaptant à différentes situations (28)
+- Acquérir par soi-même de nouvelles compétences en allant rechercher les ressources nécessaires (28)
+- Exercer son esprit critique, penser par soi-même (28)
+- Communiquer de manière appropriée (6,29)
+- Situer son discours, original, par des références explicitées (29)
+- Communiquer de manière non verbale (29)
+- S'intégrer dans un groupe, se positionner, construire une relation dynamique au groupe (20,29)
+- S'engager dans un projet collectif (20,29)
+- Mobiliser ses acquis et puiser dans divers domaines pour produire une création originale, artistique (30)
+- Problématiser, organiser et mener une recherche en sciences humaines (1,30)
+- Pour les groupes d'anglais A et B : Communiquer en langue étrangère (33)
+- Intégrer la diversité culturelle dans un travail en groupe (33)
+GI-3-COM-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-HU EPS -S2 () et contribue aux compétences suivantes :            
+
+20 Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Les grandes notions de la pratique théâtrale pour une prise de parole en public (regard, corps, voix, argumentation) (27,28,29,30)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Identifier ses modes de fonctionnement (27)
+- Donner du sens à ses apprentissages (27)
+- Mobiliser ses ressources en s'adaptant à différentes situations (28)
+- Acquérir par soi-même de nouvelles compétences en allant rechercher les ressources nécessaires (28)
+- Exercer son esprit critique, penser par soi-même (28)
+- Communiquer de manière appropriée (6,29)
+- Situer son discours, original, par des références explicitées (29)
+- Communiquer de manière non verbale (29)
+- S'intégrer dans un groupe, se positionner, construire une relation dynamique au groupe (20,29)
+- S'engager dans un projet collectif (20,29)
+- Mobiliser ses acquis et puiser dans divers domaines pour produire une création originale, artistique (30)
+- Problématiser, organiser et mener une recherche en sciences humaines (1,30)
+- Pour les groupes d'anglais A et B : Communiquer en langue étrangère (33)
+- Intégrer la diversité culturelle dans un travail en groupe (33)
+GI-3-CSI-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-INFO-S2 () et contribue aux compétences suivantes :            
+
+9 Evaluer, prototyper ou simuler un système
+20 Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Réingénierie des systèmes de production à l'aide de la plateforme ARIS
+- Initiation à la gestion de projet
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Modéliser un existant (8)
+- Concevoir un système cible (8,9)
+- Rédiger un cahier des charges (8)
+- Travailler en groupe projet (29,20).
+GI-3-CSL-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-AUTOM-S2 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- La notion de stabilité d'un système
+- Les notions de performances
+- Les correcteurs simple entrée simple sortie
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Etudier la stabilité d'un système
+- Déterminer les paramètres de performance du système et les comparer aux caractéristiques du Cahier des Charges
+- Synthétiser un contrôleur
+- Simuler un système dynamique et son contrôleur
+- Commander un système physique expérimentalement
+GI-3-CSM-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-MECA-S2 () et contribue aux compétences suivantes :            
+
+9 Evaluer, prototyper ou simuler un système
+18 Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Les  technologies classiques et élémentaires d'actionnement mécanique (entrainement par frottement, électromagnétique, hydraulique) (4,18,31)
+- Les principes de fonctionnement de mécanismes de sécurité (frein, embrayage, ressorts, ...) (4,18,27,31)
+- Les ordres de grandeur des caractéristiques mécaniques (raideurs, efforts, frottement, ...) (4,21)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Identifier des efforts et des sollicitations en isolant les pièces (3)
+- Dimensionner à la fatigue (courbes de Wöhler, théorie de Miner) (3,9)
+- Dimensionner des liaisons avec calcul de tolérances (3,9)
+- Dimensionner de composants (roulements, vis) (3,9)
+- Imaginer les phénomènes d'interaction mécanique entre les éléments constitutifs d'un mécanisme (4,21,31)
+GI-3-CSR-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-AUTOM-S2 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+20 Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Résistance des Matériaux (modèle poutre)
+- Asservissement, régulation, PID.
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Établir un avant projet de l'asservissement en position d'un système robotisé: dimensionnement mécanique et électrique,environnement, capteurs et acquisition de l'information, algorithmes de commande, comportement global du système
+- Gérer un projet
+GI-3-DFI-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-HU EPS -S2 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+17 Appréhender et évaluer une structure de manière globale, au travers de grilles de lecture socio-économiques
+18 Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+19 Prendre en compte l'innovation technologique et méthodologique
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Diagnostic financier (activité et structure financière)
+- Notion de risques
+- Moyens de financement
+- Notation des entreprises
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Repérer les principales fonctions  entreprise industrielle, leurs logiques de fonctionnement et leurs modes de management
+- Caractériser les relations de l'entreprise avec son environnement
+- Comprendre et lire les comptes d'une entreprise, en analyser l'évolution, en évaluer les forces et les faiblesses
+GI-3-ECC-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-AUTOM-S1 () et contribue aux compétences suivantes :            
+
+GI-3-IGP-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-MOI-S1 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+12 Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=
+14 Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+Élaborer et mettre en œuvre une stratégie d’achats
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Processus de gestion de production (horizon/période des différentes activités de décision
+- Interdépendance des décisions)(11,12)
+- Vocabulaire de la GP
+- Notions de flux poussés/tirés
+- Points de découplage
+- Les modes de gestion des stocks (14)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Situer les fonctions et objectifs de la gestion de production pour une entreprise de production de biens (7,8, 10, 12,13)
+- Gérer les approvisionnements et les stocks d'une entreprise (14)
+- Choisir la méthode de gestion la plus adaptée à un contexte donné (1, 2)
+- Calculer les charges et gérer des ressources de production à moyen et long terme (11)
+GI-3-INS-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-MECA-S2 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+23 Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Connaître l'Ingénierie Système (3,5,8)
+- Connaître ses outils (SysML) (3,5,8)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Modéliser un système (1,3,5,8)
+GI-3-IOI-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-MOI-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+16 Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue
+18 Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+19 Prendre en compte l'innovation technologique et méthodologique
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Phases de résolution de problème : poser le problème, identifier les origines, trouver des solutions, les mettre en application et vérifier que les objectifs annoncés sont atteints (5,16)
+- Outils de la qualité : QQOQCP, feuille de relevé, digrammes, pareto, brainstorming, Ishikawa, matrice de vote (1,5,16)
+- Organisation d'une entreprise
+- Logique de circulation des flux physiques et d'information et leurs interactions
+- Les causes de ralentissement de flux et les solutions envisageables
+- Les démarches de progrès PDCA, DMAIC
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Découvrir une méthodologie de résolution de problème autour d'un cas logistique (1,5)
+- Mettre en oeuvre les outils de la Qualité en gestion de projet (16)
+- Découvrir les différentes phases et étapes de résolution(16)
+- Diagnostiquer les performances logistiques et industrielles d'une entreprise (7)
+- Analyser les indicateurs de performances (7,3)
+- Identifier les sources de ralentissement de flux et les actions correctives (7)
+- Dérouler une démarche de progrès PDCA (11,16)
+- Construire une stratégie de développement industriel et commercial (18,19)
+GI-3-ISL-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-AUTOM-S1 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- La notion de système dynamique continu du premier et du second ordre
+- Les  systèmes simple entrée et simple sortie dans le domaine de la production mécanique, de la robotique ou des transports.
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Définir un système à étudier
+- Caractériser les éléments de structure d'un système
+- Déterminer la fonction de transfert globale du système
+- Identifier le système
+GI-3-MAC-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-INFO-S2 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Modèle IDEF0 (normes IEEE 1320.1-1998)
+- Langage de modélisation de données IDEF1X
+- Outils ARIS : Organigramme des acteurs, Supports des données échangées entre les acteurs
+- Diagramme des processus issus des flux de données
+- Chaînes évènementielles des processus
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Concevoir un modèle fonctionnel et/ou un modèle physique d'un système de production  (5,8)
+- Spécifier un système d'information (5,8)
+- Identifier et détailler les processus d'un système (5,8)
+GI-3-MOC -S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-INFO-S1 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+23 Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Notion de classes, d'instances, de méthodes (1, 2, 4, 8)
+- Mécanismes d'encapsulation, d'héritage et de polymorphisme (1, 2, 4, 8)
+- Les diagrammes UML en général (1, 2, 4, 8)
+- Les cas d'utilisation et le diagramme de séquence (1,2,4,8,23)
+- Le diagramme d'activité et le diagramme d'états
+- Les outils associés (1,2,4,8)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Identifier et formaliser les exigences client (8,23)
+- Raffiner les exigences en séquences, activités (1,2,4)
+- Construire un diagramme état/transition (8)
+- Construire les algorithmes des méthodes de classes (8)
+- Déclarer, instancier et utiliser un objet en Java (9)
+- Coder une classe JAVA à partir de son diagramme de classe (9)
+GI-3-PEX-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-MECA-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+16 Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue
+21 Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Mise en place d'une organisation optimale d'expérimentation (2)
+- Modèle de régression et prédicteur mathématique (2,28)
+- Modèle statistique associé à l'analyse de variance (2,28)
+- Mise en œuvre d'un plan d'expériences (16)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Proposer la planification des essais à conduire (2,3),Réaliser les mesures (7,20)
+- Construire un outil de calcul pour traiter un plan d'expériences (3)
+- Analyser les résultats obtenus (facteurs influents et modèle) (3,7)
+- Trouver une condition optimale de réglage (3,16)
+GI-3-PMM-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-MECA-S1 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Familles de matériaux et principales caractéristiques mécaniques des métaux et des composites
+- Notions sur les céramiques et les polymères
+- Rupture des matériaux
+- Aide au choix des matériaux (méthode des indices de performance).
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Décrire et expliquer les principales propriétés mécaniques des grandes classes de matériaux
+- Utiliser une méthode de sélection des matériaux pour des applications précises en tenant compte des performances attendues
+GI-3-PRS-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-MOI-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+9 Evaluer, prototyper ou simuler un système
+14 Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks
+16 Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Notion de probabilité (6,8,13,15)
+- Schémas d'analyse combinatoire (13)
+- Lois du calcul probabiliste (13)
+- Notion de probabilités conditionnelles et d'événements indépendants (6,8,15)
+- Notion de variable aléatoire (6,13)
+- Principaux indicateurs de variables aléatoires (espérance, variance ...) (6,8,13)
+- Principales distributions de probabilités (6,13)
+- Notions d'échantillon, de population et d'inférence statistique (6,8,15)
+- Risque client et risque fournisseur (6,13,15)
+- Estimation ponctuelle (6,8)
+- Intervalles de confiance (6,8)
+- Test statistique unilatéral / bilatéral (6,8)
+- Tests d'estimation (6,8)
+- Tests de comparaison (6,8)
+- Tests d'adéquation (6,8)
+- Tests d'indépendance (6,8)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Calculer la probabilité d'un événement complexe, défini à partir d'événements simples ou par dénombrement (13)
+- Modéliser un phénomène aléatoire en choisissant une loi de probabilité appropriée (6,13)
+- Calculer et interpréter les principaux indicateurs associés à une variable aléatoire (6,8,13)
+- Calculer un risque client / un risque fournisseur en fonction d'une procédure de contrôle qualité (6,13,15)
+- Estimer les paramètres d'une population statistique à partir d'un échantillon de données (estimation ponctuelle et par intervalle de confiance) (6,8) ;
+- Mettre en oeuvre un test statistique pour valider (ou non) une hypothèse relative à une population (6,8)
+GI-3-PRS-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-MOI-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+9 Evaluer, prototyper ou simuler un système
+14 Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks
+16 Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Notion de probabilité (1,2,3,5,6,7,9,14,16)
+- Schémas d'analyse combinatoire (1,2,14)
+- Lois du calcul probabiliste (1,2,14)
+- Notion de probabilités conditionnelles et d'événements indépendants (1,2,6,7,9,16)
+- Notion de variable aléatoire (1,2,6,7,14)
+- Principaux indicateurs de variables aléatoires (espérance, variance ...) (1,2,3,5,6,7,9,14)
+- Principales distributions de probabilités (1,2,3,5,6,7,14)
+- Théorème central limite (1,2,3,5,6)
+- Notions d'échantillon, de population et d'inférence statistique (1,2,3,5,6,7,9,16)
+- Risque client et risque fournisseur (1,2,6,7,14,16)
+- Estimation ponctuelle (1,2,3,5,6,7,9)
+- Intervalles de confiance (1,2,3,5,6,7,9)
+- Test statistique unilatéral / bilatéral (1,2,3,5,6,7,9)
+- Tests d'estimation (1,2,3,5,6,7,9)
+- Tests de comparaison (1,2,3,5,6,7,9)
+- Tests d'adéquation (1,2,3,5,6,7,9)
+- Tests d'indépendance (1,2,3,5,6,7,9).
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Calculer la probabilité d'un événement complexe, défini à partir d'événements simples ou par dénombrement (1,2,14)
+- Modéliser un phénomène aléatoire en choisissant une loi de probabilité appropriée (1,5,6,7,14)
+- Calculer et interpréter les principaux indicateurs associés à une variable aléatoire (2,3,5,6,7,9,14)
+- Déterminer le comportement moyen d'un phénomène sur un grand nombre d'expériences aléatoires (2,3,5)
+- Calculer un risque client / un risque fournisseur en fonction d'une procédure de contrôle qualité (2,7,14,16)
+- Estimer les paramètres d'une population statistique à partir d'un échantillon de données (estimation ponctuelle et par intervalle de confiance) (1,2,3,5,7,9)
+- Mettre en oeuvre un test statistique pour valider (ou non) une hypothèse relative à une population (1,2,3,5,6,7,9)
+GI-3-RDM-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-MECA-S1 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Comportement du solide déformable: sollicitations (flexion simple, torsion simple, traction–compression, cisaillement), contraintes, déformations, torseur de cohésion, coefficient de sécurité, résistance mécanique.
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Dimensionner une pièce mécanique (poutre) et identifier les sollicitations et contraintes
+- Déterminer le torseur de cohésion dans un solide
+- Déterminer la répartition des contraintes dans une section droite
+- Vérifier la résistance mécanique d’une poutre
+- Déterminer l’équation de la flèche dans une poutre soumise à de la flexion
+GI-3-RED-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-HU EPS -S2 () et contribue aux compétences suivantes :            
+
+17 Appréhender et évaluer une structure de manière globale, au travers de grilles de lecture socio-économiques
+19 Prendre en compte l'innovation technologique et méthodologique
+25 Réaliser une analyse socio-organisationnelle afin de mieux appréhender les effets des changements et d'y adapter ses stratégies
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+Mettre en œuvre une démarche de responsabilité sociétale
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Sources et type d'information scientifique et technique ()
+- Structuration des documents de synthèse ()
+- Règles de citation ()
+- Critères d'évaluation de l'information()
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Rechercher de l'information scientifique et technique
+- Qualifier l'information, produire une note de synthèse
+- Collaborer à distance
+GI-3-SED-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-AUTOM-S2 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+14 Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks
+15 Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique
+23 Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Espace d'états discrets fini ou non-fini ()
+- Commutation d'états stables ()
+- Réseaux de Petri ()
+- Notion de comportements déterministes ou aléatoires()
+- Indicateurs de performances()
+- Identification et Vérification des hypothèses ()
+- Modèles markoviens, Réseaux de File d'Attente ()
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Exploiter d'un cahier des Charges ()
+- Appréhender un système au travers des paradigmes production/consommation et client/serveur ()
+- Dimensionner et évaluer les performances en régime permanent ()
+- Etablir des propriétés et vérification des hypothèses ().
+GI-4-ADD-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-INFO-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+17 Appréhender et évaluer une structure de manière globale, au travers de grilles de lecture socio-économiques
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Evaluer, prototyper ou simuler un système
+Piloter un système de production et réagir aux dysfonctionnements ;=
+Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+Identifier, analyser et maîtriser les risques inhérents à un projet
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Méthodologies de pré-traitement sur les données
+- Méthodologies d'analyse des données : segmentation
+- Classification
+- Visualisation
+- Indicateurs de qualité des résultats
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- S'approprier des outils de traitement des données structurée (Excel et xlstat) (9,10,11)
+- Savoir prendre une décision sur la base de résultats numériques (7)
+- Choisir une méthode de traitement en fonction des données et des objectifs (1,2,3,5,7)
+GI-4-ASO-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-4 HU EPS-S2 () et contribue aux compétences suivantes :            
+
+22 Identifier, analyser et maîtriser les risques inhérents à un projet
+24 Identifier les compétences et savoirs critiques d’une organisation et mettre en oeuvre des outils et méthodes pour les pérenniser
+25 Réaliser une analyse socio-organisationnelle afin de mieux appréhender les effets des changements et d'y adapter ses stratégies
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Connaître et maîtriser les principales notions en analyse sociologique des organisations (ASO)
+- Diagnostiquer une situation de dysfonctionnement organisationnel, en comprendre les motifs, proposer des pistes d'action argumentées
+- Observer, comprendre, interpréter des situations sociales et en rendre compte dans un rapport écrit.
+GI-4-AUT-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-AD AUT-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+12 Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=
+19 Prendre en compte l'innovation technologique et méthodologique
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+Identifier, analyser et maîtriser les risques inhérents à un projet
+Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Les architectures d'automatisme (de la couche  physique (capteurs et actionneurs intelligents, réseaux locaux industriels, ...) à l'informatique de contrôle-commande) (5,8,10,12,19)
+- Les méthodologies de projet d'automatismes (29,23,22,21,20)
+- Les outils de conception et développement d'automatismes (5,7,9,8,12).
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Analyser, dimensionner et concevoir un système automatisé de production: en termes de pilotage d'outils de production (1,3,4,5,7,8,9,10,11,12,20,23,28,29,31)
+- Spécifier les besoins des Systèmes Automatisés de Production (3,5,6,8,28)
+- Utiliser une méthode d'analyse et de conception d'un S.A.P (1,2,3,4,5,8,9,10,11,12,19,20,23,27,28,29,30,31,33).
+GI-4-BCG-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-4 HU EPS-S2 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+17 Appréhender et évaluer une structure de manière globale, au travers de grilles de lecture socio-économiques
+18 Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+19 Prendre en compte l'innovation technologique et méthodologique
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Contrôle de gestion: budgets, couts de revient, seuil de rentabilite
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Elaborer des budgets (entreprise, par service, mensuel ou annuel)
+- Calculer des coûts de revient(seuil de rentabilité, coûts direcst et coûts indirects, coûts complets)
+- Analyser des écarts afin de faire des re-prévisions.
+GI-4-EDD-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-INFO-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Le fonctionnement des techniques de fouille de processus: construction d'un réseau de Petri à partir de traces d'activité, analyse de conformité d'un modèle, analyse de performance du système. 
+La structure d'un système d'information distribué structuré autour de processus, tel que l'ERP Odoo et l'analyse des performances d'un tel système à l'aide d'outils de fouille de processus.
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Collecter les besoins du client en matière d'analyse (7,23)
+- Identifier les sources de données de production utiles pour une démarche analytique (2,9)
+- Traiter des informations volumineuses en vue de leur analyse (2)
+- Exploiter les données dans la perspective de l'activité analysée (7)
+- Mener un projet à bien, en travaillant en groupe (28,31)
+GI-4-GEP-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-PCO-S1 () et contribue aux compétences suivantes :            
+
+20 Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+21 Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette)
+22 Identifier, analyser et maîtriser les risques inhérents à un projet
+23 Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Les différents types d'organisation projet
+- Les processus mis en œuvre dans la conduite de projet
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Définir, planifier, gérer et maîtriser le contenu d'un projet (PBS, WBS)
+- Planifier le déroulement d'un projet en tenant compte des contraintes de ressource et des incertitudes (PERT, Gantt, méthode de la chaîne critique, MS Project)
+- Assurer le suivi d'un projet en rendant compte des écarts par rapport à la planification initiale, avec des indicateurs et tableaux de bord pertinents
+- Etablir un budget, suivre et maîtriser les coûts
+- Identifier, analyser et maîtriser les risques génériques, calendaires et financiers du projet
+GI-4-GPA-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-GP SIM-S1 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+12 Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=
+16 Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue
+18 Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+22 Identifier, analyser et maîtriser les risques inhérents à un projet
+23 Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+24 Identifier les compétences et savoirs critiques d’une organisation et mettre en oeuvre des outils et méthodes pour les pérenniser
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Techniques et méthodes d'ordonnancement d'atelier (machine unique, machines parallèles, flowshop, jobshop, organisations hybrides)
+- Techniques et méthodes d'ordonnancement de projet (PERT,...)
+- Méthodes de prévisions et leur place dans la gestion de la demande
+- Briques applicatives composant les systèmes d'informations d'entreprise (ERP, ...) et leur relations
+- Démarche de mise en œuvre d'ERP
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Spécifier un problème d'ordonnancement
+- choisir ou proposer une méthode de résolution d'un problème d'ordonnancement d'atelier la plus adaptée à un contexte donné, et l'appliquer
+- Comprendre la problématique de gestion des prévisions
+- Choisir la méthode de prévision adaptée à un contexte donné et l'appliquer
+- Choisir la brique applicative d'un système d'information d'entreprise (ERP, ...) la plus adaptée à un contexte donné
+- Gérer un projet d'implantation d'ERP.
+GI-4-GPR-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-GOP-S2 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks
+Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue
+Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette)
+Identifier, analyser et maîtriser les risques inhérents à un projet
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- SAP ERP (structure, concepts, applications)
+- Données de base nécessaires aux processus de planification de production et de vente (client, article, nomenclature, poste de travail, gamme, centre de coût)
+- Processus de planification et d'exécution de la production (gestion sur prévision, assemblage à la commande)
+- Processus de traitement de commande client
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- - Modéliser un problème d'optimisation comme un problème de graphe
+GI-4-IHM-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-INFO-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+23 Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Connaître les méthodes et outils nécessaires à la conception de systèmes interactifs (2,7,8,9)
+- Paradigmes d'interactions innovants (30)
+- Méthodes et modèles pour la conception d'IHM (7,8,9)
+- Analyse des besoins utilisateurs (23)
+- Modélisation de l'activité (7,23)
+- Sketching et prototypage de systèmes interactifs (9,30)
+- Critères d'ergonomie pour la conception d'IHM (8,9)
+- Méthodes d'évaluation des IHM (9,23)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Savoir appliquer une méthode centrée utilisateur pour concevoir un système interactif (2,23)
+- Savoir faire la critique ergonomique d'un système interactif (9)
+- Développer sa créativité pour répondre à  un besoin d'innovation technologique (30)
+GI-4-INR-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-4 HU EPS-S2 () et contribue aux compétences suivantes :            
+
+19 Prendre en compte l'innovation technologique et méthodologique
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+Appréhender et évaluer une structure de manière globale, au travers de grilles de lecture socio-économiques
+Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+Identifier, analyser et maîtriser les risques inhérents à un projet
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Dispositifs et acteurs de la recherche en France et la place des ingénieurs - docteurs
+- Problématiques de recherche en génie industriel
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Développer une démarche de questionnement scientifique sur une problématique de recherche
+GI-4-MES-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-PEP-S2 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+16 Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Fonctions du MES (6, 8), analyse de performance et TRS (7, 16), traçabilité de production (7), pilotage de l’exécution de la production (7, 11).
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- - Évaluer la complexité d'un algorithme.
+GI-4-ORD-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-GP SIM-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+22 Identifier, analyser et maîtriser les risques inhérents à un projet
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Méthodes d'optimisation
+- Politique d’ordonnancement en fonction de charge d’atelier
+- Calcul de rentabilité financière d’un projet
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Identifier des méthodes de calcul du temps opératoire et de calcul des charges prévisionnelles (personnel et équipement)
+- Caractériser les données techniques (opérations, ressources, temps opératoires, gammes, ordres de fabrication ...)
+- Réaliser un Ordonnancement à capacité finie et infinie
+- Étudier les effets du choix d'une heuristique de séquencement, ainsi que des périodes de travail
+- Prendre en compte les contraintes (chevauchement, fractionnement, insécabilité, etc.) et gérer les aléas de production (panne sur une machine ...)
+- Analyser et évaluer les caractéristiques techniques et financières du logiciel d'ordonnancement.
+GI-4-PCO-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-PCO-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+16 Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue
+18 Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+20 Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+21 Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette)
+22 Identifier, analyser et maîtriser les risques inhérents à un projet
+23 Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+25 Réaliser une analyse socio-organisationnelle afin de mieux appréhender les effets des changements et d'y adapter ses stratégies
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Identifier les compétences et savoirs critiques d’une organisation et mettre en œuvre des outils et méthodes pour les pérenniser
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Outils et méthodes :gestion de projets, d'ingénierie système, de Management de la Qualité, de communication.
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Mettre en oeuvre les outils du management (21,22,23)
+- Apprendre à conduire collectivement un projet réel : organisation collective du groupe, communication, animation, coordination (20, 21)
+- Appliquer avec rigueur une démarche structurée, cohérente et pertinente de conception d'une solution industrielle en intégrant les facteurs de performance  : Risques + Coûts + Qualité + Usage (6, 7, 8, 9, 10, 16, 22, 23)
+- Collecter, extraire, structurer et analyser les informations (7, 17)
+- Evaluer ses forces et ses limites, mener une négociation
+- Etre force de proposition (27, 29, 32)
+- Analyser dans une approche globale, de façon systémique, une entreprise, une organisation, un projet, un problème (18, 25, 32).
+GI-4-PCO-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-PCO-S2 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+16 Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue
+18 Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+20 Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+21 Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette)
+22 Identifier, analyser et maîtriser les risques inhérents à un projet
+23 Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+25 Réaliser une analyse socio-organisationnelle afin de mieux appréhender les effets des changements et d'y adapter ses stratégies
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Identifier les compétences et savoirs critiques d’une organisation et mettre en œuvre des outils et méthodes pour les pérenniser
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Outils et méthodes :gestion de projets, d'ingénierie système, de Management de la Qualité, de communication.
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Mettre en oeuvre les outils du management (21,22,23)
+- Apprendre à conduire collectivement un projet réel : organisation collective du groupe, communication, animation, coordination (20, 21)
+- Appliquer avec rigueur une démarche structurée, cohérente et pertinente de conception d'une solution industrielle en intégrant les facteurs de performance  : Risques + Coûts + Qualité + Usage (6, 7, 8, 9, 10, 16, 22, 23)
+- Collecter, extraire, structurer et analyser les informations (7, 17)
+- Evaluer ses forces et ses limites, mener une négociation
+- Etre force de proposition (27, 29, 32)
+- Analyser dans une approche globale, de façon systémique, une entreprise, une organisation, un projet, un problème (18, 25, 32).
+GI-4-PSF-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-GP SIM-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+15 Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Comportement physique d'une chaîne d' Actionneurs et  de Capteurs ()
+- Lois de distribution de variables aléatoires, comportement stochastiques de flux discrets ()
+- Condition du régime permanent et instabilité ().
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Appliquer une démarche « projet de simulation » (1,2,3,6,7,8,9,10,15)
+- Tracer les flux (1,2,7,9)
+- Analyser les flux moyens (1,2,7,9,10)
+- Trouver le goulot d’étranglement (1,2,7,9,10)
+- Rendre les stocks fonctionnels (1,2,7,9,10,15)
+- Dimensionner une chaîne de production (1,2,7,9,10,15)
+- Proposer des modifications pour optimiser les flux (1,2,7,9,10,15)
+- Mettre en œuvre une démarche expérimentale pour valider les  modifications proposées (3)
+GI-4-QMA-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-PEP-S2 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+16 Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue
+20 Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Six Sigma, Maîtrise Statistique des Processus (MSP)
+- Total Productive Maintenance (TPM), fiabilité
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Comprendre les enjeux et outils de la qualité (système qualité et outils de la qualité) et de la maintenance (impact de l'organisation de la maintenance sur les autres fonctions de l'entreprise) (3,7,16,20).
+Comprendre l'utilité et le fonctionnement de certains outils (carte de contrôle, Gage R&R, fiabilité, etc.) (2,5,11).
+GI-4-ROP-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-GOP-S2 () et contribue aux compétences suivantes :            
+
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Bases de la théorie des Graphes
+- Bases de la théorie de la complexité
+- Bases de la recherche opérationnelle
+- Représentations d'un graphe
+- Connexité, composantes connexes
+- Plus court chemin et plus long chemin
+- Couplage maximum
+- Flot maximum.
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Reconnaître un problème de graphe
+- Modéliser un problème d'optimisation comme un problème de graphe
+- Évaluer la complexité d'un algorithme.
+GI-4-SDF-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-AD AUT-S1 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+15 Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique
+18 Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+19 Prendre en compte l'innovation technologique et méthodologique
+22 Identifier, analyser et maîtriser les risques inhérents à un projet
+23 Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Définir un argumentaire pour le dimenssionnement ()
+- MTBF MTTF MTTR ()
+- Graphe d'états, chaîne de Markov ()
+- Arbre de Fautes, Diagramme de fiabilité ()
+- Réduction des matrices de taux de transtion ()
+- Etats de service approprié, inappropriés ()
+- Aide à la décision ().
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Appréhender les phénomènes de dysfonctionnement ()
+- Analyse préliminaire de Risques ()
+- Durée de vie, Fiabilité, Disponibilité, Maintenabilité des structures matérielles et organisationnelles ()
+- Contrat, engagement et pénalités ()
+- Négocier des solutions renforçant la tolérance aux fautes ()
+- Indicateurs de performances ()
+- Dimenssionnement ().
+GI-4-SID-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-INFO-S1 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Architecture d'applications basée sur les services Web
+- Modèle-Vue-Controleur
+- Protocole HTTP
+- Serveur d'application
+- Service Web REST
+- Format d'échange de données
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Concevoir et développer une application distribuée permettant le stockage, l'accès à distance et la visualisation de données associées à la réalisation de processus (5,7)
+- Analyser les performances des processus à partir des traces générées par le système d'information (6,8) en utilisant des outils de fouille de processus
+- réaliser un travail en équipe (19, 21, 28).
+GI-4-SIG-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-AD AUT-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+12 Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=
+22 Identifier, analyser et maîtriser les risques inhérents à un projet
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Comportement physique d'une chaîne d' Actionneurs et  de Capteurs (8)
+- Lois de distribution de variables aléatoires, comportement stochastiques de flux discrets (7,8,9)
+- Condition du régime permanent et instabilité (2,5).
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Dimensionner et Analyser des systèmes physiques et de flux (2,5)
+- Valider par simulation des processus physiques et de flux (7,8,9)
+- Abstraction entrée/sortie, flux d'entrée, flux de sortie (12)
+- Définir et valider des hypothèses (7,8)
+- Interprétation statistique des sorties (8,9)
+- Choix des scenarii (22)
+- Exploiter un outil de simulation (9)
+- Exploiter d'un cahier des Charges  pour appréhender un système au travers de flux physiques et discret (28).
+GI-4-STI-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-STI-S2 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+16 Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue
+17 Appréhender et évaluer une structure de manière globale, au travers de grilles de lecture socio-économiques
+22 Identifier, analyser et maîtriser les risques inhérents à un projet
+25 Réaliser une analyse socio-organisationnelle afin de mieux appréhender les effets des changements et d'y adapter ses stratégies
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+Evaluer, prototyper ou simuler un système
+Dimensionner la partie matérielle et/ou logicielle d'un système
+Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=
+Élaborer et mettre en œuvre une stratégie d’achats
+Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks
+Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique
+Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+Prendre en compte l'innovation technologique et méthodologique
+Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette)
+Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+Identifier les compétences et savoirs critiques d’une organisation et mettre en œuvre des outils et méthodes pour les pérenniser
+Mettre en œuvre une démarche de responsabilité sociétale
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Retour d'expérience
+- Fonctionnement sociotechnique des organisations.
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Oberver et analyser la stratégie d'une entité
+- Communiquer à l'oral et à l'écrit
+- Analyser une situation
+GI-5-ACH-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-TAI 1A-S1 () et contribue aux compétences suivantes :            
+
+13 Élaborer et mettre en oeuvre une stratégie d’achats
+16 Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue
+20 Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+21 Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette)
+23 Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+24 Identifier les compétences et savoirs critiques d’une organisation et mettre en oeuvre des outils et méthodes pour les pérenniser
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Le positionnement des achats dans l'entreprise : du cahier des charges à l'amélioration continue des fournisseurs
+- Le processus achat théorique complet.
+- La définition du besoin, le «make or buy»,de l'appel d'offre à la Notation pondérée et choix de la «meilleure» proposition
+- La négociation, la contractualisation, l'audit, la Mise en place d'une notation fournisseur et d'un plan d'amélioration continue des achats intra et extra entreprises
+- Les outils simples et pragmatiques : le SST Sourcing Scoring Tools / la MBA Moins bonne offre admissible / la décomposition des coûts 
+Notions : de contrat / Incoterms / utilisation des prestations de service
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Modéliser le processus de réalisation d’une activité (1,8,13)
+- Assurer une qualité de reporting par la mise en place d’indicateurs pertinents (21)
+- Valoriser, protéger et pérenniser le savoir-faire des entités (24)
+- Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies (18)
+- Observer, mesurer, analyser et interpréter une activité
+- Définir et appliquer un plan d’actions (20,23,32)
+- Conduire collectivement un projet (20)
+- Identifier, formaliser et contractualiser les besoins d’un client (23)
+- Suivre leur évolution et valider leur respect (traçabilité des besoins) (8,16,21).
+GI-5-DSC-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-R&D1-s1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+19 Prendre en compte l'innovation technologique et méthodologique
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Evaluer, prototyper ou simuler un système
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Fondements du processus de découverte de connaissances
+Plusieurs techniques de classification supervisée, non-supervisée et de fouille de motifs
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Mettre en oeuvre une démarche de science des données
+GI-5-ERG-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-ENTR-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+18 Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+19 Prendre en compte l'innovation technologique et méthodologique
+20 Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+25 Réaliser une analyse socio-organisationnelle afin de mieux appréhender les effets des changements et d'y adapter ses stratégies
+26 Mettre en oeuvre une démarche de responsabilité sociétale
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Comprendre l'activité pour adapter et développer des environnements de travail idoines
+- Identifier les conditions  de bien être et de qualité de vie au travail
+- Apprendre à repérer les facteurs de Risques Psychosociaux au travail
+- Diagnostiquer des situations de travail problématiques
+GI-5-GMA-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-TAI 1A-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Les fonctions d'une GMAO
+- Les processus de maintenance
+- L'optimisation de la maintenance
+- Les outils de la maintenance (documentations constructeur, fiabilité, etc.)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Comprendre les enjeux de l'achat d'une GMAO (8,11)
+- Définir une politique de maintenance (1,2,3,5,7,9,11)
+GI-5-IFU-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-R&D1-s1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+12 Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=
+15 Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique
+19 Prendre en compte l'innovation technologique et méthodologique
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Evaluer, prototyper ou simuler un système
+Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks
+Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Mettre en œuvre les connaissances et capacités acquises en optimisation de la chaîne logistique et data science.
+Proposer une démarche scientifique à mettre en oeuvre pour répondre à une problématique
+GI-5-INR-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-TAI 1A-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+19 Prendre en compte l'innovation technologique et méthodologique
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks
+Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique
+Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+Identifier, analyser et maîtriser les risques inhérents à un projet
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Problématiques de recherche en génie industriel
+- Retour d'expérience de formalisation d'un problème de recherche
+- Retour d'expérience de développement de solution et expérimentations
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Développer une démarche de recherche / innovation : appropriation du sujet, formalisation du problème de recherche et/ou des pistes de résolution, développement de solutions et expérimentations
+GI-5-KNM-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-ENTR-S1 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+12 Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=
+16 Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue
+17 Appréhender et évaluer une structure de manière globale, au travers de grilles de lecture socio-économiques
+18 Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+24 Identifier les compétences et savoirs critiques d’une organisation et mettre en oeuvre des outils et méthodes pour les pérenniser
+25 Réaliser une analyse socio-organisationnelle afin de mieux appréhender les effets des changements et d'y adapter ses stratégies
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Evaluer, prototyper ou simuler un système
+Prendre en compte l'innovation technologique et méthodologique
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Le patrimoine industriel lié aux connaissances
+- information, savoirs et connaissances
+- Méthode de gestion des connaissances dans l'industrie, les outils collaboratif de gestion des connaissances
+- Les outils numériques de gestion des connaissances
+- Stratégies de gestion des connaissances et amélioration continue
+- Connaissances et structure technologiques, humaine et organisationnelle
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Distinguer les type de connaissance créées par l'exploitation de l'information et de la communication
+- Identifier le capital industriel (humain, technologique, organisationnel, informationnel) liés à la gestion des connaissances
+- Evaluer les limites des systèmes de gestion des connaissances
+GI-5-LEA-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-TAI 1A-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+12 Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=
+14 Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks
+16 Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue
+18 Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+19 Prendre en compte l'innovation technologique et méthodologique
+24 Identifier les compétences et savoirs critiques d’une organisation et mettre en oeuvre des outils et méthodes pour les pérenniser
+25 Réaliser une analyse socio-organisationnelle afin de mieux appréhender les effets des changements et d'y adapter ses stratégies
+26 Mettre en oeuvre une démarche de responsabilité sociétale
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Les fondamentaux et principes du Lean Manufacturing et du Lean Management: 7 gaspillages, 3M,juste à temps, jidoka, standardisation,...
+- Les changements de comportements nécessaires dans une transformation Lean
+- La relation entre la démarche Lean et les autres démarches de l'Excellence Opérationnelle (Six Sigma, TOC)
+- Les outils du Lean (lissage, flux continu, SMED, 5S, 8D, AIC…)
+- Les facteurs clés de succès et pièges à éviter dans l'animation d'une démarche Lean
+- La méthode du VSM
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Mener une démarche de résolution de problèmes et d'exposer la démarche sous la forme d'un poster A3 (16)
+- Utiliser le VSM pour cartographier le flux valeur l'état initial et concevoir une cartographie remaniée intégrant les principes de la production au plus juste et de la qualité parfaite (8, 12)
+- Identifier les activités à valeur ajoutée et les sources de gaspillages à partir d'étude de cas et de situation réelles (7)
+- Définir les actions de progrès à mettre en oeuvre (16, 18)
+- Appliquer les outils du Lean (flux continu, flux tiré, SMED, 5S, lissage, arrêt au premier défaut) sur un cas concret (simulation d'atelier de production) (11, 12, 14, 16,18, 19, 30)
+- Accompagner les changements de comportements dans les organisations Lean (24, 25)
+GI-5-LOG-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-TAI 1A-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+12 Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=
+14 Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks
+15 Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Méthodes de prévision de la demande
+- Méthodes de planification de la production
+- Méthodes de gestion des stocks sous incertitude
+- Méthodes de conception et de configuration de systèmes de production
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Déterminer la Performance de Supply Chain
+- Identifier la meilleure localisation dans la chaîne d'approvisionnement pour l’usine, l’entrepôt, le hub, etc
+- Concevoir des réseaux de distribution sous incertitude
+- Etablir la Prévision de la demande dans une chaîne logistique
+- Déterminer la planification globale de la chaîne logistique
+- Identifier des stratégies de La gestion des stocks sous incertitude
+- Optimiser le Transport et déterminer le routage dans une chaîne d'approvisionnement et de distribution
+- Optimiser conjointement  transport et  stocks
+- Equilibrer une ligne d’assemblage
+- Concevoir un entrepôt
+- Configurer des cellules manufacturières via la technologie du groupe
+- Concevoir un système de fabrication intelligent, l'usine de l'avenir
+- Déterminer des méthodes d’aide à la décision pour la Configuration du système de production dans le contexte de l'Industrie 4.0, de l'Internet des objets Big Data
+GI-5-MRH-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-ENTR-S1 () et contribue aux compétences suivantes :            
+
+24 Identifier les compétences et savoirs critiques d’une organisation et mettre en oeuvre des outils et méthodes pour les pérenniser
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Identifier, analyser et maîtriser les risques inhérents à un projet
+Mettre en œuvre une démarche de responsabilité sociétale
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Finalités et méthodes de gestion des ressources humaines, instances représentatives du personnel, principaux enjeux des relations sociales en entreprise
+- Management et gestion des ressources humaines : travail en équipe et information-communication
+- Rôles de l'encadrement et styles de management
+- Principes et outils de GRH (recrutement, évaluation et gestion des compétences, rémunération, gestion de carrière, etc.)
+- Motivation et management du changement
+- Relations sociales et contrat de travail : dialogue social, IRP, organisations syndicales et négociations collectives
+- conventions collectives
+- éléments de droit du travail
+- Management interculturel.
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Analyser avantages et limites de différentes politiques et pratiques de management dans des contextes divers
+- Consolider ses apprentissages en management suite aux projets collectifs et aux stages industriels
+- S'initier à la gestion des ressources humaines et aux relations sociales
+- Clarifier son projet professionnel et se situer comme manager
+- Renforcer ses aptitudes à l'écoute et en communication interpersonnelle, y compris dans des contextes culturels nouveaux
+- 
+GI-5-OPA-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-TAI 1A-S1 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+12 Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=
+13 Élaborer et mettre en oeuvre une stratégie d’achats
+14 Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks
+15 Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Modélisation d'un programme mathématique
+- Notions de complexité
+- Approche mono-critère/multicritères
+- Méthodes de résolution exactes et approchées
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Méthodologiques : analyser et modéliser formellement les problèmes de planification ou d'ordonnancement de ressources matérielles et / ou humaines ainsi que les problèmes d'aide à la décision mono et multicritères (1, 2, 5, 8)
+- Mettre en oeuvre une démarche structurée pour aborder ce type de problèmes (de l'identification à la validation des résultats obtenus) (3, 4, 10, 11, 12, 13, 14, 15)
+- Techniques : déterminer la complexité d'un problème et proposer des outils potentiels de résolution (5)
+GI-5-OTP-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-R&D1-s1 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+12 Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=
+15 Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique
+19 Prendre en compte l'innovation technologique et méthodologique
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Evaluer, prototyper ou simuler un système
+Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Problèmes  classiques  de transport.
+Principes et outils permettant la prise de décisions distribuées.
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Poser et résoudre un problème d'optimisation de la chaîne logistique d'un point de vue transport et gestion des flux
+GI-5-PFE-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-PFE-S2 () et contribue aux compétences suivantes :            
+
+21 Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette)
+22 Identifier, analyser et maîtriser les risques inhérents à un projet
+23 Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+Evaluer, prototyper ou simuler un système
+Dimensionner la partie matérielle et/ou logicielle d'un système
+Piloter un système de production et réagir aux dysfonctionnements ;=
+Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=
+Élaborer et mettre en œuvre une stratégie d’achats
+Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks
+Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique
+Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue
+Appréhender et évaluer une structure de manière globale, au travers de grilles de lecture socio-économiques
+Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+Prendre en compte l'innovation technologique et méthodologique
+Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+Identifier les compétences et savoirs critiques d’une organisation et mettre en œuvre des outils et méthodes pour les pérenniser
+Réaliser une analyse socio-organisationnelle afin de mieux appréhender les effets des changements et d'y adapter ses stratégies
+Mettre en œuvre une démarche de responsabilité sociétale
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Retour d’expérience
+- Fonctionnement des organisations
+- Connaissance de soi
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Réaliser un travail personnel en situation professionnelle, en résolvant une problématique industrielle et/ou scientifique,Analyser une situation et la problématiser,Atteindre les objectifs et/ou livrables attendus,Développer autonomie, imagination, curiosité,  rigueur scientifique et  responsabilité,Travailler en équipe,Appliquer les connaissances et compétences acquises au cours de la scolarité
+GI-5-PRH-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-TAI 1A-S1 () et contribue aux compétences suivantes :            
+
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+11 Piloter un système de production et réagir aux dysfonctionnements ;=
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Evaluer, prototyper ou simuler un système
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Programmation linéaire entière
+- Programmation par contraintes
+- Méta-heuristiques
+- Gestion quantitative des ressources humaines.
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Evaluer les besoins en ressources humaines (3,5,9)
+- Dimensionner le personnel (9)
+- Définir les horaires de présence du personnel (3,5,11)
+- Planifier les emplois du temps du personnel (3,5,11).
+GI-5-PROINDUS-P1-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-PRI 1A-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+12 Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=
+13 Élaborer et mettre en oeuvre une stratégie d’achats
+18 Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+19 Prendre en compte l'innovation technologique et méthodologique
+20 Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+21 Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette)
+22 Identifier, analyser et maîtriser les risques inhérents à un projet
+23 Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Organisation industriel
+- Amélioration continue
+- Analyse de donnée de production et dimensionnement du système
+- Sourcing et réapprovisionnement des matières
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Développer les capacités d'observation et d'analyse stratégique d'une organisation,Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion,...),Améliorer les capacités de communication et d'analyse de situation, par une identification précise de l'environnement professionnel, par la multiplication des contacts et des relations de travail dans l'entreprise, etc.
+GI-5-PROINDUS-P2-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-PRI 1A-S1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+10 Dimensionner la partie matérielle et/ou logicielle d'un système
+12 Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=
+13 Élaborer et mettre en oeuvre une stratégie d’achats
+18 Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+19 Prendre en compte l'innovation technologique et méthodologique
+20 Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+21 Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette)
+22 Identifier, analyser et maîtriser les risques inhérents à un projet
+23 Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)
+GI-5-PROINDUS-P3-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-PRI 1A-S1 () et contribue aux compétences suivantes :            
+
+GI-5-PSI-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-TAI 1A-S1 () et contribue aux compétences suivantes :            
+
+19 Prendre en compte l'innovation technologique et méthodologique
+20 Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Appréhender et évaluer une structure de manière globale, au travers de grilles de lecture socio-économiques
+Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités
+Identifier, analyser et maîtriser les risques inhérents à un projet
+Mettre en œuvre une démarche de responsabilité sociétale
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Analyse SWOT ()
+- Système d'information pour la conduite et le pilotage des systèmes industriels ()
+- CBA ().
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Organiser une table ronde (20,29,30)
+- Cerner une problématique industrielle (1)
+- Définir les enjeux et les risques industriels tant sur le plan structurel qu'organisationnel (5,6,17)
+- Interpeller des intervenants industriels (26,29,30)
+- Savoir maîtriser un débat (6,20,29)
+GI-5-RGI-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-R&D1-s1 () et contribue aux compétences suivantes :            
+
+7 Observer, mesurer, analyser et interpréter une activité ou un système à partir de données
+8 Modéliser, concevoir un système d'informations, de décision et de production de biens et de services
+9 Evaluer, prototyper ou simuler un système
+19 Prendre en compte l'innovation technologique et méthodologique
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks
+Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique
+Conduire collectivement un projet : organisation, communication, animation, coordination du groupe
+Identifier, analyser et maîtriser les risques inhérents à un projet
+
+En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
+- Mobiliser les connaissances théoriques pertinentes pour attaquer un sujet de recherche actuel et "state-of-the-art".
+Réaliser un état de l'art sur une question de recherche.
+Comprendre et formuler une problématique de recherche sur un problème de génie industriel ouvert et encore non exploré.
+Mener une démarche de recherche sur un projet long.
+Rédiger un document respectant les standards rédactionnels d'un article de recherche.
+Emettre des pistes de contribution au traitement d'une problématique.
+GI-5-RSE-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-5-ENTR-S1 () et contribue aux compétences suivantes :            
+
+
+En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
+
+- Développement durable, éthique d'entreprise, RSE
+- Enjeux du développement durable pour l'entreprise
+undefined ****************************
+Cet EC relève de l'unité d'enseignement undefined (undefined) et contribue aux compétences suivantes :            
+
+HU-L-ANG-3-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-HU EPS-S1 () et contribue aux compétences suivantes :            
+
+HU-L-ANG-3-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-HU EPS -S2 () et contribue aux compétences suivantes :            
+
+HU-L-ANG-4-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-HU EPS-S1 () et contribue aux compétences suivantes :            
+
+HU-L-LV2-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-4-HU EPS-S1 () et contribue aux compétences suivantes :            
+
+HU-LV2-S1 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-HU EPS-S1 () et contribue aux compétences suivantes :            
+
+HU-LV2-S2 ****************************
+Cet EC relève de l'unité d'enseignement GI-3-HU EPS -S2 () et contribue aux compétences suivantes :            
+

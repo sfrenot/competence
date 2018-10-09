@@ -1,0 +1,15 @@
+UE : GI-3-MECA-S1,,,,,,,
+EC : GI-3-RDM-S1,Résistance des matériaux ,,,,,,
+ECTS,2,,,,,,
+Nbre H,32,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,C
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,C
+,Compétence 10,Dimensionner la partie matérielle et/ou logicielle d'un système ,,,,,C
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+Dimensionner une pièce mécanique (poutre) et identifier les sollicitations et contraintes,,"Comportement du solide déformable: sollicitations (flexion simple, torsion simple, traction–compression, cisaillement), contraintes, déformations, torseur de cohésion, coefficient de sécurité, résistance mécanique.",,,,,
+Déterminer le torseur de cohésion dans un solide,,,,,,,
+Déterminer la répartition des contraintes dans une section droite,,,,,,,
+Vérifier la résistance mécanique d’une poutre,,,,,,,
+Déterminer l’équation de la flèche dans une poutre soumise à de la flexion,,,,,,,

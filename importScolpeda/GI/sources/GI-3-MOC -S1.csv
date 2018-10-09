@@ -1,0 +1,17 @@
+UE : GI-3-INFO-S1,,,,,,,
+EC : GI-3-MOC -S1,Modélisation et conception orientée objets,,,,,,
+ECTS,2,,,,,,
+Nbre H,36,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,2
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,2
+,Compétence 23,"Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)",,,,,2
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+"Identifier et formaliser les exigences client (8,23)",,"Notion de classes, d'instances, de méthodes (1, 2, 4, 8)",,,,,
+"Raffiner les exigences en séquences, activités (1,2,4)",,"Mécanismes d'encapsulation, d'héritage et de polymorphisme (1, 2, 4, 8)",,,,,
+Construire un diagramme état/transition (8),," Les diagrammes UML en général (1, 2, 4, 8) ",,,,,
+Construire les algorithmes des méthodes de classes (8),,"Les cas d'utilisation et le diagramme de séquence (1,2,4,8,23)",,,,,
+"Déclarer, instancier et utiliser un objet en Java (9)",,Le diagramme d'activité et le diagramme d'états,,,,,
+Coder une classe JAVA à partir de son diagramme de classe (9),,"Les outils associés (1,2,4,8)",,,,,
+,,,,,,,

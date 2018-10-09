@@ -1,0 +1,20 @@
+UE : GI-4-AD AUT-S1,,,,,,,
+EC : GI-4-AUT-S1,Automation,,,,,,
+ECTS,3,,,,,,
+Nbre H,40,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 7,"Observer, mesurer, analyser et interpréter une activité ou un système à partir de données",,,,,C
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,C
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,C
+,Compétence 10,Dimensionner la partie matérielle et/ou logicielle d'un système ,,,,,C
+,Compétence 11,Piloter un système de production et réagir aux dysfonctionnements ;=,,,,,C
+,Compétence 12,"Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=",,,,,C
+,Compétence 19,Prendre en compte l'innovation technologique et méthodologique,,,,,C
+,Compétence 20,"Conduire collectivement un projet : organisation, communication, animation, coordination du groupe ",,,,,M
+,Compétence 22,"Identifier, analyser et maîtriser les risques inhérents à un projet ",,,,,M
+,Compétence 23,"Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)",,,,,M
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+"Analyser, dimensionner et concevoir un système automatisé de production: en termes de pilotage d'outils de production (1,3,4,5,7,8,9,10,11,12,20,23,28,29,31) ",,"Les architectures d'automatisme (de la couche  physique (capteurs et actionneurs intelligents, réseaux locaux industriels, ...) à l'informatique de contrôle-commande) (5,8,10,12,19) ",,,,,
+" Spécifier les besoins des Systèmes Automatisés de Production (3,5,6,8,28) ",," Les méthodologies de projet d'automatismes (29,23,22,21,20) ",,,,,
+" Utiliser une méthode d'analyse et de conception d'un S.A.P (1,2,3,4,5,8,9,10,11,12,19,20,23,27,28,29,30,31,33).",," Les outils de conception et développement d'automatismes (5,7,9,8,12).",,,,,

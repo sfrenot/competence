@@ -1,0 +1,20 @@
+UE : GI-4-GP SIM-S1,,,,,,,
+EC : GI-4-ORD-S1,Ordonnancement et gestion de flux (projet),,,,,,
+ECTS,2,,,,,,
+Nbre H,28,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 7,"Observer, mesurer, analyser et interpréter une activité ou un système à partir de données",,,,,C
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,C
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,C
+,Compétence 10,Dimensionner la partie matérielle et/ou logicielle d'un système ,,,,,C
+,Compétence 11,Piloter un système de production et réagir aux dysfonctionnements ;=,,,,,C
+,Compétence 22,"Identifier, analyser et maîtriser les risques inhérents à un projet ",,,,,C
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+Identifier des méthodes de calcul du temps opératoire et de calcul des charges prévisionnelles (personnel et équipement) ,,Méthodes d'optimisation,,,,,
+" Caractériser les données techniques (opérations, ressources, temps opératoires, gammes, ordres de fabrication ...)",,Politique d’ordonnancement en fonction de charge d’atelier,,,,,
+Réaliser un Ordonnancement à capacité finie et infinie,,Calcul de rentabilité financière d’un projet  ,,,,,
+"Étudier les effets du choix d'une heuristique de séquencement, ainsi que des périodes de travail ",,,,,,,
+" Prendre en compte les contraintes (chevauchement, fractionnement, insécabilité, etc.) et gérer les aléas de production (panne sur une machine ...) ",,,,,,,
+"Analyser et évaluer les caractéristiques techniques et financières du logiciel d'ordonnancement.
+",,,,,,,

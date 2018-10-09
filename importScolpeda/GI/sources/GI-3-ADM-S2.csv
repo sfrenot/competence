@@ -1,0 +1,12 @@
+UE : GI-3-INFO-S2,,,,,,,
+EC : GI-3-ADM-S2,Aide à la décision mono critère ,,,,,,
+ECTS,1,,,,,,
+Nbre H,16,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,C
+,Compétence 11,Piloter un système de production et réagir aux dysfonctionnements ;=,,,,,C
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+"Spécifier un programme linéaire à partir de la description d'un existant déterministe (3,5)",,Programmation linéaire,,,,,
+"Concevoir un outil d'aide à la décision monocritère pour le pilotage d'un processus de production sous contraintes de ressources cumulatives (9,11)  ",,Simulation de scénarios,,,,,
+,,Utilisation du solveur d'EXCEL pour l'aide à la décision,,,,,

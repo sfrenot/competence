@@ -1,0 +1,28 @@
+UE : GI-3-MOI-S1,,,,,,,
+EC : GI-3-PRS-S1,Probabilités statistiques ,,,,,,
+ECTS,3,,,,,,
+Nbre H,44,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 7,"Observer, mesurer, analyser et interpréter une activité ou un système à partir de données",,,,,2
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,2
+,Compétence 14,Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks ,,,,,2
+,Compétence 16,Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue ,,,,,2
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+"Calculer la probabilité d'un événement complexe, défini à partir d'événements simples ou par dénombrement (1,2,14)",,"Notion de probabilité (1,2,3,5,6,7,9,14,16)",,,,,
+"Modéliser un phénomène aléatoire en choisissant une loi de probabilité appropriée (1,5,6,7,14)",,"Schémas d'analyse combinatoire (1,2,14)",,,,,
+"Calculer et interpréter les principaux indicateurs associés à une variable aléatoire (2,3,5,6,7,9,14)",,"Lois du calcul probabiliste (1,2,14)",,,,,
+"Déterminer le comportement moyen d'un phénomène sur un grand nombre d'expériences aléatoires (2,3,5)",,"Notion de probabilités conditionnelles et d'événements indépendants (1,2,6,7,9,16)",,,,,
+"Calculer un risque client / un risque fournisseur en fonction d'une procédure de contrôle qualité (2,7,14,16)",,"Notion de variable aléatoire (1,2,6,7,14)",,,,,
+"Estimer les paramètres d'une population statistique à partir d'un échantillon de données (estimation ponctuelle et par intervalle de confiance) (1,2,3,5,7,9)",,"Principaux indicateurs de variables aléatoires (espérance, variance ...) (1,2,3,5,6,7,9,14)",,,,,
+"Mettre en oeuvre un test statistique pour valider (ou non) une hypothèse relative à une population (1,2,3,5,6,7,9)",,"Principales distributions de probabilités (1,2,3,5,6,7,14)",,,,,
+,,"Théorème central limite (1,2,3,5,6)",,,,,
+,,"Notions d'échantillon, de population et d'inférence statistique (1,2,3,5,6,7,9,16)",,,,,
+,,"Risque client et risque fournisseur (1,2,6,7,14,16)",,,,,
+,,"Estimation ponctuelle (1,2,3,5,6,7,9)",,,,,
+,,"Intervalles de confiance (1,2,3,5,6,7,9)",,,,,
+,,"Test statistique unilatéral / bilatéral (1,2,3,5,6,7,9)",,,,,
+,,"Tests d'estimation (1,2,3,5,6,7,9)",,,,,
+,,"Tests de comparaison (1,2,3,5,6,7,9)",,,,,
+,,"Tests d'adéquation (1,2,3,5,6,7,9)",,,,,
+,,"Tests d'indépendance (1,2,3,5,6,7,9).",,,,,

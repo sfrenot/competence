@@ -1,0 +1,21 @@
+UE : GI-4-AD AUT-S1,,,,,,,
+EC : GI-4-SDF-S2,Sûreté de Fonctionnement  ,,,,,,
+ECTS,1,,,,,,
+Nbre H,16,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,C
+,Compétence 11,Piloter un système de production et réagir aux dysfonctionnements ;=,,,,,C
+,Compétence 15,"Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique",,,,,C
+,Compétence 18,Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités ,,,,,C
+,Compétence 19,Prendre en compte l'innovation technologique et méthodologique,,,,,C
+,Compétence 22,"Identifier, analyser et maîtriser les risques inhérents à un projet ",,,,,C
+,Compétence 23,"Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)",,,,,C
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+Appréhender les phénomènes de dysfonctionnement () ,,Définir un argumentaire pour le dimenssionnement (),,,,,
+ Analyse préliminaire de Risques () ,, MTBF MTTF MTTR () ,,,,,
+" Durée de vie, Fiabilité, Disponibilité, Maintenabilité des structures matérielles et organisationnelles () ",," Graphe d'états, chaîne de Markov () ",,,,,
+" Contrat, engagement et pénalités () ",," Arbre de Fautes, Diagramme de fiabilité () ",,,,,
+ Négocier des solutions renforçant la tolérance aux fautes () ,, Réduction des matrices de taux de transtion () ,,,,,
+  Indicateurs de performances () ,," Etats de service approprié, inappropriés () ",,,,,
+ Dimenssionnement ().,, Aide à la décision ().,,,,,

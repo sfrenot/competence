@@ -1,0 +1,21 @@
+UE : GI-4-GOP-S2,,,,,,,
+EC : GI-4-GPR-S2,Gestion de production (projet),,,,,,
+ECTS,2,,,,,,
+Nbre H,32,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 7,"Observer, mesurer, analyser et interpréter une activité ou un système à partir de données",,,,,M
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,3
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,3
+,Compétence 10,Dimensionner la partie matérielle et/ou logicielle d'un système ,,,,,2
+,Compétence 11,Piloter un système de production et réagir aux dysfonctionnements ;=,,,,,2
+,Compétence 14,Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks ,,,,,M
+,Compétence 16,Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue ,,,,,M
+,Compétence 20,"Conduire collectivement un projet : organisation, communication, animation, coordination du groupe ",,,,,M
+,Compétence 21,"Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette) ",,,,,M
+,Compétence 22,"Identifier, analyser et maîtriser les risques inhérents à un projet ",,,,,M
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+- Modéliser un problème d'optimisation comme un problème de graphe,,"SAP ERP (structure, concepts, applications)",,,,,
+,,"Données de base nécessaires aux processus de planification de production et de vente (client, article, nomenclature, poste de travail, gamme, centre de coût)",,,,,
+,,"Processus de planification et d'exécution de la production (gestion sur prévision, assemblage à la commande)",,,,,
+,,Processus de traitement de commande client,,,,,

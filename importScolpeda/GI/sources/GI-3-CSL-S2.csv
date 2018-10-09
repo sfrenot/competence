@@ -1,0 +1,17 @@
+UE : GI-3-AUTOM-S2,,,,,,,
+EC : GI-3-CSL-S2,Commande de systèmes linéaires,,,,,,
+ECTS,3,,,,,,
+Nbre H,36,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 7,"Observer, mesurer, analyser et interpréter une activité ou un système à partir de données",,,,,C
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,C
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,C
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+Etudier la stabilité d'un système,,La notion de stabilité d'un système,,,,,
+Déterminer les paramètres de performance du système et les comparer aux caractéristiques du Cahier des Charges,,Les notions de performances,,,,,
+Synthétiser un contrôleur,,"Les correcteurs simple entrée simple sortie
+",,,,,
+Simuler un système dynamique et son contrôleur,,,,,,,
+"Commander un système physique expérimentalement
+",,,,,,,

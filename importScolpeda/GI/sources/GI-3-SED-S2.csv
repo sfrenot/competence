@@ -1,0 +1,20 @@
+UE : GI-3-AUTOM-S2,,,,,,,
+EC : GI-3-SED-S2,Systèmes à événements discrets,,,,,,
+ECTS,3,,,,,,
+Nbre H,52,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,C
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,C
+,Compétence 10,Dimensionner la partie matérielle et/ou logicielle d'un système ,,,,,C
+,Compétence 14,Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks ,,,,,C
+,Compétence 15,"Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique",,,,,C
+,Compétence 23,"Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)",,,,,C
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+Exploiter d'un cahier des Charges (),,Espace d'états discrets fini ou non-fini (),,,,,
+Appréhender un système au travers des paradigmes production/consommation et client/serveur (),,Commutation d'états stables (),,,,,
+Dimensionner et évaluer les performances en régime permanent (),,Réseaux de Petri (),,,,,
+Etablir des propriétés et vérification des hypothèses ().,,Notion de comportements déterministes ou aléatoires(),,,,,
+,,Indicateurs de performances(),,,,,
+,,Identification et Vérification des hypothèses (),,,,,
+,,"Modèles markoviens, Réseaux de File d'Attente ()",,,,,

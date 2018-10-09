@@ -1,0 +1,20 @@
+UE : GI-4-AD AUT-S1,,,,,,,
+EC : GI-4-SIG-S1,Simulation - généralités,,,,,,
+ECTS,1,,,,,,
+Nbre H,14,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 7,"Observer, mesurer, analyser et interpréter une activité ou un système à partir de données",,,,,C
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,C
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,C
+,Compétence 12,"Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ;=",,,,,C
+,Compétence 22,"Identifier, analyser et maîtriser les risques inhérents à un projet ",,,,,C
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+"Dimensionner et Analyser des systèmes physiques et de flux (2,5) ",,Comportement physique d'une chaîne d' Actionneurs et  de Capteurs (8) ,,,,,
+" Valider par simulation des processus physiques et de flux (7,8,9) ",," Lois de distribution de variables aléatoires, comportement stochastiques de flux discrets (7,8,9) ",,,,,
+" Abstraction entrée/sortie, flux d'entrée, flux de sortie (12) ",," Condition du régime permanent et instabilité (2,5).",,,,,
+" Définir et valider des hypothèses (7,8) ",,,,,,,
+" Interprétation statistique des sorties (8,9) ",,,,,,,
+ Choix des scenarii (22),,,,,,,
+ Exploiter un outil de simulation (9) ,,,,,,,
+ Exploiter d'un cahier des Charges  pour appréhender un système au travers de flux physiques et discret (28).,,,,,,,

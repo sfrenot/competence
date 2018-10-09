@@ -1,0 +1,19 @@
+UE : GI-3-INFO-S2,,,,,,,
+EC : GI-3-BDD-S2,Base de données ,,,,,,
+ECTS,3,,,,,,
+Nbre H,52,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,2
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+"Concevoir un modèle E/A (1,5,8)",,"Architecture des SGBD (1,8)",,,,,
+"Traduire un modèle E/A en modèle relationnel normalisé (1,5,8)",," Modèle Entité/Association (1,8)",,,,,
+"Ecrire une requête à l'aide de l'algèbre relationnelle (2,5)",,"Notions de dépendances fonctionnelles, multivaluées (1,8) ",,,,,
+"Interroger une base de données relationnelle à l'aide de requêtes SQL (2,5)",,"Fermeture transitive (1,8)",,,,,
+Créer un document XML bien formé à partir d'une DTD (1),,"Couverture minimale (1,8)",,,,,
+Transformer un document XML à l'aide du langage XSLT (5),,"Formes normales : Relations en 1NF, 2NF, 3NF, Boyce Codd, 4NF (1,8)",,,,,
+,, Structure d'un document XML (1),,,,,
+,, HTML/CSS (8),,,,,
+,,"DTD (Document Type Définition) (1,8)",,,,,
+,,"Langage XSLT (2)
+",,,,,

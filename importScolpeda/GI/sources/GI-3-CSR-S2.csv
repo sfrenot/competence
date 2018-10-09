@@ -1,0 +1,13 @@
+UE : GI-3-AUTOM-S2,,,,,,,
+EC : GI-3-CSR-S2,Projet commande d'un système robotisé ,,,,,,
+ECTS,2,,,,,,
+Nbre H,24,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,C
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,C
+,Compétence 10,Dimensionner la partie matérielle et/ou logicielle d'un système ,,,,,C
+,Compétence 20,"Conduire collectivement un projet : organisation, communication, animation, coordination du groupe ",,,,,C
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+"Établir un avant projet de l'asservissement en position d'un système robotisé: dimensionnement mécanique et électrique,environnement, capteurs et acquisition de l'information, algorithmes de commande, comportement global du système",,Résistance des Matériaux (modèle poutre),,,,,
+Gérer un projet,,"Asservissement, régulation, PID.",,,,,

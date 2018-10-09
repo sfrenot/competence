@@ -1,0 +1,26 @@
+UE : GI-4-GOP-S2,,,,,,,
+EC : GI-4-ROP-S2,Recherche opérationnelle,,,,,,
+ECTS,2,,,,,,
+Nbre H,26,,,,,,
+,,,,,,,Niveau de la compétence
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+Reconnaître un problème de graphe ,,Bases de la théorie des Graphes ,,,,,
+"
+Modéliser un problème d'optimisation comme un problème de graphe",,"
+Bases de la théorie de la complexité ",,,,,
+"
+Évaluer la complexité d'un algorithme.
+",," 
+Bases de la recherche opérationnelle ",,,,,
+,,"
+Représentations d'un graphe ",,,,,
+,,"
+Connexité, composantes connexes ",,,,,
+,,"
+Plus court chemin et plus long chemin ",,,,,
+,,"
+Couplage maximum ",,,,,
+,,"
+Flot maximum.
+",,,,,

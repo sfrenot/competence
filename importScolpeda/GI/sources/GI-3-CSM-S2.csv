@@ -1,0 +1,17 @@
+UE : GI-3-MECA-S2,,,,,,,
+EC : GI-3-CSM-S2,Conception de systèmes mécaniques et technologie ,,,,,,
+ECTS,2,,,,,,
+Nbre H,36,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,3
+,Compétence 18,Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités ,,,,,2
+,Compétence 21,"Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette) ",,,,,M
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+Identifier des efforts et des sollicitations en isolant les pièces (3),,"Les  technologies classiques et élémentaires d'actionnement mécanique (entrainement par frottement, électromagnétique, hydraulique) (4,18,31)",,,,,
+"Dimensionner à la fatigue (courbes de Wöhler, théorie de Miner) (3,9)",,"Les principes de fonctionnement de mécanismes de sécurité (frein, embrayage, ressorts, ...) (4,18,27,31)",,,,,
+"Dimensionner des liaisons avec calcul de tolérances (3,9)",,"Les ordres de grandeur des caractéristiques mécaniques (raideurs, efforts, frottement, ...) (4,21)
+",,,,,
+"Dimensionner de composants (roulements, vis) (3,9)",,,,,,,
+"Imaginer les phénomènes d'interaction mécanique entre les éléments constitutifs d'un mécanisme (4,21,31)
+",,,,,,,
