@@ -111,19 +111,22 @@ module.exports =
     'val': "Se situer, travailler, évoluer dans une entreprise, une organisation socioproductive"
   'A1':
     'code':'A1'
-    'val': "Résoudre les questions posées par un problème scientifique en étant conscient des limites"
+    'val': "Analyser un système (ou un problème) réel ou virtuel"
   'A2':
     'code':'A2'
-    'val': "Développer une démarche expérimentale"
+    'val': "Exploiter un modèle d’un système réel ou virtuel"
   'A3':
     'code':'A3'
-    'val': "Mettre en œuvre une démarche scientifique"
+    'val': "Mettre en œuvre une démarche expérimentale"
   'A4':
     'code':'A4'
-    'val': "Mettre en perspective les connaissances scientifiques avec l\'évolution des savoirs et des technologies"
+    'val': "Concevoir un système répondant à un cahier des charges"
   'A5':
     'code':'A5'
-    'val': "Identifier, formuler et résoudre un problème d\'ingénierie complexe"
+    'val': "Traiter des données"
+  'A6':
+    'code':'A6'
+    'val': "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité"
   'C1':
     'code':'C1'
     'val': "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données"
