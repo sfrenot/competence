@@ -1,6 +1,7 @@
 csv = require 'csvtojson'
 Promise = require 'bluebird'
 _ = require 'lodash'
+refCompetences = require '../../formation/refCompetences'
 
 currentMat = {}
 ec = undefined
@@ -25,25 +26,33 @@ insertDetail = () ->
     if _.isEmpty(currentMat.competencesM)
       currentMat.competencesM = []
 
-    if data.field7 is 'M'
-      currentMat.competencesM.push(data.field6.replace(/"/g,''))
+    competence = data.field6.replace(/"/g,'')
+    [,ref,detail] = /(\w\d) (.*)/.exec(competence)
+    if not refCompetences[ref] or refCompetences[ref].val isnt detail
+      console.error("COMPETENCE ERREUR", currentMat, JSON.stringify competence,null, 2)
+      process.exit()
     else
-      currentMat.competencesC.push("#{data.field6.replace(/"/g,'')} (niveau #{data.field7})")
-      currentComp = data.field6.split(' ')[0]
+      if data.field7 is 'M'
+        currentMat.competencesM.push(competence)
+      else
+        currentMat.competencesC.push("#{competence} (niveau #{data.field7})")
+        currentComp = data.field6.split(' ')[0]
 
   addCompetenceOrConnaissance = (data) ->
-    if data.field5 is '' then return
-    if data.field5 is 'Capacité'
+    if data.field5 is 'Capacité' and data.field6?
       if _.isEmpty(currentMat.capacites)
-        currentMat.capacites = []
-      currentMat.capacites.push("#{data.field6} (#{currentComp})")
+        currentMat.capacites = {}
+      if _.isEmpty(currentMat.capacites[currentComp])
+        currentMat.capacites[currentComp] = []
+      currentMat.capacites[currentComp].push("Capacité : #{data.field6}")
       return
-    if data.field5 is 'Connaissance'
+    if data.field5 is 'Connaissance' and data.field6
       if _.isEmpty(currentMat.connaissances)
-        currentMat.connaissances = []
-      currentMat.connaissances.push("#{data.field6} (#{currentComp})")
+        currentMat.connaissances = {}
+      if _.isEmpty(currentMat.connaissances[currentComp])
+        currentMat.connaissances[currentComp] = []
+      currentMat.connaissances[currentComp].push("Connaissance : #{data.field6}")
       return
-    console.error('ERREUR', data)
 
   readCsv = ->
     new Promise (resolve, reject) ->
@@ -75,22 +84,22 @@ insertDetail()
     console.log("Cet EC relève de l'unité d'enseignement #{matiere.ueName} (#{matiere.ueCode}) et
 contribue aux compétences suivantes :            \n")
     matiere.competencesC.forEach (competence) ->
-      console.log(competence)
+      console.log("#{competence}\n")
+
+      ref = competence.split(' ')[0]
+      if matiere.capacites?[ref]?
+        matiere.capacites[ref].forEach (comp) ->
+          console.log("  #{comp}")
+        console.log()
+      if matiere.connaissances?[ref]?
+        matiere.connaissances[ref].forEach (comp) ->
+          console.log("  #{comp}")
+        console.log()
 
     if not _.isEmpty(matiere.competencesM)
       console.log("\nDe plus, elle nécessite de mobiliser les compétences suivantes :\n")
       matiere.competencesM.forEach (competenceM) ->
         console.log(competenceM)
-
-    if not _.isEmpty(matiere.connaissances)
-      console.log("\nEn permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :\n")
-      matiere.connaissances.forEach (connaissance) ->
-        console.log("- #{connaissance}")
-
-    if not _.isEmpty(matiere.capacites)
-      console.log("\nEn permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :")
-      matiere.capacites.forEach (capacite) ->
-        console.log("- #{capacite}")
 
 .catch (err) ->
   console.log("erreur", err)
