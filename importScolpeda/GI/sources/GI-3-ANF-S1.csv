@@ -3,10 +3,16 @@ EC : GI-3-ANF-S1,Analyse de fabrication       ,,,,,,
 ECTS,2,,,,,,
 Nbre H,40,,,,,,
 ,,,,,,,Niveau de la compétence
+,,,,,,,
+,,,,,,,
+,Compétence 1,Analyser un système (ou un problème) réel ou virtuel,,,,,1
+,Compétence 3,Mettre en œuvre une démarche expérimentale,,,,,3
+,Compétence 6,"Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité""",,,,,3
 ,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,2
 ,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,1
-,Compétence 12,"Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production",,,,,3
+,Compétence 12,"Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ",,,,,3
 ,Compétence 19,Prendre en compte l'innovation technologique et méthodologique,,,,,2
+,Compétence 28,"Travailler, apprendre, évoluer de manière autonome ",,,,,2
 ,,,,,,,
 CAPACITES,,CONNAISSANCES,,,,,
 "Concevoir une gamme de fabrication mécanique en choisissant un brut adapté,  en concevant un moule métallique, en respectant les contraintes géométriques,en  tenant compte des contraintes économiques, en  prenant en compte les capabilités machines (8,9,12,19)",,Conception du moule,,,,,

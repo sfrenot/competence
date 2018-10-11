@@ -3,9 +3,13 @@ EC : GI-3-CSI-S2,Conception d'un système d'information ,,,,,,
 ECTS,2,,,,,,
 Nbre H,24,,,,,,
 ,,,,,,,Niveau de la compétence
+,,,,,,,
+,,,,,,,
+,Compétence 4,Concevoir un système répondant à un cahier des charges,,,,,C
 ,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,M
 ,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,C
 ,Compétence 20,"Conduire collectivement un projet : organisation, communication, animation, coordination du groupe ",,,,,C
+,Compétence 29,"Interagir avec les autres, travailler en équipe ",,,,,C
 ,,,,,,,
 CAPACITES,,CONNAISSANCES,,,,,
 Modéliser un existant (8),,Réingénierie des systèmes de production à l'aide de la plateforme ARIS,,,,,

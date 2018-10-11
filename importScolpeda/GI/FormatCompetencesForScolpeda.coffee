@@ -11,8 +11,40 @@ matieres = []
 currentComp = ''
 sectionCapacite = false
 
+ues =
+  "GI-3-AUTOM-S1": "Automatique"
+  "GI-3-MOI-S1": "Méthodes et outils d'ingénierie industrielle"
+  "GI-3-INFO-S1": "Informatique"
+  "GI-3-MECA-S1": "Mécanique"
+  "GI-3-HU EPS-S1": "Humanités et Education sportive"
+  "GI-3-AUTOM-S2": "Automatique"
+  "GI-3-INFO-S2": "Informatique et optimisation"
+  "GI-3-MECA-S2": "Mécanique"
+  "GI-3-HU EPS -S2": "Humanités et Education sportive"
+  "GI-4-AUT-S1": "Automatique"
+  "GI-4-AD AUT-S1": "Automatique"
+  "GI-4-GP SIM-S1": "Gestion de production et des flux"
+  "GI-4-HU EPS-S1": "Humanités et Education sportive"
+  "GI-4-INFO-S1": "Informatique"
+  "GI-4-PCO-S1": "Projets Collectifs"
+  "GI-4-GOP-S2": "Gestion et Optimisation de la Production"
+  "GI-4-PEP-S2": "Pilotage et performance"
+  "GI-4 HU EPS-S2": "Humanités et Education sportive"
+  "GI-4-PCO-S2": "Projets collectifs"
+  "GI-4-STI-S2": "Stage industriel"
+  "GI-5-ENTR-S1": "Management de l'entreprise"
+  "GI-5-TAI 1A-S1": "Techniques Avancées de l'Ingénieur 1A"
+  "GI-5-PRI 1A-S1": "Projets Industriels 1A"
+  "GI-5-EPS-S1": "Humanités et Education sportive"
+  "GI-5-PFE-S2": "Projet de Fin d'Etudes"
+  "GI-5-R&D1-s1": "Optimisation de la chaîne logistique dans l'industrie 4.0 "
+  "GI-5-TAI 2A-S1": "Techniques Avancées de l'Ingénieur 2A"
+  "GI-5-PRI 2A-S1": "Projets Industriels 2A"
+
 insertDetail = () ->
   setAndCheckMatiere = (data) ->
+    # if not data.field7 then return
+
     if data.field7.trim() is 'Compétences école' or data.field2.trim() is 'GI-3-MOI-S1'
 
       sectionCapacite = false
@@ -25,7 +57,10 @@ insertDetail = () ->
         # console.log '->', currentMat
         matieres.push(currentMat)
         currentMat = {}
-      currentMat.ueName = ''
+      unless ues[data.field1.split(' : ')[1]]
+        console.log "ue inconnue : #{data.field1.split(' : ')[1]}"
+        process.exit()
+      currentMat.ueName = ues[data.field1.split(' : ')[1]]
       currentMat.ueCode = data.field1.split(' : ')[1]
 
     if data.field1.startsWith('EC : ')
@@ -39,20 +74,20 @@ insertDetail = () ->
 
     if data.field2.trim().startsWith("Compétence")
       if data.field8.trim() is 'M'
-        compName = data.field3.replace(/"/g,'').replace('œ', 'oe')
+        compName = data.field3.replace(/"/g,'')
         tmpComp = _.find(refCompetences, {'val': compName})
         unless tmpComp
-            console.error("COMPETENCE ERREUR", currentMat.ueCode, JSON.stringify compName,null, 2)
+            console.error("COMPETENCE ERREUR", currentMat.nom, JSON.stringify compName,null, 2)
             process.exit()
           else
             refComp = tmpComp.code
 
         currentMat.competencesM.push("#{refComp} #{compName}")
       else
-        compName = data.field3.replace(/"/g,'').replace('œ', 'oe').replace(/  /g, ' ').trim()
+        compName = data.field3.replace(/"/g,'').replace(/  /g, ' ').trim()
         tmpComp = _.find(refCompetences, {'val': compName})
         unless tmpComp
-            console.error("COMPETENCE ERREUR", currentMat.ueCode, JSON.stringify compName,null, 2)
+            console.error("COMPETENCE ERREUR", currentMat.nom, JSON.stringify compName,null, 2)
             process.exit()
           else
             refComp = tmpComp.code
@@ -70,19 +105,29 @@ insertDetail = () ->
   addCompetenceOrConnaissance = (data) ->
     addOtherCompetences = (elem, matiere) ->
       #console.error '->', elem
-      complist = /.* \((.*)\).*/.exec(elem)
-      if complist?[1] # (1, 2 , 4)
-        res = complist[1].split(',')
+      complist = /(.*) \((.*)\).*/.exec(elem)
+      if complist?[2] # (1, 2 , 4)
+        res = complist[2].split(',')
         # console.error '->', res.map (elem) -> elem
-        res.forEach (val) ->
+        rep = res.map (val) ->
           valAsNum = new Number(val)
-          if not isNaN(valAsNum) and (valAsNum < 6 or valAsNum > 26)
-            if valAsNum < 6
-              comp = refCompetences["A#{valAsNum}"]
-              matiere.competencesM.push("#{comp.code} #{comp.val}")
-            else
-              comp = refCompetences["B#{valAsNum - 26}"]
-              matiere.competencesM.push("#{comp.code} #{comp.val}")
+          if isNaN(valAsNum)
+            return val
+          if valAsNum < 6
+            comp = refCompetences["A#{valAsNum}"]
+            return comp.code
+          if valAsNum > 26
+            comp = refCompetences["B#{valAsNum - 26}"]
+            return comp.code
+          else
+            # console.log "->", valAsNum
+            comp = refCompetences["GI-C#{valAsNum}"]
+            return comp.code
+
+      if rep?
+        "#{complist[1]} (#{rep.join(', ')})"
+      else
+        "#{elem}"
 
     if data.field1 is 'CAPACITES' or data.field3 is 'CONNAISSANCE'
       sectionCapacite = true
@@ -92,14 +137,12 @@ insertDetail = () ->
       if not _.isEmpty(data.field1)
         if _.isEmpty(currentMat.capacites)
           currentMat.capacites = []
-        currentMat.capacites.push("#{data.field1.trim()}")
-        addOtherCompetences(data.field1.trim(), currentMat)
+        currentMat.capacites.push(addOtherCompetences(data.field1.trim(), currentMat))
 
       if not _.isEmpty(data.field3)
         if _.isEmpty(currentMat.connaissances)
           currentMat.connaissances = []
-        currentMat.connaissances.push("#{data.field3.trim()}")
-        addOtherCompetences(data.field3.trim(), currentMat)
+        currentMat.connaissances.push(addOtherCompetences(data.field3.trim(), currentMat))
 
   readCsv = ->
     files = fs.readdirSync('./sources').filter((name) -> name.endsWith('.csv'))
@@ -121,8 +164,8 @@ insertDetail = () ->
     datas.forEach (data) ->
       setAndCheckMatiere(data)
       addCompetenceOrConnaissance(data)
-      currentMat.competencesM = _.uniq(currentMat.competencesM)
-      currentMat.competencesC = _.uniq(currentMat.competencesC)
+      currentMat.competencesM = _.sortBy(_.uniq(currentMat.competencesM))
+      currentMat.competencesC = _.sortBy(_.uniq(currentMat.competencesC))
 
 
     Promise.resolve()

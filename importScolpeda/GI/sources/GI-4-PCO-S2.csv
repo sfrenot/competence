@@ -3,6 +3,11 @@ EC : GI-4-PCO-S2,Projets collectifs ,,,,,,
 ECTS,3,,,,,,
 Nbre H,52,,,,,,
 ,,,,,,,Niveau de la compétence
+,Compétence 1,Analyser un système (ou un problème) réel ou virtuel,,,,,C
+,Compétence 2,Exploiter un modèle d’un système réel ou virtuel,,,,,C
+,Compétence 3,Mettre en œuvre une démarche expérimentale,,,,,C
+,Compétence 4,Concevoir un système répondant à un cahier des charges,,,,,C
+,Compétence 6,"Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité""",,,,,C
 ,Compétence 7,"Observer, mesurer, analyser et interpréter une activité ou un système à partir de données",,,,,C
 ,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,C
 ,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,C
@@ -15,6 +20,13 @@ Nbre H,52,,,,,,
 ,Compétence 23,"Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)",,,,,C
 ,Compétence 24,Identifier les compétences et savoirs critiques d’une organisation et mettre en œuvre des outils et méthodes pour les pérenniser ,,,,,M
 ,Compétence 25, Réaliser une analyse socio-organisationnelle afin de mieux appréhender les effets des changements et d'y adapter ses stratégies ,,,,,C
+,Compétence 27,"Se connaître, se gérer physiquement et mentalement ",,,,,C
+,Compétence 28,"Travailler, apprendre, évoluer de manière autonome ",,,,,C
+,Compétence 29,"Interagir avec les autres, travailler en équipe ",,,,,C
+,Compétence 30,"Faire preuve de créativité, innover, entreprendre ",,,,,M
+,Compétence 31,Agir de manière responsable dans un monde complexe ,,,,,C
+,Compétence 32,"Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive ",,,,,C
+,Compétence 33,Travailler dans un contexte international et interculturel,,,,,M
 ,,,,,,,
 CAPACITES,,CONNAISSANCES,,,,,
 "Mettre en oeuvre les outils du management (21,22,23) ",,"Outils et méthodes :gestion de projets, d'ingénierie système, de Management de la Qualité, de communication.

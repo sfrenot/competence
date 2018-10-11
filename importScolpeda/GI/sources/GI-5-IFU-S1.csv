@@ -3,6 +3,9 @@ EC : GI-5-IFU-S1,Industrie du futur (Projet),,,,,,
 ECTS,2,,,,,,
 Nbre H,24,,,,,,
 ,,,,,,,Niveau de la compétence
+,Compétence 1,Analyser un système (ou un problème) réel ou virtuel,,,,,3
+,Compétence 3,Mettre en œuvre une démarche expérimentale,,,,,3
+,Compétence 5,Traiter des données,,,,,3
 ,Compétence 7,"Observer, mesurer, analyser et interpréter une activité ou un système à partir de données",,,,,3
 ,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,M
 ,Compétence 11,Piloter un système de production et réagir aux dysfonctionnements,,,,,3
@@ -11,6 +14,7 @@ Nbre H,24,,,,,,
 ,Compétence 15,"Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique",,,,,1
 ,Compétence 19,Prendre en compte l'innovation technologique et méthodologique,,,,,3
 ,Compétence 20,"Conduire collectivement un projet : organisation, communication, animation, coordination du groupe ",,,,,M
+,Compétence 29,"Interagir avec les autres, travailler en équipe ",,,,,3
 ,,,,,,,
 CAPACITES,,CONNAISSANCES,,,,,
 "Mettre en œuvre les connaissances et capacités acquises en optimisation de la chaîne logistique et data science.

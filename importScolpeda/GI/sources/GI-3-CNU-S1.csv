@@ -3,12 +3,16 @@ EC : GI-3-CNU-S1,Commande numérique ,,,,,,
 ECTS,1,,,,,,
 Nbre H,18,,,,,,
 ,,,,,,,Niveau de la compétence
+,,,,,,,
+,,,,,,,
+,Compétence 3,Mettre en œuvre une démarche expérimentale,,,,,2
+,Compétence 6,"Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité""",,,,,1
 ,Compétence 10,Dimensionner la partie matérielle et/ou logicielle d'un système ,,,,,1
-,Compétence 12,"Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production",,,,,2
+,Compétence 12,"Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ",,,,,2
 ,Compétence 19,Prendre en compte l'innovation technologique et méthodologique,,,,,2
 ,,,,,,,
 CAPACITES,,CONNAISSANCES,,,,,
-Comprendre les enjeux de la CFAO (10,12),,Architecture d'une MOCN,,,,,
+"Comprendre les enjeux de la CFAO (10, 12)",,Architecture d'une MOCN,,,,,
 "Appréhender les enjeux économiques des stratégies d'usinage(10,12,19)",,Architecture du directeur de commande,,,,,
 ,,Le langage de CN ISO,,,,,
 ,,Autres méthodes d'usinage,,,,,

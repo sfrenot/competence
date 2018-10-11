@@ -3,6 +3,9 @@ EC : GI-5-ACH-S1,Achats ,,,,,,
 ECTS,1,,,,,,
 Nbre H,16,,,,,,
 ,,,,,,,Niveau de la compétence
+,Compétence 1,Analyser un système (ou un problème) réel ou virtuel,,,,,M
+,Compétence 4,Concevoir un système répondant à un cahier des charges,,,,,1
+,Compétence 6,"Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité""",,,,,2
 ,Compétence 7,"Observer, mesurer, analyser et interpréter une activité ou un système à partir de données",,,,,M
 ,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,M
 ,Compétence 13,Élaborer et mettre en œuvre une stratégie d’achats ,,,,,3
@@ -12,6 +15,10 @@ Nbre H,16,,,,,,
 ,Compétence 21,"Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette) ",,,,,3
 ,Compétence 23,"Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)",,,,,2
 ,Compétence 24,Identifier les compétences et savoirs critiques d’une organisation et mettre en œuvre des outils et méthodes pour les pérenniser ,,,,,2
+,Compétence 27,"Se connaître, se gérer physiquement et mentalement ",,,,,M
+,Compétence 29,"Interagir avec les autres, travailler en équipe ",,,,,M
+,Compétence 32,"Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive ",,,,,32
+,Compétence 33,Travailler dans un contexte international et interculturel,,,,,33
 ,,,,,,,
 CAPACITES,,CONNAISSANCES,,,,,
 "Modéliser le processus de réalisation d’une activité (1,8,13)",,Le positionnement des achats dans l'entreprise : du cahier des charges à l'amélioration continue des fournisseurs,,,,,
