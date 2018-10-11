@@ -127,33 +127,6 @@ module.exports =
   'A6':
     'code':'A6'
     'val': "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité"
-  'C1':
-    'code':'C1'
-    'val': "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données"
-  'C2':
-    'code':'C2'
-    'val': "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles"
-  'C3':
-    'code':'C3'
-    'val': "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques"
-  'C4':
-    'code':'C4'
-    'val': "Spécifier et dimensionner des systèmes numériques en réponse au besoin clients"
-  'C5':
-    'code':'C5'
-    'val': "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données"
-  'C6':
-    'code':'C6'
-    'val': "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles"
-  'C7':
-    'code':'C7'
-    'val': "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques"
-  'C8':
-    'code':'C8'
-    'val': "Opérer, analyser, améliorer des systèmes numériques"
-  'C9':
-    'code':'C9'
-    'val': "Conduire des projets dans le domaine du numérique"
   'B1':
     'code':'B1'
     'val': "Se connaître, se gérer physiquement et mentalement"
@@ -175,3 +148,54 @@ module.exports =
   'B7':
     'code':'B7'
     'val': "Travailler dans un contexte international et interculturel"
+  'TC-C1':
+    'code':'C1'
+    'val': "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données"
+  'TC-C2':
+    'code':'C2'
+    'val': "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles"
+  'TC-C3':
+    'code':'C3'
+    'val': "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques"
+  'TC-C4':
+    'code':'C4'
+    'val': "Spécifier et dimensionner des systèmes numériques en réponse au besoin clients"
+  'TC-C5':
+    'code':'C5'
+    'val': "Mettre en oeuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données"
+  'TC-C6':
+    'code':'C6'
+    'val': "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles"
+  'TC-C7':
+    'code':'C7'
+    'val': "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques"
+  'TC-C8':
+    'code':'C8'
+    'val': "Opérer, analyser, améliorer des systèmes numériques"
+  'TC-C9':
+    'code':'C9'
+    'val': "Conduire des projets dans le domaine du numérique"
+  'GE-C1':
+    'code': 'C1'
+    'val':'Mettre en oeuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d\'un montage'
+  'GE-C2':
+    'code': 'C2'
+    'val':'Mettre en oeuvre les propriétés physiques des matériaux pour le domaine du génie électrique'
+  'GE-C3':
+    'code': 'C3'
+    'val':'Mettre en oeuvre les différents éléments de production d’énergie, de transport d’énergie électrique et de conversion d\'énergie'
+  'GE-C4':
+    'code': 'C4'
+    'val': 'Spécifier, modéliser et concevoir les méthodes et algorithmes pour le traitement et la gestion de l\'information véhiculée par les signaux et les images'
+  'GE-C5':
+    'code': 'C5'
+    'val': "Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données"
+  'GE-C6':
+    'code': 'C6'
+    'val': 'Mettre en oeuvre les étapes permettant le contrôle du fonctionnement d’un système discret ou continu'
+  'GE-C7':
+    'code': 'C7'
+    'val': 'Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l’information)'
+  'GE-C8':
+    'code': 'C8'
+    'val': 'Mettre en oeuvre des principes et stratégies d’ordonnancements des tâches et de gestion' : 'C8'
