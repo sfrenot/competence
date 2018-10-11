@@ -2,7 +2,7 @@ fs = require 'fs'
 csv = require 'csvtojson'
 Promise = require 'bluebird'
 _ = require 'lodash'
-refCompetences = require './refCompetences'
+refCompetences = require '../../formation/refCompetences'
 
 currentMat = {}
 ec = undefined
@@ -34,10 +34,14 @@ insertDetail = () ->
             currentMat.competencesM.push(data.field3.replace(/"/g,''))
           else
             compName = data.field3.replace(/"/g,'').replace('œ', 'oe').replace(/  /g, ' ').trim()
-            refComp = refCompetences[compName]
-            unless refComp
+            tmpComp = _.find(refCompetences, {'val': compName})
+
+            unless tmpComp
               console.error("COMPETENCE ERREUR", currentMat.ueCode, JSON.stringify compName,null, 2)
-              refComp = ''
+              process.exit()
+            else
+              refComp = tmpComp.code
+
             currentMat.competencesC.push("#{refComp} #{compName} (niveau #{data["field#{i-1}"]})")
             currentComp = refComp
           break

@@ -2,7 +2,7 @@ fs = require 'fs'
 csv = require 'csvtojson'
 Promise = require 'bluebird'
 _ = require 'lodash'
-refCompetences = require './refCompetences'
+refCompetences = require '../../formation/refCompetences'
 
 currentMat = {}
 ec = undefined
@@ -25,8 +25,8 @@ insertDetail = () ->
         # console.log '->', currentMat
         matieres.push(currentMat)
         currentMat = {}
-      currentMat.ueName = data.field1.split(' : ')[1]
-      currentMat.ueCode = ''
+      currentMat.ueName = ''
+      currentMat.ueCode = data.field1.split(' : ')[1]
 
     if data.field1.startsWith('EC : ')
       sectionCapacite = false
@@ -39,20 +39,50 @@ insertDetail = () ->
 
     if data.field2.trim().startsWith("Compétence")
       if data.field8.trim() is 'M'
-        currentMat.competencesM.push(data.field3.replace(/"/g,''))
+        compName = data.field3.replace(/"/g,'').replace('œ', 'oe')
+        tmpComp = _.find(refCompetences, {'val': compName})
+        unless tmpComp
+            console.error("COMPETENCE ERREUR", currentMat.ueCode, JSON.stringify compName,null, 2)
+            process.exit()
+          else
+            refComp = tmpComp.code
+
+        currentMat.competencesM.push("#{refComp} #{compName}")
       else
         compName = data.field3.replace(/"/g,'').replace('œ', 'oe').replace(/  /g, ' ').trim()
-        refComp = refCompetences[compName]
-        unless refComp
-          console.error("ERREUR #{(JSON.stringify compName,null, 2)} : '#{data.field2.split(' ')[1]}'")
-          refComp = '??'
+        tmpComp = _.find(refCompetences, {'val': compName})
+        unless tmpComp
+            console.error("COMPETENCE ERREUR", currentMat.ueCode, JSON.stringify compName,null, 2)
+            process.exit()
+          else
+            refComp = tmpComp.code
+
         if data.field8.trim() is ''
           currentMat.competencesC.push("#{refComp} #{compName}")
         else
-          currentMat.competencesC.push("#{refComp} #{compName}")
+          if data.field8.trim() is 'C'
+            currentMat.competencesC.push("#{refComp} #{compName} (niveau 3)")
+          else
+            currentMat.competencesC.push("#{refComp} #{compName} (niveau #{data.field8})")
+
         currentComp = refComp
 
   addCompetenceOrConnaissance = (data) ->
+    addOtherCompetences = (elem, matiere) ->
+      #console.error '->', elem
+      complist = /.* \((.*)\).*/.exec(elem)
+      if complist?[1] # (1, 2 , 4)
+        res = complist[1].split(',')
+        # console.error '->', res.map (elem) -> elem
+        res.forEach (val) ->
+          valAsNum = new Number(val)
+          if not isNaN(valAsNum) and (valAsNum < 6 or valAsNum > 26)
+            if valAsNum < 6
+              comp = refCompetences["A#{valAsNum}"]
+              matiere.competencesM.push("#{comp.code} #{comp.val}")
+            else
+              comp = refCompetences["B#{valAsNum - 26}"]
+              matiere.competencesM.push("#{comp.code} #{comp.val}")
 
     if data.field1 is 'CAPACITES' or data.field3 is 'CONNAISSANCE'
       sectionCapacite = true
@@ -63,12 +93,13 @@ insertDetail = () ->
         if _.isEmpty(currentMat.capacites)
           currentMat.capacites = []
         currentMat.capacites.push("#{data.field1.trim()}")
+        addOtherCompetences(data.field1.trim(), currentMat)
 
       if not _.isEmpty(data.field3)
         if _.isEmpty(currentMat.connaissances)
           currentMat.connaissances = []
         currentMat.connaissances.push("#{data.field3.trim()}")
-
+        addOtherCompetences(data.field3.trim(), currentMat)
 
   readCsv = ->
     files = fs.readdirSync('./sources').filter((name) -> name.endsWith('.csv'))
@@ -90,6 +121,9 @@ insertDetail = () ->
     datas.forEach (data) ->
       setAndCheckMatiere(data)
       addCompetenceOrConnaissance(data)
+      currentMat.competencesM = _.uniq(currentMat.competencesM)
+      currentMat.competencesC = _.uniq(currentMat.competencesC)
+
 
     Promise.resolve()
 
