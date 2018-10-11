@@ -198,4 +198,67 @@ module.exports =
     'val': 'Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l’information)'
   'GE-C8':
     'code': 'C8'
-    'val': 'Mettre en oeuvre des principes et stratégies d’ordonnancements des tâches et de gestion' : 'C8'
+    'val': 'Mettre en oeuvre des principes et stratégies d’ordonnancements des tâches et de gestion'
+  'GI-C6':
+    'val': "Observer, mesurer, analyser et interpréter une activité ou un système à partir de données"
+    'code': 'C6'
+  'GI-C7':
+    'val': "Observer, mesurer, analyser et interpréter une activité ou un système à partir de données"
+    'code': 'C7'
+  'GI-C8':
+    'val': "Modéliser, concevoir un système d'informations, de décision et de production de biens et de services"
+    'code': 'C8'
+  'GI-C9':
+    'val': "Evaluer, prototyper ou simuler un système"
+    'code': 'C9'
+  'GI-C10':
+    'val': "Dimensionner la partie matérielle et/ou logicielle d'un système"
+    'code': 'C10'
+  'GI-C11':
+    'val': "Piloter un système de production et réagir aux dysfonctionnements"
+    'code': 'C11'
+  'GI-C12':
+    'val': "Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production"
+    'code': 'C12'
+  'GI-C13':
+    'val': "Élaborer et mettre en oeuvre une stratégie d’achats"
+    'code': 'C13'
+  'GI-C14':
+    'val': "Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks"
+    'code': 'C14'
+  'GI-C15':
+    'val': "Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique"
+    'code': 'C15'
+  'GI-C16':
+    'val': "Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue"
+    'code': 'C16'
+  'GI-C17':
+    'val': "Appréhender et évaluer une structure de manière globale, au travers de grilles de lecture socio-économiques"
+    'code': 'C17'
+  'GI-C18':
+    'val': "Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités"
+    'code': 'C18'
+  'GI-C19':
+    'val': "Prendre en compte l'innovation technologique et méthodologique"
+    'code': 'C19'
+  'GI-C20':
+    'val': "Conduire collectivement un projet : organisation, communication, animation, coordination du groupe"
+    'code': 'C20'
+  'GI-C21':
+    'val': "Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette)"
+    'code': 'C21'
+  'GI-C22':
+    'val': "Identifier, analyser et maîtriser les risques inhérents à un projet"
+    'code': 'C22'
+  'GI-C23':
+    'val': "Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)"
+    'code': 'C23'
+  'GI-C24':
+    'val': "Identifier les compétences et savoirs critiques d’une organisation et mettre en oeuvre des outils et méthodes pour les pérenniser"
+    'code': 'C24'
+  'GI-C25':
+    'val': "Réaliser une analyse socio-organisationnelle afin de mieux appréhender les effets des changements et d'y adapter ses stratégies"
+    'code': 'C25'
+  'GI-C26':
+    'val': "Mettre en oeuvre une démarche de responsabilité sociétale"
+    'code': 'C26'
