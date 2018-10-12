@@ -2,6 +2,7 @@
 # java -jar tika-app-1.17.jar --text -s -p 1234
 # TODO : fonction de liste de section
 # Extraire la section parmis cette liste
+DPTINSA = 'TC'
 
 Promise = require 'bluebird'
 cheerio = require 'cheerio'
@@ -66,7 +67,7 @@ extractPdfStructure = (pdf) ->
     matiere.competencesBrutes = getCompetenceBruteSection(pdf)
   catch error
     console.error("Warning matiere mal saisie #{matiere.code}")
-    console.error(error)
+    # console.error(error)
     return matiere
 
   matiere.capacite = []
@@ -97,9 +98,11 @@ extractPdfStructure = (pdf) ->
 
         # On place la compétence
         [, compet, niveau] = /([ABC]\d) .*\(niveau (.*)\)/i.exec(compName)
+        if compet.startsWith('C')
+          compet = "#{DPTINSA}-#{compet}"
         comp = _.clone(refCompetences[compet])
         unless comp?
-          throw Error("*#{x}* est inconnue")
+          throw Error("*#{x}* est inconnue, #{compet}")
         comp.niveau = niveau
 
         addCapaOrConn = (compet, listName, field, motif) ->
@@ -123,6 +126,8 @@ extractPdfStructure = (pdf) ->
   if lcompetences?
     try
       matiere.listeCompMobilise = lcompetences[1].trim().match(/[ABC]\d /g).map (x) ->
+        if x.startsWith('C')
+          x = "#{DPTINSA}-#{x}"
         comp = refCompetences[x.trim()]
         unless comp?
           throw Error("#{x} est inconnue")
@@ -142,10 +147,10 @@ request()
   $ = cheerio.load(body)
   $('.diplome').each () ->
     departement = $(@).attr('id')
-    if departement is 'TC'
+    if departement is DPTINSA
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        if $(@).attr('href') is '/fr/formation/parcours/729/3/1'
+        # if $(@).attr('href') is '/fr/formation/parcours/729/5/1'
         # if $(@).attr('href') is '/fr/formation/parcours/719/3/1' #GCU
           semestres.push
             url: $(@).attr('href')
@@ -183,7 +188,7 @@ request()
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36419&_lang=fr" or
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=35883&_lang=fr"
             # # TC
-            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36774&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36633&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36408&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr'

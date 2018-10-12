@@ -60,7 +60,7 @@ module.exports =
     'val': "Analyser un système (ou un problème) réel ou virtuel"
   'A2':
     'code':'A2'
-    'val': "Exploiter un modèle d’un système réel ou virtuel"
+    'val': "Exploiter un modèle d'un système réel ou virtuel"
   'A3':
     'code':'A3'
     'val': "Mettre en œuvre une démarche expérimentale"

@@ -24,7 +24,7 @@ C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des proto
 
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
-A2 Exploiter un modèle d’un système réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
 A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
 IP ****************************
 Cet EC relève de l'unité d'enseignement Fondamentaux des réseaux (TC-3-S1-RES) et contribue aux compétences suivantes :            
