@@ -26,10 +26,13 @@ insertDetail = () ->
     if _.isEmpty(currentMat.competencesM)
       currentMat.competencesM = []
 
-    competence = data.field6.replace(/"/g,'')
+    competence = data.field6.replace(/"/g,'').replace('oe', 'œ')
+
     [,ref,detail] = /(\w\d) (.*)/.exec(competence)
+    if ref > 'B99'
+      ref = "TC-#{ref}"
     if not refCompetences[ref] or refCompetences[ref].val isnt detail
-      console.error("COMPETENCE ERREUR", currentMat, JSON.stringify competence,null, 2)
+      console.error("COMPETENCE ERREUR", currentMat, ref, JSON.stringify competence,null, 2)
       process.exit()
     else
       if data.field7 is 'M'
@@ -44,14 +47,16 @@ insertDetail = () ->
         currentMat.capacites = {}
       if _.isEmpty(currentMat.capacites[currentComp])
         currentMat.capacites[currentComp] = []
-      currentMat.capacites[currentComp].push("Capacité : #{data.field6}")
+      currentMat.capacites[currentComp].push("Capacité : #{data.field6.replace('oe', 'œ')
+}")
       return
     if data.field5 is 'Connaissance' and data.field6
       if _.isEmpty(currentMat.connaissances)
         currentMat.connaissances = {}
       if _.isEmpty(currentMat.connaissances[currentComp])
         currentMat.connaissances[currentComp] = []
-      currentMat.connaissances[currentComp].push("Connaissance : #{data.field6}")
+      currentMat.connaissances[currentComp].push("Connaissance : #{data.field6.replace('oe', 'œ')
+}")
       return
 
   readCsv = ->
