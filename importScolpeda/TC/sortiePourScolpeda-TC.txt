@@ -5,7 +5,7 @@ C2 Spécifier, concevoir et modéliser des réseaux de communication et des prot
 
   Capacité : Choisir la meilleure stratégie de reprise sur erreur dans un réseau
 
-  Connaissance : Décrire le role et les fonctionnalités de la couche MAC dans un réseau
+  Connaissance : Décrire le rôle et les fonctionnalités de la couche MAC dans un réseau
   Connaissance : Aloha
   Connaissance : CSMA/CD
   Connaissance : CSMA/CA
@@ -31,8 +31,8 @@ Cet EC relève de l'unité d'enseignement Fondamentaux des réseaux (TC-3-S1-RE
 
 C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 3)
 
-  Capacité : Décrire le role et les fonctionnalités de la couche réseau.
-  Capacité : Décrire le role et les fonctionnalités de la couche transport
+  Capacité : Décrire le rôle et les fonctionnalités de la couche réseau.
+  Capacité : Décrire le rôle et les fonctionnalités de la couche transport
 
   Connaissance : IPv4
   Connaissance : IPv6
@@ -799,7 +799,7 @@ Cet EC relève de l'unité d'enseignement Signal et Image (TC-4-S1-S&I) et cont
 C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 3)
 
   Capacité : Modéliser un signal continu ou discret par un signal approximant
-  Capacité : Modéliser le système phonatoire et le système auditif pour analyser et synthétiser la parole et l'audio
+  Capacité : Modéliser le système phonatoire et le système auditif pour analyser et synthétiser la parôle et l'audio
   Capacité : Etant donné une problématique (segmentation ou débruitage ou identification ou autre), concevoir une chaîne de traitement d'images pour résoudre cette problématique
 
   Connaissance : Caractéristiques principales des espaces de représentations des signaux et des images
@@ -810,20 +810,20 @@ C1 Spécifier, concevoir et modéliser des systèmes de transmission et de trait
 
 A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
 
-  Capacité : Analyser (comprendre la chaîne de traitement, identifier les différentes briques) les standards de compression de la parole, de l'audio, des images et des vidéos
-  Capacité : Concevoir une chaîne de compression de la parole, de l'audio, des images et des vidéos
+  Capacité : Analyser (comprendre la chaîne de traitement, identifier les différentes briques) les standards de compression de la parôle, de l'audio, des images et des vidéos
+  Capacité : Concevoir une chaîne de compression de la parôle, de l'audio, des images et des vidéos
 
   Connaissance : Approximation optimale des signaux et des images
-  Connaissance : Techniques de quantification et de codage parole, audio, image 2D et vidéo
-  Connaissance : Standards de compression de parole, audio, image et vidéo
+  Connaissance : Techniques de quantification et de codage parôle, audio, image 2D et vidéo
+  Connaissance : Standards de compression de parôle, audio, image et vidéo
 
 C5 Mettre en œuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données (niveau 2)
 
   Capacité : Mettre en œuvre les techniques d'analyse multirésolution des signaux et des images
   Capacité : Réaliser une chaîne logicielle de traitement d'image en utilisant des outils tels que MATLAB ou STARLING
 
-  Connaissance : Méthodologies d'analyse et de synhèse de la parole et de l'audio
-  Connaissance : Techniques de quantification et de codage parole, audio, image et vidéo
+  Connaissance : Méthodologies d'analyse et de synhèse de la parôle et de l'audio
+  Connaissance : Techniques de quantification et de codage parôle, audio, image et vidéo
   Connaissance : Méthodologies d'analyse de masse de données ("Machine Learning" et "Deep Learning")
 
 A5 Traiter des données (niveau 2)
@@ -1051,7 +1051,7 @@ C2 Spécifier, concevoir et modéliser des réseaux de communication et des prot
   Connaissance : Réseau d'accès / réseau cœur
   Connaissance : Sécurité des réseaux mobiles
   Connaissance : Protocoles du plan données et du plan contrôle
-  Connaissance : Plan controle, plan donnees, reseau d'acces, reseau cœur
+  Connaissance : Plan contrôle, plan donnees, reseau d'acces, reseau cœur
 
 C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 2)
 
@@ -1279,15 +1279,13 @@ C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des proto
   Connaissance : Travaux pratiques sur la mise  en œuvre d'un IPBX ASTERISK.
   Connaissance : Travaux pratiques sur la qualité de service sur IP
 
-C4 Spécifier et dimensionner des systèmes numériques en réponse au besoin clients (niveau M2)
+De plus, elle nécessite de mobiliser les compétences suivantes :
 
-A1 Analyser un système (ou un problème) réel ou virtuel (niveau M2)
-
-C9 Conduire des projets dans le domaine du numérique (niveau M2)
-
-A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau M1)
-
-B4 Faire preuve de créativité, innover, entreprendre (niveau M1)
+C4 Spécifier et dimensionner des systèmes numériques en réponse au besoin clients
+A1 Analyser un système (ou un problème) réel ou virtuel
+C9 Conduire des projets dans le domaine du numérique
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
+B4 Faire preuve de créativité, innover, entreprendre
 
 OP1-PRJ ****************************
 Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
