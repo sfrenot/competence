@@ -146,7 +146,7 @@ module.exports =
     'code': 'C8'
     'val': 'Mettre en œuvre des principes et stratégies d’ordonnancements des tâches et de gestion'
   'GI-C6':
-    'val': "Observer, mesurer, analyser et interpréter une activité ou un système à partir de données"
+    'val': "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité"
     'code': 'C6'
   'GI-C7':
     'val': "Observer, mesurer, analyser et interpréter une activité ou un système à partir de données"

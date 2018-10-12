@@ -1,14 +1,14 @@
-UE : GI-4-AD AUT-S1,,,,,,,
+UE : GI-4-AUT1-S1,,,,,,,
 EC : GI-4-AUT-S1,Automation,,,,,,
 ECTS,3,,,,,,
-Nbre H,40,,,,,,
+Nbre H,34,,,,,,
 ,,,,,,,Niveau de la compétence
 ,Compétence 7,"Observer, mesurer, analyser et interpréter une activité ou un système à partir de données",,,,,C
 ,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,C
 ,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,C
 ,Compétence 10,Dimensionner la partie matérielle et/ou logicielle d'un système ,,,,,C
-,Compétence 11,Piloter un système de production et réagir aux dysfonctionnements,,,,,C
-,Compétence 12,"Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production",,,,,C
+,Compétence 11,Piloter un système de production et réagir aux dysfonctionnements ,,,,,C
+,Compétence 12,"Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ",,,,,C
 ,Compétence 19,Prendre en compte l'innovation technologique et méthodologique,,,,,C
 ,Compétence 20,"Conduire collectivement un projet : organisation, communication, animation, coordination du groupe ",,,,,M
 ,Compétence 22,"Identifier, analyser et maîtriser les risques inhérents à un projet ",,,,,M

@@ -8,7 +8,6 @@ currentMat = {}
 ec = undefined
 
 matieres = []
-currentComp = ''
 sectionCapacite = false
 
 ues =
@@ -21,8 +20,7 @@ ues =
   "GI-3-INFO-S2": "Informatique et optimisation"
   "GI-3-MECA-S2": "Mécanique"
   "GI-3-HU EPS -S2": "Humanités et Education sportive"
-  "GI-4-AUT-S1": "Automatique"
-  "GI-4-AD AUT-S1": "Automatique"
+  "GI-4-AUT1-S1": "Automatique"
   "GI-4-GP SIM-S1": "Gestion de production et des flux"
   "GI-4-HU EPS-S1": "Humanités et Education sportive"
   "GI-4-INFO-S1": "Informatique"
@@ -44,8 +42,12 @@ ues =
 insertDetail = () ->
   setAndCheckMatiere = (data) ->
     # if not data.field7 then return
+    # console.log '->', data.field1
 
-    if data.field7.trim() is 'Compétences école' or data.field2.trim() is 'GI-3-MOI-S1'
+    if data.field3 is undefined
+      return
+
+    if data.field7.trim() is 'Compétences école'
 
       sectionCapacite = false
       currentMat = {}
@@ -100,10 +102,20 @@ insertDetail = () ->
           else
             currentMat.competencesC.push("#{refComp} #{compName} (niveau #{data.field8})")
 
-        currentComp = refComp
-
   addCompetenceOrConnaissance = (data) ->
     addOtherCompetences = (elem, matiere) ->
+      testComp = (comp) ->
+        findComp = (col, comp) ->
+          _.find col, (o) ->
+            o.startsWith(comp)
+
+        if not findComp(matiere.competencesC, "#{comp.code} #{comp.val}") and not findComp(matiere.competencesM, "#{comp.code} #{comp.val}")
+          # console.error "->", matiere.competencesC
+          # console.error "->", matiere.competencesM
+          #
+          # console.error "->#{comp.code} #{comp.val}"
+          console.error 'Competence non indiquée', comp.code, ' pour ', matiere.nom
+
       #console.error '->', elem
       complist = /(.*) \((.*)\).*/.exec(elem)
       if complist?[2] # (1, 2 , 4)
@@ -113,19 +125,22 @@ insertDetail = () ->
           valAsNum = new Number(val)
           if isNaN(valAsNum)
             return val
-          if valAsNum < 6
+          if valAsNum < 7
             comp = refCompetences["A#{valAsNum}"]
+            testComp(comp)
             return comp.code
           if valAsNum > 26
             comp = refCompetences["B#{valAsNum - 26}"]
+            testComp(comp)
             return comp.code
           else
             # console.log "->", valAsNum
             comp = refCompetences["GI-C#{valAsNum}"]
+            testComp(comp)
             return comp.code
 
       if rep?
-        "#{complist[1]} (#{rep.join(', ')})"
+        "#{complist[1].trim()} (#{rep.join(', ')})"
       else
         "#{elem}"
 
@@ -164,8 +179,17 @@ insertDetail = () ->
     datas.forEach (data) ->
       setAndCheckMatiere(data)
       addCompetenceOrConnaissance(data)
-      currentMat.competencesM = _.sortBy(_.uniq(currentMat.competencesM))
-      currentMat.competencesC = _.sortBy(_.uniq(currentMat.competencesC))
+      currentMat.competencesM = _.sortBy(
+        _.uniq(currentMat.competencesM), (elem) ->
+          tmp = elem.split(' ')[0]
+          "#{tmp.substring(0,1)}#{_.padStart(tmp.substring(1), 2)}"
+      )
+
+      currentMat.competencesC = _.sortBy(
+        _.uniq(currentMat.competencesC), (elem) ->
+          tmp = elem.split(' ')[0]
+          "#{tmp.substring(0,1)}#{_.padStart(tmp.substring(1), 2)}"
+      )
 
 
     Promise.resolve()
