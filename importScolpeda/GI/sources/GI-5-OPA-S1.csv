@@ -1,0 +1,23 @@
+UE : GI-5-TAI 1A-S1,,,,,,,
+EC : GI-5-OPA-S1,Optimisation avancée,,,,,,
+ECTS,2,,,,,,
+Nbre H,22,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 1,Analyser un système (ou un problème) réel ou virtuel,,,,,M
+,Compétence 2,Exploiter un modèle d’un système réel ou virtuel,,,,,M
+,Compétence 3,Mettre en œuvre une démarche expérimentale ,,,,,M 
+,Compétence 4,Concevoir un système répondant à un cahier des charges,,,,,M
+,Compétence 5,Traiter des données,,,,,M
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,3
+,Compétence 10,Dimensionner la partie matérielle et/ou logicielle d'un système ,,,,,2
+,Compétence 11,Piloter un système de production et réagir aux dysfonctionnements ,,,,,1
+,Compétence 12,"Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ",,,,,1
+,Compétence 13,Élaborer et mettre en œuvre une stratégie d’achats ,,,,,1
+,Compétence 14,Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks ,,,,,2
+,Compétence 15,"Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique",,,,,2
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+"Méthodologiques : analyser et modéliser formellement les problèmes de planification ou d'ordonnancement de ressources matérielles et / ou humaines ainsi que les problèmes d'aide à la décision mono et multicritères (1, 2, 5, 8) ",,Modélisation d'un programme mathématique,,,,,
+" Mettre en oeuvre une démarche structurée pour aborder ce type de problèmes (de l'identification à la validation des résultats obtenus) (3, 4, 10, 11, 12, 13, 14, 15) ",,Notions de complexité,,,,,
+ Techniques : déterminer la complexité d'un problème et proposer des outils potentiels de résolution (5),,Approche mono-critère/multicritères,,,,,
+,,Méthodes de résolution exactes et approchées,,,,,

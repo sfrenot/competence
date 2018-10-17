@@ -1,0 +1,16 @@
+UE : GI-3-INFO-S2,,,,,,,
+EC : GI-3-MAC-S2,Méthodologie d'Analyse et de Conception ,,,,,,
+ECTS,2,,,,,,
+Nbre H,28,,,,,,
+,,,,,,,Niveau de la compétence
+,,,,,,,
+,,,,,,,
+,Compétence 1,Analyser un système (ou un problème) réel ou virtuel,,,,,C
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,C
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+"Concevoir un modèle fonctionnel et/ou un modèle physique d'un système de production  (5,8)",,Modèle IDEF0 (normes IEEE 1320.1-1998),,,,,
+"Spécifier un système d'information (5,8)",,Langage de modélisation de données IDEF1X,,,,,
+"Identifier et détailler les processus d'un système (5,8)",,"Outils ARIS : Organigramme des acteurs, Supports des données échangées entre les acteurs",,,,,
+,,Diagramme des processus issus des flux de données,,,,,
+,,Chaînes évènementielles des processus,,,,,

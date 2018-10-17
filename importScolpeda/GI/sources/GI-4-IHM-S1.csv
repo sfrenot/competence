@@ -1,0 +1,23 @@
+UE : GI-4-INFO-S1,,,,,,,
+EC : GI-4-IHM-S1,Interactions Homme machine,,,,,,
+ECTS,2,,,,,,
+Nbre H,22,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 7,"Observer, mesurer, analyser et interpréter une activité ou un système à partir de données",,,,,3
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,3
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,3
+,Compétence 20,"Conduire collectivement un projet : organisation, communication, animation, coordination du groupe ",,,,,M
+,Compétence 23,"Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)",,,,,3
+,Compétence 28,"Travailler, apprendre, évoluer de manière autonome ",,,,,M
+,Compétence 29,"Interagir avec les autres, travailler en équipe ",,,,,M
+,Compétence 30,"Faire preuve de créativité, innover, entreprendre ",,,,,3
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+"Savoir appliquer une méthode centrée utilisateur pour concevoir un système interactif (2,23) ",,"Connaître les méthodes et outils nécessaires à la conception de systèmes interactifs (2,7,8,9) ",,,,,
+ Savoir faire la critique ergonomique d'un système interactif (9),,Paradigmes d'interactions innovants (30),,,,,
+ Développer sa créativité pour répondre à  un besoin d'innovation technologique (30),," Méthodes et modèles pour la conception d'IHM (7,8,9)",,,,,
+,,  Analyse des besoins utilisateurs (23),,,,,
+,," Modélisation de l'activité (7,23)",,,,,
+,," Sketching et prototypage de systèmes interactifs (9,30)",,,,,
+,," Critères d'ergonomie pour la conception d'IHM (8,9)",,,,,
+,," Méthodes d'évaluation des IHM (9,23)",,,,,

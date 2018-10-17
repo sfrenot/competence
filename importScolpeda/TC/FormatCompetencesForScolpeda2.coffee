@@ -1,4 +1,3 @@
-fs = require 'fs'
 csv = require 'csvtojson'
 Promise = require 'bluebird'
 _ = require 'lodash'
@@ -12,84 +11,79 @@ currentComp = ''
 
 insertDetail = () ->
   setAndCheckMatiere = (data) ->
-
-    if data.field3 is "Intitulé de l'EC"
+    if data.field3 is '' and data.field5 isnt '' then return
+    if data.field3 isnt ''
       if not _.isEmpty(currentMat)
         # console.log '->', currentMat
         matieres.push(currentMat)
         currentMat = {}
-      currentMat.nom = data.field5
-      currentMat.ueCode = data.field4
-      currentMat.ueName = ''
+      currentMat.nom = data.field3
+      currentMat.ueCode = data.field1
+      currentMat.ueName = data.field2
 
     if _.isEmpty(currentMat.competencesC)
       currentMat.competencesC = []
     if _.isEmpty(currentMat.competencesM)
       currentMat.competencesM = []
 
-    if data.field1.trim().startsWith("Compétence")
-      for i in [11..20]
-        if data["field#{i}"]?.trim()?.match(/^[CM]$/)
-          if data["field#{i}"] is 'M'
-            currentMat.competencesM.push(data.field3.replace(/"/g,''))
-          else
-            compName = data.field3.replace(/"/g,'').replace('œ', 'oe').replace(/  /g, ' ').trim()
-            tmpComp = _.find(refCompetences, {'val': compName})
+    competence = data.field6.replace(/"/g,'').replace('oe', 'œ')
 
-            unless tmpComp
-              console.error("COMPETENCE ERREUR", currentMat.ueCode, JSON.stringify compName,null, 2)
-              process.exit()
-            else
-              refComp = tmpComp.code
-
-            currentMat.competencesC.push("#{refComp} #{compName} (niveau #{data["field#{i-1}"]})")
-            currentComp = refComp
-          break
+    [,ref,detail] = /(\w\d) (.*)/.exec(competence)
+    if ref > 'B99'
+      ref = "TC-#{ref}"
+    if not refCompetences[ref] or refCompetences[ref].val isnt detail
+      console.error("COMPETENCE ERREUR", currentMat, ref, JSON.stringify competence,null, 2)
+      process.exit()
+    else
+      if data.field7 is 'M'
+        currentMat.competencesM.push(competence)
+      else
+        currentMat.competencesC.push("#{competence} (niveau #{data.field7})")
+        currentComp = data.field6.split(' ')[0]
 
   addCompetenceOrConnaissance = (data) ->
-    if data.field2 is 'Capacité' and data.field3?.trim()
+    if data.field5 is 'Capacité' and data.field6?
       if _.isEmpty(currentMat.capacites)
         currentMat.capacites = {}
       if _.isEmpty(currentMat.capacites[currentComp])
         currentMat.capacites[currentComp] = []
-      currentMat.capacites[currentComp].push("Capacité : #{data.field3}")
+      currentMat.capacites[currentComp].push("Capacité : #{data.field6.replace('oe', 'œ')
+}")
       return
-    if data.field2 is 'Connaissance' and data.field3?.trim()
+    if data.field5 is 'Connaissance' and data.field6
       if _.isEmpty(currentMat.connaissances)
         currentMat.connaissances = {}
       if _.isEmpty(currentMat.connaissances[currentComp])
         currentMat.connaissances[currentComp] = []
-      currentMat.connaissances[currentComp].push("Connaissance : #{data.field3}")
+      currentMat.connaissances[currentComp].push("Connaissance : #{data.field6.replace('oe', 'œ')
+}")
       return
 
   readCsv = ->
-    files = fs.readdirSync('./sources').filter((name) -> name.endsWith('.csv'))
-    Promise.map files, (file) ->
-      new Promise (resolve, reject) ->
-        datas = []
-        csv({flatKeys: true, delimiter: ",", noheader: true})
-        .fromFile("./sources/#{file}")
-        .on 'json', (data) ->
-          datas.push data
-        .on 'done', (error) ->
-          if error
-            return reject error
-          resolve(datas)
+    new Promise (resolve, reject) ->
+      datas = []
+
+      csv({flatKeys: true, delimiter: ";", noheader: true})
+      .fromFile('./DetailCompetences.csv')
+      .on 'json', (data) ->
+        datas.push data
+      .on 'done', (error) ->
+        if error
+          return reject error
+        resolve(datas)
 
   readCsv()
   .then (datas) ->
-    datas = _.flatten(datas)
+    # console.log(datas)
     datas.forEach (data) ->
       setAndCheckMatiere(data)
       addCompetenceOrConnaissance(data)
-
 
     Promise.resolve()
 
 insertDetail()
 .then () ->
-  # console.log('->', JSON.stringify matieres, null, 2)
-  # process.exit()
+  # console.log(matieres)
   matieres.forEach (matiere) ->
     console.log("#{matiere.nom} ****************************")
     console.log("Cet EC relève de l'unité d'enseignement #{matiere.ueName} (#{matiere.ueCode}) et

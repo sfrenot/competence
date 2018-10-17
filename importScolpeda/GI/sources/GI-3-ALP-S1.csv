@@ -1,0 +1,19 @@
+UE : GI-3-INFO-S1,,,,,,,
+EC : GI-3-ALP-S1,Algorithmique et programmation,,,,,,
+ECTS,3,,,,,,
+Nbre H,42,,,,,,
+,,,,,,,Niveau de la compétence
+,,,,,,,
+,,,,,,,
+,Compétence 1,Analyser un système (ou un problème) réel ou virtuel,,,,,2
+,Compétence 2,Exploiter un modèle d’un système réel ou virtuel,,,,,2
+,Compétence 4,Concevoir un système répondant à un cahier des charges,,,,,2
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,2
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,2
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+"Avoir une démarche structurée de programmation en vue de la résolution d'un problème complexe (1, 4, 8) ",,"Types, variables, actions élémentaires (8) ",,,,,
+" Rédiger les spécifications d'un problème complexe (1, 4, 8) ",, Fonctions/procédures (8) ,,,,,
+" Construire des algorithmes en pseudo-langage à partir de spécifications (2, 9) ",,"Structures de contrôle séquentielles, conditionnelles et itératives (8) ",,,,,
+"Transcrire un algorithme écrit en pseudo-langage en programme Java (2, 9)",," Algorithmes fondamentaux sur les tableaux (tri, recherche dichotomique) (2, 9), Algorithmes fondamentaux sur les listes chaînées, les piles, les files, les arbres, les graphes (création, insertion, suppression, parcours) (2, 9)",,,,,
+,,,,,,,

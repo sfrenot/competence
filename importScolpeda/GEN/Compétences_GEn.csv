@@ -1,0 +1,758 @@
+﻿GEN-3-ue-NRJ1;Energie - Procédés 1;GEN-3-comb;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';2
+;;;;competence;CE 5 'Traiter des données';2
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';1
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';1
+;;;;capacité;être capable d'identifier les deux types de flamme dans un dispositif pratique;
+;;;;capacité;être capable d'équilibrer une réaction chimique avec un combustible de formule générique;
+;;;;capacité;être capable de calculer les grandeurs caractéristiques dans un dispositif industriel;
+;;;;capacité;être capable de calculer la quantité de chaleur dégagée par une réaction;
+;;;;capacité;être capable de calculer la température adiabatique de flamme;
+;;;;capacité;être capable d'utiliser un diagramme d'Ostwald;
+;;;;connaissance;connaître les caractéristiques des flammes de diffusion et de prémélange;
+;;;;connaissance;connaître les principaux combustibles et comburants;
+;;;;connaissance;connaître les grandeurs caractéristiques des milieux réactifs (vitesse fondamentale, rapport de mélange, richesse…);
+;;;;connaissance;connaître les grandeurs caractéristiques pour les dispositifs industriels (pouvoir comburivore, fumigène, excès d'air…);
+;;;;connaissance;connaître l'application du premier principe à une réaction chimique de combustion;
+;;;;connaissance;connaître les méthodes pour déterminer la spontanéité d'une réaction de combustion;
+;;;;connaissance;connaître la méthodologie pour la création du diagramme d'Ostwald;
+GEN-3-ue-NRJ1;Energie - Procédés 1;GEN-3-cond;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';2
+;;;;competence;CE 5 'Traiter des données';2
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';1
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';1
+;;;;capacité;être capable de choisir la solution existante de l'équation de la chaleur en 1D dans un solide en fonction du problème réel (permanent ou transitoire, avec ou sans source, géométrie, conditions aux limites);
+;;;;capacité;être capable d'intégrer l'équation de la chaleur dans un solide, en régime permanent et en 1D, avec des géométries simples (plaque, cylindre, sphère), avec et sans sources;
+;;;;capacité;être capable d'identifier les conditions aux limites d'un problème de conduction thermique réel et de les appliquer à la solution, de sorte à déterminer le champ de températures;
+;;;;capacité;être capable de réaliser un bilan thermique sur un élément d'ailette infiniment petit de sorte à aboutir à l'équation différentielle régissant le champ de températures;
+;;;;capacité;être capable de choisir la solution existante de l'équation différentielle régissant le champ de température dans une ailette  en fonction du problème réel (géométrie, conditions aux limites);
+;;;;capacité;être capable de déterminer un flux ou une densité de flux à partir de l'équation spatio-temporelle de la température;
+;;;;capacité;être capable de calculer l'efficacité d'une ailette ou d'une surface ailetée;
+;;;;connaissance;connaître les concepts fondamendaux de la conduction thermique dans les solides : champ et gradients de températures, surface isotherme, flux et densité de flux, source, loi de Fourier;
+;;;;connaissance;connaître l'équation de la chaleur et ses différentes solutions en régimes permanent et transitoire, pour des problèmes 1D dans des géométries simples (plaque, cylindre, sphère);
+;;;;connaissance;connaître les différentes conditions aux limites d'un problème de conduction thermique;
+;;;;connaissance;connaître les modèles thermiques des ailettes minces à section  constante et ailettes minces annulaires à épaisseur constante : champs de température, flux dissipé, efficacité d'ailette et de surface ailetée;
+;;;;connaissance;connaître les nombres adimensionnels caractéristiques de la conduction thermique;
+GEN-3-ue-NRJ1;Energie - Procédés 1;GEN-3-conv;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';2
+;;;;competence;CE 5 'Traiter des données';2
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';1
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';1
+;;;;capacité;Etre capable de calculer un coefficient de transfert de chaleur monophasique et en ébullition;
+;;;;capacité;Etre capable d'écrire un bilan thermique en géométrie fermée;
+;;;;capacité;Etre capable de déterminer des propiétés à la bonne température;
+;;;;capacité;Etre capable d'évaluer la pertinence du résultat;
+;;;;connaissance;Connaitre les différentes formes de convection (naturelle, forcée, changement de phase), les conditions limites, les différentes géométries (ouvertes, fermées);
+;;;;connaissance;Connaitre les principaux phénomènes physiques associés;
+;;;;connaissance;Connaitre les nombres adimensionnels caractéristiques de la convection;
+;;;;connaissance;Connaitre les équations permettant d'identifier les différents régimes d'écoulement (laminaire, turbulent) et les longueurs d'établissement;
+;;;;connaissance;Connaitre les lois de variation du coefficient de transfert de chaleur en monophasique et lors de l'ébullition;
+GEN-3-ue-NRJ1;Energie - Procédés 1;GEN-3-mcflu;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';2
+;;;;competence;CE 5 'Traiter des données';2
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';1
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';1
+;;;;capacité;Faire des bilans des masses, de la quantité de mouvement et de l’énergie cinétique;
+;;;;capacité;Etudier, modéliser et dimensionner en statique et en dynamique des écoulements hydrauliques et aérauliques en fluides parfaits et en fluides réels;
+;;;;capacité;Choisir d'un volume de contrôle pour l’étude et le dimensionnement d'installations hydrauliques et aérauliques;
+;;;;capacité;Réaliser une analyse dimensionnelle d'installations hydrauliques et aérauliques;
+;;;;capacité;Utiliser des modèles réduits des écoulements dans le cas de couches limites laminaires ou turbulentes;
+;;;;connaissance;Notion de déséquilibre et de transport;
+;;;;connaissance;Descriptions du mouvement des fluides, différents régimes d’écoulements;
+;;;;connaissance;Lois décrivant le mouvement d’un fluide (pression, gravité, inertie, viscosité);
+;;;;connaissance;Nombres sans dimension en mécanique des fluides;
+;;;;connaissance;Principe de portance et de trainée sur les objets placés dans un écoulement;
+GEN-3-ue-NRJ1;Energie - Procédés 1;GEN-3-ray;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';2
+;;;;competence;CE 5 'Traiter des données';2
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';1
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';1
+;;;;capacité;être capable de calculer des flux radiatifs émis, absorbés et réfléchis;
+;;;;capacité;être capable d'effectuer un bilan radiatif dans une enceinte fermée;
+;;;;capacité;être capable de mesurer des températures ou des propriétés radiatives par thermographie infrarouge;
+;;;;connaissance;connaître les approches corpusculaires et ondulatoires du rayonnement (notions de fréquence, longueur d'onde, photons, angles solides);
+;;;;connaissance;connaître les grandeurs radiatives fondamentales : luminance, densité de flux et flux (émis, absorbés, réfléchis, net);
+;;;;connaissance;connaître le rayonnement du corps noir;
+;;;;connaissance;connaître les propriétés radiatives caractérisant une surface (émissivité, absorptivité, réflectivité, transmittivité);
+;;;;connaissance;connaître les méthodes de mesures de température par pyrométrie et caméras infrarouges;
+;;;;connaissance;connaître les facteurs de formes et la méthode de résolution aux flux partants (radiosité);
+;;;;connaissance;connaître l'effet photovoltaïque;
+GEN-3-ue-NRJ1;Energie - Procédés 1;GEN-3-trans;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';1
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';1
+;;;;capacité;Etre capable d'identifier les différents modes de transferts thermiques dans une application réelle;
+;;;;capacité;Etre capable de représenter sous forme d'un modèle nodal un problème de transferts thermiques combinés;
+;;;;capacité;Etre capable d'écrire un bilan thermique à partir d'un modèle nodal afin d’obtenir des températures ou des flux de chaleur inconnus ;
+;;;;capacité;Etre capable d'évaluer la pertinence du résultat;
+;;;;connaissance;Connaître les différents modes de transferts thermiques, leur origine physique, les milieux  dans lesquels ils sont présents;
+;;;;connaissance;Connaître  les lois élémentaires permettant de décrire chacun de ces modes ;
+;;;;connaissance;Connaître les paramètres ou les propriétés élementaires liés à ces équations et leur ordre de grandeur;
+GEN-3-ue-ENV1;Environnement 1;GEN-3-envir;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';1
+;;;;competence;CS 4 'Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques';1
+;;;;competence;CS 7 'Concevoir et mettre en œuvre une démarche d'écologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux';1
+;;;;capacité;1- Capacité à évaluer les conséquences environnementales des activités anthropiques;
+;;;;capacité;2- Capacité à intéger les aspects environnementaux dans les choix techniques et organisationnels ;
+;;;;capacité; 3- Capacité à argumenter dans les débats de société relatifs aux impatcs environnementaux des systèmes industries et urbains;
+;;;;capacité;4- Capacité à élargir et approfondir ses connaissances à partir des bases du cours et à communiquer sur un sujet environnemental particulier;
+;;;;connaissance;1- Connaitre les principes de fonctionnement des écosystèmes et les caractéristiques générales des milieux naturels;
+;;;;connaissance;2- Connaitre le cycle de l'eau, le cycle biogéochimique du carbone, et ;
+;;;;connaissance;3- Connaitre les types de pressions et d'impacts des activités anthropiques sur les milieux naturels, les écosystème et les cycles du carbone;
+;;;;connaissance;4- Connaitre les conséquences de l'utilisation de l'eau par l'homme en terme de quantités prélevées et de pollutions engendrées.;
+;;;;connaissance;5- Connaitre les paramètres utilisés pour décrire la qualité et le niveau de pollution de l'air et des milieux aquatiques;
+;;;;connaissance;6- Connaitre les conséquences de la pollution de l'air et les enjeux associés;
+;;;;connaissance;7- Connaitre les principes et méthodes de l'économie circulaire (recyclage, ...) et de l’écologie industrielle et territoriale ;
+GEN-3-ue-OPI1;Outils pour l'ingénieur 1;GEN-3-math;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CS 3 'Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé';1
+;;;;capacité;Etre capable résoudre une équation différentielle en utilisant différents outils;
+;;;;capacité;Etre capable de résoudre l'équation de la chaleur dans diverses configurations;
+;;;;capacité;Etre capable de modéliser et de résoudre un problème issu d'autres EC (mécanique des fluides, conduction, rayonnement, commande des procédés);
+;;;;capacité;Etre capable de mettre en œuvre une stratégie numérique avec VBA;
+;;;;connaissance;Connaître les transformations intégrales de Laplace et de Fourier;
+;;;;connaissance;Connaître diverses techniques de résolution des équations différentielles;
+;;;;connaissance;Connaître les fonctions spéciales (fonction gamma, fonctions d'erreur, fonctions de Bessel);
+;;;;connaissance;Connaître l'analyse temps-fréquence;
+;;;;connaissance;Connaître les bases mathématiques de l'analyse numérique;
+GEN-3-ue-OPI1;Outils pour l'ingénieur 1;GEN-3-stats;;competence;CE 5 'Traiter des données';2
+;;;;capacité;Être capable d'estimer les paramètres d'une population (estimation ponctuelle et estimation par intervalle de confiance);
+;;;;capacité;Être capable de mettre en place un test d'hypothèse (conformité, comparaison), un test d'ajustement, un test d'indépendance et d'apprécier le risque de se tromper;
+;;;;capacité;Être capable de lire les valeurs des probabilités et des variables dans une table statistique;
+;;;;capacité;Être capable de réaliser une analyse de la variance à 1 ou 2 facteurs;
+;;;;capacité;Être capable de réaliser une analyse de régression linéaire simple;
+;;;;connaissance;Connaître les principales lois de probabilité discrètes et continues (binomiale, normale...);
+GEN-3-ue-SHS1;SHS 1;GEN-3-genepi-s1;;competence;CT 1 'Se connaître, se gérer physiquement et mentalement';3
+;;;;competence;CT 2 'Travailler, apprendre, évoluer de manière autonome';3
+;;;;competence;CT 3 'Interagir avec les autres, travailler en équipe';3
+;;;;competence;CT 4 'Faire preuve de créativité, innover, entreprendre';2
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';3
+;;;;competence;CT 6 'Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive';3
+;;;;competence;CT 7 'Travailler dans un contexte international et interculturel';2
+;;;;capacité;Etre capable d'identifier ses modes de fonctionnement (cognitif, physique, relationnel,affectif, informationnel, émotionnel...), les ressorts de sa motivation, ses sources de stress et d'émotions...;
+;;;;capacité;Etre capable d'acquérir par soi-même de nouvelles compétences en allant rechercher les ressources nécessaires;
+;;;;capacité;Etre capable de s'intégrer dans un groupe, se positionner, construire une relation dynamique au groupe, intégrer de nouveaux membres;
+;;;;capacité;"Etre capable de s'engager dans un projet collectif : construire et conduire un projet, le faire évoluer ; prendre conscience de son rôle et de sa responsabilité";
+;;;;capacité;Etre capable de communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée;
+;;;;capacité;Etre capable d'appréhender les enjeux complexes (dans l'entreprise et dans la société) qui se présentent à l'ingénieur : en saisir les dimensions sociales, sociétales, politiques, économiques, environnementales, éthiques,philosophiques...;
+GEN-3-ue-NRJ2;Energie - Procédés 2;GEN-3-hydr;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';2
+;;;;competence;CE 5 'Traiter des données';2
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';1
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';1
+;;;;capacité;Etre capable d’effectuer un calcul de pertes de charge régulières et singulières dans une installation. ;
+;;;;capacité;Etre capable de trouver les dimensions d’une roue de turbomachine hydraulique afin de répondre à un cahier des charges.;
+;;;;capacité;Etre capable de lire des courbes caractéristiques de pompe et de prédire le comportement d’une pompe par une approche de similitude.;
+;;;;capacité;Etre capable de prévoir le phénomène de cavitation en amont ou dans une pompe.;
+;;;;capacité;Etre capable de prévoir les effets des combinaisons de pompes en série ou en parallèle.;
+;;;;connaissance;Connaître les écoulements en conduite : écoulement pleinement établi, théorème de Bernoulli généralisé, calcul de pertes de charge régulières et singulières, mesure de débits.;
+;;;;connaissance;Connaître les turbomachines : éléments de cinématiques (triangle des vitesses), modélisation des écoulements dans la roue, caractéristiques d’une turbomachine, point de fonctionnement, similitudes, étude spécifique des pompes et turbines.;
+;;;;connaissance;Connaître les circuits hydrauliques : analogie avec circuit électrique, pompes en série et en parallèle, réseaux ouverts et maillés.;
+GEN-3-ue-NRJ2;Energie - Procédés 2;GEN-3-thermo;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';2
+;;;;competence;CE 5 'Traiter des données';2
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';1
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';1
+;;;;capacité;Utiliser les tables et diagrammes thermodynamiques utiles à l'ingénieur;
+;;;;capacité;Comprendre un problème typique de la thermodynamique appliquée au génie énergétique ou au génie des procédés, y compris avec des mélanges de fluides dont l'air humide;
+;;;;capacité;Formuler ce problème sous forme d'équations, avec des hypothèses appropriées;
+;;;;capacité;Comprendre l'interprétation physique de ces équations;
+;;;;capacité;Résoudre ces équations et ainsi résoudre le problème;
+;;;;connaissance;Les concepts relatifs au 1er et au 2nd principes de la thermodynamique et leurs particularités de mise en œuvre pour des systèmes ouverts;
+;;;;connaissance;Les concepts d'exergie et d'analyse exergétique;
+;;;;connaissance;Les modèles et équations d'état simples permettant de décrire les propriétés d'un certain nombre de corps purs, y compris en présence d'équilibres de phase;
+;;;;connaissance;Les sources usuelles de propriétés thermodynamiques, notamment les tables et diagrammes;
+;;;;connaissance;Les modèles ou équations d'états permettant de décrire les propriétés des mélanges, notamment des mélanges de fluides (mono ou polyphasiques);
+;;;;connaissance;Les spécificités des mélanges non-idéaux;
+;;;;connaissance;Les éléments fondamentaux de la psychrométrie (thermodynamique de l'air humide);
+GEN-3-ue-NRJ2;Energie - Procédés 2;GEN-3-tm;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';1
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';1
+;;;;capacité;Etre capable d'effectuer un bilan matière;
+;;;;capacité;Etre capable d'appliquer la loi de fick;
+;;;;capacité;Etre capable de calculer un coefficient de diffusion des gaz et des liquides;
+;;;;capacité;Etre capable de déterminer des coefficients de transfert de matière  et calculer les flux de ransfert.;
+;;;;capacité;Etre capable d'utiliser les bonnes corrélations permettant de calculer les coefficients de transfert de matière pour différentes géométries.;
+;;;;connaissance;Connaitre la loi de Fick et savoir l'appliquer;
+;;;;connaissance;Connaitre les bilans matière (global et local);
+;;;;connaissance;Connaitre les différents modèles de transfert de matière et en particulier celui du double film;
+GEN-3-ue-ENV2;Environnement 2;GEN-3-tdsp;;competence;CS 4 'Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques';1
+;;;;competence;CS 5 'Utiliser les systèmes de management et les outils d'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique';1
+;;;;capacité;1- Capacité à mobiliser ses connaissances ci-dessus pour développer des arguments de base en vue de proposer des solutions techniques et organisationnelles adaptées à leur bonne gestion;
+;;;;capacité;2- Capacité à intégrer des connaissances nouvelles (microbiologie) à d'autres connaissances acquises par ailleurs dans le cursus de formation pour comprendre le fonctionnement des écotechnologies.;
+;;;;connaissance;1- Connaitre les grandes lignes du contexte réglementaire de la gestion des déchets en France;
+;;;;connaissance;2- Connaitre les différentes filières pour la gestion et le traitement des déchets, dont celles visant à les considérer comme des ressources alternatives;
+;;;;connaissance; 3- Connaitre les principes de base de biochimie et de microbiologie permettant de comprendre la mise en œuvre des traitements biologiques;
+;;;;connaissance;4- Connaitre les enjeux du traitement biologique des déchets organiques, les potentialités de valorisation matière ou énergie, et le principe des traitements envisageables.;
+;;;;connaissance;5- Connaitre les enjeux du traitment biologique des déchets organiques, les potentialités de valorisation correspondantes, et le principe des traitements envisageables;
+;;;;connaissance;6- Connaitre les spécifités et enjeux des sites et sols pollués, et les facteurs clés permettant de décrire le devenir des polluants dans les sols et sous-sols dans une démarche d'analyse de srisques.;
+GEN-3-ue-ENV2;Environnement 2;GEN-3-eau;;competence;CS 4 'Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques';1
+;;;;capacité;Savoir définir une filière de traitement d’un effluent liquide selon les différents types de pollutions contenues dans l’effluent, et selon les objectifs de qualité à atteindre.;
+;;;;capacité;Savoir définir une filière permettant de produire une eau stable et claire, une eau potable ou une eau ultra pure.;
+;;;;connaissance;Connaitre les procédés de traitement les plus classiquement utilisés pour le traitement des effluents liquides;
+;;;;connaissance;connaitre les procédés de traitement les plus classiquement utilisés pour le traitement de l’eau avant son utilisation;
+GEN-3-ue-ENV2;Environnement 2;GEN-3-TTDEG;;competence;CS 4 'Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques';1
+;;;;capacité;Etre capable de décrire les différentes formes de pollution (Pollution photochimique, effet de serre, pluie acide, etc.);
+;;;;capacité;Etre capable de décrire les procédés de traitement des fumées (Sec, semi humide et humide);
+;;;;connaissance;Connaitre les différents polluants atmosphériques;
+;;;;connaissance;Connaitre les différentes formes de pollution atmosphérique;
+;;;;connaissance;Connaitre les procédés de traitement des fumées;
+GEN-3-ue-OPI2;Outils pour l'ingénieur 2;GEN-3-cdp;;competence;CS 3 'Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé';1
+;;;;capacité;Etre capable de modéliser un procédé en vue de le commander efficacement;
+;;;;capacité;Etre capable de choisir une architecture de régulation / asservissement;
+;;;;capacité;Etre capable de déterminer les paramètres de réglage des correcteurs pour respecter un cahier des charges;
+;;;;capacité;Etre capable de prévoir la réponse temporelle d'un système bouclé;
+;;;;connaissance;Connaître le principe de la régulation / asservissement d'un système commandé;
+;;;;connaissance;Connaître les méthodes de réglage des correcteurs;
+GEN-3-ue-OPI2;Outils pour l'ingénieur 2;GEN-3-msphy;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';M
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';M
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';2
+;;;;competence;CE 4 'Concevoir un système répondant à un cahier des charges';1
+;;;;competence;CE 5 'Traiter des données';M
+;;;;competence;CS 3 'Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé';1
+;;;;capacité;Utiliser les tables et diagrammes thermodynamiques utiles à l'ingénieur;
+;;;;capacité;Comprendre un problème typique de la thermodynamique appliquée au génie énergétique ou au génie des procédés, y compris avec des mélanges de fluides dont l'air humide;
+;;;;capacité;Formuler ce problème sous forme d'équations, avec des hypothèses appropriées;
+;;;;capacité;Comprendre l'interprétation physique de ces équations;
+;;;;capacité;Résoudre ces équations et ainsi résoudre le problème;
+;;;;connaissance;Les concepts relatifs au 1er et au 2nd principes de la thermodynamique et leurs particularités de mise en œuvre pour des systèmes ouverts;
+;;;;connaissance;Les concepts d'exergie et d'analyse exergétique;
+;;;;connaissance;Les modèles et équations d'état simples permettant de décrire les propriétés d'un certain nombre de corps purs, y compris en présence d'équilibres de phase;
+;;;;connaissance;Les sources usuelles de propriétés thermodynamiques, notamment les tables et diagrammes;
+;;;;connaissance;Les modèles ou équations d'états permettant de décrire les propriétés des mélanges, notamment des mélanges de fluides (mono ou polyphasiques);
+;;;;connaissance;Les spécificités des mélanges non-idéaux;
+;;;;connaissance;Les éléments fondamentaux de la psychrométrie (thermodynamique de l'air humide);
+GEN-3-ue-OPI2;Outils pour l'ingénieur 2;GEN-3-mod;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 5 'Traiter des données';2
+;;;;competence;CS 3 'Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé';1
+;;;;capacité;Être capable de travailler sous matlab : tracer des courbes, les exporter, sauvegarder des données, appliquer la dérivation et l'intégration;
+;;;;capacité;Être capable de mettre en œuvre sous matlab les méthodes de résolution des systèmes linéaires et les valider;
+;;;;capacité;Être capable de mettre en œuvre sous matlab les méthodes pour le lissage polynomial et les valider;
+;;;;capacité;Être capable de bien utiliser la fonction ode45 de matlab;
+;;;;capacité;Etre capable de mettre en œuvre une méthode nodale sous environnement VBA ou matlab;
+;;;;capacité;Être capable d'utiliser ces méthodes pour résoudre des problèmes physiques du GEN;
+;;;;connaissance;Connaître l'environnement matlab;
+;;;;connaissance;Connaître les méthodes élémentaires pour la résolution des systèmes linéaires;
+;;;;connaissance;Connaître les méthodes pour le lissage polynomial;
+;;;;connaissance;Connaître la résolution des équations différentielles ordinaires;
+GEN-3-ue-SHS2;SHS 2;GEN-3-genepi-s2;;competence;CT 1 'Se connaître, se gérer physiquement et mentalement';3
+;;;;competence;CT 2 'Travailler, apprendre, évoluer de manière autonome';3
+;;;;competence;CT 3 'Interagir avec les autres, travailler en équipe';3
+;;;;competence;CT 4 'Faire preuve de créativité, innover, entreprendre';2
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';3
+;;;;competence;CT 6 'Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive';3
+;;;;competence;CT 7 'Travailler dans un contexte international et interculturel';2
+;;;;capacité;Etre capable d'identifier ses modes de fonctionnement (cognitif, physique, relationnel,affectif, informationnel, émotionnel...), les ressorts de sa motivation, ses sources de stress et d'émotions...;
+;;;;capacité;Etre capable d'acquérir par soi-même de nouvelles compétences en allant rechercher les ressources nécessaires;
+;;;;capacité;Etre capable de s'intégrer dans un groupe, se positionner, construire une relation dynamique au groupe, intégrer de nouveaux membres;
+;;;;capacité;"Etre capable de s'engager dans un projet collectif : construire et conduire un projet, le faire évoluer ; prendre conscience de son rôle et de sa responsabilité";
+;;;;capacité;Etre capable de communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée;
+;;;;capacité;Etre capable d'appréhender les enjeux complexes (dans l'entreprise et dans la société) qui se présentent à l'ingénieur : en saisir les dimensions sociales, sociétales, politiques, économiques, environnementales, éthiques,philosophiques...;
+GEN-4-ue-ENV1;Procédés 1;GEN-4-echang;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';2
+;;;;competence;CE 4 'Concevoir un système répondant à un cahier des charges';2
+;;;;competence;CE 5 'Traiter des données';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';2
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';2
+;;;;capacité;Etre capable de sélectionner des échangeurs adéquats parmi les catalogues constructeurs en fonction de l'application visée.;
+;;;;capacité;Etre capable de caractériser les performances et les caractéristiques propres d’un échangeur en  fonctionnement ;
+;;;;capacité;Etre capable de dimensionner des échangeurs simples, via le calcul d’un coefficient d’échange global et les méthodes du DTLM et du NUT;
+;;;;capacité;Etre capable de comprendre et d’analyser leur rôle au sein de systèmes thermiques plus complexes (assemblage d’échangeurs et analyses exégétiques).;
+;;;;connaissance;Connaitre les différentes technologies d’échangeurs, leurs spécificités , ainsi que le vocabulaire associé;
+;;;;connaissance;Connaitre les phénomènes physiques associés aux échangeurs et les notions associés (pertes de charges, rendement énergétique et exergétique, efficacité);
+;;;;connaissance;Connaitre et savoir utiliser les outils pour l’ingénieur disponibles pour prédire les performances d’un échangeur (transferts thermiques et mécaniques des fluides);
+GEN-4-ue-ENV1;Procédés 1;GEN-4-rea;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';2
+;;;;competence;CE 5 'Traiter des données';2
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';2
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';2
+;;;;capacité;Etre capable d'écrire un bilan matière sur un réacteur idéal ouvert, fermé ou semi-fermé;
+;;;;capacité;Etre capable de dimensionner et prévoir les performances de réacteurs chimiques idéaux en milieu indilatable et dilatable;
+;;;;capacité;Etre capable de dimensionner et prévoir les performances d'une association de réacteurs idéaux (en série ou en parallèle);
+;;;;capacité;Etre capable de diagnostiquer des dysfonctionnements;
+;;;;capacité;Etre capable d'optimiser des réacteurs chimiques dans des situations relativement simples;
+;;;;connaissance;Connaître le vocabulaire et les notions de base de cinétique chimique;
+;;;;connaissance;"Connaître les équations caractéristiques des différents types de réacteurs idéaux (fermé, ouvert parfaitement agité,
+piston) en fonction du taux de conversion d'un réactif ou de l'avancement de la réaction";
+;;;;connaissance;Connaître les équations caractéristiques d'une association de réacteurs (en série ou en parallèle);
+;;;;connaissance;"Connaitre les différents types d'écoulements et la méthode de détermination de la distribution des temps de séjour
+des molécules";
+;;;;connaissance;Connaître l'influence des paramètres physiques (température en particulier) sur les performances d'un réacteur;
+GEN-4-ue-ENV1;Procédés 1;GEN-4-opunit;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';2
+;;;;competence;CE 5 'Traiter des données';2
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';2
+;;;;competence;CS 4 'Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques';M
+;;;;capacité;Etre capable de décrire le fonctionnement d'un contacteur gaz-liquide;
+;;;;capacité;tre capable de dimensionner des contacteurs gaz-liquide (hauteur et diamètre) pour le traitement d'un effluent gzeux binaire.;
+;;;;capacité;Etre capable de dimensionner une colonne de distillation pour un mélange liquide-vapeur binaire.;
+;;;;capacité;Etre capable de déterminer les paramètres de transfert de matière (kLa, kga) par absoprion gaz-liquide avec réaction chimique.;
+;;;;connaissance;Connaitre les différents types de contacteurs gaz-liquide, leurs spécificités , ainsi que le vocabulaire associé;
+;;;;connaissance;Connaitre les phénomènes physiques associés aux contacteurs gaz-liquide (Les rétentions liquide et gazeuse, pertes de charges, engorgement);
+;;;;connaissance;Connaitre et savoir utiliser les outils pour l’ingénieur disponibles pour dimensionner un contacteur gaz-liquide ou liquide vapeur (transferts de matière avec ou sans réaction chimique, équilibre liquide vapeur) ;
+GEN-4-ue-NRJ1;Systèmes Energétiques 1;GEN-4-enbat;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';2
+;;;;competence;CS 3 'Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé';2
+;;;;capacité;Être capable d'utiliser des logiciels de Simulation Thermique Dynamique (STD comme TRNSys par exemple) pour étudier le comportement thermique dynamique d'un bâtiment;
+;;;;capacité;Être capable d'utiliser des logiciels de STD pour déterminer les charges en chauffage et en refroidissement ;
+;;;;capacité;Être capable de pré-dimensionner les moyens de productions et d'émission à partir du calcul des charges;
+;;;;capacité;Être capable de proposer des solutions pour maîtriser les besoins et la consommation énergétique des bâtiments;
+;;;;capacité;Être capable de vérifier la conformité d'un bâtiment vis-à-vis de la réglementation thermique en utilisant un logiciel certifié (ClimaWin par exemple);
+;;;;connaissance;Connaître les enjeux de la maîtrise énergétique des bâtiments;
+;;;;connaissance;Connaître les principes régissant le confort thermique des occupants;
+;;;;connaissance;Connaître les modes de transferts de chaleur dans une enveloppe de bâtiment et leurs effets dynamiques ;
+;;;;connaissance;Connaître les méthodes permettant de déterminer les charges internes et externes d'un bâtiment avec prise en compte des effets d'inertie;
+;;;;connaissance;Connaître les différentes technologies de production et d'émission de chaleur et de froid dans le bâtiment;
+;;;;connaissance;Connaître les notions clefs de la réglementation thermique pour les bâtiments neufs et en rénovation;
+GEN-4-ue-NRJ1;Systèmes Energétiques 1;GEN-4-mcelec;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 4 'Concevoir un système répondant à un cahier des charges';2
+;;;;competence;CE 5 'Traiter des données';2
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';2
+;;;;capacité;Etre capable de choisir une machine électrique compte tenu de son utilisation et de son alimentation;
+;;;;capacité;Etre capable d'estimer les pertes électriques, mécaniques, magnétiques;
+;;;;capacité;Etre capable de proposer un convertisseur adapté à l'utilisation;
+;;;;connaissance;Connaître le principe de fonctionnement des machines électriques;
+;;;;connaissance;Connaître l'alimentation électrique des machines;
+;;;;connaissance;Avoir des connaissances sur la variation de vitesse de ces machines;
+GEN-4-ue-NRJ1;Systèmes Energétiques 1;GEN-4-mcthm-s1;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';2
+;;;;competence;CE 4 'Concevoir un système répondant à un cahier des charges';2
+;;;;competence;CE 5 'Traiter des données';2
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';2
+;;;;capacité;Etre capable d’écrire et de résoudre des bilans énergétique, exergétique et anergétique;
+;;;;capacité;Etre capable de dimensionner énergétiquement et de modéliser de manière élémentaire un composant (compresseur) ou une machine (Pompe à chaleur);
+;;;;capacité;Etre capable d’utiliser des diagrammes et des tables;
+;;;;capacité;Etre capable de reconnaitre les différents éléments composant les machines (analyse fonctionnelle) : pompes à chaleur, machine frigorifique;
+;;;;connaissance;Connaître les équations bilans : 1er et 2d principes ainsi que les bilans anergétique et exergétique.;
+;;;;connaissance;Connaître les généralités sur les transformations polytropiques.;
+;;;;connaissance;Connaître les ventilateurs et compresseurs : études comparées des différents types de compression, compresseurs volumétriques à pistons, compresseurs volumétriques rotatifs, compresseurs centrifuges et axiaux.;
+;;;;connaissance;Connaître les générateurs thermodynamiques : machines frigorifiques, pompes à chaleur, liquéfaction des gaz, fluides frigorigènes;
+GEN-4-ue-OPI1;Outils pour l'ingénieur 3;GEN-4-cmde;;competence;CS 3 'Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé';2
+;;;;capacité;être capable d’analyser les solutions d’un système linéaire;
+;;;;capacité;être capable de synthétiser une commande par retour d’état pour la stabilisation d’un système;
+;;;;capacité;être capable de synthétiser un observateur pour la stabilisation par retour de sortie;
+;;;;capacité;être capable d’implémenter sous Matlab/Simulink  les points précédents;
+;;;;connaissance;connaître la représentation d’état des systèmes linéaires;
+;;;;connaissance;connaître les caractéristiques des réponses temporelles;
+;;;;connaissance;connaître les concepts de commandabilité et d’observabilité;
+;;;;connaissance;connaître les caractéristiques d’un cahier des charges pour la régulation de sortie;
+GEN-4-ue-OPI1;Outils pour l'ingénieur 3;GEN-4-metnu;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';3
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';3
+;;;;competence;CE 5 'Traiter des données';3
+;;;;competence;CS 3 'Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé';2
+;;;;capacité;Être capable de maîtriser la base des différences finies;
+;;;;capacité;Être capable de discrétiser l'équation de la chaleur en utilisant les différences finies;
+;;;;capacité;Être capable de résoudre numériquement l'équation de la chaleur et valider les résultats obtenus;
+;;;;connaissance;Connaître les notions élémentaires des différences finies;
+;;;;connaissance;Connaître la discrétisation par les différences finies de l'équation de la chaleur en régimes permanent et transitoire;
+;;;;connaissance;Connaître la mise en œuvre informatique sous matlab de la résolution numérique de l'équation de la chaleur, la qualifier et la valider;
+GEN-4-ue-SHS1;SHS 3;GEN-4-SHS1;;competence;CT 2 'Travailler, apprendre, évoluer de manière autonome';2
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';2
+;;;;competence;CT 6 'Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive';2
+;;;;competence;CT 7 'Travailler dans un contexte international et interculturel';2
+;;;;capacité;Etre capable d'analyser le contexte économique, industriel, stratégique et humain de l'iorganisation pour prendre des décisions professsionelles adaptées, y compris à l'échelle interbationale;
+;;;;capacité;Etre capable d'appréhender les enjeux complexes (dans l'entreprise et dans la société) qui se présentent à l'ingénieur, y compris à l'échelle internationale;
+;;;;capacité;Etre capable d'identifier d'évaluer et d'anticiper les conséquences de ses actions et décisions à différents niveaux d'échelle, y compris internationale;
+;;;;capacité;Etre capable d'identifier les incertitudes et les risques et agir pour les réduire, y compris à l'échelle internationale;
+;;;;connaissance;Connaitre les bases de la macroéconomie;
+;;;;connaissance;Connaitre les bases de l'économie internationale;
+;;;;connaissance;Connaitre les bases de l'économie monétaire et financière;
+GEN-4-ue-SHS1;SHS 3;GEN-4-SHS2;;competence;CT 1 'Se connaître, se gérer physiquement et mentalement';2
+;;;;competence;CT 2 'Travailler, apprendre, évoluer de manière autonome';2
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';2
+;;;;capacité;Etre capable d'appréhender tout rapport social comme un dispositif d'influence(s), plus ou moins symétrique.;
+;;;;capacité;Etre capable d'identifier, dans toute interaction mettant en relation des individus, des groupes ou des organisations, les techniques utilisées pour amener leurs interlocuteurs à penser/faire ce qu'ils souhaitent.;
+;;;;capacité;Etre capable de repérer la transversalité de ces techniques au sein de toutes les institutions sociales telles que la famille, les réseaux sociaux, l'école, les organisations productives, les marchés, les états,…;
+;;;;capacité;Etre capable de décoder ces techniques quand on est en position d'être influencé, et savoir les mettre en œuvre si on veut influencer autrui.;
+;;;;connaissance;Connaître des bases de sociologie générale;
+;;;;connaissance;Connaître des bases de psycho-sociologie générale;
+;;;;connaissance;Connaître des bases de psychologie sociale expérimentale;
+;;;;connaissance;Connaître des bases de psycho-physiologie;
+GEN-4-ue-NRJ2;Energie - Procédés 3;GEN-4-mcthm-s2;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';2
+;;;;competence;CE 4 'Concevoir un système répondant à un cahier des charges';2
+;;;;competence;CE 5 'Traiter des données';2
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';2
+;;;;capacité;Etre capable d’écrire et de résoudre des bilans énergétique, exergétique et anergétique appliqués à des cycles moteurs;
+;;;;capacité;Etre capable de dimensionner énergétiquement et de modéliser de manière élémentaire un composant (e.g. turbine) ou une machine (e.g. installation motrice à vapeur ou à gaz).;
+;;;;capacité;Etre capable d’utiliser des diagrammes, des tables et un logiciel (Thermoptim);
+;;;;connaissance;Connaître les turbines à vapeur et les cycles associés : turbines axiales à action et à réaction, triangles des vitesses, cycle de Hirn, Rankine, à soutirages, …;
+;;;;connaissance;Connaître les installations motrices à gaz : Cycles de Joules, Brayton, turbo-réacteurs.;
+;;;;connaissance;Connaître le principe des cycles combinés : méthode du pincement.;
+;;;;connaissance;Connaître les fluides frigorigènes et les logiciels de référence (Refprop, CoolPack, Thermoptim, EES);
+;;;;connaissance;Connaître les moteurs alternatifs à combustion interne (à allumage commandé, moteurs diesel) : thermodynamique appliquée aux MACI, pollution et rendements des moteurs, généralités techniques.;
+GEN-4-ue-NRJ2;Energie - Procédés 3 Option 1;GEN-4-clim;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 4 'Concevoir un système répondant à un cahier des charges';2
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';2
+;;;;capacité;Être capable de déterminer les propriétés de l'air humide par lecteur graphique ou par le calcul;
+;;;;capacité;Être capable de déterminer les craactéristiques d'un point de soufflage pour des charges et une ambiance données;
+;;;;capacité;Être capable de proposer des solutions technologiques pour préparer le point de soufflage à partir d'air neu et de les pré-dimensionner;
+;;;;capacité;Être capable de pré-dimensionner un circuit aéraulique : conduits, ventilateurs, filtres;
+;;;;connaissance;Connaître les propriétés de l'air humide;
+;;;;connaissance;Connaître les méthodes permettant de déterminer les propriéts d'un point de soufflage;
+;;;;connaissance;Connaître les différentes opérations unitaires sur l'air humide;
+;;;;connaissance;Connaître les principes de la distribution d'air dans les locaux : conception des circuits aérauliques et filtration;
+GEN-4-ue-NRJ2;Energie - Procédés 3 Option 1;GEN-4-transelec;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';2
+;;;;competence;CS 6 'Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux';1
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';1
+GEN-4-ue-NRJ2;Energie - Procédés 3 Option 2;GEN-4-probio;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 5 'Traiter des données';2
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';2
+;;;;competence;CS 3 'Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé';2
+;;;;competence;CS 4 'Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques';M
+;;;;capacité;Etre capable de décrire un modèle stoechiométrique / cinétique sous la forme d'une matrice de Petersen;
+;;;;capacité;Etre capable d'écrire un bilan matière d'une réaction complexe sur un réacteur de géométrie simple;
+;;;;capacité;Etre capable d'utiliser rapidement l'implémentation d'une résolution dynamique ;
+;;;;capacité;Etre capable de dimensionner les principaux éléments d'une station d'épuration;
+;;;;capacité;Etre capable de dimensionner un dispositif d'aération dans un bassin de boues activées;
+;;;;connaissance;Connaissance des principaux descripteurs de pollution associés aux composés organiques et azotés;
+;;;;connaissance;Connaissance des variables d'état pouvant être associées à ces descripteurs dans un modèle ;
+;;;;connaissance;Connaissance des principales opérations unitaires utilisées dans une station d'épuration;
+GEN-4-ue-NRJ2;Energie - Procédés 3 Option 2;GEN-4-sepSL;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 4 'Concevoir un système répondant à un cahier des charges';2
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';2
+;;;;competence;CS 4 'Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques';M
+;;;;capacité;Savoir définir les procédés les plus adaptés aux objectifs de traitement à atteindre.;
+;;;;capacité;Savoir dimensionner les procédés chimiques, physiques – mécaniques, membranaires, d’adsorption, utilisés dans les filières de traitement des eaux;
+;;;;capacité; Savoir utiliser les lois gouvernant les équilibres chimiques, les modèles de décantation des différents types de particules, la loi de Henry, les lois d’écoulement en milieu poreux saturés (loi de Darcy – relation de Kozeny-Carman), les modèles utilisés pour représenter les isothermes d’adsorption, les paramètres utilisés pour dimensionner les procédés membranaires (taux de conversion, taux de rétention, calculs des flux de perméat et sels…);
+;;;;connaissance;connaitre les objectifs atteignables par les différents procédés chimiques, physiques, membranaires ou faisant intervenir des phénomènes de surface.;
+;;;;connaissance;Connaitre les différents modèles et lois utilisés pour le dimensionnement des principaux procédés chimiques, physiques, membranaires ou faisant intervenir des phénomènes de surface utilisés pour le traitement de liquide ;
+GEN-4-ue-OPI2;Outils pour l'ingénieur 4;GEN-4-starccm;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';3
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';3
+;;;;competence;CE 5 'Traiter des données';3
+;;;;competence;CS 3 'Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé';2
+;;;;capacité;Etre capable de maitriser un logiciel de simulation en mécaniques des fluides;
+;;;;capacité;Etre capable de manipuler des nombres adimensionnés;
+;;;;capacité;Etre capable d’utiliser des méthodes de discrétisation temporelle et spatiale d’équations de diffusion;
+;;;;capacité;Etre capable d’utiliser des outils de post traitements des résultats de simulation dans un but d’analyse;
+;;;;connaissance;connaitre  les avantages et des limites des outils de simulation  en mécaniques des fluides;
+;;;;connaissance;connaitre  les différentes étapes d’une modélisation multiphysique;
+;;;;connaissance;connaitre  les règles de sélection des modèles physiques et de leurs éventuelles simplifications adaptées à l’écoulement étudié;
+;;;;connaissance;connaitre  les techniques de validation et de vérification des simulations;
+GEN-4-ue-OPI2;Outils pour l'ingénieur 4;GEN-4-hysys;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';3
+;;;;competence;CS 3 'Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé';3
+;;;;capacité;"Être capable de simuler différentes opérations unitaires (compresseur, turbine, pompe, échangeur, réacteur, 
+colonne d'absorption gaz-liquide, colonne à distiller) en régime permanent";
+;;;;capacité;Être capable de simuler une installation industrielle en régime permanent (machine thermique, procédé de traitement par exemple);
+;;;;capacité;Être capable d'élaborer un schéma de procédé;
+GEN-4-ue-SHS1;SHS 4;GEN-4-com;;competence;CT 1 'Se connaître, se gérer physiquement et mentalement'; 
+;;;;competence;CT 3 'Interagir avec les autres, travailler en équipe';2
+;;;;capacité;Etre capable de se préparer à un exposé oral;
+;;;;connaissance;Connaître les règles de base d'une communication efficace, techniques de groupe.;
+GEN-4-ue-STA;Stage 1;GEN-4-sird;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';3
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';3
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';3
+;;;;competence;CE 4 'Concevoir un système répondant à un cahier des charges';3
+;;;;competence;CE 5 'Traiter des données';3
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';3
+;;;;competence;CT 1 'Se connaître, se gérer physiquement et mentalement';3
+;;;;competence;CT 2 'Travailler, apprendre, évoluer de manière autonome';3
+;;;;competence;CT 3 'Interagir avec les autres, travailler en équipe';3
+;;;;competence;CT 4 'Faire preuve de créativité, innover, entreprendre';3
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';3
+;;;;competence;CT 6 'Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive';3
+;;;;competence;CT 7 'Travailler dans un contexte international et interculturel';3
+;;;;capacité;Etre capable de rechercher et d'exploiter de la documentation scientifique ;
+GEN-5-ue-EASE;Option EASE;GEN-5-ease-cpse;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';3
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';2
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';2
+;;;;capacité;Etre capable d'identifier le type de flamme dans une application industrielle;
+;;;;capacité;Etre capable d'utiliser la loi d'Arrhenius pour les réactions de combustion;
+;;;;capacité;Etre capable d'écrire les équations qui régissent les milieux réactifs;
+;;;;capacité;Etre capable d'utiliser le diagramme de combustion turbulente;
+;;;;capacité;Etre capable d'utiliser un logiciel de simulation de la combustion turbulente;
+;;;;capacité;Etre capable d'interprêter et analyser les résultats de la simulation de la combustion turbulente;
+;;;;connaissance;Connaître les deux types principaux de flammes : flamme de diffusion et flamme prémélangée;
+;;;;connaissance;Connaître les différents combustibles et leurs spécificités;
+;;;;connaissance;Connaître la loi d'Arrhenius pour décrire la vitesse de réaction en fonction de la température;
+;;;;connaissance;Connaître les différentes équations qui régissent les milieux réactifs;
+;;;;connaissance;Connaître le diagramme de combustion turbulente;
+;;;;connaissance;Connaître les voies de productions des principaux polluants;
+;;;;connaissance;Connaître les différentes approches de simulation numérique de la combustion;
+GEN-5-ue-EASE;Option EASE;GEN-5-ease-dse;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';3
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';3
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';3
+;;;;competence;CS 3 'Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé';3
+;;;;capacité;Etre capable d'effectuer le bilan des flux exergétiques (mécanique, thermique et matière) d'un système énergétique quelconque;
+;;;;capacité;Etre capable d'effectuer le bilan des coûts (fonctionnement et investissement) d'un système énergétique quelconque;
+;;;;capacité;Etre capable d'optimiser la conception d'un système énergétique à partir de critères exergétique et économique;
+;;;;capacité;Etre capable de proposer des solutions technologies adaptées pour la valorisation de chaleur fatale;
+;;;;connaissance;Connaître les principes de l'optimisation exergo-économique (méthode F-P-L);
+;;;;connaissance;Connaître les enjeux de la valorisation de chaleur fatale dans l'industrie et dans les ville;
+;;;;connaissance;Connaître les solutions technologiques en lien avec la valorisation de chaleur fatale;
+;;;;connaissance;Connaître les principes du dimensionnement optimum des réseaux d'énergies (problème MINLP);
+GEN-5-ue-EASE;Option EASE;GEN-5-ease-espm;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';3
+;;;;competence;CE 4 'Concevoir un système répondant à un cahier des charges';2
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';2
+;;;;competence;CS 3 'Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé';2
+;;;;capacité;Etre capable d'appliquer la moyenne de Reynolds à une équation simple;
+;;;;capacité;Etre capable de faire le lien entre dissipation turbulente et les pertes de charge dans une conduite;
+;;;;capacité;Etre capable de déterminer les bornes de la gamme d'échelle sur laquelle se développe un écoulement turbulent;
+;;;;capacité;Etre capable d'estimer les épaisseurs caractéristiques d'une couche limite dynamique turbulente;
+;;;;capacité;Etre capable d'estimer les épaisseurs caractéristiques d'une couche limite thermique turbulente;
+;;;;capacité;Etre capable de retrouver les méthodes numériques de base et les approfondir;
+;;;;capacité;Etre capable d'expliquer le cheminement pour obtenir le modèle k-epsilon;
+;;;;connaissance;Connaître la phénoménologie des écoulements turbulents;
+;;;;connaissance;Connaiître les propriétés de la turbulence;
+;;;;connaissance;Connaître la phénoménologie des transferts thermiques turbulents;
+;;;;connaissance;Connaître la structure d'une couche limite dynamique  turbulente;
+;;;;connaissance;Connaître les méthodes numériques de base pour étudier des écoulements;
+;;;;connaissance;Connaître la modèle de turbulence de base k-epsilon;
+GEN-5-ue-EASE;Option EASE;GEN-5-ease-fdie;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';3
+;;;;competence;CE 4 'Concevoir un système répondant à un cahier des charges';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';3
+;;;;competence;CS 3 'Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé';2
+;;;;capacité;Etre capable de calculer des paramètres thermohydrauliques caractéristiques des phénomènes de transferts avec changement de phase liquide-vapeur (coefficient d'échange, champ de pression, flux thermique, champs de température, vitesses, …);
+;;;;capacité;Etre capable de dimensionner des composants et des systèmes pour l'intensification énergétique notamment les évaporateurs, condenseurs et caloducs;
+;;;;connaissance;connaissance des phénomènes de transferts de chaleur avec changement de phase liquide-vapeur;
+;;;;connaissance;connaissance de phénomènes physiques d'interface liquide-vapeur : capillarité, mouillabilité, …;
+;;;;connaissance;connaissance et compréhension de dispositifs techniques pour l'intensification énergétique  basés sur ces phénomènes;
+GEN-5-ue-2EIT;Option 2EIT;GEN-5-2eit-mbpcep;;competence;CS 7 'Concevoir et mettre en œuvre une démarche d'écologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux';2
+;;;;capacité;Savoir décrire un matériau solide complexe en vue de son évaluation environnementale;
+;;;;capacité;Savoir décrire le comportement d'un matériau au contact avec une phase solide (eau, extractant ou autre);
+;;;;capacité;Savoir utiliser les fonctionnalités simples d'un logiciel de modélisation géochimique (PhreeqC);
+;;;;connaissance;Connaitre les principaux mécanismes élémentaires (et leurs couplages) qui contrôlent la mobilité de contaminants contenus dans un matériau solide pollué.;
+;;;;connaissance;Connaitre les différents modèles permettant de décrire les mécanismes de rétention ou de mobilité des polluants.;
+GEN-5-ue-2EIT;Option 2EIT;GEN-5-2eit-moecot;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';2
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';2
+;;;;competence;CS 4 'Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques';2
+;;;;competence;CS 5 'Utiliser les systèmes de management et les outils d'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique';3
+;;;;competence;CS 7 'Concevoir et mettre en œuvre une démarche d'écologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux';2
+;;;;capacité;Savoir choisir et appliquer les différentes voies de traitements biologiques au cas concret d'un projet;
+;;;;capacité;Savoir choisir et appliquer les différentes voies de traitements thermiques au cas concret d'un projet;
+;;;;capacité;Savoir choisir et appliquer les différentes voies de traitements d'effluents au cas concret d'un projet;
+;;;;connaissance;Connaître et comprendre les jeux d'acteurs et les stratégies de synergie territoriale;
+;;;;connaissance;Connaître les différentes voies de traitement et de valorisation des déchets et des effluents d'un territoire;
+;;;;connaissance;Connaître les avantages et les inconvénients des traitements biologiques;
+;;;;connaissance;Connaître les avantages et les inconvénients des traitements thermiques;
+;;;;connaissance;Connaître les avantages et les inconvénients des traitements d'effluents;
+GEN-5-ue-2EIT;Option 2EIT;GEN-5-2eit-proj;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';3
+;;;;competence;CE 4 'Concevoir un système répondant à un cahier des charges';3
+;;;;competence;CE 5 'Traiter des données';2
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';3
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';2
+;;;;competence;CS 4 'Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques';3
+;;;;competence;CS 5 'Utiliser les systèmes de management et les outils d'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique';3
+;;;;competence;CS 7 'Concevoir et mettre en œuvre une démarche d'écologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux';3
+;;;;competence;CT 2 'Travailler, apprendre, évoluer de manière autonome';3
+;;;;competence;CT 4 'Faire preuve de créativité, innover, entreprendre';2
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';2
+;;;;competence;CT 6 'Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive';2
+;;;;capacité;Savoir développer une stratégie de synergie territoriale entre les diféfrentes activités pré-existantes et celles à créer;
+;;;;capacité;Savoir proposer des boucles matières et/ou énergie entre les différentes activités humaines et les cartographier;
+;;;;capacité;Savoir sélectionner les voies de traitement des déchets et des effluents offrant le plus de synergies territoriales avec le reste des activités;
+;;;;capacité;Savoir travailler en équipe structurée avec des rôles et des responsabilités respectives au service d'un même projet;
+;;;;connaissance;Connaître les différentes voies de traitement et de valorisation des déchets et des effluents d'un territoire;
+;;;;connaissance;Connaître les avantages et les inconvénients des traitements biologiques;
+;;;;connaissance;Connaître les avantages et les inconvénients des traitements thermiques;
+GEN-5-ue-NRJ;Filières Energétiques;GEN-5-enfosnuc;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';M
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';M
+;;;;competence;CS 6 'Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux';2
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';2
+;;;;capacité;Être capable de discuter de manière argumentée les bénéfices et les risques de la filière nucléaire;
+;;;;capacité;Être capable de discuter de manière argumentée les bénéfices et les risques de la filière hydrocarbure;
+;;;;capacité;Être capable de discuter de manière argumentée les bénéfices et les risques des ressources minières pour l'énergie;
+;;;;connaissance;Connaître la filière nucléaire : cycle du combustible, traitement des déchets, gestion des risques, principe des centrales nucléaires;
+;;;;connaissance;Connaître les ressources, les enjeux et les grandes étapes de la filière hydrocarbures de l'amont à l'aval;
+;;;;connaissance;Connaître les enjeux liés aux matériaux miniers pour l'énergie;
+GEN-5-ue-NRJ1;Filières Energétiques;GEN-5-enren;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';M
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';M
+;;;;competence;CS 6 'Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux';2
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';2
+;;;;capacité;Être capable de discuter de manière argumentée les bénéfices et les risques de la filière éolienne;
+;;;;capacité;Être capable de discuter de manière argumentée les bénéfices et les risques de la filière solaire;
+;;;;capacité;Être capable de discuter de manière argumentée les bénéfices et les risques de la filière géothermie;
+;;;;capacité;Être capable de discuter de manière argumentée les bénéfices et les risques de la filière hydraulique;
+;;;;capacité;Être capable de discuter de manière argumentée les bénéfices et les risques de la filière biomasse-énergie;
+;;;;connaissance;Connaître la filière éolienne : définition, évaluation du potentiel, solutions technolgiques types, réglementations;
+;;;;connaissance;Connaître la filière solaire photovoltaïque, thermique et thermodynamique : définition, évaluation du potentiel, solutions technolgiques types, réglementations;
+;;;;connaissance;Connaître la filière géothermie : définition, évaluation du potentiel, solutions technolgiques types, réglementations;
+;;;;connaissance;Connaître la filière hydraulique : définition, évaluation du potentiel, solutions technolgiques types, réglementations;
+;;;;connaissance;Connaitre la filière biomasse-énergie : définition, évaluation du potentiel, solutions technolgiques types, réglementations;
+GEN-5-ue-NRJ1;Filières Energétiques;GEN-5-enmar;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';M
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';M
+;;;;competence;CS 6 'Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux';2
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';2
+;;;;capacité;Être capable de discuter de manière argumentée sur le marché de l'électricité;
+;;;;capacité;Être capable de discuter de manière argumentée sur le marché du gaz;
+;;;;capacité;Être capable de discuter de manière argumentée sur le droit de l'énergie;
+;;;;connaissance;Connaître les enjeux et les principes du marché de l'électricité;
+;;;;connaissance;Connaître les enjeux et les principes du marché du gaz;
+;;;;connaissance;Connaître lesenjeux liés au droit de l'énergie;
+GEN-5-ue-NRJ1;Filières Energétiques;GEN-5-optres;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';M
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';M
+;;;;competence;CS 6 'Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux';2
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';2
+;;;;capacité;Etre capable de mettre en œuvre la méthode du pincement pour diminuer les consommations énergétiques d'un site industriel;
+;;;;capacité;Être capable de discuter de manière argumentée sur les réseaux de chaleur;
+;;;;capacité;Être capable de discuter de manière argumentée sur le transport et la distribution d'électricité;
+;;;;capacité;Être capable de discuter de manière argumentée sur le transport et la distribution de gaz;
+;;;;capacité;Être capable de discuter de manière argumentée sur la filière hydrogène;
+;;;;connaissance;Connaître la méthode du pincement pour l'optimisation des consommations énergétiques;
+;;;;connaissance;Connaître les enjeux, principes et solutions technologiques pour les réseaux de chaleur;
+;;;;connaissance;Connaître les enjeux, principes et solutions technologiques pour les réseaux de transport d'électricité;
+;;;;connaissance;Connaître les enjeux, principes et solutions technologiques pour les réseaux de distribution d'électricité (smart grid);
+;;;;connaissance;Connaître les enjeux, principes et solutions technologiques pour les réseaux de transport et de distribution de gaz;
+;;;;connaissance;Connaître les enjeux, principes et solutions technologiques pour la filière hydrogène;
+GEN-5-ue-ENV;Outils et méthodes d'analyses énergétique et environnementale;GEN-5-ecoenv;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CS 4 'Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques';M
+;;;;competence;CS 5 'Utiliser les systèmes de management et les outils d'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique';2
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';2
+;;;;capacité;Etre capable d'appréhender les enjeux des rapports entre les activités productives humaines et le cadre de vie des hommes;
+;;;;connaissance;Connaitre les concepts fondamentaux et les principales grilles d'analyse de l'économie de l'environnement. ;
+;;;;connaissance;"Connaître les outils et les fondements des politiques publiques de l'environnement en France et en Europe.
+";
+GEN-5-ue-SHS5;Outils et méthodes d'analyses énergétique et environnementale;GEN-5-fpep;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CS 5 'Utiliser les systèmes de management et les outils d'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique';2
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';2
+;;;;capacité;Etre capable de comprendre les grands échecs de projets d'infrastructure à l'international;
+;;;;capacité;Etre capable de tester ces concepts sur des exemples concrets;
+;;;;connaissance;Connaître les mécanismes de financements des projets d'infrastructures et connaître les principaux acteurs;
+;;;;connaissance;Connaître les bases du financement de projets et du pilotage économique de projets;
+GEN-5-ue-ENV;Outils et méthodes d'analyses énergétique et environnementale;GEN-5-bcACV;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';M
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';M
+;;;;competence;CS 5 'Utiliser les systèmes de management et les outils d'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique';2
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';2
+;;;;capacité;Etre capable d’utiliser la méthode Bilan Carbone de l'ADEME ;
+;;;;capacité;Etre capable de travailler avec une structure professionnelle et lui présenter des propositions stratégiques suite à la réalisation de son Bilan Carbone;
+;;;;capacité;Etre capable de travailler avec les ordres de grandeur : savoir différencier les situations nécessitant une forte précision de celles qui peuvent se traiter avec les ordres de grandeur;
+;;;;connaissance;Connaître les enjeux des émissions de gaz à effet de serre ainsi que les réglementations et objectifs de réduction associés;
+GEN-5-ue-ENV;Outils et méthodes d'analyses énergétique et environnementale;GEN-5-maenv;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';2
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';M
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';M
+;;;;competence;CS 4 'Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques';M
+;;;;competence;CS 5 'Utiliser les systèmes de management et les outils d'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique';2
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';2
+;;;;capacité;Etre capable de positionner et utiliser efficacement les systèmes de management ;
+;;;;connaissance;Connaître les objectifs et la finalité des systèmes de management Qualité, Hygiène, Santé, Sécurité, Environnement & Energie ;
+;;;;connaissance;Connaître les exigences et la philosophie d'un système global et intégré de management des risques ;
+;;;;connaissance;Connaître les enjeux managériaux associés ;
+;;;;connaissance;connaître les processus d’audit et d’évaluation ;
+GEN-5-ue-GesPER;Option GESPER;GEN-5-GES1;;competence;CT 2 'Travailler, apprendre, évoluer de manière autonome';3
+;;;;competence;CT 3 'Interagir avec les autres, travailler en équipe';3
+;;;;competence;CT 4 'Faire preuve de créativité, innover, entreprendre';3
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';3
+;;;;competence;CT 6 'Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive';3
+;;;;capacité;Mener une étude de marché et  un entretien d'expert;
+;;;;capacité;Conduire une enquête sociologique (observation, entretien d'usagers) et établir des personae;
+;;;;capacité;Faire des choix de gestion en en mesurant l'impact sociétal et environnemental et les leviers de responsabilité;
+;;;;capacité;Choisir une structure juridique etréaliser un modèle économique et financier responsable adapté;
+;;;;capacité;Définir une stratégie de communication et l'appliquer pour partie (web, video, presse);
+;;;;capacité;Définir une stratégie de recrutement et mettre en œuvre la campagne adaptée;
+;;;;connaissance;Notions d'innovation, imaginaire, technique et éthique;
+;;;;connaissance;Démarche et outils de marketing stratégique et d'enquête sociologique;
+;;;;connaissance;Principes de la norme ISO 26000 (RS) et des modèles économiques alternatifs (circulaire, collaboratif, ESS);
+;;;;connaissance;Démarche et outils de communication stratégique et opérationnelle;
+;;;;connaissance;Domaines de la GRH et processus de recrutement;
+;;;;connaissance;Modèles économiques et financier des organisations;
+;;;;connaissance;Les différentes structures juridiques des organisations;
+GEN-5-ue-GesPER;Option GESPER;GEN-5-GES2;;competence;CT 1 'Se connaître, se gérer physiquement et mentalement';3
+;;;;competence;CT 2 'Travailler, apprendre, évoluer de manière autonome';3
+;;;;competence;CT 3 'Interagir avec les autres, travailler en équipe';3
+;;;;competence;CT 4 'Faire preuve de créativité, innover, entreprendre';2
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';3
+;;;;competence;CT 6 'Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive';2
+;;;;capacité;Etre capable d'utiliser des techniques de créativité;
+;;;;capacité;Etre capable de débattre et de réfléchir autour de problématiques sociéatales;
+;;;;capacité;Etre capable d'appliquer la technique d'elevator pitch et de conduire une réunion;
+;;;;capacité;Etre capable de créer un MVP (Minimal Viable Product) évolutif et de scénariser son usage ;
+;;;;capacité;Etre capable de travailler en groupe, de communiquer de façon bienveillante et gérer son stress;
+;;;;connaissance;Connaître les principes globaux de lean start-up, agilité et design thinking responsables;
+;;;;connaissance;Comprendre les mécanismes de stimulation de l'imaginaire et de la créativité;
+;;;;connaissance;Connaître la technique d'elevator pitch;
+;;;;connaissance;Connaître des outils de gestion de projet et de management visuel ;
+;;;;connaissance;Connaître son profil MBTI;
+GEN-5-ue-SHS;SHS 5;GEN-5-stratenter;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';3
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';3
+;;;;competence;CE 4 'Concevoir un système répondant à un cahier des charges';3
+;;;;competence;CE 5 'Traiter des données';3
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';3
+;;;;competence;CS 1 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)';3
+;;;;competence;CS 2 'Concevoir, dimensionner, et optimiser des installations de génie des procédés';3
+;;;;competence;CS 3 'Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé';3
+;;;;competence;CS 4 'Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques';3
+;;;;competence;CS 6 'Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux';3
+;;;;competence;CS 7 'Concevoir et mettre en œuvre une démarche d'écologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux';3
+;;;;competence;CT 2 'Travailler, apprendre, évoluer de manière autonome';3
+;;;;competence;CT 3 'Interagir avec les autres, travailler en équipe';3
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';3
+;;;;capacité;Être capable de collecter de l'information diffuse;
+;;;;capacité;Être capable de poser des hypothèse réalistes pour pallier l'absence de données;
+;;;;capacité;Être capable de mettre en œuvre des logiciels métiers pour justifier le choix de solutions technologiques;
+;;;;capacité;Être capable d'interagir avec des interlocuteurs divers : expert technique, responsable de service/politique, fournisseur, etc.;
+;;;;capacité;Être capable de travailler en groupe : planification, répartition des tâches, synthèse, etc.;
+;;;;capacité;Être capable de présenter de façon synthétiqueet argumentée, tant à l'oral qu'à l'écrit,  les enjeux,  méthodes employées, résultats et conclusions ;
+GEN-5-pird-s1;PIRD 1;GEN-5-pird-s1;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';3
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';3
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';3
+;;;;competence;CE 4 'Concevoir un système répondant à un cahier des charges';3
+;;;;competence;CE 5 'Traiter des données';3
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';3
+;;;;competence;CT 1 'Se connaître, se gérer physiquement et mentalement';3
+;;;;competence;CT 2 'Travailler, apprendre, évoluer de manière autonome';3
+;;;;competence;CT 3 'Interagir avec les autres, travailler en équipe';3
+;;;;competence;CT 4 'Faire preuve de créativité, innover, entreprendre';3
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';3
+;;;;competence;CT 6 'Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive';3
+;;;;capacité;Etre capable de rechercher et d'exploiter de la documentation scientifique ;
+GEN-5-pird-s1;PIRD 2;GEN-5-pird-s2;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';3
+;;;;competence;CE 2 'Exploiter un modèle d'un système réel ou virtuel ';3
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';3
+;;;;competence;CE 4 'Concevoir un système répondant à un cahier des charges';3
+;;;;competence;CE 5 'Traiter des données';3
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';3
+;;;;competence;CT 1 'Se connaître, se gérer physiquement et mentalement';3
+;;;;competence;CT 2 'Travailler, apprendre, évoluer de manière autonome';3
+;;;;competence;CT 3 'Interagir avec les autres, travailler en équipe';3
+;;;;competence;CT 4 'Faire preuve de créativité, innover, entreprendre';3
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';3
+;;;;competence;CT 6 'Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive';3
+;;;;capacité;Etre capable de rechercher et d'exploiter de la documentation scientifique ;
+GEN-5-ue-STA;Stage 2;GEN-5-stage;;competence;CE 1 'Analyser un système (réel ou virtuel) ou un problème';3
+;;;;competence;CE 3 'Mettre en oeuvre une démarche expérimentale ou une démarche de production';3
+;;;;competence;CE 4 'Concevoir un système répondant à un cahier des charges';3
+;;;;competence;CE 5 'Traiter des données';3
+;;;;competence;CE 6 'Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique';3
+;;;;competence;CT 1 'Se connaître, se gérer physiquement et mentalement';3
+;;;;competence;CT 2 'Travailler, apprendre, évoluer de manière autonome';3
+;;;;competence;CT 3 'Interagir avec les autres, travailler en équipe';3
+;;;;competence;CT 4 'Faire preuve de créativité, innover, entreprendre';3
+;;;;competence;CT 5 'Agir de manière responsable dans un monde complexe';3
+;;;;competence;CT 6 'Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive';3

@@ -1,0 +1,23 @@
+UE : GI-4-INFO-S1,,,,,,,
+EC : GI-4-EDD-S1,Entrepôt de données ,,,,,,
+ECTS,3,,,,,,
+Nbre H,34,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 1,Analyser un système (ou un problème) réel ou virtuel,,,,,2
+,Compétence 4,Concevoir un système répondant à un cahier des charges,,,,,2
+,Compétence 5,Traiter des données,,,,,2
+,Compétence 7,"Observer, mesurer, analyser et interpréter une activité ou un système à partir de données",,,,,C
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,C
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,C
+,Compétence 20,"Conduire collectivement un projet : organisation, communication, animation, coordination du groupe ",,,,,M
+,Compétence 23,"Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)",,,,,M
+,Compétence 28,"Travailler, apprendre, évoluer de manière autonome ",,,,,M
+,Compétence 31,Agir de manière responsable dans un monde complexe ,,,,,M
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+"Collecter les besoins du client en matière d'analyse (7,23)",,"Le fonctionnement des techniques de fouille de processus: construction d'un réseau de Petri à partir de traces d'activité, analyse de conformité d'un modèle, analyse de performance du système. 
+La structure d'un système d'information distribué structuré autour de processus, tel que l'ERP Odoo et l'analyse des performances d'un tel système à l'aide d'outils de fouille de processus.",,,,,
+" Identifier les sources de données de production utiles pour une démarche analytique (2,9)",,,,,,,
+ Traiter des informations volumineuses en vue de leur analyse (2),,,,,,,
+ Exploiter les données dans la perspective de l'activité analysée (7),,,,,,,
+"Mener un projet à bien, en travaillant en groupe (28,31)",,,,,,,

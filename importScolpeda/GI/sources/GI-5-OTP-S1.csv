@@ -1,0 +1,18 @@
+UE : GI-5-R&D1-s1,,,,,,,
+EC : GI-5-OTP-S1,Optimisation conjointe du Transport et de la Production,,,,,,
+ECTS,1,,,,,,
+Nbre H,20,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 1,Analyser un système (ou un problème) réel ou virtuel,,,,,M
+,Compétence 2,Exploiter un modèle d’un système réel ou virtuel,,,,,2
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,2
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,M
+,Compétence 11,Piloter un système de production et réagir aux dysfonctionnements,,,,,2
+,Compétence 12,"Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production",,,,,1
+,Compétence 14,Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks ,,,,,M
+,Compétence 15,"Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique",,,,,1
+,Compétence 19,Prendre en compte l'innovation technologique et méthodologique,,,,,2
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+Poser et résoudre un problème d'optimisation de la chaîne logistique d'un point de vue transport et gestion des flux,,"Problèmes  classiques  de transport.
+Principes et outils permettant la prise de décisions distribuées.",,,,,

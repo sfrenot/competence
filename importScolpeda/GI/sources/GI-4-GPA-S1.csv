@@ -1,0 +1,27 @@
+UE : GI-4-GP SIM-S1,,,,,,,
+EC : GI-4-GPA-S1,Gestion de production approfondie ,,,,,,
+ECTS,1,,,,,,
+Nbre H,18,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 1,Analyser un système (ou un problème) réel ou virtuel,,,,,2
+,Compétence 2,Exploiter un modèle d’un système réel ou virtuel,,,,,2
+,Compétence 3,Mettre en œuvre une démarche expérimentale,,,,,2
+,Compétence 7,"Observer, mesurer, analyser et interpréter une activité ou un système à partir de données",,,,,M
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,3
+,Compétence 11,Piloter un système de production et réagir aux dysfonctionnements ,,,,,2
+,Compétence 12,"Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production ",,,,,2
+,Compétence 14,Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks ,,,,,M
+,Compétence 16,Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue ,,,,,2
+,Compétence 18,Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités ,,,,,3
+,Compétence 22,"Identifier, analyser et maîtriser les risques inhérents à un projet ",,,,,2
+,Compétence 23,"Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)",,,,,1
+,Compétence 24,Identifier les compétences et savoirs critiques d’une organisation et mettre en œuvre des outils et méthodes pour les pérenniser ,,,,,1
+,Compétence 28,"Travailler, apprendre, évoluer de manière autonome ",,,,,M
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+Spécifier un problème d'ordonnancement,,"Techniques et méthodes d'ordonnancement d'atelier (machine unique, machines parallèles, flowshop, jobshop, organisations hybrides)",,,,,
+" choisir ou proposer une méthode de résolution d'un problème d'ordonnancement d'atelier la plus adaptée à un contexte donné, et l'appliquer",,"Techniques et méthodes d'ordonnancement de projet (PERT,...)",,,,,
+Comprendre la problématique de gestion des prévisions,,Méthodes de prévisions et leur place dans la gestion de la demande,,,,,
+ Choisir la méthode de prévision adaptée à un contexte donné et l'appliquer,,"Briques applicatives composant les systèmes d'informations d'entreprise (ERP, ...) et leur relations",,,,,
+"Choisir la brique applicative d'un système d'information d'entreprise (ERP, ...) la plus adaptée à un contexte donné",,Démarche de mise en œuvre d'ERP,,,,,
+Gérer un projet d'implantation d'ERP.,,,,,,,

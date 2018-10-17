@@ -1,0 +1,22 @@
+UE : GI-4-PEP-S2,,,,,,,
+EC : GI-4-MES-S2,MES (Projet),,,,,,
+ECTS,2,,,,,,
+Nbre H,32,,,,,,
+,,,,,,,Niveau de la compétence
+,Compétence 1,Analyser un système (ou un problème) réel ou virtuel,,,,,C
+,Compétence 2,Exploiter un modèle d’un système réel ou virtuel,,,,,C
+,Compétence 3,Mettre en œuvre une démarche expérimentale,,,,,C
+,Compétence 4,Concevoir un système répondant à un cahier des charges,,,,,C
+,Compétence 6,Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité,,,,,M
+,Compétence 7,"Observer, mesurer, analyser et interpréter une activité ou un système à partir de données",,,,,C
+,Compétence 8,"Modéliser, concevoir un système d'informations, de décision et de production de biens et de services ",,,,,C
+,Compétence 9,"Evaluer, prototyper ou simuler un système",,,,,C
+,Compétence 11,Piloter un système de production et réagir aux dysfonctionnements ,,,,,C
+,Compétence 16,Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue ,,,,,C
+,Compétence 20,"Conduire collectivement un projet : organisation, communication, animation, coordination du groupe ",,,,,M
+,Compétence 23,"Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)",,,,,M
+,Compétence 28,"Travailler, apprendre, évoluer de manière autonome ",,,,,M
+,Compétence 29,"Interagir avec les autres, travailler en équipe ",,,,,M
+,,,,,,,
+CAPACITES,,CONNAISSANCES,,,,,
+- Évaluer la complexité d'un algorithme.,,"Fonctions du MES (6, 8), analyse de performance et TRS (7, 16), traçabilité de production (7), pilotage de l’exécution de la production (7, 11).",,,,,
