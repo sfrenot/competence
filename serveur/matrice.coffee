@@ -5,6 +5,7 @@ _ = require('lodash')
 departements = [
   "GCU"
   "TC"
+  "GEN"
 ]
 
 loadDepartement = (departement, res) ->
@@ -139,7 +140,7 @@ loadDepartement = (departement, res) ->
       <table class="tableheader">
        <thead>
          <tr>
-           <th><a href="GCU">GCU</a></th><th><a href="TC">TC</a></th>
+           <th><a href="GCU">GCU</a></th><th><a href="TC">TC</a></th><th><a href="GEN">GEN</a></th>
          </tr>
        </thead>
       </table>
@@ -176,6 +177,7 @@ app.get "/", (req, res) ->
        <tr>
          <th><a href="/matrice/GCU">GCU</a></th>
          <th><a href="/matrice/TC">TC</a></th>
+         <th><a href="/matrice/GEN">GEN</a></th>
        </tr>
      </thead>
     </table>
