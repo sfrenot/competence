@@ -1,13 +1,16 @@
+undefined ****************************
+Cet EC relève de l'unité d'enseignement undefined (undefined) et contribue aux compétences suivantes :            
+
 GEN-3-comb ****************************
 Cet EC relève de l'unité d'enseignement Energie - Procédés 1 (GEN-3-ue-NRJ1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE3 Mettre en oeuvre une démarche expérimentale ou une démarche de production (niveau 2)
-CE5 Traiter des données (niveau 2)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+A5 Traiter des données (niveau 2)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -29,13 +32,13 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-cond ****************************
 Cet EC relève de l'unité d'enseignement Energie - Procédés 1 (GEN-3-ue-NRJ1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE3 Mettre en oeuvre une démarche expérimentale ou une démarche de production (niveau 2)
-CE5 Traiter des données (niveau 2)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+A5 Traiter des données (niveau 2)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -56,13 +59,13 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-conv ****************************
 Cet EC relève de l'unité d'enseignement Energie - Procédés 1 (GEN-3-ue-NRJ1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE3 Mettre en oeuvre une démarche expérimentale ou une démarche de production (niveau 2)
-CE5 Traiter des données (niveau 2)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+A5 Traiter des données (niveau 2)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -80,13 +83,13 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-mcflu ****************************
 Cet EC relève de l'unité d'enseignement Energie - Procédés 1 (GEN-3-ue-NRJ1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE3 Mettre en oeuvre une démarche expérimentale ou une démarche de production (niveau 2)
-CE5 Traiter des données (niveau 2)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+A5 Traiter des données (niveau 2)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -105,13 +108,13 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-ray ****************************
 Cet EC relève de l'unité d'enseignement Energie - Procédés 1 (GEN-3-ue-NRJ1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE3 Mettre en oeuvre une démarche expérimentale ou une démarche de production (niveau 2)
-CE5 Traiter des données (niveau 2)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+A5 Traiter des données (niveau 2)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -130,10 +133,10 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-trans ****************************
 Cet EC relève de l'unité d'enseignement Energie - Procédés 1 (GEN-3-ue-NRJ1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -149,14 +152,14 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-envir ****************************
 Cet EC relève de l'unité d'enseignement Environnement 1 (GEN-3-ue-ENV1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 1)
-CS4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques (niveau 1)
-CS7 Concevoir et mettre en œuvre une démarche décologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux (niveau 1)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
+C4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques (niveau 1)
+C7 Concevoir et mettre en œuvre une démarche d'écologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux (niveau 1)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
 - 1- Connaitre les principes de fonctionnement des écosystèmes et les caractéristiques générales des milieux naturels
-- 2- Connaitre le cycle de l'eau, le cycle biogéochimique du carbone, et
+- 2- Connaitre le cycle de l'eau, le cycle biogéochimique du carbone
 - 3- Connaitre les types de pressions et d'impacts des activités anthropiques sur les milieux naturels, les écosystème et les cycles du carbone
 - 4- Connaitre les conséquences de l'utilisation de l'eau par l'homme en terme de quantités prélevées et de pollutions engendrées.
 - 5- Connaitre les paramètres utilisés pour décrire la qualité et le niveau de pollution de l'air et des milieux aquatiques
@@ -171,9 +174,9 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-math ****************************
 Cet EC relève de l'unité d'enseignement Outils pour l'ingénieur 1 (GEN-3-ue-OPI1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CS3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 1)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+C3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 1)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -191,7 +194,7 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-stats ****************************
 Cet EC relève de l'unité d'enseignement Outils pour l'ingénieur 1 (GEN-3-ue-OPI1) et contribue aux compétences suivantes :            
 
-CE5 Traiter des données (niveau 2)
+A5 Traiter des données (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -206,13 +209,13 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-genepi-s1 ****************************
 Cet EC relève de l'unité d'enseignement SHS 1 (GEN-3-ue-SHS1) et contribue aux compétences suivantes :            
 
-CT1 Se connaître, se gérer physiquement et mentalement (niveau 3)
-CT2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
-CT3 Interagir avec les autres, travailler en équipe (niveau 3)
-CT4 Faire preuve de créativité, innover, entreprendre (niveau 2)
-CT5 Agir de manière responsable dans un monde complexe (niveau 3)
-CT6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
-CT7 Travailler dans un contexte international et interculturel (niveau 2)
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+B5 Agir de manière responsable dans un monde complexe (niveau 3)
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
+B7 Travailler dans un contexte international et interculturel (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
 - Etre capable d'identifier ses modes de fonctionnement (cognitif, physique, relationnel,affectif, informationnel, émotionnel...), les ressorts de sa motivation, ses sources de stress et d'émotions...
@@ -224,13 +227,13 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-hydr ****************************
 Cet EC relève de l'unité d'enseignement Energie - Procédés 2 (GEN-3-ue-NRJ2) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE3 Mettre en oeuvre une démarche expérimentale ou une démarche de production (niveau 2)
-CE5 Traiter des données (niveau 2)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+A5 Traiter des données (niveau 2)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -247,13 +250,13 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-thermo ****************************
 Cet EC relève de l'unité d'enseignement Energie - Procédés 2 (GEN-3-ue-NRJ2) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE3 Mettre en oeuvre une démarche expérimentale ou une démarche de production (niveau 2)
-CE5 Traiter des données (niveau 2)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+A5 Traiter des données (niveau 2)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -274,10 +277,10 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-tm ****************************
 Cet EC relève de l'unité d'enseignement Energie - Procédés 2 (GEN-3-ue-NRJ2) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 1)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 1)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -294,8 +297,8 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-tdsp ****************************
 Cet EC relève de l'unité d'enseignement Environnement 2 (GEN-3-ue-ENV2) et contribue aux compétences suivantes :            
 
-CS4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques (niveau 1)
-CS5 Utiliser les systèmes de management et les outils danalyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique (niveau 1)
+C4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques (niveau 1)
+C5 Utiliser les systèmes de management et les outils d'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique (niveau 1)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -312,7 +315,7 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-eau ****************************
 Cet EC relève de l'unité d'enseignement Environnement 2 (GEN-3-ue-ENV2) et contribue aux compétences suivantes :            
 
-CS4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques (niveau 1)
+C4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques (niveau 1)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -325,21 +328,26 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-TTDEG ****************************
 Cet EC relève de l'unité d'enseignement Environnement 2 (GEN-3-ue-ENV2) et contribue aux compétences suivantes :            
 
-CS4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques (niveau 1)
+C4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques (niveau 1)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
+- Connaitre le fonctionnement et les enjeux de l'incinération des déchets
+- Connaitre les caractéristiques de la pyrolyse et de la gazéification des déchets
+- Connaitre la filière co-incinération des déchets en cimenterie ou en four dédié
 - Connaitre les différents polluants atmosphériques
 - Connaitre les différentes formes de pollution atmosphérique
 - Connaitre les procédés de traitement des fumées
 
 En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
-- Etre capable de décrire les différentes formes de pollution (Pollution photochimique, effet de serre, pluie acide, etc.)
-- Etre capable de décrire les procédés de traitement des fumées (Sec, semi humide et humide)
+- Etre capable de décrire et distinguer les différents procédés de traitement thermique des déchets en vue d'une valorisation énergétique
+- Etre capable d'expliquer les enjeux de la co-incinération et des combustibles solides de récupération
+- Etre capable de décrire les différentes formes de pollution et leurs principales sources
+- Etre capable de décrire et différencier les principaux procédés de traitement des fumées
 GEN-3-cdp ****************************
 Cet EC relève de l'unité d'enseignement Outils pour l'ingénieur 2 (GEN-3-ue-OPI2) et contribue aux compétences suivantes :            
 
-CS3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 1)
+C3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 1)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -354,39 +362,32 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-msphy ****************************
 Cet EC relève de l'unité d'enseignement Outils pour l'ingénieur 2 (GEN-3-ue-OPI2) et contribue aux compétences suivantes :            
 
-CE3 Mettre en oeuvre une démarche expérimentale ou une démarche de production (niveau 2)
-CE4 Concevoir un système répondant à un cahier des charges (niveau 1)
-CS3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 1)
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+A4 Concevoir un système répondant à un cahier des charges (niveau 1)
+C3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 1)
 
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
-CE 1 Analyser un système (réel ou virtuel) ou un problème
-CE 2 Exploiter un modèle dun système réel ou virtuel 
-CE 5 Traiter des données
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A5 Traiter des données
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
-- Les concepts relatifs au 1er et au 2nd principes de la thermodynamique et leurs particularités de mise en œuvre pour des systèmes ouverts
-- Les concepts d'exergie et d'analyse exergétique
-- Les modèles et équations d'état simples permettant de décrire les propriétés d'un certain nombre de corps purs, y compris en présence d'équilibres de phase
-- Les sources usuelles de propriétés thermodynamiques, notamment les tables et diagrammes
-- Les modèles ou équations d'états permettant de décrire les propriétés des mélanges, notamment des mélanges de fluides (mono ou polyphasiques)
-- Les spécificités des mélanges non-idéaux
-- Les éléments fondamentaux de la psychrométrie (thermodynamique de l'air humide)
+- Connaitre le principe et les notions liés aux chaînes de mesure
+- Connaître les principaux types de capteurs couramment utilisés dans l'industrie
 
 En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
-- Utiliser les tables et diagrammes thermodynamiques utiles à l'ingénieur
-- Comprendre un problème typique de la thermodynamique appliquée au génie énergétique ou au génie des procédés, y compris avec des mélanges de fluides dont l'air humide
-- Formuler ce problème sous forme d'équations, avec des hypothèses appropriées
-- Comprendre l'interprétation physique de ces équations
-- Résoudre ces équations et ainsi résoudre le problème
+- Etre capable de choisir un capteur adapté dans un catalogue fournisseur
+- Etre capable d'utiliser un capteur de manière fiable
+- Etre capable d'analyser le résultat d'une mesure
 GEN-3-mod ****************************
 Cet EC relève de l'unité d'enseignement Outils pour l'ingénieur 2 (GEN-3-ue-OPI2) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE5 Traiter des données (niveau 2)
-CS3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 1)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A5 Traiter des données (niveau 2)
+C3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 1)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -405,13 +406,13 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-3-genepi-s2 ****************************
 Cet EC relève de l'unité d'enseignement SHS 2 (GEN-3-ue-SHS2) et contribue aux compétences suivantes :            
 
-CT1 Se connaître, se gérer physiquement et mentalement (niveau 3)
-CT2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
-CT3 Interagir avec les autres, travailler en équipe (niveau 3)
-CT4 Faire preuve de créativité, innover, entreprendre (niveau 2)
-CT5 Agir de manière responsable dans un monde complexe (niveau 3)
-CT6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
-CT7 Travailler dans un contexte international et interculturel (niveau 2)
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+B5 Agir de manière responsable dans un monde complexe (niveau 3)
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
+B7 Travailler dans un contexte international et interculturel (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
 - Etre capable d'identifier ses modes de fonctionnement (cognitif, physique, relationnel,affectif, informationnel, émotionnel...), les ressorts de sa motivation, ses sources de stress et d'émotions...
@@ -423,13 +424,13 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-echang ****************************
 Cet EC relève de l'unité d'enseignement Procédés 1 (GEN-4-ue-ENV1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE3 Mettre en oeuvre une démarche expérimentale ou une démarche de production (niveau 2)
-CE4 Concevoir un système répondant à un cahier des charges (niveau 2)
-CE5 Traiter des données (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+A4 Concevoir un système répondant à un cahier des charges (niveau 2)
+A5 Traiter des données (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -445,12 +446,12 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-rea ****************************
 Cet EC relève de l'unité d'enseignement Procédés 1 (GEN-4-ue-ENV1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE3 Mettre en oeuvre une démarche expérimentale ou une démarche de production (niveau 2)
-CE5 Traiter des données (niveau 2)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 2)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+A5 Traiter des données (niveau 2)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -471,15 +472,15 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-opunit ****************************
 Cet EC relève de l'unité d'enseignement Procédés 1 (GEN-4-ue-ENV1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE3 Mettre en oeuvre une démarche expérimentale ou une démarche de production (niveau 2)
-CE5 Traiter des données (niveau 2)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+A5 Traiter des données (niveau 2)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 2)
 
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
-CS 4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques
+C4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -495,11 +496,11 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-enbat ****************************
 Cet EC relève de l'unité d'enseignement Systèmes Energétiques 1 (GEN-4-ue-NRJ1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
-CS3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
+C3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -519,12 +520,12 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-mcelec ****************************
 Cet EC relève de l'unité d'enseignement Systèmes Energétiques 1 (GEN-4-ue-NRJ1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE4 Concevoir un système répondant à un cahier des charges (niveau 2)
-CE5 Traiter des données (niveau 2)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A4 Concevoir un système répondant à un cahier des charges (niveau 2)
+A5 Traiter des données (niveau 2)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -539,13 +540,13 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-mcthm-s1 ****************************
 Cet EC relève de l'unité d'enseignement Systèmes Energétiques 1 (GEN-4-ue-NRJ1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE3 Mettre en oeuvre une démarche expérimentale ou une démarche de production (niveau 2)
-CE4 Concevoir un système répondant à un cahier des charges (niveau 2)
-CE5 Traiter des données (niveau 2)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+A4 Concevoir un système répondant à un cahier des charges (niveau 2)
+A5 Traiter des données (niveau 2)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -562,7 +563,7 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-cmde ****************************
 Cet EC relève de l'unité d'enseignement Outils pour l'ingénieur 3 (GEN-4-ue-OPI1) et contribue aux compétences suivantes :            
 
-CS3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 2)
+C3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -579,10 +580,10 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-metnu ****************************
 Cet EC relève de l'unité d'enseignement Outils pour l'ingénieur 3 (GEN-4-ue-OPI1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 3)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 3)
-CE5 Traiter des données (niveau 3)
-CS3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+A5 Traiter des données (niveau 3)
+C3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -597,10 +598,10 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-SHS1 ****************************
 Cet EC relève de l'unité d'enseignement SHS 3 (GEN-4-ue-SHS1) et contribue aux compétences suivantes :            
 
-CT2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
-CT5 Agir de manière responsable dans un monde complexe (niveau 2)
-CT6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
-CT7 Travailler dans un contexte international et interculturel (niveau 2)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+B7 Travailler dans un contexte international et interculturel (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -616,9 +617,9 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-SHS2 ****************************
 Cet EC relève de l'unité d'enseignement SHS 3 (GEN-4-ue-SHS1) et contribue aux compétences suivantes :            
 
-CT1 Se connaître, se gérer physiquement et mentalement (niveau 2)
-CT2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
-CT5 Agir de manière responsable dans un monde complexe (niveau 2)
+B1 Se connaître, se gérer physiquement et mentalement (niveau 2)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -635,13 +636,13 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-mcthm-s2 ****************************
 Cet EC relève de l'unité d'enseignement Energie - Procédés 3 (GEN-4-ue-NRJ2) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE3 Mettre en oeuvre une démarche expérimentale ou une démarche de production (niveau 2)
-CE4 Concevoir un système répondant à un cahier des charges (niveau 2)
-CE5 Traiter des données (niveau 2)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+A4 Concevoir un système répondant à un cahier des charges (niveau 2)
+A5 Traiter des données (niveau 2)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -658,11 +659,11 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-clim ****************************
 Cet EC relève de l'unité d'enseignement Energie - Procédés 3 Option 1 (GEN-4-ue-NRJ2) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE4 Concevoir un système répondant à un cahier des charges (niveau 2)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A4 Concevoir un système répondant à un cahier des charges (niveau 2)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -679,22 +680,22 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-transelec ****************************
 Cet EC relève de l'unité d'enseignement Energie - Procédés 3 Option 1 (GEN-4-ue-NRJ2) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
-CS6 Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux (niveau 1)
-CT5 Agir de manière responsable dans un monde complexe (niveau 1)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
+C6 Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux (niveau 1)
+B5 Agir de manière responsable dans un monde complexe (niveau 1)
 GEN-4-probio ****************************
 Cet EC relève de l'unité d'enseignement Energie - Procédés 3 Option 2 (GEN-4-ue-NRJ2) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE5 Traiter des données (niveau 2)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 2)
-CS3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A5 Traiter des données (niveau 2)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 2)
+C3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 2)
 
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
-CS 4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques
+C4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -711,14 +712,14 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-sepSL ****************************
 Cet EC relève de l'unité d'enseignement Energie - Procédés 3 Option 2 (GEN-4-ue-NRJ2) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE4 Concevoir un système répondant à un cahier des charges (niveau 2)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A4 Concevoir un système répondant à un cahier des charges (niveau 2)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 2)
 
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
-CS 4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques
+C4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -732,10 +733,10 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-starccm ****************************
 Cet EC relève de l'unité d'enseignement Outils pour l'ingénieur 4 (GEN-4-ue-OPI2) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 3)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 3)
-CE5 Traiter des données (niveau 3)
-CS3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+A5 Traiter des données (niveau 3)
+C3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -752,9 +753,9 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-hysys ****************************
 Cet EC relève de l'unité d'enseignement Outils pour l'ingénieur 4 (GEN-4-ue-OPI2) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 3)
-CS3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 3)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+C3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 3)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
 - Être capable de simuler différentes opérations unitaires (compresseur, turbine, pompe, échangeur, réacteur, 
@@ -764,8 +765,8 @@ colonne d'absorption gaz-liquide, colonne à distiller) en régime permanent
 GEN-4-com ****************************
 Cet EC relève de l'unité d'enseignement SHS 4 (GEN-4-ue-SHS1) et contribue aux compétences suivantes :            
 
-CT1 Se connaître, se gérer physiquement et mentalement (niveau )
-CT3 Interagir avec les autres, travailler en équipe (niveau 2)
+B1 Se connaître, se gérer physiquement et mentalement (niveau )
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -776,28 +777,28 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-4-sird ****************************
 Cet EC relève de l'unité d'enseignement Stage 1 (GEN-4-ue-STA) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 3)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 3)
-CE3 Mettre en oeuvre une démarche expérimentale ou une démarche de production (niveau 3)
-CE4 Concevoir un système répondant à un cahier des charges (niveau 3)
-CE5 Traiter des données (niveau 3)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 3)
-CT1 Se connaître, se gérer physiquement et mentalement (niveau 3)
-CT2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
-CT3 Interagir avec les autres, travailler en équipe (niveau 3)
-CT4 Faire preuve de créativité, innover, entreprendre (niveau 3)
-CT5 Agir de manière responsable dans un monde complexe (niveau 3)
-CT6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
-CT7 Travailler dans un contexte international et interculturel (niveau 3)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+A3 Mettre en œuvre une démarche expérimentale (niveau 3)
+A4 Concevoir un système répondant à un cahier des charges (niveau 3)
+A5 Traiter des données (niveau 3)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 3)
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+B4 Faire preuve de créativité, innover, entreprendre (niveau 3)
+B5 Agir de manière responsable dans un monde complexe (niveau 3)
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
+B7 Travailler dans un contexte international et interculturel (niveau 3)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
 - Etre capable de rechercher et d'exploiter de la documentation scientifique
 GEN-5-ease-cpse ****************************
 Cet EC relève de l'unité d'enseignement Option EASE (GEN-5-ue-EASE) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 3)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 2)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -819,10 +820,10 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-5-ease-dse ****************************
 Cet EC relève de l'unité d'enseignement Option EASE (GEN-5-ue-EASE) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 3)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 3)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 3)
-CS3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 3)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 3)
+C3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 3)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -839,10 +840,10 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-5-ease-espm ****************************
 Cet EC relève de l'unité d'enseignement Option EASE (GEN-5-ue-EASE) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 3)
-CE4 Concevoir un système répondant à un cahier des charges (niveau 2)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 2)
-CS3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+A4 Concevoir un système répondant à un cahier des charges (niveau 2)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 2)
+C3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -864,10 +865,10 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-5-ease-fdie ****************************
 Cet EC relève de l'unité d'enseignement Option EASE (GEN-5-ue-EASE) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 3)
-CE4 Concevoir un système répondant à un cahier des charges (niveau 2)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 3)
-CS3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+A4 Concevoir un système répondant à un cahier des charges (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 3)
+C3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -881,7 +882,7 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-5-2eit-mbpcep ****************************
 Cet EC relève de l'unité d'enseignement Option 2EIT (GEN-5-ue-2EIT) et contribue aux compétences suivantes :            
 
-CS7 Concevoir et mettre en œuvre une démarche décologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux (niveau 2)
+C7 Concevoir et mettre en œuvre une démarche d'écologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -895,11 +896,11 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-5-2eit-moecot ****************************
 Cet EC relève de l'unité d'enseignement Option 2EIT (GEN-5-ue-2EIT) et contribue aux compétences suivantes :            
 
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 2)
-CS4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques (niveau 2)
-CS5 Utiliser les systèmes de management et les outils danalyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique (niveau 3)
-CS7 Concevoir et mettre en œuvre une démarche décologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux (niveau 2)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 2)
+C4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques (niveau 2)
+C5 Utiliser les systèmes de management et les outils d'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique (niveau 3)
+C7 Concevoir et mettre en œuvre une démarche d'écologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -916,18 +917,18 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-5-2eit-proj ****************************
 Cet EC relève de l'unité d'enseignement Option 2EIT (GEN-5-ue-2EIT) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 3)
-CE4 Concevoir un système répondant à un cahier des charges (niveau 3)
-CE5 Traiter des données (niveau 2)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 3)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
-CS4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques (niveau 3)
-CS5 Utiliser les systèmes de management et les outils danalyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique (niveau 3)
-CS7 Concevoir et mettre en œuvre une démarche décologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux (niveau 3)
-CT2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
-CT4 Faire preuve de créativité, innover, entreprendre (niveau 2)
-CT5 Agir de manière responsable dans un monde complexe (niveau 2)
-CT6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+A4 Concevoir un système répondant à un cahier des charges (niveau 3)
+A5 Traiter des données (niveau 2)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 3)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 2)
+C4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques (niveau 3)
+C5 Utiliser les systèmes de management et les outils d'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique (niveau 3)
+C7 Concevoir et mettre en œuvre une démarche d'écologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux (niveau 3)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -943,14 +944,14 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-5-enfosnuc ****************************
 Cet EC relève de l'unité d'enseignement Filières Energétiques (GEN-5-ue-NRJ) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CS6 Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux (niveau 2)
-CT5 Agir de manière responsable dans un monde complexe (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+C6 Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux (niveau 2)
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
 
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
-CS 1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)
-CS 2 Concevoir, dimensionner, et optimiser des installations de génie des procédés
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -965,14 +966,14 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-5-enren ****************************
 Cet EC relève de l'unité d'enseignement Filières Energétiques (GEN-5-ue-NRJ1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CS6 Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux (niveau 2)
-CT5 Agir de manière responsable dans un monde complexe (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+C6 Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux (niveau 2)
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
 
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
-CS 1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)
-CS 2 Concevoir, dimensionner, et optimiser des installations de génie des procédés
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -991,14 +992,14 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-5-enmar ****************************
 Cet EC relève de l'unité d'enseignement Filières Energétiques (GEN-5-ue-NRJ1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CS6 Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux (niveau 2)
-CT5 Agir de manière responsable dans un monde complexe (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+C6 Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux (niveau 2)
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
 
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
-CS 1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)
-CS 2 Concevoir, dimensionner, et optimiser des installations de génie des procédés
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -1013,14 +1014,14 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-5-optres ****************************
 Cet EC relève de l'unité d'enseignement Filières Energétiques (GEN-5-ue-NRJ1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CS6 Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux (niveau 2)
-CT5 Agir de manière responsable dans un monde complexe (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+C6 Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux (niveau 2)
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
 
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
-CS 1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)
-CS 2 Concevoir, dimensionner, et optimiser des installations de génie des procédés
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -1040,13 +1041,13 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-5-ecoenv ****************************
 Cet EC relève de l'unité d'enseignement Outils et méthodes d'analyses énergétique et environnementale (GEN-5-ue-ENV) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CS5 Utiliser les systèmes de management et les outils danalyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique (niveau 2)
-CT5 Agir de manière responsable dans un monde complexe (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+C5 Utiliser les systèmes de management et les outils d'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique (niveau 2)
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
 
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
-CS 4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques
+C4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -1059,9 +1060,9 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-5-fpep ****************************
 Cet EC relève de l'unité d'enseignement Outils et méthodes d'analyses énergétique et environnementale (GEN-5-ue-SHS5) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CS5 Utiliser les systèmes de management et les outils danalyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique (niveau 2)
-CT5 Agir de manière responsable dans un monde complexe (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+C5 Utiliser les systèmes de management et les outils d'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique (niveau 2)
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -1074,14 +1075,14 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-5-bcACV ****************************
 Cet EC relève de l'unité d'enseignement Outils et méthodes d'analyses énergétique et environnementale (GEN-5-ue-ENV) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CS5 Utiliser les systèmes de management et les outils danalyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique (niveau 2)
-CT5 Agir de manière responsable dans un monde complexe (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+C5 Utiliser les systèmes de management et les outils d'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique (niveau 2)
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
 
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
-CS 1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)
-CS 2 Concevoir, dimensionner, et optimiser des installations de génie des procédés
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -1094,15 +1095,15 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-5-maenv ****************************
 Cet EC relève de l'unité d'enseignement Outils et méthodes d'analyses énergétique et environnementale (GEN-5-ue-ENV) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 2)
-CS5 Utiliser les systèmes de management et les outils danalyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique (niveau 2)
-CT5 Agir de manière responsable dans un monde complexe (niveau 2)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+C5 Utiliser les systèmes de management et les outils d'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique (niveau 2)
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
 
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
-CS 1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)
-CS 2 Concevoir, dimensionner, et optimiser des installations de génie des procédés
-CS 4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés
+C4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
@@ -1116,70 +1117,49 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-5-GES1 ****************************
 Cet EC relève de l'unité d'enseignement Option GESPER (GEN-5-ue-GesPER) et contribue aux compétences suivantes :            
 
-CT2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
-CT3 Interagir avec les autres, travailler en équipe (niveau 3)
-CT4 Faire preuve de créativité, innover, entreprendre (niveau 3)
-CT5 Agir de manière responsable dans un monde complexe (niveau 3)
-CT6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+B4 Faire preuve de créativité, innover, entreprendre (niveau 3)
+B5 Agir de manière responsable dans un monde complexe (niveau 3)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
-- Notions d'innovation, imaginaire, technique et éthique
-- Démarche et outils de marketing stratégique et d'enquête sociologique
-- Principes de la norme ISO 26000 (RS) et des modèles économiques alternatifs (circulaire, collaboratif, ESS)
-- Démarche et outils de communication stratégique et opérationnelle
-- Domaines de la GRH et processus de recrutement
-- Modèles économiques et financier des organisations
-- Les différentes structures juridiques des organisations
+- Innovation, responsabilité sociétale des organisations
+- Démarche de Design thinking
 
 En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
-- Mener une étude de marché et  un entretien d'expert
-- Conduire une enquête sociologique (observation, entretien d'usagers) et établir des personae
-- Faire des choix de gestion en en mesurant l'impact sociétal et environnemental et les leviers de responsabilité
-- Choisir une structure juridique etréaliser un modèle économique et financier responsable adapté
-- Définir une stratégie de communication et l'appliquer pour partie (web, video, presse)
-- Définir une stratégie de recrutement et mettre en œuvre la campagne adaptée
+- Conduire une démarche de Design thinking pour trouver une idée de produit/service présentant une ou plusieurs dimensions d'intérêt sociétal dans une recherche d'innovation / technique
 GEN-5-GES2 ****************************
 Cet EC relève de l'unité d'enseignement Option GESPER (GEN-5-ue-GesPER) et contribue aux compétences suivantes :            
 
-CT1 Se connaître, se gérer physiquement et mentalement (niveau 3)
-CT2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
-CT3 Interagir avec les autres, travailler en équipe (niveau 3)
-CT4 Faire preuve de créativité, innover, entreprendre (niveau 2)
-CT5 Agir de manière responsable dans un monde complexe (niveau 3)
-CT6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+B4 Faire preuve de créativité, innover, entreprendre (niveau 3)
+B5 Agir de manière responsable dans un monde complexe (niveau 3)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :
 
-- Connaître les principes globaux de lean start-up, agilité et design thinking responsables
-- Comprendre les mécanismes de stimulation de l'imaginaire et de la créativité
-- Connaître la technique d'elevator pitch
-- Connaître des outils de gestion de projet et de management visuel
-- Connaître son profil MBTI
+- Stratégie des organisations : valeur & parties prenantes, diagnostic et choix marketing, gouvernance, modèle économique & responsabilité sociétale, modèle financier, communication des organisations
 
 En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
-- Etre capable d'utiliser des techniques de créativité
-- Etre capable de débattre et de réfléchir autour de problématiques sociéatales
-- Etre capable d'appliquer la technique d'elevator pitch et de conduire une réunion
-- Etre capable de créer un MVP (Minimal Viable Product) évolutif et de scénariser son usage
-- Etre capable de travailler en groupe, de communiquer de façon bienveillante et gérer son stress
+- Réaliser une étude de faisabilité stratégique concernant la création de l'organisation dont l'objet a été déterminé en phase 1
 GEN-5-stratenter ****************************
 Cet EC relève de l'unité d'enseignement SHS 5 (GEN-5-ue-SHS) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 3)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 3)
-CE4 Concevoir un système répondant à un cahier des charges (niveau 3)
-CE5 Traiter des données (niveau 3)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 3)
-CS1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 3)
-CS2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 3)
-CS3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 3)
-CS4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques (niveau 3)
-CS6 Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux (niveau 3)
-CS7 Concevoir et mettre en œuvre une démarche décologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux (niveau 3)
-CT2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
-CT3 Interagir avec les autres, travailler en équipe (niveau 3)
-CT5 Agir de manière responsable dans un monde complexe (niveau 3)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+A4 Concevoir un système répondant à un cahier des charges (niveau 3)
+A5 Traiter des données (niveau 3)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 3)
+C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 3)
+C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 3)
+C3 Maitrise des outils de calcul permettant d’analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 3)
+C4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques (niveau 3)
+C6 Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux (niveau 3)
+C7 Concevoir et mettre en œuvre une démarche d'écologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux (niveau 3)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+B5 Agir de manière responsable dans un monde complexe (niveau 3)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
 - Être capable de collecter de l'information diffuse
@@ -1191,36 +1171,50 @@ En permettant à l'étudiant de travailler et d'être évalué sur les capacité
 GEN-5-pird-s1 ****************************
 Cet EC relève de l'unité d'enseignement PIRD 1 (GEN-5-pird-s1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 3)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 3)
-CE3 Mettre en oeuvre une démarche expérimentale ou une démarche de production (niveau 3)
-CE4 Concevoir un système répondant à un cahier des charges (niveau 3)
-CE5 Traiter des données (niveau 3)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 3)
-CT1 Se connaître, se gérer physiquement et mentalement (niveau 3)
-CT2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
-CT3 Interagir avec les autres, travailler en équipe (niveau 3)
-CT4 Faire preuve de créativité, innover, entreprendre (niveau 3)
-CT5 Agir de manière responsable dans un monde complexe (niveau 3)
-CT6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+A3 Mettre en œuvre une démarche expérimentale (niveau 3)
+A4 Concevoir un système répondant à un cahier des charges (niveau 3)
+A5 Traiter des données (niveau 3)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 3)
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+B4 Faire preuve de créativité, innover, entreprendre (niveau 3)
+B5 Agir de manière responsable dans un monde complexe (niveau 3)
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
 - Etre capable de rechercher et d'exploiter de la documentation scientifique
 GEN-5-pird-s2 ****************************
 Cet EC relève de l'unité d'enseignement PIRD 2 (GEN-5-pird-s1) et contribue aux compétences suivantes :            
 
-CE1 Analyser un système (réel ou virtuel) ou un problème (niveau 3)
-CE2 Exploiter un modèle dun système réel ou virtuel  (niveau 3)
-CE3 Mettre en oeuvre une démarche expérimentale ou une démarche de production (niveau 3)
-CE4 Concevoir un système répondant à un cahier des charges (niveau 3)
-CE5 Traiter des données (niveau 3)
-CE6 Communiquer une analyse, une démarche scientifique, une preuve ou une solution de façon argumentée et logique (niveau 3)
-CT1 Se connaître, se gérer physiquement et mentalement (niveau 3)
-CT2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
-CT3 Interagir avec les autres, travailler en équipe (niveau 3)
-CT4 Faire preuve de créativité, innover, entreprendre (niveau 3)
-CT5 Agir de manière responsable dans un monde complexe (niveau 3)
-CT6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+A3 Mettre en œuvre une démarche expérimentale (niveau 3)
+A4 Concevoir un système répondant à un cahier des charges (niveau 3)
+A5 Traiter des données (niveau 3)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 3)
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+B4 Faire preuve de créativité, innover, entreprendre (niveau 3)
+B5 Agir de manière responsable dans un monde complexe (niveau 3)
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
 
 En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :
 - Etre capable de rechercher et d'exploiter de la documentation scientifique
+GEN-5-stage ****************************
+Cet EC relève de l'unité d'enseignement Stage 2 (GEN-5-ue-STA) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+A3 Mettre en œuvre une démarche expérimentale (niveau 3)
+A4 Concevoir un système répondant à un cahier des charges (niveau 3)
+A5 Traiter des données (niveau 3)
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 3)
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+B4 Faire preuve de créativité, innover, entreprendre (niveau 3)
+B5 Agir de manière responsable dans un monde complexe (niveau 3)
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)

@@ -12,6 +12,8 @@ skilvioo = require './skilvioo/skilvioo'
 refCompetences = require './refCompetences'
 {spawn}  = require 'child_process'
 
+DPTINSA = 'GEN'
+
 extractRe = (re, src) ->
   return re.exec(src)[0].split(' : ')[1]
 
@@ -66,7 +68,7 @@ extractPdfStructure = (pdf) ->
     matiere.competencesBrutes = getCompetenceBruteSection(pdf)
   catch error
     console.error("Warning matiere mal saisie #{matiere.code}")
-    console.error(error)
+    # console.error(error)
     return matiere
 
   # Compétences
@@ -75,11 +77,13 @@ extractPdfStructure = (pdf) ->
   if lcompetences?
     try
       matiere.listeComp = lcompetences[1].trim().split(/ (?=[ABC]\d)/).map (x) ->
-        [, compet, niveau] = /([ABC]\d) .*\(niveau (.*)\)/ig.exec(x)
+        [, compet, niveau] = /([ABC]\d) .*\(niveau (.*)\)/i.exec(x)
+        if compet.startsWith('C')
+          compet = "#{DPTINSA}-#{compet}"
 
         comp = _.clone(refCompetences[compet])
         unless comp?
-          throw Error("*#{x}* est inconnue")
+          throw Error("*#{x}* est inconnue, recherche sur #{compet}")
         comp.niveau = niveau
         comp
     catch error
@@ -92,9 +96,11 @@ extractPdfStructure = (pdf) ->
   if lcompetences?
     try
       matiere.listeCompMobilise = lcompetences[1].trim().match(/[ABC]\d /g).map (x) ->
+        if x.startsWith('C')
+          x = "#{DPTINSA}-#{x}"
         comp = refCompetences[x.trim()]
         unless comp?
-          throw Error("#{x} est inconnue")
+          throw Error("-#{x}- est inconnue")
         comp
     catch error
       console.error(lcompetences)
@@ -112,7 +118,12 @@ extractPdfStructure = (pdf) ->
       splitCapacites = lcapacites[1].trim().split(/ *- /)
       splitCapacites.map (capa) ->
         if capa isnt ''
-          [,capaDescription,listComp] = capa.match(/(.*) \((.*)\)/)
+          capaDescription = ''
+          listComp = ''
+          try
+            [,capaDescription,listComp] = capa.match(/(.*) \((.*)\)/)
+          catch error
+            capaDescription = capa
 
           if name is 'Capacité'
             capaDescription = "Capacité : #{capaDescription.trim()}"
@@ -123,8 +134,9 @@ extractPdfStructure = (pdf) ->
 
           lcomps = listComp.split(', ')
           lcomps.map (comp) ->
-            unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
-            matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
+            if _.isNumber(comp)
+              unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
+              matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
 
   injectCapacitesConnaissances("Connaissance", matiere, "En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : ")
   injectCapacitesConnaissances("Capacité", matiere, "En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : ")
@@ -140,7 +152,7 @@ request()
   $ = cheerio.load(body)
   $('.diplome').each () ->
     departement = $(@).attr('id')
-    if departement is 'TC'
+    if departement is DPTINSA
       semestres = []
       $('.contenu table tr td a', @).each () ->
         # if $(@).attr('href') is '/fr/formation/parcours/729/4/2'
@@ -167,7 +179,7 @@ request()
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
             # GCU
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36412&_lang=fr' or
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35638&_lang=fr'
             # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36410&_lang=fr' or
             # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36410&_lang=fr' or
             # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36407&_lang=fr' or

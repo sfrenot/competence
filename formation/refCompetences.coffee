@@ -208,3 +208,24 @@ module.exports =
   'GI-C26':
     'val': "Mettre en œuvre une démarche de responsabilité sociétale"
     'code': 'C26'
+  'GEN-C1':
+    'val': "Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)"
+    'code': 'C1'
+  'GEN-C2':
+    'val': "Concevoir, dimensionner, et optimiser des installations de génie des procédés"
+    'code': 'C2'
+  'GEN-C3':
+    'val': "Maitrise des outils de calcul permettant d¿analyser, de modéliser ou de contrôler un système énergétique ou un procédé"
+    'code': 'C3'
+  'GEN-C4':
+    'val': "Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques"
+    'code': 'C4'
+  'GEN-C5':
+    'val': "Utiliser les systèmes de management et les outils d'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique"
+    'code': 'C5'
+  'GEN-C6':
+    'val': "Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux"
+    'code': 'C6'
+  'GEN-C7':
+    'val': "Concevoir et mettre en œuvre une démarche d'écologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux"
+    'code': 'C7'

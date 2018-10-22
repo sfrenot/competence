@@ -2,6 +2,8 @@ csv = require 'csvtojson'
 Promise = require 'bluebird'
 _ = require 'lodash'
 
+refCompetences = require '../../formation/refCompetences'
+
 currentMat = {}
 currentMat.competencesC = []
 currentMat.competencesM = []
@@ -26,13 +28,24 @@ insertDetail = () ->
         currentMat.ueCode = data.field1
         currentMat.ueName = data.field2
 
+      [, code, num, detail] = /(\w\w) (\d) (.*)/.exec(data.field6.replace('oe', 'œ'))
+      if code is 'CS'
+        ref = "GEN-#{num}"
+      else if code is 'CE'
+        ref = "A#{num}"
+      else if code is 'CT'
+        ref = "B#{num}"
 
-      if data.field7 is 'M'
-        currentMat.competencesM.push(data.field6.replace(/'/g,''))
+
+      if not refCompetences[ref] or refCompetences[ref].val isnt detail
+        console.error("COMPETENCE ERREUR", currentMat, ref, detail)
+        process.exit()
       else
-        [, code, num, name] = /(\w\w) (\d) (.*)/.exec(data.field6)
-        currentMat.competencesC.push("#{code.trim()}#{num.trim()} #{name.replace(/'/g,'')} (niveau #{data.field7})")
-        # currentComp = data.field6.split(' ')[0]
+        if data.field7 is 'M'
+          currentMat.competencesM.push("#{refCompetences[ref].code} #{detail}")
+        else
+          currentMat.competencesC.push("#{refCompetences[ref].code} #{detail} (niveau #{data.field7})")
+          # currentComp = data.field6.split(' ')[0]
 
   addCompetenceOrConnaissance = (data) ->
     if data.field5 is '' then return
@@ -69,6 +82,8 @@ insertDetail = () ->
     datas.forEach (data) ->
       setAndCheckMatiere(data)
       addCompetenceOrConnaissance(data)
+
+    matieres.push(currentMat)
 
     Promise.resolve()
 

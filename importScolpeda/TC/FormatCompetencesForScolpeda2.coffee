@@ -26,7 +26,7 @@ insertDetail = () ->
     if _.isEmpty(currentMat.competencesM)
       currentMat.competencesM = []
 
-    competence = data.field6.replace(/"/g,'').replace('oe', 'œ')
+    competence = data.field6.replace(/"/g,'').replace('oe', 'œ').trim()
 
     [,ref,detail] = /(\w\d) (.*)/.exec(competence)
     if ref > 'B99'
