@@ -22,7 +22,7 @@ buildCaptureMiddle = (from, to) ->
   return regle
 
 getCompetenceBruteSection = (pdf) ->
-  mainSections = ["PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "mailto"]
+  mainSections = ["OBJECTIFS", "PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "\n\nmailto"]
   for section in mainSections
     rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
     if rech?
@@ -117,7 +117,7 @@ extractPdfStructure = (pdf) ->
     if lcapacites?
       splitCapacites = lcapacites[1].trim().split(/ *- /)
       splitCapacites.map (capa) ->
-        if capa isnt ''
+        if capa isnt '' and capa.trim().length > 3 # Taille de la chaine à vérifier
           capaDescription = ''
           listComp = ''
           try
@@ -179,7 +179,7 @@ request()
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
             # GCU
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35638&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36069&_lang=fr'
             # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36410&_lang=fr' or
             # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36410&_lang=fr' or
             # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36407&_lang=fr' or

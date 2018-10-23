@@ -2,230 +2,306 @@
 # Erreur Projet Métier Phase 1 (GCU-51-PM1) : http://planete.insa-lyon.fr/scolpeda/f/ects?id=35951&_lang=fr
 module.exports =
   'E1':
-    'code': 'GCU-E1'
-    'val': "Concevoir et dimensionner des réseaux et ouvrages en (hydrologie et) hydraulique pour les projets d'aménagement urbain, de bâtiments et d'ouvrage d'art"
+     code: 'GCU-E1'
+     val: 'Concevoir et dimensionner des réseaux et ouvrages en (hydrologie et) hydraulique pour les projets d\'aménagement urbain, de bâtiments et d\'ouvrage d\'art'
+     valAnglais: 'Design and size of (hydrology and) hydraulic networks and structures for urban development projects, buildings and structures'
   'GCU-E1':
-    'code': 'GCU-E1'
-    'val': "Concevoir et dimensionner des réseaux et ouvrages en (hydrologie et) hydraulique pour les projets d'aménagement urbain, de bâtiments et d'ouvrage d'art"
+     code: 'GCU-E1'
+     val: 'Concevoir et dimensionner des réseaux et ouvrages en (hydrologie et) hydraulique pour les projets d\'aménagement urbain, de bâtiments et d\'ouvrage d\'art'
+     valAnglais: 'Design and size of (hydrology and) hydraulic networks and structures for urban development projects, buildings and structures'
   'GCU-S2':
-    'code': 'GCU-S2'
-    'val': "Évaluer un risque d'instabilité hydraulique des sols"
+     code: 'GCU-S2'
+     val: 'Évaluer un risque d\'instabilité hydraulique des sols'
+     valAnglais: 'Assess a risk of hydraulic instability of the soil'
   'GCU-S3':
-    'code': 'GCU-S3'
-    'val': "Réaliser et/ou interpréter des essais géotechniques en laboratoire de classification et de comportement"
+     code: 'GCU-S3'
+     val: 'Réaliser et/ou interpréter des essais géotechniques en laboratoire de classification et de comportement'
+     valAnglais: 'Perform and / or interpret geotechnical laboratory tests for classification and behavior'
   'GCU-S4':
-    'code': 'GCU-S4'
-    'val': "Évaluer un risque de rupture de pente sous diverses sollicitations"
+     code: 'GCU-S4'
+     val: 'Évaluer un risque de rupture de pente sous diverses sollicitations'
+     valAnglais: 'Evaluate a risk of slope failure under various stresses'
   'GCU-S5':
-    'code': 'GCU-S5'
-    'val': "Concevoir, dimensionner, modéliser ou vérifier des systèmes de fondations et de soutènements"
+     code: 'GCU-S5'
+     val: 'Concevoir, dimensionner, modéliser ou vérifier des systèmes de fondations et de soutènements'
+     valAnglais: 'Design, dimension, model or verify foundation and support systems'
   'GCU-C1':
-    'code':'GCU-C1'
-    'val': "concevoir et dimensionner / contrôler une structure de bâtiment"
+     code: 'GCU-C1'
+     val: 'concevoir et dimensionner / contrôler une structure de bâtiment'
+     valAnglais: 'design and dimension / control a building structure'
   'GCU-C2':
-    'code':'GCU-C2'
-    'val': "Concevoir et dimensionner / contrôler un ouvrage d\'art (pont)"
+     code: 'GCU-C2'
+     val: 'Concevoir et dimensionner / contrôler un ouvrage d\'art (pont)'
+     valAnglais: 'Design and dimension / control an art work (bridge)'
   'GCU-C3':
-    'code':'GCU-C3'
-    'val': "Concevoir et dimensionner / contrôler une infrastructure sur le plan structurel"
+     code: 'GCU-C3'
+     val: 'Concevoir et dimensionner / contrôler une infrastructure sur le plan structurel'
+     valAnglais: 'Design and dimension / control infrastructure at the structural level'
   'GCU-C6':
-    'code':'GCU-C6'
-    'val': "Evaluer les modes constructifs (critères techniques, sécurité, coûts, délais)"
+     code: 'GCU-C6'
+     val: 'Evaluer les modes constructifs (critères techniques, sécurité, coûts, délais)'
+     valAnglais: 'Evaluate construction methods (technical criteria, safety, costs, deadlines)'
   'GCU-T1':
-    'code':'GCU-T1'
-    'val': "Contribuer à une conception pluridisciplinaire des bâtiments"
+     code: 'GCU-T1'
+     val: 'Contribuer à une conception pluridisciplinaire des bâtiments'
+     valAnglais: 'Contribute to a multidisciplinary conception of buildings'
   'GCU-T2':
-    'code': 'GCU-T2'
-    'val': "Contribuer à l'organisation de chantiers de construction, au respect des règles de sécurité, à la maîtrise des délais, etc."
+     code: 'GCU-T2'
+     val: 'Contribuer à l\'organisation de chantiers de construction, au respect des règles de sécurité, à la maîtrise des délais, etc.'
+     valAnglais: 'Contribute to the organization of construction sites, compliance with safety rules, control of deadlines, etc.'
   'GCU-T3':
-    'code':'GCU-T3'
-    'val': "Contribuer à des aménagements et constructions durables"
+     code: 'GCU-T3'
+     val: 'Contribuer à des aménagements et constructions durables'
+     valAnglais: 'Contribute to sustainable development and construction'
   'GCU-T4':
-    'code': 'GCU-T4'
-    'val': "Gérer (évaluer, maintenir, réhabiliter) des ouvrages existants  Capacités visées : Mettre en œuvre des méthodes d'optimisation"
+     code: 'GCU-T4'
+     val: 'Gérer (évaluer, maintenir, réhabiliter) des ouvrages existants  Capacités visées : Mettre en œuvre des méthodes d\'optimisation'
+     valAnglais: 'Manage (evaluate, maintain, rehabilitate) existing structures Capabilities targeted: Implement optimization methods'
   'GCU-U1':
-    'code':'GCU-U1'
-    'val': 'Analyser une situation urbaine (technique, politique, sociale,...)'
+     code: 'GCU-U1'
+     val: 'Analyser une situation urbaine (technique, politique, sociale,...)'
+     valAnglais: 'Analyze an urban situation (technical, political, social, ...)'
   'GCU-U3':
-    'code':'GCU-U3'
-    'val': "Concevoir et conduire un projet d'aménagement urbain"
+     code: 'GCU-U3'
+     val: 'Concevoir et conduire un projet d\'aménagement urbain'
+     valAnglais: 'Design and lead an urban development project'
   'GCU-P1':
-    'code': 'GCU-P1'
-    'val': 'Concevoir et dimensionner / contrôler les solutions techniques pour la qualité thermique, aéraulique, acoustique d\'un bâtiment'
+     code: 'GCU-P1'
+     val: 'Concevoir et dimensionner / contrôler les solutions techniques pour la qualité thermique, aéraulique, acoustique d\'un bâtiment'
+     valAnglais: 'Design and dimension / control the technical solutions for the thermal, aeraulic and acoustic quality of a building'
   'GCU-P2':
-    'code': 'GCU-P2'
-    'val': 'Évaluer les performances thermiques d\'un bâtiment ou équipement, définir les actions nécessaires'
+     code: 'GCU-P2'
+     val: 'Évaluer les performances thermiques d\'un bâtiment ou équipement, définir les actions nécessaires'
+     valAnglais: 'Evaluate the thermal performance of a building or equipment, define the necessary actions'
   'A1':
-    'code':'A1'
-    'val': "Analyser un système (ou un problème) réel ou virtuel"
+     code: 'A1'
+     val: 'Analyser un système (ou un problème) réel ou virtuel'
+     valAnglais: 'Analyze a real or virtual system (or problem)'
   'A2':
-    'code':'A2'
-    'val': "Exploiter un modèle d'un système réel ou virtuel"
+     code: 'A2'
+     val: 'Exploiter un modèle d\'un système réel ou virtuel'
+     valAnglais: 'Exploit a model of a real or virtual system'
   'A3':
-    'code':'A3'
-    'val': "Mettre en œuvre une démarche expérimentale"
+     code: 'A3'
+     val: 'Mettre en œuvre une démarche expérimentale'
+     valAnglais: 'Implement an experimental approach'
   'A4':
-    'code':'A4'
-    'val': "Concevoir un système répondant à un cahier des charges"
+     code: 'A4'
+     val: 'Concevoir un système répondant à un cahier des charges'
+     valAnglais: 'Design a system that meets a set of specifications'
   'A5':
-    'code':'A5'
-    'val': "Traiter des données"
+     code: 'A5'
+     val: 'Traiter des données'
+     valAnglais: 'Process data'
   'A6':
-    'code':'A6'
-    'val': "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité"
+     code: 'A6'
+     val: 'Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité'
+     valAnglais: 'Communicate an analysis or a scientific approach with scenarios adapted to their specialty'
   'B1':
-    'code':'B1'
-    'val': "Se connaître, se gérer physiquement et mentalement"
+     code: 'B1'
+     val: 'Se connaître, se gérer physiquement et mentalement'
+     valAnglais: 'To know oneself, to manage oneself physically and mentally'
   'B2':
-    'code':'B2'
-    'val': "Travailler, apprendre, évoluer de manière autonome"
+     code: 'B2'
+     val: 'Travailler, apprendre, évoluer de manière autonome'
+     valAnglais: 'Work, learn, evolve autonomously'
   'B3':
-    'code':'B3'
-    'val': "Interagir avec les autres, travailler en équipe"
+     code: 'B3'
+     val: 'Interagir avec les autres, travailler en équipe'
+     valAnglais: 'Interact with others, work in a team'
   'B4':
-    'code':'B4'
-    'val': "Faire preuve de créativité, innover, entreprendre"
+     code: 'B4'
+     val: 'Faire preuve de créativité, innover, entreprendre'
+     valAnglais: 'Show creativity, innovate, undertake'
   'B5':
-    'code':'B5'
-    'val': "Agir de manière responsable dans un monde complexe"
+     code: 'B5'
+     val: 'Agir de manière responsable dans un monde complexe'
+     valAnglais: 'Act responsibly in a complex world'
   'B6':
-    'code':'B6'
-    'val': "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive"
+     code: 'B6'
+     val: 'Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive'
+     valAnglais: 'Situate, work, evolve in a company, a socio-productive organization'
   'B7':
-    'code':'B7'
-    'val': "Travailler dans un contexte international et interculturel"
+     code: 'B7'
+     val: 'Travailler dans un contexte international et interculturel'
+     valAnglais: 'Work in an international and intercultural context'
   'TC-C1':
-    'code':'C1'
-    'val': "Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données"
+     code: 'C1'
+     val: 'Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données'
+     valAnglais: 'Specify, design and model transmission and signal / image / data processing systems'
   'TC-C2':
-    'code':'C2'
-    'val': "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles"
+     code: 'C2'
+     val: 'Spécifier, concevoir et modéliser des réseaux de communication et des protocoles'
+     valAnglais: 'Specify, design and model communication networks and protocols'
   'TC-C3':
-    'code':'C3'
-    'val': "Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques"
+     code: 'C3'
+     val: 'Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques'
+     valAnglais: 'Specify, design and model algorithms and computer programs'
   'TC-C4':
-    'code':'C4'
-    'val': "Spécifier et dimensionner des systèmes numériques en réponse au besoin clients"
+     code: 'C4'
+     val: 'Spécifier et dimensionner des systèmes numériques en réponse au besoin clients'
+     valAnglais: 'Specify and size digital systems in response to customer needs'
   'TC-C5':
-    'code':'C5'
-    'val': "Mettre en œuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données"
+     code: 'C5'
+     val: 'Mettre en œuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données'
+     valAnglais: 'Implement, implement, develop, deploy systems for transmission and processing of signals / images / data'
   'TC-C6':
-    'code':'C6'
-    'val': "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles"
+     code: 'C6'
+     val: 'Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles'
+     valAnglais: 'Implement, implement, develop, deploy networks and protocols'
   'TC-C7':
-    'code':'C7'
-    'val': "Mettre en œuvre, réaliser, développer, déployer des programmes informatiques"
+     code: 'C7'
+     val: 'Mettre en œuvre, réaliser, développer, déployer des programmes informatiques'
+     valAnglais: 'Implement, implement, develop, deploy computer programs'
   'TC-C8':
-    'code':'C8'
-    'val': "Opérer, analyser, améliorer des systèmes numériques"
+     code: 'C8'
+     val: 'Opérer, analyser, améliorer des systèmes numériques'
+     valAnglais: 'Operate, analyze, improve digital systems'
   'TC-C9':
-    'code':'C9'
-    'val': "Conduire des projets dans le domaine du numérique"
+     code: 'C9'
+     val: 'Conduire des projets dans le domaine du numérique'
+     valAnglais: 'Conduct projects in the digital domain'
   'GE-C1':
-    'code': 'C1'
-    'val':'Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d\'un montage'
+     code: 'C1'
+     val: 'Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d\'un montage'
+     valAnglais: 'Implement analog and / or digital electronic components and identify their function within an assembly'
   'GE-C2':
-    'code': 'C2'
-    'val':'Mettre en œuvre les propriétés physiques des matériaux pour le domaine du génie électrique'
+     code: 'C2'
+     val: 'Mettre en œuvre les propriétés physiques des matériaux pour le domaine du génie électrique'
+     valAnglais: 'Implement the physical properties of materials for the field of electrical engineering'
   'GE-C3':
-    'code': 'C3'
-    'val':'Mettre en œuvre les différents éléments de production d’énergie, de transport d’énergie électrique et de conversion d\'énergie'
+     code: 'C3'
+     val: 'Mettre en œuvre les différents éléments de production d’énergie, de transport d’énergie électrique et de conversion d\'énergie'
+     valAnglais: 'Implement the various elements of energy production, transport of electrical energy and energy conversion'
   'GE-C4':
-    'code': 'C4'
-    'val': 'Spécifier, modéliser et concevoir les méthodes et algorithmes pour le traitement et la gestion de l\'information véhiculée par les signaux et les images'
+     code: 'C4'
+     val: 'Spécifier, modéliser et concevoir les méthodes et algorithmes pour le traitement et la gestion de l\'information véhiculée par les signaux et les images'
+     valAnglais: 'Specify, model and design methods and algorithms for the processing and management of information conveyed by signals and images'
   'GE-C5':
-    'code': 'C5'
-    'val': "Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données"
+     code: 'C5'
+     val: 'Concevoir et réaliser des systèmes électroniques pour l\'acquisition, le traitement, la commande et la communication de données'
+     valAnglais: 'Design and build electronic systems for data acquisition, processing, control and communication'
   'GE-C6':
-    'code': 'C6'
-    'val': 'Mettre en œuvre les étapes permettant le contrôle du fonctionnement d’un système discret ou continu'
+     code: 'C6'
+     val: 'Mettre en œuvre les étapes permettant le contrôle du fonctionnement d’un système discret ou continu'
+     valAnglais: 'Implement steps to control the operation of a discrete or continuous system'
   'GE-C7':
-    'code': 'C7'
-    'val': 'Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l’information)'
+     code: 'C7'
+     val: 'Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l’information)'
+     valAnglais: 'Design and develop high and low level software for systems (information processing and management)'
   'GE-C8':
-    'code': 'C8'
-    'val': 'Mettre en œuvre des principes et stratégies d’ordonnancements des tâches et de gestion'
+     code: 'C8'
+     val: 'Mettre en œuvre des principes et stratégies d’ordonnancements des tâches et de gestion'
+     valAnglais: 'Implement principles and strategies for scheduling tasks and managing'
   'GI-C6':
-    'val': "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité"
-    'code': 'C6'
+     val: 'Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité'
+       code: 'C6'
+     valAnglais: 'Communicate an analysis or a scientific approach with scenarios adapted to their specialty'
   'GI-C7':
-    'val': "Observer, mesurer, analyser et interpréter une activité ou un système à partir de données"
-    'code': 'C7'
+     val: 'Observer, mesurer, analyser et interpréter une activité ou un système à partir de données'
+       code: 'C7'
+     valAnglais: 'Observe, measure, analyze and interpret an activity or system from data'
   'GI-C8':
-    'val': "Modéliser, concevoir un système d'informations, de décision et de production de biens et de services"
-    'code': 'C8'
+     val: 'Modéliser, concevoir un système d\'informations, de décision et de production de biens et de services'
+       code: 'C8'
+     valAnglais: 'Modeling, designing a system of information, decision-making and production of goods and services'
   'GI-C9':
-    'val': "Evaluer, prototyper ou simuler un système"
-    'code': 'C9'
+     val: 'Evaluer, prototyper ou simuler un système'
+       code: 'C9'
+     valAnglais: 'Evaluate, prototype or simulate a system'
   'GI-C10':
-    'val': "Dimensionner la partie matérielle et/ou logicielle d'un système"
-    'code': 'C10'
+     val: 'Dimensionner la partie matérielle et/ou logicielle d\'un système'
+       code: 'C10'
+     valAnglais: 'Dimension the hardware and / or software part of a system'
   'GI-C11':
-    'val': "Piloter un système de production et réagir aux dysfonctionnements"
-    'code': 'C11'
+     val: 'Piloter un système de production et réagir aux dysfonctionnements'
+       code: 'C11'
+     valAnglais: 'Pilot a production system and react to malfunctions'
   'GI-C12':
-    'val': "Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production"
-    'code': 'C12'
+     val: 'Choisir des outils de production adaptés, les intégrer dans un environnement et les configurer, et mettre en place un système de production'
+       code: 'C12'
+     valAnglais: 'Choose suitable production tools, integrate them into an environment and configure them, and set up a production system'
   'GI-C13':
-    'val': "Élaborer et mettre en œuvre une stratégie d’achats"
-    'code': 'C13'
+     val: 'Élaborer et mettre en œuvre une stratégie d’achats'
+       code: 'C13'
+     valAnglais: 'Develop and implement a purchasing strategy'
   'GI-C14':
-    'val': "Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks"
-    'code': 'C14'
+     val: 'Piloter les approvisionnements en lien avec la politique de planification et de gestion des stocks'
+       code: 'C14'
+     valAnglais: 'Manage supplies related to planning and inventory management policy'
   'GI-C15':
-    'val': "Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique"
-    'code': 'C15'
+     val: 'Localiser et affecter les activités de production, de stockage et transport aux différents membres de la chaîne logistique'
+       code: 'C15'
+     valAnglais: 'Locate and assign production, storage, and transportation activities to different members of the supply chain'
   'GI-C16':
-    'val': "Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l'amélioration continue"
-    'code': 'C16'
+     val: 'Définir et appliquer un plan d’actions dans le cadre d’une démarche qualité et de l\'amélioration continue'
+       code: 'C16'
+     valAnglais: 'Define and apply an action plan as part of a quality approach and continuous improvement'
   'GI-C17':
-    'val': "Appréhender et évaluer une structure de manière globale, au travers de grilles de lecture socio-économiques"
-    'code': 'C17'
+     val: 'Appréhender et évaluer une structure de manière globale, au travers de grilles de lecture socio-économiques'
+       code: 'C17'
+     valAnglais: 'Apprehend and evaluate a structure in a global way, through socio-economic reading grids'
   'GI-C18':
-    'val': "Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités"
-    'code': 'C18'
+     val: 'Faire évoluer les organisations pour répondre à de nouvelles contraintes ou opportunités'
+       code: 'C18'
+     valAnglais: 'Evolve organizations to respond to new constraints or opportunities'
   'GI-C19':
-    'val': "Prendre en compte l'innovation technologique et méthodologique"
-    'code': 'C19'
+     val: 'Prendre en compte l\'innovation technologique et méthodologique'
+       code: 'C19'
+     valAnglais: 'Take into account technological and methodological innovation'
   'GI-C20':
-    'val': "Conduire collectivement un projet : organisation, communication, animation, coordination du groupe"
-    'code': 'C20'
+     val: 'Conduire collectivement un projet : organisation, communication, animation, coordination du groupe'
+       code: 'C20'
+     valAnglais: 'Collectively lead a project: organization, communication, animation, group coordination'
   'GI-C21':
-    'val': "Piloter un projet en s'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette)"
-    'code': 'C21'
+     val: 'Piloter un projet en s\'appuyant sur un plan directeur (planification, élaboration du budget, définition des indicateurs de suivi, réaliser une recette)'
+       code: 'C21'
+     valAnglais: 'Pilot a project based on a master plan (planning, budgeting, definition of monitoring indicators, make a recipe)'
   'GI-C22':
-    'val': "Identifier, analyser et maîtriser les risques inhérents à un projet"
-    'code': 'C22'
+     val: 'Identifier, analyser et maîtriser les risques inhérents à un projet'
+       code: 'C22'
+     valAnglais: 'Identify, analyze and control the risks inherent to a project'
   'GI-C23':
-    'val': "Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)"
-    'code': 'C23'
+     val: 'Identifier, formaliser et contractualiser les besoins d’un client, suivre leur évolution et valider leur respect (traçabilité des besoins)'
+       code: 'C23'
+     valAnglais: 'Identify, formalize and contract the needs of a customer, monitor their evolution and validate their compliance (traceability of needs)'
   'GI-C24':
-    'val': "Identifier les compétences et savoirs critiques d’une organisation et mettre en œuvre des outils et méthodes pour les pérenniser"
-    'code': 'C24'
+     val: 'Identifier les compétences et savoirs critiques d’une organisation et mettre en œuvre des outils et méthodes pour les pérenniser'
+       code: 'C24'
+     valAnglais: 'Identify the critical skills and knowledge of an organization and implement tools and methods to perpetuate them'
   'GI-C25':
-    'val': "Réaliser une analyse socio-organisationnelle afin de mieux appréhender les effets des changements et d'y adapter ses stratégies"
-    'code': 'C25'
+     val: 'Réaliser une analyse socio-organisationnelle afin de mieux appréhender les effets des changements et d\'y adapter ses stratégies'
+       code: 'C25'
+     valAnglais: 'Conduct a socio-organizational analysis to better understand the effects of changes and adapt their strategies'
   'GI-C26':
-    'val': "Mettre en œuvre une démarche de responsabilité sociétale"
-    'code': 'C26'
+     val: 'Mettre en œuvre une démarche de responsabilité sociétale'
+       code: 'C26'
+     valAnglais: 'Implement a social responsibility approach'
   'GEN-C1':
-    'val': "Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)"
-    'code': 'C1'
+     val: 'Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport)'
+       code: 'C1'
+     valAnglais: 'Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)'
   'GEN-C2':
-    'val': "Concevoir, dimensionner, et optimiser des installations de génie des procédés"
-    'code': 'C2'
+     val: 'Concevoir, dimensionner, et optimiser des installations de génie des procédés'
+       code: 'C2'
+     valAnglais: 'Design, size, and optimize process engineering facilities'
   'GEN-C3':
-    'val': "Maitrise des outils de calcul permettant d¿analyser, de modéliser ou de contrôler un système énergétique ou un procédé"
-    'code': 'C3'
+     val: 'Maitrise des outils de calcul permettant d¿analyser, de modéliser ou de contrôler un système énergétique ou un procédé'
+       code: 'C3'
+     valAnglais: 'Mastery of computing tools to analyze, model or control an energy system or process'
   'GEN-C4':
-    'val': "Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques"
-    'code': 'C4'
+     val: 'Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques'
+       code: 'C4'
+     valAnglais: 'Integrate major environmental issues into the development strategies of human systems'
   'GEN-C5':
-    'val': "Utiliser les systèmes de management et les outils d'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique"
-    'code': 'C5'
+     val: 'Utiliser les systèmes de management et les outils d\'analyse dans le cadre d’une démarche de Développement Durable et de Responsabilité Sociétale des organisations : aspects normatif, socio-économique, financier et technique'
+       code: 'C5'
+     valAnglais: 'Use management systems and analysis tools as part of a Sustainable Development and Corporate Social Responsibility approach for organizations: normative, socio-economic, financial and technical aspects'
   'GEN-C6':
-    'val': "Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux"
-    'code': 'C6'
+     val: 'Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux'
+       code: 'C6'
+     valAnglais: 'Integrate the major issues of the energy transition: technical, economic, legal and environmental aspects'
   'GEN-C7':
-    'val': "Concevoir et mettre en œuvre une démarche d'écologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux"
-    'code': 'C7'
+     val: 'Concevoir et mettre en œuvre une démarche d\'écologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux'
+       code: 'C7'
+     valAnglais: 'Design and implement an industrial and territorial ecology approach to optimize resource management and limit environmental impacts'

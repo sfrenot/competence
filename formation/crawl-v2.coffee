@@ -21,7 +21,7 @@ buildCaptureMiddle = (from, to) ->
   return regle
 
 getCompetenceBruteSection = (pdf) ->
-  mainSections = ["PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "mailto"]
+  mainSections = ["PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "\n\nmailto"]
   for section in mainSections
     rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
     if rech?
