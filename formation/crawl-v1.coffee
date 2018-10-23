@@ -157,6 +157,7 @@ request()
       $('.contenu table tr td a', @).each () ->
         # if $(@).attr('href') is '/fr/formation/parcours/729/4/2'
         # if $(@).attr('href') is '/fr/formation/parcours/719/3/1' #GCU
+        if $(@).text().trim() is 'Parcours Standard'
           semestres.push
             url: $(@).attr('href')
             ecs: []

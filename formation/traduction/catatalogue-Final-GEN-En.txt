@@ -1,0 +1,927 @@
+GEN-3-genepi-s2 ****************************
+This EC is part of the teaching unit Humanities and Social Sciences and Sport 2 (GEN-3-ue-SHS2) and contributes to the following skills:            
+
+B1 To know oneself, to manage oneself physically and mentally
+B2 Work, learn, evolve autonomously
+B3 Interact with others, work in a team
+B4 Show creativity, innovate, undertake
+B5 Act responsibly in a complex world
+B6 Situate, work, evolve in a company, a socio-productive organization
+B7 Work in an international and intercultural context
+  Ability: To be able to identify its modes of operation
+  Ability: To be able to acquire new skills on your own by searching for the necessary resources
+  Ability: To be able to integrate into a group, to position oneself, to build a dynamic relationship with the group, to integrate new members
+  Ability: Being able to engage in a collective project: build and lead a project, make it evolve; become aware of their role and responsibility
+  Ability: To be able to communicate appropriately: to convey a message, to listen, to show empathy, to assert one's point of view, to debate in a well-reasoned manner
+  Ability: Being able to grasp complex issues
+GEN-3-math ****************************
+This EC is part of the teaching unit Tools for the Engineer 1 (GEN-3-ue-OPI1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+C3 Mastery of computing tools to analyze, model or control an energy system or process
+  Ability: Being able to solve a differential equation using different tools
+  Ability: Being able to solve the equation of heat in various configurations
+  Ability: To be able to model and solve a problem from other EC
+  Ability: Being able to implement a digital strategy with VBA
+  Knowledge: Knowing the integral transformations of Laplace and Fourier
+  Knowledge: Knowing various techniques for solving differential equations
+  Knowledge: Know the special features
+  Knowledge: Know the time-frequency analysis
+  Knowledge: Knowing the mathematical foundations of numerical analysis
+GEN-3-genepi-s1 ****************************
+This EC is part of the teaching unit Humanities and Social Sciences and Sport 1 (GEN-3-ue-SHS1) and contributes to the following skills:            
+
+B1 To know oneself, to manage oneself physically and mentally
+B2 Work, learn, evolve autonomously
+B3 Interact with others, work in a team
+B4 Show creativity, innovate, undertake
+B5 Act responsibly in a complex world
+B6 Situate, work, evolve in a company, a socio-productive organization
+B7 Work in an international and intercultural context
+  Ability: To be able to identify its modes of operation
+  Ability: To be able to acquire new skills on your own by searching for the necessary resources
+  Ability: To be able to integrate into a group, to position oneself, to build a dynamic relationship with the group, to integrate new members
+  Ability: Being able to engage in a collective project: build and lead a project, make it evolve; become aware of their role and responsibility
+  Ability: To be able to communicate appropriately: to convey a message, to listen, to show empathy, to assert one's point of view, to debate in a well-reasoned manner
+  Ability: Being able to grasp complex issues
+GEN-3-msphy ****************************
+This EC is part of the teaching unit Tools for Engineer 2 (GEN-3-ue-OPI2) and contributes to the following skills:            
+
+A3 Implement an experimental approach
+A4 Design a system that meets a set of specifications
+C3 Mastery of computing tools to analyze, model or control an energy system or process
+  Ability: To be able to choose a suitable sensor in a supplier catalog
+  Capacity: To be able to use a sensor reliably
+  Ability: Being able to analyze the result of a measurement
+  Knowledge: Knowing the principle and notions related to measurement chains
+  Knowledge: Know the main types of sensors commonly used in the industry
+
+In addition, it requires the following skills:
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A5 Process data
+GEN-5-2eit-moecot ****************************
+This EC is part of the teaching unit Option Ecotechnology and Industrial and Territorial Ecology (GEN-5-ue-2EIT) and contributes to the following skills:            
+
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+C4 Integrate major environmental issues into the development strategies of human systems
+C5 Use management systems and analysis tools as part of a Sustainable Development and Corporate Social Responsibility approach for organizations: normative, socio-economic, financial and technical aspects
+C7 Design and implement an industrial and territorial ecology approach to optimize resource management and limit environmental impacts
+  Ability: To know how to choose and apply the different biological treatment routes to the concrete case of a project
+  Ability: To know how to choose and apply the different ways of heat treatments to the concrete case of a project
+  Capacity: Know how to choose and apply the different effluent treatment routes to the concrete case of a project
+  Knowledge: Knowing and understanding stakeholder games and territorial synergy strategies
+  Knowledge: Know the different ways of treatment and recovery of waste and effluents of a territory
+  Knowledge: Knowing the advantages and disadvantages of biological treatments
+  Knowledge: Knowing the advantages and disadvantages of heat treatments
+  Knowledge: Knowing the advantages and disadvantages of effluent treatments
+GEN-5-maenv ****************************
+This EC is part of the teaching unit Tools and Methods for Energy and Environmental Analysis (GEN-5-EU-ENV) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+C5 Use management systems and analysis tools as part of a Sustainable Development and Corporate Social Responsibility approach for organizations: normative, socio-economic, financial and technical aspects
+B5 Act responsibly in a complex world
+  Ability: To be able to position and use management systems effectively
+  Knowledge: Know the objectives and purpose of management systems Quality, Hygiene, Health, Safety, Environment & Energy
+  Knowledge: Know the requirements and philosophy of a comprehensive and integrated risk management system
+  Knowledge: Know the associated managerial issues
+  Knowledge: knowledge of audit and evaluation processes
+
+In addition, it requires the following skills:
+
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+C4 Integrate major environmental issues into the development strategies of human systems
+GEN-3-cond ****************************
+This EC is part of the teaching unit Energy and Processes 1 (GEN-3-ue-NRJ1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A3 Implement an experimental approach
+A5 Process data
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+  Ability: to be able to choose the existing solution of the equation of heat in 1D in a solid according to the real problem
+  Ability: to be able to integrate the equation of heat in a solid, in steady state and in 1D, with simple geometries
+  Ability: to be able to identify the boundary conditions of a real thermal conduction problem and apply them to the solution, so as to determine the temperature field
+  Ability: to be able to perform a heat balance on an infinitely small fin element so as to result in the differential equation governing the temperature field
+  Ability: to be able to choose the existing solution of the differential equation governing the temperature field in a fin depending on the real problem
+  Ability: to be able to determine a flow or density of flow from the spatio equation
+  Capacity: temporal temperature
+  Ability: to be able to calculate the effectiveness of a fin or a fined surface
+  Knowledge: to know the fundamental concepts of the thermal conduction in the solids: field and gradients of temperatures, isothermal surface, flux and density of flow, source, Fourier's law
+  Knowledge: knowledge of the equation of heat and its different solutions in steady state and transient, for 1D problems in simple geometries
+  Knowledge: knowing the different boundary conditions of a thermal conduction problem
+  Knowledge: knowledge of thermal models of thin fins with constant section and thin fins with constant thickness: temperature fields, flux dissipated, fin efficiency and finned surface
+  Knowledge: knowing the dimensionless numbers characteristic of thermal conduction
+GEN-5-2eit-mbpcep ****************************
+This EC is part of the teaching unit Option Ecotechnology and Industrial and Territorial Ecology (GEN-5-ue-2EIT) and contributes to the following skills:            
+
+C7 Design and implement an industrial and territorial ecology approach to optimize resource management and limit environmental impacts
+  Ability: ability to describe complex complex material for environmental assessment
+  Ability: To describe the behavior of a material in contact with a solid phase
+  Ability: To know how to use the simple functionalities of a geochemical modeling software
+  Knowledge: Knowing the main basic mechanisms
+  Knowledge: To know the different models allowing to describe the mechanisms of retention or mobility of the pollutants.
+GEN-3-genepi-s1 ****************************
+This EC is part of the teaching unit Humanities and Social Sciences and Sport 1 (GEN-3-ue-SHS1) and contributes to the following skills:            
+
+B1 To know oneself, to manage oneself physically and mentally
+B2 Work, learn, evolve autonomously
+B3 Interact with others, work in a team
+B4 Show creativity, innovate, undertake
+B5 Act responsibly in a complex world
+B6 Situate, work, evolve in a company, a socio-productive organization
+B7 Work in an international and intercultural context
+  Ability: To be able to identify its modes of operation
+  Ability: To be able to acquire new skills on your own by searching for the necessary resources
+  Ability: To be able to integrate into a group, to position oneself, to build a dynamic relationship with the group, to integrate new members
+  Ability: Being able to engage in a collective project: build and lead a project, make it evolve; become aware of their role and responsibility
+  Ability: To be able to communicate appropriately: to convey a message, to listen, to show empathy, to assert one's point of view, to debate in a well-reasoned manner
+  Ability: Being able to grasp complex issues
+GEN-3-envir ****************************
+This EC is part of the teaching unit Environment 1 (GEN-3-EU-ENV1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+C4 Integrate major environmental issues into the development strategies of human systems
+C7 Design and implement an industrial and territorial ecology approach to optimize resource management and limit environmental impacts
+  Capacity: Ability to assess the environmental consequences of human activities
+  Ability: Ability to integrate environmental aspects into technical and organizational choices
+  Ability: Ability to argue in societal debates about the environmental impacts of industrial and urban systems
+  Ability: Ability to broaden and deepen one's knowledge from the basics of the course and to communicate on a particular environmental topic
+  Knowledge: Know the principles of ecosystem functioning and the general characteristics of natural environments
+  Knowledge: Knowing the water cycle, the biogeochemical cycle of carbon
+  Knowledge: Knowing the types of pressures and impacts of anthropogenic activities on natural environments, ecosystems and carbon cycles
+  Knowledge: To know the consequences of the use of the water by the man in term of quantities taken and pollutions generated.
+  Knowledge: Know the parameters used to describe the quality and level of pollution of the air and aquatic environments
+  Knowledge: Knowing the consequences of air pollution and the issues involved
+  Knowledge: Knowing the principles and methods of circular economy
+GEN-5-optres ****************************
+This EC is part of the teaching unit Energy sectors (GEN-5-ue-NRJ1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+C6 Integrate the major issues of the energy transition: technical, economic, legal and environmental aspects
+B5 Act responsibly in a complex world
+  Capacity: Being able to implement the method of pinching to reduce the energy consumption of an industrial site
+  Ability: To be able to argue well on heat networks
+  Ability: To be able to argue arguably about the transportation and distribution of electricity
+  Ability: To be able to argue arguably about the transportation and distribution of gas
+  Ability: To be able to argue arguably about the hydrogen sector
+  Knowledge: Knowing the pinch method for optimizing energy consumption
+  Knowledge: Knowing the issues, principles and technological solutions for heat networks
+  Knowledge: Knowing the issues, principles and technological solutions for electricity transmission systems
+  Knowledge: Knowing the issues, principles and technological solutions for electricity distribution networks
+  Knowledge: Knowing the issues, principles and technological solutions for gas transmission and distribution networks
+  Knowledge: Knowing the issues, principles and technological solutions for the hydrogen sector
+
+In addition, it requires the following skills:
+
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+GEN-3-mcflu ****************************
+This EC is part of the teaching unit Energy and Processes 1 (GEN-3-ue-NRJ1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A3 Implement an experimental approach
+A5 Process data
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+  Capacity: Make mass balances, momentum and kinetic energy
+  Capacity: Study, model and dimension in statics and dynamics of hydraulic and aeraulic flows in perfect fluids and in real fluids
+  Capacity: Choose a volume of control for the study and the dimensioning of hydraulic and aeraulic installations
+  Capacity: Perform a dimensional analysis of hydraulic and aeraulic installations
+  Capacity: Use reduced flow models for laminar or turbulent boundary layers
+  Knowledge: Notion of imbalance and transport
+  Knowledge: Descriptions of fluid movement, different flow regimes
+  Knowledge: Laws describing the movement of a fluid
+  Knowledge: Numbers without dimension in fluid mechanics
+  Knowledge: Principle of lift and drag on objects placed in a flow
+GEN-5-stratenter ****************************
+This EC is part of the teaching unit Humanities and Social Sciences and Sport (GEN-5-ue-SHS) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A4 Design a system that meets a set of specifications
+A5 Process data
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+C3 Mastery of computing tools to analyze, model or control an energy system or process
+C4 Integrate major environmental issues into the development strategies of human systems
+C6 Integrate the major issues of the energy transition: technical, economic, legal and environmental aspects
+C7 Design and implement an industrial and territorial ecology approach to optimize resource management and limit environmental impacts
+B2 Work, learn, evolve autonomously
+B3 Interact with others, work in a team
+B5 Act responsibly in a complex world
+  Ability: To be able to collect diffuse information
+  Ability: To be able to make realistic assumptions to overcome the lack of data
+  Ability: To be able to implement business software to justify the choice of technological solutions
+  Ability: To be able to interact with various interlocutors: technical expert, service / policy manager, supplier, etc.
+  Ability: To be able to work in groups: planning, division of tasks, synthesis, etc.
+  Ability: To be able to present in a synthetic and argumentative way, both orally and in writing, the issues, methods used, results and conclusions
+GEN-3-trans ****************************
+This EC is part of the teaching unit Energy and Processes 1 (GEN-3-ue-NRJ1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+  Capacity: Being able to identify the different modes of heat transfers in a real application
+  Capacity: Being able to represent in the form of a nodal model a problem of combined heat transfers
+  Ability: To be able to write a thermal report from a nodal model in order to obtain unknown temperatures or heat fluxes
+  Ability: To be able to evaluate the relevance of the result
+  Knowledge: Know the different modes of heat transfer, their physical origin, the environments in which they are present
+  Knowledge: Know the basic laws to describe each of these modes
+  Knowledge: Know the basic parameters or properties related to these equations and their order of magnitude
+GEN-5-pird-s2 ****************************
+This EC is part of the teaching unit Research initiation project (GEN-5-pird-s2) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A3 Implement an experimental approach
+A4 Design a system that meets a set of specifications
+A5 Process data
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+B1 To know oneself, to manage oneself physically and mentally
+B2 Work, learn, evolve autonomously
+B3 Interact with others, work in a team
+B4 Show creativity, innovate, undertake
+B5 Act responsibly in a complex world
+B6 Situate, work, evolve in a company, a socio-productive organization
+  Ability: To be able to research and use scientific literature
+GEN-5-ease-espm ****************************
+This EC is part of the teaching unit Advanced Energetic Option for Efficient Systems (GEN-5-ue-EASE) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A4 Design a system that meets a set of specifications
+C2 Design, size, and optimize process engineering facilities
+C3 Mastery of computing tools to analyze, model or control an energy system or process
+  Ability: Being able to apply the Reynolds mean to a simple equation
+  Capacity: Being able to make the link between turbulent dissipation and pressure losses in a pipe
+  Ability: Being able to determine the bounds of the scale range on which a turbulent flow develops
+  Capacity: To be able to estimate the characteristic thicknesses of a dynamic turbulent boundary layer
+  Capacity: Being able to estimate the characteristic thicknesses of a turbulent thermal limit layer
+  Ability: To be able to find basic digital methods and to deepen them
+  Ability: Being able to explain the path to obtain the k-epsilon model
+  Knowledge: Knowing the phenomenology of turbulent flows
+  Knowledge: Knowing the properties of turbulence
+  Knowledge: Knowing the phenomenology of turbulent heat transfers
+  Knowledge: Knowing the structure of a turbulent dynamic boundary layer
+  Knowledge: Knowledge of basic numerical methods to study flows
+  Knowledge: Knowing the basic k-epsilon turbulence model
+GEN-5-ease-cpse ****************************
+This EC is part of the teaching unit Advanced Energetic Option for Efficient Systems (GEN-5-ue-EASE) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+  Ability: To be able to identify the type of flame in an industrial application
+  Ability: To be able to use Arrhenius law for combustion reactions
+  Ability: To be able to write the equations that govern the reactive media
+  Capacity: Being able to use the turbulent combustion diagram
+  Ability: To be able to use turbulent combustion simulation software
+  Ability: To be able to interpret and analyze the results of turbulent combustion simulation
+  Knowledge: Knowing the two main types of flames: diffusion flame and premixed flame
+  Knowledge: Knowing the different fuels and their specificities
+  Knowledge: Knowing Arrhenius's Law to Describe Reaction Speed ​​vs. Temperature
+  Knowledge: Know the different equations governing reactive media
+  Knowledge: Knowing the turbulent combustion pattern
+  Knowledge: Knowing the production pathways of the main pollutants
+  Knowledge: Knowing the different approaches to digital simulation of combustion
+GEN-4-enbat ****************************
+This EC is part of the teaching unit Energy Systems 1 (GEN-4-ue-NRJ1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C3 Mastery of computing tools to analyze, model or control an energy system or process
+  Ability: To be able to use Dynamic Thermal Simulation software
+  Ability: To be able to use STD software to determine heating and cooling loads
+  Capacity: To be able to pre-dimension the means of production and emission from the calculation of the loads
+  Capacity: To be able to propose solutions to control the needs and energy consumption of buildings
+  Ability: To be able to verify a building's compliance with thermal regulations using certified software
+  Knowledge: Knowing the stakes of building energy efficiency
+  Knowledge: Know the principles governing the thermal comfort of occupants
+  Knowledge: Knowing the heat transfer patterns in a building envelope and their dynamic effects
+  Knowledge: To know the methods to determine the internal and external loads of a building taking into account the effects of inertia
+  Knowledge: To know the different technologies of production and emission of heat and cold in the building
+  Knowledge: Know the key concepts of thermal regulation for new buildings and renovations
+GEN-3-tm ****************************
+This EC is part of the teaching unit Energy and Processes 2 (GEN-3-ue-NRJ2) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+  Capacity: Being able to perform a material balance
+  Ability: To be able to apply the law of fick
+  Ability: To be able to calculate a diffusion coefficient of gases and liquids
+  Ability: To be able to determine material transfer coefficients and calculate transfer flows.
+  Ability: To be able to use good correlations to calculate material transfer coefficients for different geometries.
+  Knowledge: Knowing Fick's Law and knowing how to apply it
+  Knowledge: To know the material balance sheets
+  Knowledge: To know the different models of transfer of matter and in particular that of the double film
+GEN-3-ray ****************************
+This EC is part of the teaching unit Energy and Processes 1 (GEN-3-ue-NRJ1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A3 Implement an experimental approach
+A5 Process data
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+  Ability: to be able to calculate radiative fluxes emitted, absorbed and reflected
+  Capacity: to be able to carry out a radiative balance in a closed enclosure
+  Ability: to be able to measure temperatures or radiative properties by infrared thermography
+  Knowledge: knowledge of corpuscular and wave approaches to radiation
+  Knowledge: knowledge of fundamental radiative quantities: luminance, flux density and flux
+  Knowledge: to know the radiation of the black body
+  Knowledge: to know the radiative properties characterizing a surface
+  Knowledge: knowledge of temperature measurement methods by pyrometry and infrared cameras
+  Knowledge: knowledge of form factors and the resolution method to flowing flows
+  Knowledge: knowing the photovoltaic effect
+GEN-3-tdsp ****************************
+This EC is part of the teaching unit Environment 2 (GEN-3-EU-ENV2) and contributes to the following skills:            
+
+C4 Integrate major environmental issues into the development strategies of human systems
+C5 Use management systems and analysis tools as part of a Sustainable Development and Corporate Social Responsibility approach for organizations: normative, socio-economic, financial and technical aspects
+  Ability: Ability to mobilize knowledge above to develop basic arguments in order to propose technical and organizational solutions adapted to their good management
+  Ability: Ability to integrate new knowledge
+  Knowledge: Know the main lines of the regulatory context of waste management in France
+  Knowledge: Knowing the different sectors for the management and treatment of waste, including those to consider them as alternative resources
+  Knowledge: Know the basic principles of biochemistry and microbiology to understand the implementation of biological treatments
+  Knowledge: To know the stakes of the biological treatment of the organic waste, the potentialities of valorization material or energy, and the principle of the possible treatments.
+  Knowledge: Know the specificities and challenges of polluted sites and soils, and the key factors to describe the fate of pollutants in soils and subsoils in a risk analysis approach.
+GEN-5-enmar ****************************
+This EC is part of the teaching unit Energy sectors (GEN-5-ue-NRJ1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+C6 Integrate the major issues of the energy transition: technical, economic, legal and environmental aspects
+B5 Act responsibly in a complex world
+  Ability: To be able to argue arguably in the electricity market
+  Ability: To be able to argue arguably on the gas market
+  Ability: To be able to argue arguably about the right of energy
+  Knowledge: Knowing the issues and principles of the electricity market
+  Knowledge: Knowing the issues and principles of the gas market
+  Knowledge: Knowing energy law issues
+
+In addition, it requires the following skills:
+
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+GEN-5-enfosnuc ****************************
+This EC is part of the teaching unit Energy sectors (GEN-5-ue-NRJ1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+C6 Integrate the major issues of the energy transition: technical, economic, legal and environmental aspects
+B5 Act responsibly in a complex world
+  Ability: To be able to discuss the benefits and risks of the nuclear industry
+  Ability: To be able to discuss the benefits and risks of the hydrocarbon chain
+  Capacity: To be able to discuss the benefits and risks of mining resources for energy
+  Knowledge: Knowing the nuclear industry: fuel cycle, waste treatment, risk management, the principle of nuclear power plants
+  Knowledge: Know the resources, the stakes and the main stages of the hydrocarbon chain from upstream to downstream
+  Knowledge: Knowing issues related to mining materials for energy
+
+In addition, it requires the following skills:
+
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+GEN-3-hydr ****************************
+This EC is part of the teaching unit Energy and Processes 2 (GEN-3-ue-NRJ2) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A3 Implement an experimental approach
+A5 Process data
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+  Capacity: Being able to perform a calculation of regular and singular pressure drops in an installation.
+  Capacity: Being able to find the dimensions of a hydraulic turbomachine wheel to meet a specification.
+  Capacity: Being able to read pump characteristic curves and predict the behavior of a pump by a similarity approach.
+  Capacity: Being able to predict cavitation phenomenon upstream or in a pump.
+  Capacity: To be able to predict the effects of pump combinations in series or in parallel.
+  Knowledge: Know the flows in pipe: fully established flow, generalized Bernoulli theorem, calculation of regular and singular pressure losses, measurement of flows.
+  Knowledge: Knowing Turbomachines: Elements of Kinematics
+  Knowledge: To know the hydraulic circuits: analogy with electrical circuit, pumps in series and in parallel, open networks and mesh.
+GEN-3-thermo ****************************
+This EC is part of the teaching unit Energy and Processes 2 (GEN-3-ue-NRJ2) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A3 Implement an experimental approach
+A5 Process data
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+  Ability: Use thermodynamic tables and diagrams useful to the engineer
+  Ability: To understand a typical problem of thermodynamics applied to energy engineering or process engineering, including mixtures of fluids including moist air
+  Ability: Formulate this problem as equations, with appropriate assumptions
+  Ability: Understand the physical interpretation of these equations
+  Ability: Solve these equations and thus solve the problem
+  Knowledge: Concepts related to 1st and 2nd principles of thermodynamics and their implementation characteristics for open systems
+  Knowledge: The concepts of exergy and exergetic analysis
+  Knowledge: Models and simple equations of state to describe the properties of a certain number of pure bodies, including in the presence of phase equilibria
+  Knowledge: The usual sources of thermodynamic properties, including tables and diagrams
+  Knowledge: Models or equations of states to describe the properties of mixtures, including mixtures of fluids
+  Knowledge: The specifics of non-ideal mixtures
+  Knowledge: The fundamental elements of psychrometry
+GEN-5-2eit-proj ****************************
+This EC is part of the teaching unit Option Ecotechnology and Industrial and Territorial Ecology (GEN-5-ue-2EIT) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A4 Design a system that meets a set of specifications
+A5 Process data
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C4 Integrate major environmental issues into the development strategies of human systems
+C5 Use management systems and analysis tools as part of a Sustainable Development and Corporate Social Responsibility approach for organizations: normative, socio-economic, financial and technical aspects
+C7 Design and implement an industrial and territorial ecology approach to optimize resource management and limit environmental impacts
+B2 Work, learn, evolve autonomously
+B4 Show creativity, innovate, undertake
+B5 Act responsibly in a complex world
+B6 Situate, work, evolve in a company, a socio-productive organization
+  Capacity: To know how to develop a strategy of territorial synergy between the different activities
+  Capacity: existing and those to create
+  Capacity: To know how to propose material and / or energy loops between the different human activities and to map them
+  Capacity: Know how to select the waste and effluent treatment routes offering the most territorial synergies with the rest of the activities
+  Ability: Knowing how to work in a structured team with respective roles and responsibilities in the service of the same project
+  Knowledge: Know the different ways of treatment and recovery of waste and effluents of a territory
+  Knowledge: Knowing the advantages and disadvantages of biological treatments
+  Knowledge: Knowing the advantages and disadvantages of heat treatments
+GEN-4-rea ****************************
+This EC is part of the teaching unit Processes 1 (GEN-4-ue-ENV1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A3 Implement an experimental approach
+A5 Process data
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+C2 Design, size, and optimize process engineering facilities
+  Capacity: Being able to write a material balance on an ideal reactor open, closed or semi-closed
+  Capacity: Being able to dimension and predict the performance of ideal chemical reactors in indilatable and expandable medium
+  Capacity: Being able to size and predict the performance of a combination of ideal reactors
+  Ability: Being able to diagnose dysfunctions
+  Ability: To be able to optimize chemical reactors in relatively simple situations
+  Knowledge: Knowing the vocabulary and basics of chemical kinetics
+  Knowledge: Know the characteristic equations of the different types of ideal reactors
+  Knowledge: Knowing the characteristic equations of a reactor association
+  Knowledge: To know the different types of flows and the method of determination of the distribution of the residence times of the molecules
+  Knowledge: Knowing the influence of physical parameters
+GEN-4-transelec ****************************
+This EC is part of the teaching unit Energy Systems and Processes (GEN-4-ue-NRJ2) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C6 Integrate the major issues of the energy transition: technical, economic, legal and environmental aspects
+B5 Act responsibly in a complex world
+  Capacity: To be able to propose a converter adapted to the use
+  Ability: To be able to discuss the advantages and disadvantages of the networks of the future
+  Capacity: Being able to size an energy storage system
+  Knowledge: Have knowledge of electrical energy systems
+  Knowledge: Have knowledge about converters for energy transfers
+  Knowledge: Knowing the historical development factors of power grids
+GEN-5-enren ****************************
+This EC is part of the teaching unit Energy sectors (GEN-5-ue-NRJ1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+C6 Integrate the major issues of the energy transition: technical, economic, legal and environmental aspects
+B5 Act responsibly in a complex world
+  Ability: To be able to discuss the benefits and risks of the wind energy industry in a reasoned manner
+  Ability: To be able to discuss the benefits and risks of the solar industry
+  Ability: To be able to discuss the benefits and risks of the geothermal industry
+  Ability: To be able to discuss the benefits and risks of the hydraulic industry
+  Ability: To be able to discuss the benefits and risks of the biomass energy sector in a reasoned manner
+  Knowledge: Knowing the wind industry: definition, potential assessment, typical technological solutions, regulations
+  Knowledge: Know the solar photovoltaic, thermal and thermodynamic sector: definition, potential evaluation, standard technological solutions, regulations
+  Knowledge: Knowing the geothermal industry: definition, potential evaluation, typical technological solutions, regulations
+  Knowledge: Knowing the hydraulic industry: definition, potential assessment, typical technological solutions, regulations
+  Knowledge: Knowing the biomass energy sector: definition, potential evaluation, typical technological solutions, regulations
+
+In addition, it requires the following skills:
+
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+GEN-4-hysys ****************************
+This EC is part of the teaching unit Tools for the Engineer 4 (GEN-4-ue-OPI2) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+C3 Mastery of computing tools to analyze, model or control an energy system or process
+  Ability: To be able to simulate different unit operations
+  Capacity: Being able to simulate a steady-state industrial plant
+  Ability: To be able to develop a flow chart
+GEN-5-pird-s1 ****************************
+This EC is part of the teaching unit Research initiation project (GEN-5-pird-s1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A3 Implement an experimental approach
+A4 Design a system that meets a set of specifications
+A5 Process data
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+B1 To know oneself, to manage oneself physically and mentally
+B2 Work, learn, evolve autonomously
+B3 Interact with others, work in a team
+B4 Show creativity, innovate, undertake
+B5 Act responsibly in a complex world
+B6 Situate, work, evolve in a company, a socio-productive organization
+  Ability: To be able to research and use scientific literature
+GEN-4-cmde ****************************
+This EC is part of the teaching unit Tools for the Engineer 3 (GEN-4-ue-OPI1) and contributes to the following skills:            
+
+C3 Mastery of computing tools to analyze, model or control an energy system or process
+  Ability: to be able to analyze the solutions of a linear system
+  Ability: to be able to synthesize a feedback control for the stabilization of a system
+  Ability: to be able to synthesize an observer for output return stabilization
+  Ability: to be able to implement under Matlab / Simulink the previous points
+  Knowledge: knowing the state representation of linear systems
+  Knowledge: knowing the characteristics of temporal responses
+  Knowledge: knowledge of the concepts of controllability and observability
+  Knowledge: to know the characteristics of a specification for the regulation of exit
+GEN-4-clim ****************************
+This EC is part of the teaching unit Energy Systems and Processes (GEN-4-ue-NRJ2) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A4 Design a system that meets a set of specifications
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+  Capacity: To be able to determine the properties of the humid air by graphic reader or by calculation
+  Capacity: Being able to determine the characteristics of a blowing point for given loads and ambience
+  Ability: To be able to propose technological solutions to prepare the blowing point from air neu and to pre-size them
+  Capacity: Being able to pre-dimension a ventilation system: ducts, fans, filters
+  Knowledge: Knowing the properties of moist air
+  Knowledge: Knowing the methods for determining the properties of a blow point
+  Knowledge: Knowing the different unit operations on humid air
+  Knowledge: Know the principles of air distribution in the premises: design of ventilation circuits and filtration
+GEN-4-starccm ****************************
+This EC is part of the teaching unit Tools for the Engineer 4 (GEN-4-ue-OPI2) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A5 Process data
+C3 Mastery of computing tools to analyze, model or control an energy system or process
+  Ability: To be able to master a simulation software in fluid mechanics
+  Ability: To be able to manipulate adimensionnated numbers
+  Ability: To be able to use temporal and spatial discretization methods of diffusion equations
+  Ability: To be able to use post-processing tools simulation results for analytical purposes
+  Knowledge: Knowing the benefits and limitations of fluid mechanics simulation tools
+  Knowledge: knowing the different stages of a multiphysical modeling
+  Knowledge: to know the rules of selection of the physical models and their possible simplifications adapted to the studied flow
+  Knowledge: know the techniques of validation and verification of simulations
+GEN-3-genepi-s2 ****************************
+This EC is part of the teaching unit Humanities and Social Sciences and Sport 2 (GEN-3-ue-SHS2) and contributes to the following skills:            
+
+B1 To know oneself, to manage oneself physically and mentally
+B2 Work, learn, evolve autonomously
+B3 Interact with others, work in a team
+B4 Show creativity, innovate, undertake
+B5 Act responsibly in a complex world
+B6 Situate, work, evolve in a company, a socio-productive organization
+B7 Work in an international and intercultural context
+  Ability: To be able to identify its modes of operation
+  Ability: To be able to acquire new skills on your own by searching for the necessary resources
+  Ability: To be able to integrate into a group, to position oneself, to build a dynamic relationship with the group, to integrate new members
+  Ability: Being able to engage in a collective project: build and lead a project, make it evolve; become aware of their role and responsibility
+  Ability: To be able to communicate appropriately: to convey a message, to listen, to show empathy, to assert one's point of view, to debate in a well-reasoned manner
+  Ability: Being able to grasp complex issues
+GEN-5-fpep ****************************
+This EC is part of the teaching unit Tools and Methods for Energy and Environmental Analysis (GEN-5-EU-ENV) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+C5 Use management systems and analysis tools as part of a Sustainable Development and Corporate Social Responsibility approach for organizations: normative, socio-economic, financial and technical aspects
+B5 Act responsibly in a complex world
+  Ability: Being able to understand the big failures of international infrastructure projects
+  Ability: Being able to test these concepts on concrete examples
+  Knowledge: Know the financing mechanisms of infrastructure projects and know the main actors
+  Knowledge: Know the basics of project finance and project economic management
+GEN-5-bcACV ****************************
+This EC is part of the teaching unit Tools and Methods for Energy and Environmental Analysis (GEN-5-EU-ENV) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+C5 Use management systems and analysis tools as part of a Sustainable Development and Corporate Social Responsibility approach for organizations: normative, socio-economic, financial and technical aspects
+B5 Act responsibly in a complex world
+  Capacity: To be able to use the ADEME Bilan Carbone method
+  Ability: To be able to work with a professional structure and to present to him strategic proposals following the realization of his carbon footprint
+  Ability: To be able to work with the orders of magnitude: to be able to differentiate the situations requiring a high precision from those which can be treated with orders of magnitude
+  Knowledge: Knowing the issues of greenhouse gas emissions and related regulations and reduction targets
+
+In addition, it requires the following skills:
+
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+GEN-5-GES2 ****************************
+This EC is part of the teaching unit Responsible Entrepreneurial Project Management Option (GEN-5-ue-GesPER) and contributes to the following skills:            
+
+B2 Work, learn, evolve autonomously
+B3 Interact with others, work in a team
+B4 Show creativity, innovate, undertake
+B5 Act responsibly in a complex world
+  Capacity: To carry out a strategic feasibility study concerning the creation of the organization whose object was determined in phase 1
+  Knowledge: Organizational Strategy: Value & Stakeholders, Diagnosis & Marketing Choices, Governance, Business Model & Social Responsibility, Financial Model, Organizational Communication
+GEN-3-cdp ****************************
+This EC is part of the teaching unit Tools for Engineer 2 (GEN-3-ue-OPI2) and contributes to the following skills:            
+
+C3 Mastery of computing tools to analyze, model or control an energy system or process
+  Ability: Being able to model a process in order to effectively control it
+  Capacity: Being able to choose a regulation / servo architecture
+  Capacity: To be able to determine the parameters of adjustment of the correctors to respect a specification
+  Ability: To be able to predict the temporal response of a looped system
+  Knowledge: Know the principle of the regulation / servoing of a controlled system
+  Knowledge: Know the methods of adjusting the correctors
+GEN-4-echang ****************************
+This EC is part of the teaching unit Processes 1 (GEN-4-ue-ENV1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A3 Implement an experimental approach
+A4 Design a system that meets a set of specifications
+A5 Process data
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+  Capability: To be able to select suitable exchangers from the manufacturer catalogs according to the intended application.
+  Capacity: To be able to characterize the performances and the specific characteristics of a heat exchanger in operation
+  Capacity: To be able to size simple exchangers, by calculating a global exchange coefficient and the methods of the DTLM and NUT
+  Ability: To be able to understand and analyze their role in more complex thermal systems
+  Knowledge: To know the different technologies of exchangers, their specificities, as well as the associated vocabulary
+  Knowledge: Knowing the physical phenomena associated with exchangers and related notions
+  Knowledge: Knowing and knowing how to use the tools for the engineer available to predict the performance of a heat exchanger
+GEN-3-mod ****************************
+This EC is part of the teaching unit Tools for Engineer 2 (GEN-3-ue-OPI2) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A5 Process data
+C3 Mastery of computing tools to analyze, model or control an energy system or process
+  Ability: Ability to work in matlab: plot curves, export, save data, apply derivation and integration
+  Ability: To be able to implement the methods of resolution of linear systems under matlab and to validate them
+  Ability: To be able to implement matlab methods for polynomial smoothing and to validate them
+  Ability: To be able to use the ode45 function of matlab
+  Ability: Being able to implement a nodal method under VBA or matlab environment
+  Ability: To be able to use these methods to solve physical problems of GEN
+  Knowledge: Knowing the matlab environment
+  Knowledge: Knowing basic methods for solving linear systems
+  Knowledge: Knowing the methods for polynomial smoothing
+  Knowledge: Knowing the resolution of ordinary differential equations
+GEN-4-metnu ****************************
+This EC is part of the teaching unit Tools for the Engineer 3 (GEN-4-ue-OPI1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A5 Process data
+C3 Mastery of computing tools to analyze, model or control an energy system or process
+  Ability: To be able to master the basis of finite differences
+  Ability: To be able to discretize the equation of heat using finite differences
+  Ability: To be able to numerically solve the equation of heat and validate the results obtained
+  Knowledge: Knowing the basic notions of finite differences
+  Knowledge: Knowing the finite difference discretization of the steady-state and transient heat equation
+  Knowledge: To know the computer implementation under matlab of the numerical resolution of the equation of the heat, to qualify it and to validate it
+GEN-4-mcthm-s1 ****************************
+This EC is part of the teaching unit Energy Systems 1 (GEN-4-ue-NRJ1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A3 Implement an experimental approach
+A4 Design a system that meets a set of specifications
+A5 Process data
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+  Ability: To be able to write and solve energy, exergy and anergy balances
+  Capacity: To be able to dimension energetically and to model in a basic way a component (compressor) or a machine
+  Ability: Being able to use diagrams and tables
+  Capacity: To be able to recognize the different elements composing the machines
+  Knowledge: Know equations balance sheets: 1st and 2nd principles as well as the balance sheets anergétique and exergétique.
+  Knowledge: Knowing generalities about polytropic transformations.
+  Knowledge: Know the fans and compressors: comparative studies of the different types of compression, piston volumetric compressors, rotary volumetric compressors, centrifugal and axial compressors.
+  Knowledge: Knowing the thermodynamic generators: refrigerating machines, heat pumps, liquefaction of gases, refrigerants
+GEN-4-sird ****************************
+This EC is part of the teaching unit Internships (GEN-4-ue-internships) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A3 Implement an experimental approach
+A4 Design a system that meets a set of specifications
+A5 Process data
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+B1 To know oneself, to manage oneself physically and mentally
+B2 Work, learn, evolve autonomously
+B3 Interact with others, work in a team
+B4 Show creativity, innovate, undertake
+B5 Act responsibly in a complex world
+B6 Situate, work, evolve in a company, a socio-productive organization
+B7 Work in an international and intercultural context
+  Ability: To be able to research and use scientific literature
+GEN-3-eau ****************************
+This EC is part of the teaching unit Environment 2 (GEN-3-EU-ENV2) and contributes to the following skills:            
+
+C4 Integrate major environmental issues into the development strategies of human systems
+  Capacity: To know how to define a treatment system for a liquid effluent according to the different types of pollution contained in the effluent, and according to the quality objectives to be achieved.
+  Ability: To know how to define a sector to produce stable and clear water, drinking water or ultra pure water.
+  Knowledge: To know the treatment processes most conventionally used for the treatment of liquid effluents
+  Knowledge: know the treatment processes most conventionally used for the treatment of water before use
+GEN-3-ttdeg ****************************
+This EC is part of the teaching unit Environment 2 (GEN-3-EU-ENV2) and contributes to the following skills:            
+
+C4 Integrate major environmental issues into the development strategies of human systems
+  Capacity: To be able to describe and distinguish the different processes of heat treatment of waste for energy recovery
+  Capacity: Being able to explain the issues of co-incineration and solid fuels recovery
+  Ability: To be able to describe the different forms of pollution and their main sources
+  Ability: To be able to describe and differentiate the main processes of fume treatment
+  Knowledge: Knowing the operation and challenges of waste incineration
+  Knowledge: Knowing the characteristics of pyrolysis and waste gasification
+  Knowledge: Knowing the co-incineration of waste in a cement plant or in a dedicated oven
+  Knowledge: Knowing the different atmospheric pollutants
+  Knowledge: Knowing the different forms of atmospheric pollution
+  Knowledge: Knowing the processes of fume treatment
+GEN-4-sepSL ****************************
+This EC is part of the teaching unit Energy Systems and Processes (GEN-4-ue-NRJ2) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A4 Design a system that meets a set of specifications
+C2 Design, size, and optimize process engineering facilities
+  Ability: To know how to define the most appropriate processes for the treatment objectives to be achieved.
+  Ability: To know how to size the chemical, physical, mechanical, membrane and adsorption processes used in water treatment processes
+  Ability: To know how to use the laws governing the chemical equilibrium, the decantation models of the different types of particles, the Henry's law, the laws of flow in saturated porous medium (Darcy's law ¿Kozeny-Carman relation), the models used to represent the adsorption isotherms, the parameters used to size the membrane processes
+  Knowledge: to know the objectives attainable by the different chemical, physical, membrane processes or involving surface phenomena.
+  Knowledge: To know the different models and laws used for the sizing of the main chemical, physical, membrane processes or involving surface phenomena used for the treatment of liquid
+
+In addition, it requires the following skills:
+
+C4 Integrate major environmental issues into the development strategies of human systems
+GEN-4-opunit ****************************
+This EC is part of the teaching unit Processes 1 (GEN-4-ue-ENV1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A3 Implement an experimental approach
+A5 Process data
+C2 Design, size, and optimize process engineering facilities
+  Capacity: To be able to describe the functioning of a gas-liquid contactor
+  Capacity: Being able to size gas-liquid contactors
+  Capacity: Being able to size a distillation column for a binary liquid-vapor mixture.
+  Ability: To be able to determine material transfer parameters
+  Knowledge: Know the different types of gas-liquid contactors, their specificities, as well as the associated vocabulary
+  Knowledge: Knowing the physical phenomena associated with gas-liquid contactors
+  Knowledge: Know and know how to use the tools for the engineer available to size a gas-liquid contactor or liquid vapor
+
+In addition, it requires the following skills:
+
+C4 Integrate major environmental issues into the development strategies of human systems
+GEN-5-ease-fdie ****************************
+This EC is part of the teaching unit Advanced Energetic Option for Efficient Systems (GEN-5-ue-EASE) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A4 Design a system that meets a set of specifications
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C3 Mastery of computing tools to analyze, model or control an energy system or process
+  Capacity: To be able to calculate thermohydraulic parameters characteristic of transfer phenomena with liquid-vapor phase change
+  Capacity: Being able to dimension components and systems for energy intensification including evaporators, condensers and heat pipes
+  Knowledge: knowledge of heat transfer phenomena with change of liquid phase
+  Knowledge: Steam
+  Knowledge: knowledge of physical phenomena of liquid-vapor interface: capillarity, wettability, ¿
+  Knowledge: knowledge and understanding of technical devices for energy intensification based on these phenomena
+GEN-4-com ****************************
+This EC is part of the teaching unit Humanities and Social Sciences and Sport 2 (GEN-4-ue-SHS2) and contributes to the following skills:            
+
+B1 To know oneself, to manage oneself physically and mentally
+B3 Interact with others, work in a team
+  Ability: To be able to prepare for an oral presentation
+  Knowledge: Know the basic rules of effective communication, group techniques.
+GEN-5-ecoenv ****************************
+This EC is part of the teaching unit Tools and Methods for Energy and Environmental Analysis (GEN-5-EU-ENV) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+C5 Use management systems and analysis tools as part of a Sustainable Development and Corporate Social Responsibility approach for organizations: normative, socio-economic, financial and technical aspects
+B5 Act responsibly in a complex world
+  Ability: To be able to grasp the stakes of the relationship between human productive activities and the living environment of men
+  Knowledge: To know the fundamental concepts and the principal grids of analysis of the economy of the environment.
+  Knowledge: Knowing the tools and foundations of public environmental policies in France and Europe.
+
+In addition, it requires the following skills:
+
+C4 Integrate major environmental issues into the development strategies of human systems
+GEN-4-probio ****************************
+This EC is part of the teaching unit Energy Systems and Processes (GEN-4-ue-NRJ2) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A5 Process data
+C2 Design, size, and optimize process engineering facilities
+C3 Mastery of computing tools to analyze, model or control an energy system or process
+  Ability: To be able to describe a stoichiometric / kinetic model in the form of a Petersen matrix
+  Capacity: Being able to write a material balance of a complex reaction on a reactor of simple geometry
+  Ability: To be able to quickly use the implementation of a dynamic resolution
+  Capacity: Being able to size the main elements of a wastewater treatment plant
+  Capacity: Being able to dimension a ventilation device in an activated sludge basin
+  Knowledge: Knowledge of the main pollution descriptors associated with organic and nitrogen compounds
+  Knowledge: Knowledge of the state variables that can be associated with these descriptors in a model
+  Knowledge: Knowledge of the main unit operations used in a wastewater treatment plant
+
+In addition, it requires the following skills:
+
+C4 Integrate major environmental issues into the development strategies of human systems
+GEN-5-GES1 ****************************
+This EC is part of the teaching unit Responsible Entrepreneurial Project Management Option (GEN-5-ue-GesPER) and contributes to the following skills:            
+
+B2 Work, learn, evolve autonomously
+B3 Interact with others, work in a team
+B4 Show creativity, innovate, undertake
+B5 Act responsibly in a complex world
+  Ability: Conduct a Design thinking process to find a product / service idea presenting one or more dimensions of societal interest in an innovation / technical research
+  Knowledge: Innovation, societal responsibility of organizations
+  Knowledge: Design thinking approach
+GEN-3-conv ****************************
+This EC is part of the teaching unit Energy and Processes 1 (GEN-3-ue-NRJ1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A3 Implement an experimental approach
+A5 Process data
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+  Ability: To be able to calculate a monophasic heat transfer coefficient and boiling
+  Capacity: To be able to write a heat balance in closed geometry
+  Capacity: Being able to determine properties at the right temperature
+  Ability: To be able to evaluate the relevance of the result
+  Knowledge: To know the various forms of convection (natural, forced, phase change), the boundary conditions, the different geometries
+  Knowledge: Knowing the main physical phenomena associated
+  Knowledge: Knowing the dimensionless numbers characteristic of convection
+  Knowledge: Knowing the equations to identify different flow regimes
+  Knowledge: To know the laws of variation of the coefficient of heat transfer in monophasic and during boiling
+GEN-4-mcthm-s2 ****************************
+This EC is part of the teaching unit Energy Systems and Processes (GEN-4-ue-NRJ2) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A3 Implement an experimental approach
+A4 Design a system that meets a set of specifications
+A5 Process data
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+  Ability: To be able to write and solve energy, exergy and anergy budgets applied to motor cycles
+  Capacity: To be able to dimension energetically and to model in a basic way a component (e.g. turbine) or a machine
+  Ability: To be able to use diagrams, tables and software
+  Knowledge: Knowing Steam Turbines and Associated Cycles: Axial Turbines with Action and Reaction, Velocity Triangles, Hirn Cycle, Rankine, Rifling, ¿
+  Knowledge: Knowing gas engine installations: Joules cycles, Brayton, turbo-reactors.
+  Knowledge: Know the principle of combined cycles: pinch method.
+  Knowledge: Knowledge of refrigerants and reference software
+  Knowledge: Knowing Alternative Internal Combustion Engines
+GEN-4-mcelec ****************************
+This EC is part of the teaching unit Energy Systems 1 (GEN-4-ue-NRJ1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A4 Design a system that meets a set of specifications
+A5 Process data
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+  Capacity: To be able to choose an electric machine considering its use and its power supply
+  Capacity: Being able to estimate electrical, mechanical, magnetic losses
+  Capacity: To be able to propose a converter adapted to the use
+  Knowledge: Know the principle of operation of electrical machines
+  Knowledge: Knowing the power supply of machines
+  Knowledge: Have knowledge about the speed variation of these machines
+GEN-3-comb ****************************
+This EC is part of the teaching unit Energy and Processes 1 (GEN-3-ue-NRJ1) and contributes to the following skills:            
+
+A1 Analyze a real or virtual system (or problem)
+A2 Exploit a model of a real or virtual system
+A3 Implement an experimental approach
+A5 Process data
+A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
+C1 Design, size, manage and optimize energy systems in complex and varied contexts (city, industry, transport)
+C2 Design, size, and optimize process engineering facilities
+  Ability: to be able to identify both types of flame in a practical device
+  Capacity: to be able to balance a chemical reaction with a generic formula fuel
+  Ability: to be able to calculate characteristic quantities in an industrial device
+  Ability: to be able to calculate the amount of heat released by a reaction
+  Ability: to be able to calculate adiabatic flame temperature
+  Ability: to be able to use an Ostwald diagram
+  Knowledge: knowledge of diffusion and premix flame characteristics
+  Knowledge: knowledge of the main fuels and oxidants
+  Knowledge: knowledge of characteristic quantities of reactive media
+  Knowledge: knowledge of characteristic quantities for industrial devices
+  Knowledge: knowledge of the application of the first principle to a chemical reaction of combustion
+  Knowledge: knowledge of methods to determine the spontaneity of a combustion reaction
+  Knowledge: know the methodology for the creation of the Ostwald diagram
+GEN-3-stats ****************************
+This EC is part of the teaching unit Tools for the Engineer 1 (GEN-3-ue-OPI1) and contributes to the following skills:            
+
+A5 Process data
+  Ability: To be able to estimate the parameters of a population
+  Ability: To be able to set up a hypothesis test
+  Ability: To be able to read the values ​​of probabilities and variables in a statistical table
+  Ability: To be able to perform 1 or 2 factor variance analysis
+  Ability: Be able to perform simple linear regression analysis
+  Knowledge: Knowing the main discrete and continuous probability laws
