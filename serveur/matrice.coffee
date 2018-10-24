@@ -8,26 +8,17 @@ departements = [
   "GEN"
 ]
 
+refCompetences = require("../formation/refCompetences")
+
 loadDepartement = (departement, res) ->
   data = require("../formation/catalogue-#{departement}.json")[0]
 
-  calculComps = ->
-    data.semestres.reduce (comps, semestre) ->
-      semestre.ecs.reduce (comps, ec) ->
-        unless ec.detail then return comps
-        if ec.detail.listeComp
-          ec.detail.listeComp.reduce (comps, comp) ->
-            comps[comp.code] =
-              code: comp.code
-              val: comp.val
-            comps
-          , comps
-        else
-          comps
-      , comps
-    , {}
+  comps = _.omitBy refCompetences, (value, key) ->
+    not key.match(/^[AB]\d/) and not key.startsWith("#{departement}-")
 
-  comps = calculComps()
+  comps = _.mapKeys comps, (value) ->
+    return value.code
+
   keys = _.sortBy(_.keys(comps))
   keys.forEach (key, index) ->
     comps[key].index = index
