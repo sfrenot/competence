@@ -2,7 +2,7 @@
 # java -jar tika-app-1.17.jar --text -s -p 1234
 # TODO : fonction de liste de section
 # Extraire la section parmis cette liste
-DPTINSA = 'TC'
+DPTINSA = 'GE'
 
 Promise = require 'bluebird'
 cheerio = require 'cheerio'
@@ -175,7 +175,7 @@ request()
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
             # GCU
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36412&_lang=fr' or
+            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34917&_lang=fr'
             # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36410&_lang=fr' or
             # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36410&_lang=fr' or
             # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36407&_lang=fr' or

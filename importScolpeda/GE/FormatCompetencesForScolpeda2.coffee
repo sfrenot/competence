@@ -19,7 +19,7 @@ insertDetail = () ->
         matieres.push(currentMat)
         currentMat = {}
       currentMat.nom = data.field5
-      currentMat.ueCode = data.field4
+      currentMat.ueCode = data.field2
       currentMat.ueName = ''
 
     if _.isEmpty(currentMat.competencesC)
@@ -30,23 +30,26 @@ insertDetail = () ->
     if data.field1.trim().startsWith("Compétence")
       for i in [11..20]
         if data["field#{i}"]?.trim()?.match(/^[CM]$/)
-          if data["field#{i}"] is 'M'
-            currentMat.competencesM.push(data.field3.replace(/"/g,''))
+          compName = data.field3.replace(/"/g,'').replace('oe', 'œ').replace(/  /g, ' ').trim()
+          tmpComp = _.find(refCompetences, {'val': compName})
+          unless tmpComp
+            console.error("COMPETENCE ERREUR", currentMat.ueCode, JSON.stringify compName,null, 2)
+            process.exit()
           else
-            compName = data.field3.replace(/"/g,'').replace('œ', 'oe').replace(/  /g, ' ').trim()
-            tmpComp = _.find(refCompetences, {'val': compName})
-
-            unless tmpComp
-              console.error("COMPETENCE ERREUR", currentMat.ueCode, JSON.stringify compName,null, 2)
-              process.exit()
-            else
-              refComp = tmpComp.code
-
+            refComp = tmpComp.code
+            
+          if data["field#{i}"] is 'M'
+            currentMat.competencesM.push("#{refComp} #{compName}")
+          else
             currentMat.competencesC.push("#{refComp} #{compName} (niveau #{data["field#{i-1}"]})")
             currentComp = refComp
           break
 
   addCompetenceOrConnaissance = (data) ->
+    if data.field2?.trim() is 'Sous compétence'
+      currentComp = "#### #{data.field3.trim()}"
+      currentMat.competencesC.push(currentComp)
+      return
     if data.field2 is 'Capacité' and data.field3?.trim()
       if _.isEmpty(currentMat.capacites)
         currentMat.capacites = {}
@@ -67,7 +70,7 @@ insertDetail = () ->
     Promise.map files, (file) ->
       new Promise (resolve, reject) ->
         datas = []
-        csv({flatKeys: true, delimiter: ",", noheader: true})
+        csv({flatKeys: true, delimiter: ";", noheader: true})
         .fromFile("./sources/#{file}")
         .on 'json', (data) ->
           datas.push data
@@ -80,14 +83,15 @@ insertDetail = () ->
   .then (datas) ->
     datas = _.flatten(datas)
     datas.forEach (data) ->
+      # console.log '->', data
       setAndCheckMatiere(data)
       addCompetenceOrConnaissance(data)
-
 
     Promise.resolve()
 
 insertDetail()
 .then () ->
+  matieres.push(currentMat)
   # console.log('->', JSON.stringify matieres, null, 2)
   # process.exit()
   matieres.forEach (matiere) ->
@@ -95,9 +99,14 @@ insertDetail()
     console.log("Cet EC relève de l'unité d'enseignement #{matiere.ueName} (#{matiere.ueCode}) et
 contribue aux compétences suivantes :            \n")
     matiere.competencesC.forEach (competence) ->
-      console.log("#{competence}\n")
 
       ref = competence.split(' ')[0]
+      if ref is "####"
+        ref = competence
+        console.log(" Sous compétence : #{competence.substring(5)}\n")
+      else
+        console.log("#{competence}\n")
+
       if matiere.capacites?[ref]?
         matiere.capacites[ref].forEach (comp) ->
           console.log("  #{comp}")
