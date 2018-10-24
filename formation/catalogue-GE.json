@@ -1,0 +1,147 @@
+[
+  {
+    "departement": "GE",
+    "semestres": [
+      {
+        "url": "/fr/formation/parcours/720/3/1",
+        "ecs": []
+      },
+      {
+        "url": "/fr/formation/parcours/720/3/2",
+        "ecs": []
+      },
+      {
+        "url": "/fr/formation/parcours/720/4/1",
+        "ecs": []
+      },
+      {
+        "url": "/fr/formation/parcours/720/4/2",
+        "ecs": []
+      },
+      {
+        "url": "/fr/formation/parcours/720/5/1",
+        "ecs": [
+          {
+            "UE": "Enseignements Techniques (GE-5-UE52)",
+            "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34917&_lang=fr",
+            "detail": {
+              "code": "GE-5-EC3",
+              "ects": "2.0",
+              "cours": "22.0 h",
+              "td": "0.0 h",
+              "tp": "16.0 h",
+              "projet": "0.0 h",
+              "perso": "20.0 h",
+              "nom": "Electronique : Electronique et Capteurs, partie 3",
+              "competencesBrutes": "Electronique et Capteurs 3 **************************** Cet EC relève de l'unité d'enseignement  (UE52) et contribue aux compétences suivantes :  C1 Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage (niveau 2)  Sous compétence : Concevoir et mettre en œuvre de circuits numériques à l'aide du langage VHDL  Capacité : Ecrire la description correspondant au fonctionnement d'un circuit avec les instructions VHDL appropriées Capacité : Mettre en oeuvre les différentes étapes du flot de conception avec les outils appropriés pour implémenter des fonctions logiques simples Capacité : Ecrire les bancs de test pour la réalisation de simulations fonctionnelles Capacité : Tester et valider un circuit numérique à l'aide d'un analyseur logique  Connaissance : Principes généraux et fondamentaux du langage VHDL Connaissance : Electronique numérique (systèmes logiques)  C2 Mettre en œuvre les propriétés physiques des matériaux pour le domaine du génie électrique (niveau 2)  Sous compétence : Mettre en œuvre les propriétés physiques des matériaux pour l'optoélectronique  Capacité : Dimensionner une fibre optique pour les applications en télécommunication Capacité : Dimensionner une diode laser  Connaissance : Capteurs couleurs CCD, CMOS Connaissance : Physique du semiconducteur pour l'optoélectronique Connaissance : Propagation de la lumière dans un milieu transparent  C5 Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données (niveau 2)  Sous compétence : Concevoir des systèmes numériques à l'aide du langage VHDL  Capacité : Concevoir des systèmes numériques répondant aux besoins d'un cahier des charges Capacité : Configurer le FPGA pour qu'il communique avec des périphériques (CAN, CNA, etc) Capacité : Tester et valider un système numérique à l'aide d'un analyseur logique  Connaissance : Principes généraux et fondamentaux du langage VHDL Connaissance : Electronique analogique et numériques, capteurs  Sous compétence : Concevoir des systèmes d'interfaçage optoélectroniques  Capacité : Dimensionner un système électronique basé sur des optocoupleurs  Connaissance : Fonctions de base de l'électronique analogique Connaissance : Composants optoélectroniques  De plus, elle nécessite de mobiliser les compétences suivantes :    A1 Analyser un système (ou un problème) réel ou virtuel A2 Exploiter un modèle d'un système réel ou virtuel A4 Concevoir un système répondant à un cahier des charges A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité B2 Travailler, apprendre, évoluer de manière autonome B3 Interagir avec les autres, travailler en équipe",
+              "capacite": [
+                "Capacité : Ecrire la description correspondant au fonctionnement d'un circuit avec les instructions VHDL appropriées",
+                "Capacité : Mettre en oeuvre les différentes étapes du flot de conception avec les outils appropriés pour implémenter des fonctions logiques simples",
+                "Capacité : Ecrire les bancs de test pour la réalisation de simulations fonctionnelles",
+                "Capacité : Tester et valider un circuit numérique à l'aide d'un analyseur logique",
+                "Capacité : Dimensionner une fibre optique pour les applications en télécommunication",
+                "Capacité : Dimensionner une diode laser",
+                "Capacité : Concevoir des systèmes numériques répondant aux besoins d'un cahier des charges",
+                "Capacité : Configurer le FPGA pour qu'il communique avec des périphériques (CAN, CNA, etc)",
+                "Capacité : Tester et valider un système numérique à l'aide d'un analyseur logique"
+              ],
+              "connaissance": [
+                "Connaissance : Principes généraux et fondamentaux du langage VHDL",
+                "Connaissance : Electronique numérique (systèmes logiques)",
+                "Connaissance : Capteurs couleurs CCD, CMOS",
+                "Connaissance : Physique du semiconducteur pour l'optoélectronique",
+                "Connaissance : Propagation de la lumière dans un milieu transparent",
+                "Connaissance : Principes généraux et fondamentaux du langage VHDL",
+                "Connaissance : Electronique analogique et numériques, capteurs  Sous compétence : Concevoir des systèmes d'interfaçage optoélectroniques  Capacité : Dimensionner un système électronique basé sur des optocoupleurs ",
+                "Connaissance : Fonctions de base de l'électronique analogique",
+                "Connaissance : Composants optoélectroniques"
+              ],
+              "competenceToCapaciteEtConnaissance": {
+                "GE-C1": [
+                  "Capacité : Ecrire la description correspondant au fonctionnement d'un circuit avec les instructions VHDL appropriées",
+                  "Capacité : Mettre en oeuvre les différentes étapes du flot de conception avec les outils appropriés pour implémenter des fonctions logiques simples",
+                  "Capacité : Ecrire les bancs de test pour la réalisation de simulations fonctionnelles",
+                  "Capacité : Tester et valider un circuit numérique à l'aide d'un analyseur logique",
+                  "Connaissance : Principes généraux et fondamentaux du langage VHDL",
+                  "Connaissance : Electronique numérique (systèmes logiques)"
+                ],
+                "GE-C2": [
+                  "Capacité : Dimensionner une fibre optique pour les applications en télécommunication",
+                  "Capacité : Dimensionner une diode laser",
+                  "Connaissance : Capteurs couleurs CCD, CMOS",
+                  "Connaissance : Physique du semiconducteur pour l'optoélectronique",
+                  "Connaissance : Propagation de la lumière dans un milieu transparent"
+                ],
+                "GE-C5": [
+                  "Capacité : Concevoir des systèmes numériques répondant aux besoins d'un cahier des charges",
+                  "Capacité : Configurer le FPGA pour qu'il communique avec des périphériques (CAN, CNA, etc)",
+                  "Capacité : Tester et valider un système numérique à l'aide d'un analyseur logique",
+                  "Connaissance : Principes généraux et fondamentaux du langage VHDL",
+                  "Connaissance : Electronique analogique et numériques, capteurs  Sous compétence : Concevoir des systèmes d'interfaçage optoélectroniques  Capacité : Dimensionner un système électronique basé sur des optocoupleurs ",
+                  "Connaissance : Fonctions de base de l'électronique analogique",
+                  "Connaissance : Composants optoélectroniques"
+                ]
+              },
+              "listeComp": [
+                {
+                  "code": "C1",
+                  "val": "Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage",
+                  "valAnglais": "Implement analog and / or digital electronic components and identify their function within an assembly",
+                  "niveau": "2"
+                },
+                {
+                  "code": "C2",
+                  "val": "Mettre en œuvre les propriétés physiques des matériaux pour le domaine du génie électrique",
+                  "valAnglais": "Implement the physical properties of materials for the field of electrical engineering",
+                  "niveau": "2"
+                },
+                {
+                  "code": "C5",
+                  "val": "Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données",
+                  "valAnglais": "Design and build electronic systems for data acquisition, processing, control and communication",
+                  "niveau": "2"
+                }
+              ],
+              "listeCompMobilise": [
+                {
+                  "code": "A1",
+                  "val": "Analyser un système (ou un problème) réel ou virtuel",
+                  "valAnglais": "Analyze a real or virtual system (or problem)"
+                },
+                {
+                  "code": "A2",
+                  "val": "Exploiter un modèle d'un système réel ou virtuel",
+                  "valAnglais": "Exploit a model of a real or virtual system"
+                },
+                {
+                  "code": "A4",
+                  "val": "Concevoir un système répondant à un cahier des charges",
+                  "valAnglais": "Design a system that meets a set of specifications"
+                },
+                {
+                  "code": "A6",
+                  "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
+                  "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty"
+                },
+                {
+                  "code": "B2",
+                  "val": "Travailler, apprendre, évoluer de manière autonome",
+                  "valAnglais": "Work, learn, evolve autonomously"
+                },
+                {
+                  "code": "B3",
+                  "val": "Interagir avec les autres, travailler en équipe",
+                  "valAnglais": "Interact with others, work in a team"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "url": "/fr/formation/parcours/720/5/2",
+        "ecs": []
+      }
+    ]
+  }
+]
