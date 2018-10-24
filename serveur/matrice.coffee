@@ -6,6 +6,7 @@ departements = [
   "GCU"
   "TC"
   "GEN"
+  "GE"
 ]
 
 loadDepartement = (departement, res) ->
@@ -140,7 +141,7 @@ loadDepartement = (departement, res) ->
       <table class="tableheader">
        <thead>
          <tr>
-           <th><a href="GCU">GCU</a></th><th><a href="TC">TC</a></th><th><a href="GEN">GEN</a></th>
+           <th><a href="GCU">GCU</a></th><th><a href="TC">TC</a></th><th><a href="GEN">GEN</a></th><th><a href="GE">GE</a></th>
          </tr>
        </thead>
       </table>
@@ -178,6 +179,7 @@ app.get "/", (req, res) ->
          <th><a href="/matrice/GCU">GCU</a></th>
          <th><a href="/matrice/TC">TC</a></th>
          <th><a href="/matrice/GEN">GEN</a></th>
+         <th><a href="/matrice/GE">GE</a></th>
        </tr>
      </thead>
     </table>
