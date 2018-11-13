@@ -1,5 +1,3 @@
-# Erreurs sur SIxx, R
-# Erreur Projet Métier Phase 1 (GCU-51-PM1) : http://planete.insa-lyon.fr/scolpeda/f/ects?id=35951&_lang=fr
 module.exports =
 
   'E1':
