@@ -31,8 +31,10 @@ getCompetenceBruteSection = (pdf) ->
 
 getCompetenceSection = (matiere, start) ->
   compSections = [
-    "Cet EC relève de l'unité d'enseignement\.\*et contribue aux compétences suivantes : "
-    "De plus, elle nécessite de mobiliser les compétences suivantes : "
+    "Compétences écoles en sciences pour l'ingénieur : "
+    "Compétences écoles en humanité, documentation et éducation physique et sportive : "
+    "Compétences écoles spécifiques à la spécialité : "
+    "En mobilisant les compétences suivantes : "
     "En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : "
     "En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : "
     ""
@@ -71,31 +73,37 @@ extractPdfStructure = (pdf) ->
     # console.error(error)
     return matiere
 
-  # Compétences
-  lcompetences = getCompetenceSection(matiere, "Cet EC relève de l'unité d'enseignement\.\*et contribue aux compétences suivantes : ")
-  # console.log(lcompetences[1])
-  if lcompetences?
-    try
-      matiere.listeComp = lcompetences[1].trim().split(/ (?=[ABC]\d)/).map (x) ->
-        [, compet, niveau] = /([ABC]\d) .*\(niveau (.*)\)/i.exec(x)
-        if compet.startsWith('C')
-          compet = "#{DPTINSA}-#{compet}"
+  insertCompetence = (typeCompetence) ->
+    # Compétences
+    lcompetences = getCompetenceSection(matiere, typeCompetence)
+    # console.log(lcompetences[1])
+    if lcompetences?
+      try
+        matiere.listeComp = lcompetences[1].trim().split(/ (?=[ABC]\d-)/).map (x) ->
+          # console.log "*#{x}*"
+          [, compet, niveau] = /([ABC]\d)- .*\(niveau (.*)\)/i.exec(x)
+          if compet.startsWith('C')
+            compet = "#{DPTINSA}-#{compet}"
 
-        comp = _.clone(refCompetences[compet])
-        unless comp?
-          throw Error("*#{x}* est inconnue, recherche sur #{compet}")
-        comp.niveau = niveau
-        comp
-    catch error
-      console.error(lcompetences)
-      console.error(error)
-      throw error
+          comp = _.clone(refCompetences[compet])
+          unless comp?
+            throw Error("*#{x}* est inconnue, recherche sur #{compet}")
+          comp.niveau = niveau
+          comp
+      catch error
+        console.error(lcompetences)
+        console.error(error)
+        throw error
+
+  insertCompetence("Compétences écoles en sciences pour l'ingénieur : ")
+  insertCompetence("Compétences écoles en humanité, documentation et éducation physique et sportive : ")
+  insertCompetence("Compétences écoles spécifiques à la spécialité : ")
 
   # Competences mobilisées
-  lcompetences = getCompetenceSection(matiere, "De plus, elle nécessite de mobiliser les compétences suivantes : ")
+  lcompetences = getCompetenceSection(matiere, "En mobilisant les compétences suivantes : ")
   if lcompetences?
     try
-      matiere.listeCompMobilise = lcompetences[1].trim().match(/[ABC]\d /g).map (x) ->
+      matiere.listeCompMobilise = lcompetences[1].trim().match(/[ABC]\d/g).map (x) ->
         if x.startsWith('C')
           x = "#{DPTINSA}-#{x}"
         comp = refCompetences[x.trim()]
@@ -157,7 +165,10 @@ request()
       $('.contenu table tr td a', @).each () ->
         # if $(@).attr('href') is '/fr/formation/parcours/729/4/2'
         # if $(@).attr('href') is '/fr/formation/parcours/719/3/1' #GCU
-        if $(@).attr('href') is '/fr/formation/parcours/1332/4/1'
+        # GM
+        # if $(@).attr('href') is '/fr/formation/parcours/1332/4/1'
+        # if $(@).attr('href') is '/fr/formation/parcours/1290/3/1'
+        # if $(@).attr('href') is '/fr/formation/parcours/1334/4/1'
         # GEN if $(@).text().trim() is 'Parcours Standard'
           semestres.push
             url: $(@).attr('href')
@@ -180,6 +191,9 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
+            #GM
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36135&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36284&_lang=fr'
             # GCU
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36069&_lang=fr'
             # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36410&_lang=fr' or

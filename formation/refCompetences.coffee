@@ -304,3 +304,30 @@ module.exports =
     val: 'Concevoir et mettre en œuvre une démarche d\'écologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux'
     code: 'C7'
     valAnglais: 'Design and implement an industrial and territorial ecology approach to optimize resource management and limit environmental impacts'
+  'GM-C1':
+    val: "Mettre en œuvre une démarche d'innovation technologique dans le domaine mécanique"
+    code: "C1"
+  'GM-C2':
+    val: 'Analyser les besoins exprimés ou supposés et définir les exigences de conception d\'un système mécanique répondant à ces besoins'
+    code: 'C2'
+  'GM-C3':
+    val: 'Concevoir et pré-dimensionner un système mécanique'
+    code: 'C3'
+  'GM-C4':
+    val: 'Définir les moyens de mise en production des produits systèmes mécanique'
+    code: 'C4'
+  'GM-C5':
+    val: 'Conduire et participer à des projets collaboratifs'
+    code: 'C5'
+  'GM-C6':
+    val: 'Concevoir le pilotage d\'un système mécanique'
+    code: 'C6'
+  'GM-C7':
+    val: 'Utiliser des outils de simulation numérique'
+    code: 'C7'
+  'GM-C8':
+    val: 'Modéliser le comportement d\'un système ou d\'un phénomène multiphysique'
+    code: 'C8'
+  'GM-C9':
+    val: 'Etablir une démarche expérimentale'
+    code: 'C9'
