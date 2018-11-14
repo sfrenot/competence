@@ -331,3 +331,6 @@ module.exports =
   'GM-C9':
     val: 'Etablir une démarche expérimentale'
     code: 'C9'
+  'GM-C10':
+    val: 'Etablir une démarche de résolution d\'un problème'
+    code: 'C10'

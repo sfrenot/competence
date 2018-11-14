@@ -35,8 +35,8 @@ getCompetenceSection = (matiere, start) ->
     "Compétences écoles en humanité, documentation et éducation physique et sportive : "
     "Compétences écoles spécifiques à la spécialité : "
     "En mobilisant les compétences suivantes : "
-    "En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : "
-    "En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : "
+    "En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes *: "
+    "En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes *: "
     ""
   ]
   startfound = false
@@ -64,6 +64,7 @@ extractPdfStructure = (pdf) ->
   matiere.tp = extractRe(/TP : .*/, pdf)
   matiere.projet = extractRe(/Projet : .*/, pdf)
   matiere.perso = extractRe(/Travail personnel : .*/, pdf)
+  matiere.listeComp = []
   try
     [..., avant, dernier, blanc, blanc] = buildCaptureMiddle("CONTACT\n","OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT").exec(pdf)[1].split('\n')
     matiere.nom = "#{avant} : #{dernier}"
@@ -79,15 +80,16 @@ extractPdfStructure = (pdf) ->
     # console.log(lcompetences[1])
     if lcompetences?
       try
-        matiere.listeComp = lcompetences[1].trim().split(/ (?=[ABC]\d-)/).map (x) ->
-          # console.log "*#{x}*"
-          [, compet, niveau] = /([ABC]\d)- .*\(niveau (.*)\)/i.exec(x)
+        matiere.listeComp.push lcompetences[1].trim().split(/ (?=[ABC]\d+-)/).map (x) ->
+          # console.log "**#{x}**"
+          [, compet, niveau] = /([ABC]\d+)- .*\(niveau (\d)\)/i.exec(x)
           if compet.startsWith('C')
             compet = "#{DPTINSA}-#{compet}"
 
           comp = _.clone(refCompetences[compet])
           unless comp?
-            throw Error("*#{x}* est inconnue, recherche sur #{compet}")
+            throw Error(" *#{x}* EST INCONNUE SUR #{compet}")
+          # console.error "* #{niveau} *"
           comp.niveau = niveau
           comp
       catch error
@@ -98,12 +100,13 @@ extractPdfStructure = (pdf) ->
   insertCompetence("Compétences écoles en sciences pour l'ingénieur : ")
   insertCompetence("Compétences écoles en humanité, documentation et éducation physique et sportive : ")
   insertCompetence("Compétences écoles spécifiques à la spécialité : ")
+  matiere.listeComp = _.flatten matiere.listeComp
 
   # Competences mobilisées
   lcompetences = getCompetenceSection(matiere, "En mobilisant les compétences suivantes : ")
   if lcompetences?
     try
-      matiere.listeCompMobilise = lcompetences[1].trim().match(/[ABC]\d/g).map (x) ->
+      matiere.listeCompMobilise = lcompetences[1].trim().match(/[ABC]\d+/g).map (x) ->
         if x.startsWith('C')
           x = "#{DPTINSA}-#{x}"
         comp = refCompetences[x.trim()]
@@ -128,10 +131,11 @@ extractPdfStructure = (pdf) ->
         if capa isnt '' and capa.trim().length > 3 # Taille de la chaine à vérifier
           capaDescription = ''
           listComp = ''
-          try
-            [,capaDescription,listComp] = capa.match(/(.*) \((.*)\)/)
-          catch error
-            capaDescription = capa
+          # GM N'utilise pas de niveau
+          # try
+          #   [,capaDescription,listComp] = capa.match(/(.*) \((.*)\)/)
+          # catch error
+          capaDescription = capa
 
           if name is 'Capacité'
             capaDescription = "Capacité : #{capaDescription.trim()}"
@@ -146,8 +150,8 @@ extractPdfStructure = (pdf) ->
               unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
               matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
 
-  injectCapacitesConnaissances("Connaissance", matiere, "En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : ")
-  injectCapacitesConnaissances("Capacité", matiere, "En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : ")
+  injectCapacitesConnaissances("Connaissance", matiere, "En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes *: ")
+  injectCapacitesConnaissances("Capacité", matiere, "En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes *: ")
 
   # console.warn "-->", matiere
   matiere
@@ -168,7 +172,7 @@ request()
         # GM
         # if $(@).attr('href') is '/fr/formation/parcours/1332/4/1'
         # if $(@).attr('href') is '/fr/formation/parcours/1290/3/1'
-        # if $(@).attr('href') is '/fr/formation/parcours/1334/4/1'
+        # if $(@).attr('href') is '/fr/formation/parcours/1333/4/1'
         # GEN if $(@).text().trim() is 'Parcours Standard'
           semestres.push
             url: $(@).attr('href')
@@ -192,7 +196,7 @@ request()
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
             #GM
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36135&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36296&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36284&_lang=fr'
             # GCU
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36069&_lang=fr'
