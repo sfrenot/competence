@@ -12,7 +12,7 @@ skilvioo = require './skilvioo/skilvioo'
 refCompetences = require './refCompetences'
 {spawn}  = require 'child_process'
 
-DPTINSA = 'GEN'
+DPTINSA = 'GM'
 
 extractRe = (re, src) ->
   return re.exec(src)[0].split(' : ')[1]
@@ -157,7 +157,8 @@ request()
       $('.contenu table tr td a', @).each () ->
         # if $(@).attr('href') is '/fr/formation/parcours/729/4/2'
         # if $(@).attr('href') is '/fr/formation/parcours/719/3/1' #GCU
-        if $(@).text().trim() is 'Parcours Standard'
+        if $(@).attr('href') is '/fr/formation/parcours/1332/4/1'
+        # GEN if $(@).text().trim() is 'Parcours Standard'
           semestres.push
             url: $(@).attr('href')
             ecs: []

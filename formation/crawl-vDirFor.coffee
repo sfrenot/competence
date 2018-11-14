@@ -1,5 +1,7 @@
 # Lancement du parser tika
 # java -jar tika-app-1.17.jar --text -s -p 1234
+# TODO : fonction de liste de section
+# Extraire la section parmis cette liste
 
 Promise = require 'bluebird'
 cheerio = require 'cheerio'
@@ -10,6 +12,8 @@ skilvioo = require './skilvioo/skilvioo'
 refCompetences = require './refCompetences'
 {spawn}  = require 'child_process'
 
+DPTINSA = 'GM'
+
 extractRe = (re, src) ->
   return re.exec(src)[0].split(' : ')[1]
 
@@ -18,14 +22,38 @@ buildCaptureMiddle = (from, to) ->
   return regle
 
 getCompetenceBruteSection = (pdf) ->
-  mainSections = ["PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "mailto"]
+  mainSections = ["OBJECTIFS", "PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "\n\nmailto"]
   for section in mainSections
     rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
     if rech?
       return rech[1].trim().replace(/\n/g,' ')
   return null
 
+getCompetenceSection = (matiere, start) ->
+  compSections = [
+    "Compétences écoles en sciences pour l'ingénieur : "
+    "Compétences écoles en humanité, documentation et éducation physique et sportive : "
+    "Compétences écoles spécifiques à la spécialité : "
+    "En mobilisant les compétences suivantes : "
+    "En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : "
+    "En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : "
+    ""
+  ]
+  startfound = false
+  for section in compSections
+    unless startfound
+      if section is start && matiere.competencesBrutes.match(section)
+        startfound = true
+    else
+      rech = buildCaptureMiddle(start, section).exec(matiere.competencesBrutes)
+      if rech?
+        return rech
+  console.error "#{matiere.code} section \"#{start}\" introuvable}."
+
 extractPdfStructure = (pdf) ->
+  # console.log '->', pdf
+  # Suppression de l'addresse et du numéro de page sous toutes les pages
+  pdf = pdf.replace(/mailto:[\s\S]*Dernière modification le : [^\n]+/g,'')
   matiere = {}
   # console.warn "-->", pdf
   # console.warn "Recherche mat"
@@ -42,55 +70,84 @@ extractPdfStructure = (pdf) ->
     matiere.competencesBrutes = getCompetenceBruteSection(pdf)
   catch error
     console.error("Warning matiere mal saisie #{matiere.code}")
-    console.error(error)
+    # console.error(error)
     return matiere
 
-  lcompetences = /[\s\S]*Compétences visées *:* *([\s\S]*)(Capacités visées|\* Être capable de : )/ig.exec(matiere.competencesBrutes)
+  insertCompetence = (typeCompetence) ->
+    # Compétences
+    lcompetences = getCompetenceSection(matiere, typeCompetence)
+    # console.log(lcompetences[1])
+    if lcompetences?
+      try
+        matiere.listeComp = lcompetences[1].trim().split(/ (?=[ABC]\d-)/).map (x) ->
+          # console.log "*#{x}*"
+          [, compet, niveau] = /([ABC]\d)- .*\(niveau (.*)\)/i.exec(x)
+          if compet.startsWith('C')
+            compet = "#{DPTINSA}-#{compet}"
+
+          comp = _.clone(refCompetences[compet])
+          unless comp?
+            throw Error("*#{x}* est inconnue, recherche sur #{compet}")
+          comp.niveau = niveau
+          comp
+      catch error
+        console.error(lcompetences)
+        console.error(error)
+        throw error
+
+  insertCompetence("Compétences écoles en sciences pour l'ingénieur : ")
+  insertCompetence("Compétences écoles en humanité, documentation et éducation physique et sportive : ")
+  insertCompetence("Compétences écoles spécifiques à la spécialité : ")
+
+  # Competences mobilisées
+  lcompetences = getCompetenceSection(matiere, "En mobilisant les compétences suivantes : ")
   if lcompetences?
     try
-      matiere.listeComp = lcompetences[1].match(/E\d : |SPI-\d : |GCU-[A-Z]\d : |SI\d - |R - |SHS-\d : /g).map (x) ->
-        comp = refCompetences[x.substring(0, x.length-3)]
+      matiere.listeCompMobilise = lcompetences[1].trim().match(/[ABC]\d/g).map (x) ->
+        if x.startsWith('C')
+          x = "#{DPTINSA}-#{x}"
+        comp = refCompetences[x.trim()]
         unless comp?
-          throw Error("#{x} est inconnue")
+          throw Error("-#{x}- est inconnue")
         comp
     catch error
       console.error(lcompetences)
       console.error(error)
       throw error
 
+
   matiere.capacite = []
+  matiere.connaissance = []
   matiere.competenceToCapaciteEtConnaissance = {}
-  lcapacites = (/(?:Capacités visées: |\* Être capable de : )([\s\S]*)(Connaissances visées:|\* Connaître *: )/ig.exec(matiere.competencesBrutes))
-  if lcapacites?
-    splitCapacites = lcapacites[1].split('; ');
-    splitCapacites.map (capa) ->
-      if capa isnt ''
-        if not capa.startsWith("mettre en œuvre les principales techniques numériques de résolution de problèmes sous matlab (SPI-2, SPI-5) : a) calcul des racines d'une équation")
-          [,capaDescription,listComp] = capa.match(/([\s\S]*) *\((?!.*\()([\s\S]*)\)/)
-          capaDescription = "Capacité : #{capaDescription.trim()}"
-          matiere.capacite.push(capaDescription)
+
+  injectCapacitesConnaissances = (name, matiere, sectionStartName) ->
+    lcapacites = getCompetenceSection(matiere, sectionStartName)
+    if lcapacites?
+      splitCapacites = lcapacites[1].trim().split(/ *- /)
+      splitCapacites.map (capa) ->
+        if capa isnt '' and capa.trim().length > 3 # Taille de la chaine à vérifier
+          capaDescription = ''
+          listComp = ''
+          try
+            [,capaDescription,listComp] = capa.match(/(.*) \((.*)\)/)
+          catch error
+            capaDescription = capa
+
+          if name is 'Capacité'
+            capaDescription = "Capacité : #{capaDescription.trim()}"
+            matiere.capacite.push(capaDescription)
+          else
+            capaDescription = "Connaissance : #{capaDescription.trim()}"
+            matiere.connaissance.push(capaDescription)
+
           lcomps = listComp.split(', ')
           lcomps.map (comp) ->
-            unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
-            matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
-        else
-          console.error "Corriger http://planete.insa-lyon.fr/scolpeda/f/ects?id=36406&_lang=fr"
+            if _.isNumber(comp)
+              unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
+              matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
 
-  matiere.connaissance = []
-  lconnaissance = (/(?:\* Connaître *: )([\s\S]*)/ig.exec(matiere.competencesBrutes))
-  if lconnaissance?
-    splitConnaissance = lconnaissance[1].split(' ; ');
-    splitConnaissance.map (capa) ->
-      [,capaDescription,listComp] = capa.match(/(.*) \((.*)\)/)
-      capaDescription = "Connaissance : #{capaDescription.trim()}"
-      matiere.connaissance.push(capaDescription)
-      lcomps = listComp.split(', ')
-      lcomps.map (comp) ->
-        if comp is 'GCU- P2'
-          console.error("GCU -P2 a corriger")
-          comp = 'GCU-P2'
-        unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
-        matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
+  injectCapacitesConnaissances("Connaissance", matiere, "En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : ")
+  injectCapacitesConnaissances("Capacité", matiere, "En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : ")
 
   # console.warn "-->", matiere
   matiere
@@ -103,11 +160,16 @@ request()
   $ = cheerio.load(body)
   $('.diplome').each () ->
     departement = $(@).attr('id')
-    if departement is 'GCU'
+    if departement is DPTINSA
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        #TC if $(@).attr('href') is '/fr/formation/parcours/729/4/1'
+        # if $(@).attr('href') is '/fr/formation/parcours/729/4/2'
         # if $(@).attr('href') is '/fr/formation/parcours/719/3/1' #GCU
+        # GM
+        # if $(@).attr('href') is '/fr/formation/parcours/1332/4/1'
+        # if $(@).attr('href') is '/fr/formation/parcours/1290/3/1'
+        # if $(@).attr('href') is '/fr/formation/parcours/1334/4/1'
+        # GEN if $(@).text().trim() is 'Parcours Standard'
           semestres.push
             url: $(@).attr('href')
             ecs: []
@@ -129,14 +191,17 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
+            #GM
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36135&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36284&_lang=fr'
             # GCU
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36412&_lang=fr' or
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36069&_lang=fr'
             # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36410&_lang=fr' or
             # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36410&_lang=fr' or
             # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36407&_lang=fr' or
             # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36411&_lang=fr'
 
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36406&_lang=fr'
+            #  if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36412&_lang=fr' or
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36417&_lang=fr" or
             #  $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr' or
             #  $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr' or
@@ -144,7 +209,7 @@ request()
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36419&_lang=fr" or
             #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=35883&_lang=fr"
             # # TC
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36418&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35786&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36408&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr'
