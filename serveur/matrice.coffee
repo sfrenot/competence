@@ -47,7 +47,7 @@ loadDepartement = (departement, res) ->
     .join("\n")
 
   semestreTr = (semestre, name) ->
-    goodEcs = semestre.ecs.filter((ec) -> ec.detail.listeComp?)
+    goodEcs = semestre.ecs.filter((ec) -> not _.isEmpty(ec.detail.listeComp))
     goodEcs.map (ec, index) ->
       if index is 0
         """
