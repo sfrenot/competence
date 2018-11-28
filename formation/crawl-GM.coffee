@@ -132,9 +132,9 @@ extractPdfStructure = (pdf) ->
           capaDescription = ''
           listComp = ''
           # GM N'utilise pas de niveau
-          # try
-          #   [,capaDescription,listComp] = capa.match(/(.*) \((.*)\)/)
-          # catch error
+          try
+            [,capaDescription,listComp] = capa.match(/(.*) \((.*)\)/)
+          catch error
           capaDescription = capa
 
           if name is 'Capacité'
@@ -146,7 +146,7 @@ extractPdfStructure = (pdf) ->
 
           lcomps = listComp.split(', ')
           lcomps.map (comp) ->
-            if _.isNumber(comp)
+            if /[ABC]\d+/.test(comp)
               unless matiere.competenceToCapaciteEtConnaissance[comp]? then matiere.competenceToCapaciteEtConnaissance[comp] = []
               matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
 
