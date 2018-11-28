@@ -8,6 +8,7 @@ departements = [
   "GEN"
   "GE"
   "GM"
+  "GI"
 ]
 
 refCompetences = require("../formation/refCompetences")
@@ -138,6 +139,7 @@ loadDepartement = (departement, res) ->
            <th><a href="GEN">GEN</a></th>
            <th><a href="GE">GE</a></th>
            <th><a href="GM">GM</a></th>
+           <th><a href="GI">GI</a></th>
          </tr>
        </thead>
       </table>
@@ -177,6 +179,7 @@ app.get "/", (req, res) ->
          <th><a href="/matrice/GEN">GEN</a></th>
          <th><a href="/matrice/GE">GE</a></th>
          <th><a href="/matrice/GM">GM</a></th>
+         <th><a href="/matrice/GI">GI</a></th>
        </tr>
      </thead>
     </table>
