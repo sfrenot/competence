@@ -82,7 +82,8 @@ extractPdfStructure = (pdf) ->
       try
         matiere.listeComp.push lcompetences[1].trim().split(/ (?=[ABC]\d+-)/).map (x) ->
           # console.log "**#{x}**"
-          [, compet, niveau] = /([ABC]\d+)- .*\(niveau (\d)\)/i.exec(x)
+          #TODO: GM niveau null pour http://planete.insa-lyon.fr/scolpeda/f/ects?id=36372&_lang=fr
+          [, compet, niveau] = /([ABC]\d+)- .*\(niveau (\d?)\)/i.exec(x)
           if compet.startsWith('C')
             compet = "#{DPTINSA}-#{compet}"
 
@@ -126,7 +127,7 @@ extractPdfStructure = (pdf) ->
   injectCapacitesConnaissances = (name, matiere, sectionStartName) ->
     lcapacites = getCompetenceSection(matiere, sectionStartName)
     if lcapacites?
-      splitCapacites = lcapacites[1].trim().split(/ *- /)
+      splitCapacites = lcapacites[1].trim().split(/ - /)
       splitCapacites.map (capa) ->
         if capa isnt '' and capa.trim().length > 3 # Taille de la chaine à vérifier
           capaDescription = ''
@@ -167,13 +168,7 @@ request()
     if departement is DPTINSA
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        # if $(@).attr('href') is '/fr/formation/parcours/729/4/2'
-        # if $(@).attr('href') is '/fr/formation/parcours/719/3/1' #GCU
-        # GM
-        # if $(@).attr('href') is '/fr/formation/parcours/1332/4/1'
-        # if $(@).attr('href') is '/fr/formation/parcours/1290/3/1'
-        # if $(@).attr('href') is '/fr/formation/parcours/1333/4/1'
-        # GEN if $(@).text().trim() is 'Parcours Standard'
+        # if $(@).attr('href') is '/fr/formation/parcours/1333/3/1'
           semestres.push
             url: $(@).attr('href')
             ecs: []
@@ -195,32 +190,7 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
-            #GM
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36296&_lang=fr'
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36284&_lang=fr'
-            # GCU
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36069&_lang=fr'
-            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36410&_lang=fr' or
-            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36410&_lang=fr' or
-            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36407&_lang=fr' or
-            # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36411&_lang=fr'
-
-            #  if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36412&_lang=fr' or
-            #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36417&_lang=fr" or
-            #  $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr' or
-            #  $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr' or
-            #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36418&_lang=fr" or
-            #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36419&_lang=fr" or
-            #  $('a', @).attr('href') is "http://planete.insa-lyon.fr/scolpeda/f/ects?id=35883&_lang=fr"
-            # # TC
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35786&_lang=fr'
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36424&_lang=fr'
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36408&_lang=fr'
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36036&_lang=fr'
-            # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36040&_lang=fr' or
-            # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34969&_lang=fr' or
-            # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36060&_lang=fr' or
-            # # $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34873&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36123&_lang=fr'
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')
