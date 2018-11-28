@@ -104,6 +104,10 @@ module.exports =
     code: 'B2'
     val: 'Travailler, apprendre, évoluer de manière autonome'
     valAnglais: 'Work, learn, evolve autonomously'
+  'B28': # Erreur GI http://planete.insa-lyon.fr/scolpeda/f/ects?id=35856&_lang=fr
+    code: 'B2'
+    val: 'Travailler, apprendre, évoluer de manière autonome'
+    valAnglais: 'Work, learn, evolve autonomously'
   'B3':
     code: 'B3'
     val: 'Interagir avec les autres, travailler en équipe'
@@ -147,11 +151,11 @@ module.exports =
   'TC-C6':
     code: 'C6'
     val: 'Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles'
-    valAnglais: 'Implement, implement, develop, deploy networks and protocols'
+    valAnglais: 'Design, implement, develop, deploy networks and protocols'
   'TC-C7':
     code: 'C7'
     val: 'Mettre en œuvre, réaliser, développer, déployer des programmes informatiques'
-    valAnglais: 'Implement, implement, develop, deploy computer programs'
+    valAnglais: 'Design, implement, develop, deploy computer programs'
   'TC-C8':
     code: 'C8'
     val: 'Opérer, analyser, améliorer des systèmes numériques'
@@ -180,7 +184,7 @@ module.exports =
     code: 'C5'
     val: 'Concevoir et réaliser des systèmes électroniques pour l\'acquisition, le traitement, la commande et la communication de données'
     valAnglais: 'Design and build electronic systems for data acquisition, processing, control and communication'
-  'GE-C6':
+
     code: 'C6'
     val: 'Mettre en œuvre les étapes permettant le contrôle du fonctionnement d’un système discret ou continu'
     valAnglais: 'Implement steps to control the operation of a discrete or continuous system'
