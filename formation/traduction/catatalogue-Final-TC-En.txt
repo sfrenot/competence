@@ -1,9 +1,9 @@
 TC-5-OP4-SVP ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
 C8 Operate, analyze, improve digital systems
   Capacity: Understanding privacy issues, associated risks and their impacts
-  Ability: To carry out a critical analysis of a system from the point of view of the protection of personal data
+  Capacity: To carry out a critical analysis of a system from the point of view of the protection of personal data
   Capacity: Integrate privacy protection solutions into products
 
 A1 Analyze a real or virtual system (or problem)
@@ -20,9 +20,9 @@ C4 Specify and size digital systems in response to customer needs
 B2 Work, learn, evolve autonomously
 B3 Interact with others, work in a team
 TC-4-I-CSC ****************************
-This EC is part of the teaching unit Development and Security (TC-4-S2-DEV) and contributes to the following skills:            
+This EC is part of the teaching unit Development and Security (TC-4-S2-DEV) and contributes to the following skills:
 
-C7 Implement, implement, develop, deploy computer programs
+C7 Design, implement, develop, deploy computer programs
   Capacity: Deploy a secure communication architecture
   Knowledge: Principle of use of symmetric and asymmetric cryptography
   Knowledge: Key Management Architectures (CA, DANE / TLSA, PGP)
@@ -30,7 +30,7 @@ C7 Implement, implement, develop, deploy computer programs
   Knowledge: RSA, AES, PKI, TLS
 
 C8 Operate, analyze, improve digital systems
-  Ability: Analyze the security gaps of a communication
+  Capacity: Analyze the security gaps of a communication
   Knowledge: Examples of mathematical foundations
   Knowledge: Encryption / decryption / attack costs
   Knowledge: Cryptography, Cryptanalysis
@@ -47,12 +47,12 @@ In addition, it requires the following skills:
 
 B2 Work, learn, evolve autonomously
 TC-5-OP4-ELK ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
-C7 Implement, implement, develop, deploy computer programs
-  Ability: Visualize data in different forms
+C7 Design, implement, develop, deploy computer programs
+  Capacity: Visualize data in different forms
   Capacity: Collect data from remote information websites
-  Ability: Understanding Scaling Issues for Data Collection
+  Capacity: Understanding Scaling Issues for Data Collection
   Capacity: Develop collection tools that comply with access constraints
   Knowledge: Kibana
   Knowledge: LogStash
@@ -68,11 +68,11 @@ In addition, it requires the following skills:
 C3 Specify, design and model algorithms and computer programs
 B2 Work, learn, evolve autonomously
 TC-4-R-NRP ****************************
-This EC is part of the teaching unit Networks and Distributed Systems (TC-4-S1-RSD) and contributes to the following skills:            
+This EC is part of the teaching unit Networks and Distributed Systems (TC-4-S1-RSD) and contributes to the following skills:
 
-C6 Implement, implement, develop, deploy networks and protocols
+C6 Design, implement, develop, deploy networks and protocols
   Capacity: Configure active elements (switch, router) of a network in LOAN and WAN elementary architectures
-  Ability: Implement network routing across the Internet
+  Capacity: Implement network routing across the Internet
   Capacity: Implement Multicast Video Broadcast
   Capability: Implement routing of IPv6, RIPng, OSPFv4 and BGP networks
   Knowledge: Principles of IP routing and associated algorithms Bellman Ford, Dijkstra
@@ -87,15 +87,15 @@ C2 Specify, design and model communication networks and protocols
 C5 Implement, implement, develop, deploy systems for transmission and processing of signals / images / data
 B3 Interact with others, work in a team
 TC-5-OP3-IAR ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
 A4 Design a system that meets a set of specifications
-  Ability: Know the stakes of AI in Robotics
-  Ability: Implement a shorter path algorithm like A *
-  Ability: Modeling a decision-making problem like a CDM
-  Ability: Explain the underlying goals of reinforcement learning
-  Ability: Understanding the main convergence results of dynamic programming algorithms
-  Ability: Implement exact and approximate reinforcement learning algorithms
+  Capacity: Know the stakes of AI in Robotics
+  Capacity: Implement a shorter path algorithm like A *
+  Capacity: Modeling a decision-making problem like a CDM
+  Capacity: Explain the underlying goals of reinforcement learning
+  Capacity: Understanding the main convergence results of dynamic programming algorithms
+  Capacity: Implement exact and approximate reinforcement learning algorithms
   Knowledge: Agent: Architectures for Robotics, Multi-Agent Systems
   Knowledge: Bio-inspired Architectures and Swarm Robotics
   Knowledge: A * Planning Algorithms
@@ -117,22 +117,22 @@ In addition, it requires the following skills:
 B2 Work, learn, evolve autonomously
 B3 Interact with others, work in a team
 TC-4-H-RSM ****************************
-This EC is part of the teaching unit Humanities 3 (TC-4-S1-HUMA) and contributes to the following skills:            
+This EC is part of the teaching unit Humanities 3 (TC-4-S1-HUMA) and contributes to the following skills:
 
 B6 Situate, work, evolve in a company, a socio-productive organization
   Capacity: Write a resume
-  Ability: Use different tools and techniques to search for an internship or a job related to his professional project
+  Capacity: Use different tools and techniques to search for an internship or a job related to his professional project
   Knowledge: Knowledge of IT sector and trades
 
 B1 To know oneself, to manage oneself physically and mentally
 TC-5-OP2-SCP ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
 A4 Design a system that meets a set of specifications
-  Ability: Knowing how to handle the IoT-lab platform
+  Capacity: Knowing how to handle the IoT-lab platform
   Capacity: Programming communicating sensors
   Capacity: Collect sensor data and network usage
-  Ability: Analyze the characteristics of a radio network
+  Capacity: Analyze the characteristics of a radio network
   Knowledge: Issues of Smart Cities and the Internet of Things
   Knowledge: Deployments of network architectures, including sensors, in the urban space
   Knowledge: Different families of topologies and network protocols used
@@ -143,14 +143,14 @@ C2 Specify, design and model communication networks and protocols
 In addition, it requires the following skills:
 
 A1 Analyze a real or virtual system (or problem)
-C6 Implement, implement, develop, deploy networks and protocols
+C6 Design, implement, develop, deploy networks and protocols
 B3 Interact with others, work in a team
 TC-5-TR-HOPE ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
 B5 Act responsibly in a complex world
   Capacity: Evaluate the contributions and limits of a socio-technical issue
-  Ability: To transmit the results of a study in the form of collective sharing
+  Capacity: To transmit the results of a study in the form of collective sharing
   Knowledge: Sociological field study
 
 
@@ -159,24 +159,24 @@ In addition, it requires the following skills:
 B2 Work, learn, evolve autonomously
 B3 Interact with others, work in a team
 TC-5-OP4-SRS ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
-C7 Implement, implement, develop, deploy computer programs
+C7 Design, implement, develop, deploy computer programs
   Capacity: Design a secure information system
-  Ability: Conduct a critical analysis of security products
+  Capacity: Conduct a critical analysis of security products
   Knowledge: Classes of vulnerabilities
   Knowledge: Access Control Templates
   Knowledge: Theoretical and practical limitations of security tools
   Knowledge: Software Security, Vulnerabilities, Access Control
 
-C6 Implement, implement, develop, deploy networks and protocols
+C6 Design, implement, develop, deploy networks and protocols
   Capacity: Design a secure information system
   Knowledge: Use and implementation of an IDS
   Knowledge: WiFi Security Mechanisms
   Knowledge: IDS, wifi security
 
 A1 Analyze a real or virtual system (or problem)
-  Ability: Analyze and explain a documented attack
+  Capacity: Analyze and explain a documented attack
   Knowledge: Use and implementation of an IDS
 
 
@@ -184,14 +184,14 @@ In addition, it requires the following skills:
 
 B5 Act responsibly in a complex world
 TC-5-TR-CSAD ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
 A5 Process data
-  Ability: Implement a computational workflow from data access to visualization of results
-  Ability: Design and train a deep neural network for a classification problem
-  Ability: Exploit distributed computing infrastructures (launch of applications in the cloud, manipulation of virtual images etc.)
-  Ability: Model a dataset as a graph
-  Ability: Identify and apply algorithms adapted to a given graph model
+  Capacity: Implement a computational workflow from data access to visualization of results
+  Capacity: Design and train a deep neural network for a classification problem
+  Capacity: Exploit distributed computing infrastructures (launch of applications in the cloud, manipulation of virtual images etc.)
+  Capacity: Model a dataset as a graph
+  Capacity: Identify and apply algorithms adapted to a given graph model
   Knowledge: Understanding the Scientific Computing Ecosystem in Python
   Knowledge: Understanding the algorithmic principles of statistical and neuronal learning
   Knowledge: Understanding distributed computing infrastructures (Data_Form and cloud) and their uses
@@ -205,14 +205,14 @@ In addition, it requires the following skills:
 
 C1 Specify, design and model transmission and signal / image / data processing systems
 A1 Analyze a real or virtual system (or problem)
-C7 Implement, implement, develop, deploy computer programs
+C7 Design, implement, develop, deploy computer programs
 B3 Interact with others, work in a team
 B4 Show creativity, innovate, undertake
 TC-3-R-MAC ****************************
-This EC is part of the teaching unit Network Essentials (TC-3-S1-RES) and contributes to the following skills:            
+This EC is part of the teaching unit Network Essentials (TC-3-S1-RES) and contributes to the following skills:
 
 C2 Specify, design and model communication networks and protocols
-  Ability: Choosing the best error recovery strategy in a network
+  Capacity: Choosing the best error recovery strategy in a network
   Knowledge: Describe the role and functionality of the MAC layer in a network
   Knowledge: Aloha
   Knowledge: CSMA / CD
@@ -221,8 +221,8 @@ C2 Specify, design and model communication networks and protocols
   Knowledge: Ethernet
   Knowledge: Spanning Tree
 
-C6 Implement, implement, develop, deploy networks and protocols
-  Ability: Identify channel sharing methods that can be used in a network.
+C6 Design, implement, develop, deploy networks and protocols
+  Capacity: Identify channel sharing methods that can be used in a network.
   Knowledge: TDMA
   Knowledge: FDMA
   Knowledge: CDMA
@@ -232,15 +232,15 @@ In addition, it requires the following skills:
 
 A2 Exploit a model of a real or virtual system
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
-TC-4-R-NAS ****************************
-This EC is part of the teaching unit Network Modeling and Architectures (TC-4-S1-MAR) and contributes to the following skills:            
+DONE - TC-4-R-NAS ****************************
+This EC is part of the teaching unit Network Modeling and Architectures (TC-4-S1-MAR) and contributes to the following skills:
 
-C6 Implement, implement, develop, deploy networks and protocols
+C6 Design, implement, develop, deploy networks and protocols
   Capacity: Design and deploy an MPLS, M-BGP and MPLS VPN network architecture,
   Capacity: Scaling quality of service with DiffServ, RSVP,
   Capacity: Traffic engineering with MPLS TE and development of a QoS policy
   Capacity: Implement a VoIP network, SIP phones, IPBX, Call Center, IVR
-  Ability: Define an IPSec network security policy.
+  Capacity: Define an IPSec network security policy.
   Knowledge: Virtual Private Networks, 802.1Q, VLAN, GRE Tunnel,
   Knowledge: Data Encryption
   Knowledge: MPLS, LDP protocols, VRF technology, M-BGP routing
@@ -258,7 +258,7 @@ C2 Specify, design and model communication networks and protocols
 B3 Interact with others, work in a team
 C5 Implement, implement, develop, deploy systems for transmission and processing of signals / images / data
 TC-5-OP3-OSA ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
 A4 Design a system that meets a set of specifications
   Capacity: Program a system call mechanism
@@ -274,8 +274,8 @@ A6 Communicate an analysis or a scientific approach with scenarios adapted to th
   Knowledge: System Calls
   Knowledge: Core / Application isolation
 
-C7 Implement, implement, develop, deploy computer programs
-  Ability: Cross-compile, emulate, and debug software for an embedded platform containing an ARM (Raspberry Pi) processor
+C7 Design, implement, develop, deploy computer programs
+  Capacity: Cross-compile, emulate, and debug software for an embedded platform containing an ARM (Raspberry Pi) processor
   Capacity: ARM assembler programming
   Capacity: Program a system call mechanism
   Knowledge: Separate compilation, link editing
@@ -303,17 +303,17 @@ A3 Implement an experimental approach
 A1 Analyze a real or virtual system (or problem)
 C5 Implement, implement, develop, deploy systems for transmission and processing of signals / images / data
 TC-3-T-SIS ****************************
-This EC is part of the teaching unit Theoretical tools (TC-3-S1-OTE) and contributes to the following skills:            
+This EC is part of the teaching unit Theoretical tools (TC-3-S1-OTE) and contributes to the following skills:
 
 C1 Specify, design and model transmission and signal / image / data processing systems
   Capacity: Characterize in time and frequency a "deterministic signal"
   Capacity: Characterize in Time and Frequency a "Linear Temporary Invariant System (SLTI)"
   Capacity: Choose the most appropriate representation for the signal to study and analyze this signal in time and frequency
-  Ability: Calculate the output of a SLTI by the convolution operation
+  Capacity: Calculate the output of a SLTI by the convolution operation
   Capacity: Determine the output of a system governed by a constant-frequency differential equation, initially at rest or not
   Capacity: Determine the output of a system governed by a constant-difference equation, initially at rest or not
   Capacity: Calculate the output of a SLTI using Transforms (Fourier, Laplace, Z)
-  Ability: Sampling a signal
+  Capacity: Sampling a signal
   Knowledge: Representation of deterministic signals
   Knowledge: Special Signals: Dirac, Dirac Comb, Echelon, Sinusoid, Complex Exponential
   Knowledge: Transformation of the change of scale variable, time inversion
@@ -349,13 +349,13 @@ A6 Communicate an analysis or a scientific approach with scenarios adapted to th
 B1 To know oneself, to manage oneself physically and mentally
 B2 Work, learn, evolve autonomously
 TC-4-I-SYD ****************************
-This EC is part of the teaching unit Development and Security (TC-4-S2-DEV) and contributes to the following skills:            
+This EC is part of the teaching unit Development and Security (TC-4-S2-DEV) and contributes to the following skills:
 
 C2 Specify, design and model communication networks and protocols
   Capacity: Design a distributed system without RPC-type main memory
-  Ability: Implement a proven transaction chain with Bitcoin dynamic concensus
-  Ability: Implement a P2P Chord hash table management network
-  Ability: Analyze the security bias of a distributed system
+  Capacity: Implement a proven transaction chain with Bitcoin dynamic concensus
+  Capacity: Implement a P2P Chord hash table management network
+  Capacity: Analyze the security bias of a distributed system
   Knowledge: Principles defining distributed systems regarding global memory and time
   Knowledge: Vocabulary associated with large distributed algorithms and fault tolerance
   Knowledge: Algorithms and results of reference in distributed: FLP, Paxos, Bitcoin, 2PC
@@ -372,17 +372,17 @@ A2 Exploit a model of a real or virtual system
 In addition, it requires the following skills:
 
 C3 Specify, design and model algorithms and computer programs
-C7 Implement, implement, develop, deploy computer programs
-C6 Implement, implement, develop, deploy networks and protocols
+C7 Design, implement, develop, deploy computer programs
+C6 Design, implement, develop, deploy networks and protocols
 TC-5-OP3-MLR ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
 A4 Design a system that meets a set of specifications
-  Ability: Implement responsive navigation and teleoperation behavior
+  Capacity: Implement responsive navigation and teleoperation behavior
   Capacity: Implement a planning algorithm and path tracking (type A *)
   Capacity: Developing on the ROS (Robotic Operating System) middleware
   Capacity: Pilot a Turtlebot robot
-  Ability: Exploit a camera for the navigation of a robot
+  Capacity: Exploit a camera for the navigation of a robot
   Knowledge: Different control architectures
   Knowledge: Representations of the environment (map metric, topological, ..)
   Knowledge: Multi-robot issues such as connectivity and mapping and solutions
@@ -393,7 +393,7 @@ A4 Design a system that meets a set of specifications
 
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
 C3 Specify, design and model algorithms and computer programs
-C7 Implement, implement, develop, deploy computer programs
+C7 Design, implement, develop, deploy computer programs
 C1 Specify, design and model transmission and signal / image / data processing systems
 
 In addition, it requires the following skills:
@@ -404,11 +404,11 @@ A3 Implement an experimental approach
 A1 Analyze a real or virtual system (or problem)
 C5 Implement, implement, develop, deploy systems for transmission and processing of signals / images / data
 TC-3-R-IP ****************************
-This EC is part of the teaching unit Network Essentials (TC-3-S1-RES) and contributes to the following skills:            
+This EC is part of the teaching unit Network Essentials (TC-3-S1-RES) and contributes to the following skills:
 
 C2 Specify, design and model communication networks and protocols
-  Ability: Describe the role and functionality of the network layer.
-  Ability: Describe the role and functionality of the transport layer
+  Capacity: Describe the role and functionality of the network layer.
+  Capacity: Describe the role and functionality of the transport layer
   Knowledge: IPv4
   Knowledge: IPv6
   Knowledge: ICMP
@@ -418,22 +418,22 @@ C2 Specify, design and model communication networks and protocols
 A3 Implement an experimental approach
   Capacity: Deploy and configure a local network
   Capacity: Wire, manipulate a patch bay
-  Ability: Use Wireshark software to collect and analyze traces
+  Capacity: Use Wireshark software to collect and analyze traces
   Capacity: Measure the performance of a local network
 
-C6 Implement, implement, develop, deploy networks and protocols
+C6 Design, implement, develop, deploy networks and protocols
   Capacity: Design an addressing plan for a local network
   Knowledge: DHCP
   Knowledge: DNS
   Knowledge: NAT
 
 TC-4-S-ENT ****************************
-This EC is part of the teaching unit Internship in a company (TC-4-S2-STAGE) and contributes to the following skills:            
+This EC is part of the teaching unit Internship in a company (TC-4-S2-STAGE) and contributes to the following skills:
 
 B6 Situate, work, evolve in a company, a socio-productive organization
-  Ability: Estimate their workload,
-  Ability: Work in a team, collaborate
-  Ability: Write a project report, a summary note
+  Capacity: Estimate their workload,
+  Capacity: Work in a team, collaborate
+  Capacity: Write a project report, a summary note
   Knowledge: Knowledge of being, code in business
   Knowledge: Relationships manager, team, collaborator
   Knowledge: Project Management, Agile Methodology
@@ -447,19 +447,19 @@ B5 Act responsibly in a complex world
 B1 To know oneself, to manage oneself physically and mentally
 B2 Work, learn, evolve autonomously
 TC-5-OP2-CIT ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
 A1 Analyze a real or virtual system (or problem)
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
-C7 Implement, implement, develop, deploy computer programs
+C7 Design, implement, develop, deploy computer programs
 B3 Interact with others, work in a team
-C6 Implement, implement, develop, deploy networks and protocols
+C6 Design, implement, develop, deploy networks and protocols
 C9 Conduct projects in the digital domain
   Capacity: Take over an existing complex project
   Capacity: Analyze operational constraints of a hardware platform constrained as a resource
-  Ability: Set up distributed consensus policies and configurations for fault tolerance
+  Capacity: Set up distributed consensus policies and configurations for fault tolerance
   Capacity: Set up high availability services
-  Ability: Set up in agile team management with both large grain and a large team, and at the same time fine-grained in pairs
+  Capacity: Set up in agile team management with both large grain and a large team, and at the same time fine-grained in pairs
   Knowledge: Boards, ARM Processors (Raspberry PI)
   Knowledge: Event Brokers (MQTT)
   Knowledge: High Availability Application Development Frameworks (Vert.x, Akka)
@@ -476,7 +476,7 @@ B2 Work, learn, evolve autonomously
 A3 Implement an experimental approach
 A4 Design a system that meets a set of specifications
 TC-3-I-ALG ****************************
-This EC is part of the teaching unit Theoretical tools (TC-3-S1-OTE) and contributes to the following skills:            
+This EC is part of the teaching unit Theoretical tools (TC-3-S1-OTE) and contributes to the following skills:
 
 A4 Design a system that meets a set of specifications
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
@@ -490,14 +490,14 @@ In addition, it requires the following skills:
 
 B2 Work, learn, evolve autonomously
 TC-3-I-WEB ****************************
-This EC is part of the teaching unit Web and Network (TC-3-S2-WER) and contributes to the following skills:            
+This EC is part of the teaching unit Web and Network (TC-3-S2-WER) and contributes to the following skills:
 
 A1 Analyze a real or virtual system (or problem)
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
 C3 Specify, design and model algorithms and computer programs
-C7 Implement, implement, develop, deploy computer programs
-  Ability: Develop modern web applications
-  Ability: Deploying applications on the web
+C7 Design, implement, develop, deploy computer programs
+  Capacity: Develop modern web applications
+  Capacity: Deploying applications on the web
   Knowledge: Differences between relational databases, NoSQL, objects
   Knowledge: Web Services and Client-Server Protocols
   Knowledge: HTTP Protocol
@@ -511,7 +511,7 @@ C7 Implement, implement, develop, deploy computer programs
 
 A5 Process data
   Capacity: Model, design and query an information system
-  Ability: Conduct a conceptual analysis
+  Capacity: Conduct a conceptual analysis
   Knowledge: Entity / Association format and relationship schema
   Knowledge: Writing queries in SQL format and taking into account primary and foreign key constraints
 
@@ -520,35 +520,35 @@ B3 Interact with others, work in a team
 
 In addition, it requires the following skills:
 
-C6 Implement, implement, develop, deploy networks and protocols
+C6 Design, implement, develop, deploy networks and protocols
 A3 Implement an experimental approach
 B2 Work, learn, evolve autonomously
 TC-5-OP1-5G ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
 C1 Specify, design and model transmission and signal / image / data processing systems
   Capacity: Understand the standardization mechanisms
-  Ability: Understanding the issues of future standards
-  Ability: Write a reading note on a new technology
-  Ability: To understand technological evolution
+  Capacity: Understanding the issues of future standards
+  Capacity: Write a reading note on a new technology
+  Capacity: To understand technological evolution
   Knowledge: Challenges of 5G
   Knowledge: Standardization Process
   Knowledge: Emerging technologies: massive MIMO, mmWaves, RAN cloud, I.A. in networks
 
 C5 Implement, implement, develop, deploy systems for transmission and processing of signals / images / data
 C2 Specify, design and model communication networks and protocols
-C6 Implement, implement, develop, deploy networks and protocols
+C6 Design, implement, develop, deploy networks and protocols
 
 In addition, it requires the following skills:
 
 A1 Analyze a real or virtual system (or problem)
 B2 Work, learn, evolve autonomously
 TC-3-R-PBS ****************************
-This EC is part of the teaching unit Theoretical tools (TC-3-S1-OTE) and contributes to the following skills:            
+This EC is part of the teaching unit Theoretical tools (TC-3-S1-OTE) and contributes to the following skills:
 
 A2 Exploit a model of a real or virtual system
-  Ability: Modeling a random experiment: universe, event, random variables, random signal
-  Ability: Exploit the statistical modeling of a problem to solve it by calculating a probablity, a hope, the dsp of a random signal, etc.
+  Capacity: Modeling a random experiment: universe, event, random variables, random signal
+  Capacity: Exploit the statistical modeling of a problem to solve it by calculating a probablity, a expectancy, the dsp of a random signal, etc.
   Knowledge: Universe, experience, event. Notion of probability (frequency, axiomatic). Prob. elementary and conditional, independence, Bayes theorem
   Knowledge: Main laws of probability of discrete and continuous random variables. Expectancy, variance, function of a random variable.
   Knowledge: Bienayme-Chebysheff's Theorem, Bernouilli's Theorem, Central Limit Theorem
@@ -557,7 +557,7 @@ A2 Exploit a model of a real or virtual system
   Knowledge: Random Variable, Probability Law, Normal Law, Central Limit Theorem, Model
 
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
-  Ability: Modeling a random experiment: universe, event, random variables, random signal
+  Capacity: Modeling a random experiment: universe, event, random variables, random signal
   Knowledge: Main laws of probability of discrete and continuous random variables. Expectancy, variance, function of a random variable.
   Knowledge: Bienayme-Chebysheff's Theorem, Bernouilli's Theorem, Central Limit Theorem
   Knowledge: Couples of random variables: joint law, marginal laws, conditional. Covariance, cof of correlation. Function of a couple of random variables
@@ -570,10 +570,10 @@ In addition, it requires the following skills:
 
 A3 Implement an experimental approach
 TC-3-H-CTC1 ****************************
-This EC is part of the teaching unit Humanities 1 (TC-3-S1-HUMA) and contributes to the following skills:            
+This EC is part of the teaching unit Humanities 1 (TC-3-S1-HUMA) and contributes to the following skills:
 
 B6 Situate, work, evolve in a company, a socio-productive organization
-  Ability: Analyze the technical, sociological and economic dimensions of telecommunications
+  Capacity: Analyze the technical, sociological and economic dimensions of telecommunications
   Capacity: Conduct a documentary search
   Capacity: Make a presentation adapted to the target
   Knowledge: Acquiring a general culture of the telecoms sector
@@ -588,11 +588,11 @@ A4 Design a system that meets a set of specifications
 A2 Exploit a model of a real or virtual system
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
 TC-3-I-PPC ****************************
-This EC is part of the teaching unit Programming (TC-3-S1-PRO) and contributes to the following skills:            
+This EC is part of the teaching unit Programming (TC-3-S1-PRO) and contributes to the following skills:
 
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
 C3 Specify, design and model algorithms and computer programs
-C7 Implement, implement, develop, deploy computer programs
+C7 Design, implement, develop, deploy computer programs
   Capacity: Implementation of tools of communication and synchronization in Python language (tubes, signals, files of messages, shared memories, semaphores)
   Capacity: Design, implement and analyze programs in parallel and concurrent execution in Python
   Knowledge: Fundamentals of operating systems (structure, services, interruptions)
@@ -607,38 +607,38 @@ In addition, it requires the following skills:
 B2 Work, learn, evolve autonomously
 B3 Interact with others, work in a team
 TC-4-T-PSC ****************************
-This EC is part of the teaching unit Signal and Image (TC-4-S1-S & I) and contributes to the following skills:            
+This EC is part of the teaching unit Signal and Image (TC-4-S1-S & I) and contributes to the following skills:
 
 C1 Specify, design and model transmission and signal / image / data processing systems
-  Ability: Use a new development environment, type matlab, labview, gnu radio.
+  Capacity: Use a new development environment, type matlab, labview, gnu radio.
   Capacity: In order to design a transceiver meeting a set of technical criteria specified by the specifications or a standard to be met, knowing how to establish a functional division of the project.
-  Ability: To deepen a particular technical point to be able to design and develop a program performing the function concerned (simulation and / or physical implementation on PC or embedded system). This may involve modeling a physical phenomenon; identify the relevant inputs / outputs and the relationships between them; develop an algorithm; develop a test procedure for the function.
+  Capacity: To deepen a particular technical point to be able to design and develop a program performing the function concerned (simulation and / or physical implementation on PC or embedded system). This may involve modeling a physical phenomenon; identify the relevant inputs / outputs and the relationships between them; develop an algorithm; develop a test procedure for the function.
   Knowledge: software radio, multipaths, OFDM
 
 A3 Implement an experimental approach
   Capacity: Design a test bench to experimentally highlight a theoretically known aspect
-  Ability: Design a procedure for testing and evaluating the entire system based on relevant criteria. For example, evaluate: bit error rate, rate achieved, number of users, etc; depending on: the length of an ADSL line, the load of a given area serviced by a wifi AP, the reference standard used, etc. etc
+  Capacity: Design a procedure for testing and evaluating the entire system based on relevant criteria. For example, evaluate: bit error rate, rate achieved, number of users, etc; depending on: the length of an ADSL line, the load of a given area serviced by a wifi AP, the reference standard used, etc. etc
 
 B3 Interact with others, work in a team
-  Ability: Use project management tools (team work, planning, etc.)
+  Capacity: Use project management tools (team work, planning, etc.)
   Knowledge: timeline, communicaton, organization, tracking
 
 C9 Conduct projects in the digital domain
-  Ability: Use project management tools (team work, planning, etc.)
-  Ability: To deepen a particular technical point to be able to design and develop a program performing the function concerned (simulation and / or physical implementation on PC or embedded system). This may involve modeling a physical phenomenon; identify the relevant inputs / outputs and the relationships between them; develop an algorithm; develop a test procedure for the function.
+  Capacity: Use project management tools (team work, planning, etc.)
+  Capacity: To deepen a particular technical point to be able to design and develop a program performing the function concerned (simulation and / or physical implementation on PC or embedded system). This may involve modeling a physical phenomenon; identify the relevant inputs / outputs and the relationships between them; develop an algorithm; develop a test procedure for the function.
 
 
 In addition, it requires the following skills:
 
 B2 Work, learn, evolve autonomously
 TC-3-T-TPS ****************************
-This EC is part of the teaching unit Practice and Projects (TC-3-S2-PRA) and contributes to the following skills:            
+This EC is part of the teaching unit Practice and Projects (TC-3-S2-PRA) and contributes to the following skills:
 
 C1 Specify, design and model transmission and signal / image / data processing systems
   Capacity: Perform experimental measurements
-  Ability: To know how to use and manipulate laboratory instrumentation (signal generators, oscilloscope, spectrum analyzer)
+  Capacity: To know how to use and manipulate laboratory instrumentation (signal generators, oscilloscope, spectrum analyzer)
   Capacity: Analyze time and frequency an analog or digital signal
-  Ability: Implement digital filters on real-time systems
+  Capacity: Implement digital filters on real-time systems
   Capacity: Characterize analog modulations (AM and FM), frequencies, powers (carriers and modulating), modulation rate, frequency excursion
   Capacity: Model and characterize digital modulations (BPSK, QPSK, MPSK) under Simulink
   Capacity: Digitally demodulate an FM signal
@@ -653,7 +653,7 @@ C1 Specify, design and model transmission and signal / image / data processing s
 C5 Implement, implement, develop, deploy systems for transmission and processing of signals / images / data
   Capacity: Synthesize and implement digital filters on Texas Instruments DSP
   Capacity: Synthesize and implement digital filters on FPGA in VHDL
-  Ability: To master a development and testing environment for DSP (Code Composer Studio, Matlab).
+  Capacity: To master a development and testing environment for DSP (Code Composer Studio, Matlab).
   Capacity: Master a development and test environment for FPGA (Altera, Matlab, Simulink).
   Capacity: Configure radio transmission cards (USRP, USB Dongle RTL-SDR radio)
   Capability: Manipulate software radio development systems (GNU Radio, Communications System Toolbox Support Package for USRP Radio).
@@ -675,7 +675,7 @@ A2 Exploit a model of a real or virtual system
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
 B1 To know oneself, to manage oneself physically and mentally
 TC-4-T-TIP ****************************
-This EC is part of the teaching unit Signal and Image (TC-4-S1-S & I) and contributes to the following skills:            
+This EC is part of the teaching unit Signal and Image (TC-4-S1-S & I) and contributes to the following skills:
 
 C1 Specify, design and model transmission and signal / image / data processing systems
   Capacity: Model a continuous or discrete signal with an approximate signal
@@ -684,25 +684,25 @@ C1 Specify, design and model transmission and signal / image / data processing s
   Knowledge: Main Characteristics of Representation Spaces of Signals and Images
   Knowledge: Optimal approximation of signals and images
   Knowledge: Understanding wavelet transform and multi-resolution analysis
-  Knowledge: Basic Treatments for Images
+  Knowledge: Basic Processing Tools for Images
   Knowledge: Hilbert Space, Fourier Transform, Cosine Transform, Wavelet Transform,
 
 A1 Analyze a real or virtual system (or problem)
-  Ability: Analyze (understand the processing chain, identify different bricks) compression standards of the wall, audio, images and videos
-  Ability: Design a compression chain of the wall, audio, images and videos
+  Capacity: Analyze (understand the processing chain, identify different bricks) compression standards of the speech, audio, images and videos
+  Capacity: Design a compression chain of the speech, audio, images and videos
   Knowledge: Optimal approximation of signals and images
   Knowledge: Quantization and coding techniques for voice, audio, 2D image and video
-  Knowledge: Wave, audio, picture and video compression standards
+  Knowledge: Speech, audio, picture and video compression standards
 
-C5 Implement, implement, develop, deploy systems for transmission and processing of signals / images / data
-  Ability: Implement multiresolution analysis techniques for signals and images
+C5 Implement, realize, develop, deploy systems for transmission and processing of signals / images / data
+  Capacity: Implement multiresolution analysis techniques for signals and images
   Capacity: Realize an image processing software chain using tools such as MATLAB or STARLING
-  Knowledge: Methodologies for analysis and synhesis of the wall and the audio
-  Knowledge: Quantization and coding techniques for voice, audio, image and video
-  Knowledge: Methodologies for Mass Data Analysis ("Machine Learning" and "Deep Learning")
+  Knowledge: Methodologies for analysis and synhesis of speech and audio
+  Knowledge: Quantization and coding techniques for speech, audio, image and video
+  Knowledge: Methodologies for Big Data Analysis ("Machine Learning" and "Deep Learning")
 
 A5 Process data
-  Ability: Given an image or video database, implement data analysis techniques ("Machine Learning" learning and "Deep Learning" deep learning) to classify or identify visual objects (Artificial Intelligence)
+  Capacity: Given an image or video database, implement data analysis techniques ("Machine Learning" learning and "Deep Learning" deep learning) to classify or identify visual objects (Artificial Intelligence)
 
 
 In addition, it requires the following skills:
@@ -713,12 +713,12 @@ B3 Interact with others, work in a team
 A2 Exploit a model of a real or virtual system
 A3 Implement an experimental approach
 TC-5-OP1-PRJRES ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
-C6 Implement, implement, develop, deploy networks and protocols
+C6 Design, implement, develop, deploy networks and protocols
   Capacity: Design a Voice over IP Architecture and Unified Communication Services
   Capability: Design VPNs in an MPLS Network Architecture
-  Ability: Implement routing strategies using the BGP protocol
+  Capacity: Implement routing strategies using the BGP protocol
   Capacity: Implement SNMP monitoring and supervision of systems and equipment
   Knowledge: SIP protocol and associated services: Telephony, Interactive voice server, call redirection, voice mail and multi-site interconnection
   Knowledge: SNMP protocol, agent, MIB, manager, NMS (Nagios).
@@ -733,10 +733,10 @@ B2 Work, learn, evolve autonomously
 B4 Show creativity, innovate, undertake
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
 TC-4-T-RAN ****************************
-This EC is part of the teaching unit Advanced Network (TC-4-S2-RA) and contributes to the following skills:            
+This EC is part of the teaching unit Advanced Network (TC-4-S2-RA) and contributes to the following skills:
 
 C1 Specify, design and model transmission and signal / image / data processing systems
-  Ability: Understand the characteristics of Layer 1 & 2 protocols of cellular or wlan radio systems
+  Capacity: Understand the characteristics of Layer 1 & 2 protocols of cellular or wlan radio systems
   Knowledge: Knowing the techniques of cellular radio access and resource sharing
   Knowledge: Multiplexing Techniques (TDMA, FDMA, CDMA, OFDMA)
   Knowledge: Hexagonal model for cellular networks
@@ -744,7 +744,7 @@ C1 Specify, design and model transmission and signal / image / data processing s
   Knowledge: Cellular Networks, Radio Resource Sharing, Multiplexing (FDMA, TDMA, CDMA, OFDMA)
 
 C5 Implement, implement, develop, deploy systems for transmission and processing of signals / images / data
-  Ability: To understand the problems of radio engineering: sizing, planning, interference management
+  Capacity: To understand the problems of radio engineering: sizing, planning, interference management
   Capacity: Study a real trace on vector signal analyzer and analyze the present signals
   Knowledge: Key Features of Layer 1 & 2 of Cellular Systems
   Knowledge: Main features of Wifi layers 1 & 2
@@ -752,7 +752,7 @@ C5 Implement, implement, develop, deploy systems for transmission and processing
 
 C8 Operate, analyze, improve digital systems
   Capacity: Calculate the load of a cellular network and optimize it
-  Ability: To know how to use various information to evaluate the performances of a cellular network (traffic, QoS, quality of the radio links)
+  Capacity: To know how to use various information to evaluate the performances of a cellular network (traffic, QoS, quality of the radio links)
   Knowledge: Load Calculation Techniques for a Cellular Network
   Knowledge: Cellular Network Optimization Techniques
   Knowledge: Future evolutions (towards 5G)
@@ -766,10 +766,10 @@ B3 Interact with others, work in a team
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
 B2 Work, learn, evolve autonomously
 TC-5-TR-ARC ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
 C8 Operate, analyze, improve digital systems
-  Ability: Analyze strategic issues,
+  Capacity: Analyze strategic issues,
   Capacity: Security audit to identify threat scenarios, characterize and assess risks,
   Capacity: Produce a risk treatment plan
   Knowledge: Study and use two different methods of risk analysis
@@ -783,9 +783,9 @@ B3 Interact with others, work in a team
 B4 Show creativity, innovate, undertake
 B2 Work, learn, evolve autonomously
 TC-4-T-BLF ****************************
-This EC is part of the teaching unit Advanced Network (TC-4-S2-RA) and contributes to the following skills:            
+This EC is part of the teaching unit Advanced Network (TC-4-S2-RA) and contributes to the following skills:
 
-C6 Implement, implement, develop, deploy networks and protocols
+C6 Design, implement, develop, deploy networks and protocols
   Capacity: Sizing a corporate telephone network from a set of specifications
   Capacity: Configure ADSL access network equipment: home router, DSLAM, BAS
   Knowledge: Local Loop: Distribution Network, Subscriber Connection Unit
@@ -804,7 +804,7 @@ A1 Analyze a real or virtual system (or problem)
   Knowledge: Profitability, Convergence
 
 TC-5-OP3-BED ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
   Capacity: Program a microcontroller:
@@ -823,7 +823,7 @@ A2 Exploit a model of a real or virtual system
   Knowledge: Interrupt Manager, Device Drivers, Light OS
 
 C3 Specify, design and model algorithms and computer programs
-  Ability: Build a cross compilation chain
+  Capacity: Build a cross compilation chain
   Knowledge: Network Configuration
   Knowledge: Wireless Digital Communication Protocol
   Knowledge: Mastering embedded programming tools: JTAG, UART, ethernet
@@ -831,10 +831,10 @@ C3 Specify, design and model algorithms and computer programs
   Knowledge: Interrupt Manager, Device Drivers, Light OS
   Knowledge: Linux Administration
 
-C7 Implement, implement, develop, deploy computer programs
+C7 Design, implement, develop, deploy computer programs
   Capacity: Program a microcontroller
   Capacity: Configure a radio chip
-  Ability: Build a cross compilation chain
+  Capacity: Build a cross compilation chain
   Knowledge: Mastering embedded programming tools: JTAG, UART, ethernet
   Knowledge: Embedded C programming
 
@@ -850,12 +850,12 @@ A3 Implement an experimental approach
 A1 Analyze a real or virtual system (or problem)
 C5 Implement, implement, develop, deploy systems for transmission and processing of signals / images / data
 TC-5-OP2-RLO ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
 C1 Specify, design and model transmission and signal / image / data processing systems
   Capacity: Design and implement a radio reception system.
-  Ability: Analyze a standard: Identify the relevant characteristics of the radio and their impact on performance.
-  Ability: Knowing how to recognize the limitations of the techniques used in the implementation of a radio channel.
+  Capacity: Analyze a standard: Identify the relevant characteristics of the radio and their impact on performance.
+  Capacity: Knowing how to recognize the limitations of the techniques used in the implementation of a radio channel.
   Knowledge: In-depth operation of radio channels for wireless communication systems.
   Knowledge: Signal processing techniques for shaping a real radio signal (filtering, synchronization, demodulation, etc ...).
   Knowledge: GNU Radio and data-flow oriented signal processing systems.
@@ -873,7 +873,7 @@ A2 Exploit a model of a real or virtual system
 B3 Interact with others, work in a team
 B4 Show creativity, innovate, undertake
 TC-4-R-ARM ****************************
-This EC is part of the teaching unit Advanced Network (TC-4-S2-RA) and contributes to the following skills:            
+This EC is part of the teaching unit Advanced Network (TC-4-S2-RA) and contributes to the following skills:
 
 C8 Operate, analyze, improve digital systems
   Capacity: Analyze traces of use of mobile networks
@@ -890,9 +890,9 @@ C2 Specify, design and model communication networks and protocols
   Knowledge: Data Plan and Control Plane Protocols
   Knowledge: Control plan, data plan, access network, heart network
 
-C6 Implement, implement, develop, deploy networks and protocols
-  Ability: Describe the basic concepts of a cellular network
-  Ability: Describe the transmission / reception of messages (data or voice)
+C6 Design, implement, develop, deploy networks and protocols
+  Capacity: Describe the basic concepts of a cellular network
+  Capacity: Describe the transmission / reception of messages (data or voice)
   Knowledge: Architectural elements of 2G, 3G or 4G networks
   Knowledge: Cellular networks, call setup, establishment of an IP session, access stratum, non-access stratum
 
@@ -904,10 +904,10 @@ A1 Analyze a real or virtual system (or problem)
 B4 Show creativity, innovate, undertake
 B5 Act responsibly in a complex world
 TC-4-I-ASY ****************************
-This EC is part of the teaching unit Networks and Distributed Systems (TC-4-S1-RSD) and contributes to the following skills:            
+This EC is part of the teaching unit Networks and Distributed Systems (TC-4-S1-RSD) and contributes to the following skills:
 
 C3 Specify, design and model algorithms and computer programs
-  Ability: To know how to compare different distributed architectures
+  Capacity: To know how to compare different distributed architectures
   Knowledge: Docker Base
   Knowledge: Spring Base
   Knowledge: Vocabulary related to the architecture of computer systems
@@ -920,13 +920,13 @@ In addition, it requires the following skills:
 
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
 TC-3-I-ARC ****************************
-This EC is part of the teaching unit Basics of Computing and Architecture (TC-3-S1-BIA) and contributes to the following skills:            
+This EC is part of the teaching unit Basics of Computing and Architecture (TC-3-S1-BIA) and contributes to the following skills:
 
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
 C3 Specify, design and model algorithms and computer programs
 C8 Operate, analyze, improve digital systems
-  Ability: Coding and decoding information in binary
-  Ability: Construct complex combinational circuits
+  Capacity: Coding and decoding information in binary
+  Capacity: Construct complex combinational circuits
   Capacity: Model the behavior of a sequential circuit by a finite automaton
   Capacity: Build the sequential circuit corresponding to a finite automaton
   Capacity: Evaluate the time and space costs of a digital circuit
@@ -938,11 +938,11 @@ C8 Operate, analyze, improve digital systems
   Knowledge: Concepts of High Level Language and Compilation
 
 TC-3-R-NRP ****************************
-This EC is part of the teaching unit Web and Network (TC-3-S2-WER) and contributes to the following skills:            
+This EC is part of the teaching unit Web and Network (TC-3-S2-WER) and contributes to the following skills:
 
-C6 Implement, implement, develop, deploy networks and protocols
+C6 Design, implement, develop, deploy networks and protocols
   Capacity: Configure active elements (switch, router) of a network in LOAN and WAN elementary architectures
-  Ability: Implement network routing across the Internet
+  Capacity: Implement network routing across the Internet
   Capacity: Implement Multicast Video Broadcast
   Capability: Implement routing of IPv6, RIPng, OSPFv4 and BGP networks
   Knowledge: Principles of IP routing and associated algorithms Bellman Ford, Dijkstra
@@ -957,7 +957,7 @@ C2 Specify, design and model communication networks and protocols
 C5 Implement, implement, develop, deploy systems for transmission and processing of signals / images / data
 B3 Interact with others, work in a team
 TC-5-OP1-SAT ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
 C1 Specify, design and model transmission and signal / image / data processing systems
   Capacity: Characterize transmission techniques specific to satellite links
@@ -980,22 +980,22 @@ In addition, it requires the following skills:
 A4 Design a system that meets a set of specifications
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
 TC-4-I-MGL ****************************
-This EC is part of the teaching unit Development and Security (TC-4-S2-DEV) and contributes to the following skills:            
+This EC is part of the teaching unit Development and Security (TC-4-S2-DEV) and contributes to the following skills:
 
 C9 Conduct projects in the digital domain
-  Ability: To know how to present and communicate on a complex computer system with software engineering tools
-  Ability: Understand issues related to the verification of computer programs. Mainly related to the opposition between a formally proven code and a tested code
-  Ability: Understand the outline of IT project management.
-  Ability: Understand software product lifecycles
+  Capacity: To know how to present and communicate on a complex computer system with software engineering tools
+  Capacity: Understand issues related to the verification of computer programs. Mainly related to the opposition between a formally proven code and a tested code
+  Capacity: Understand the outline of IT project management.
+  Capacity: Understand software product lifecycles
   Knowledge: Representation and Use of UML Schemas to Represent an IT Architecture
   Knowledge: Formal approaches. Language B
   Knowledge: Using Software Designs Patterns to Describe a Program
   Knowledge: Agile Development and SCRUM Method
   Knowledge: Calistenics Objects
 
-C7 Implement, implement, develop, deploy computer programs
+C7 Design, implement, develop, deploy computer programs
   Capacity: Development by tests
-  Ability: Formal Abstraction of a System
+  Capacity: Formal Abstraction of a System
   Knowledge: Junit Programming, TDD
   Knowledge: Language B
 
@@ -1004,17 +1004,17 @@ In addition, it requires the following skills:
 
 C3 Specify, design and model algorithms and computer programs
 TC-5-TR-BTC ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
-C7 Implement, implement, develop, deploy computer programs
-  Ability: Set up and compile a cryptocurrency, boot a blockchain, experiment
+C7 Design, implement, develop, deploy computer programs
+  Capacity: Set up and compile a cryptocurrency, boot a blockchain, experiment
   Capacity: Mobilize and articulate the different blockchain and cryptocurrency software
   Knowledge: Bitcoin and Cryptocurrency Codes with Proof of Work
 
 C8 Operate, analyze, improve digital systems
   Capacity: Create smart contracts
   Capacity: Find information on blockchain / cryptocurrency projects
-  Ability: Make technological choices related to the state of the art and the context of use
+  Capacity: Make technological choices related to the state of the art and the context of use
   Knowledge: Organization of blockchain / cryptocurrency projects
   Knowledge: History and evolution of blockchain / cryptocurrency / CAD technologies
   Knowledge: Software and services participating in the cryptocurrency network ecosystem
@@ -1028,11 +1028,11 @@ B4 Show creativity, innovate, undertake
 B2 Work, learn, evolve autonomously
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
 TC-3-T-TSA ****************************
-This EC is part of the teaching unit Signal Processing and C (TC-3-S2-TSC) and contributes to the following skills:            
+This EC is part of the teaching unit Signal Processing and C (TC-3-S2-TSC) and contributes to the following skills:
 
 C1 Specify, design and model transmission and signal / image / data processing systems
-  Ability: To be able to model and design a digital filter
-  Ability: To be able to analyze the properties / characteristics of digital filters
+  Capacity: To be able to model and design a digital filter
+  Capacity: To be able to analyze the properties / characteristics of digital filters
   Knowledge: The principles of digital filtering
   Knowledge: Methods for calculating digital filters
   Knowledge: Constraints related to the digital environment
@@ -1040,8 +1040,8 @@ C1 Specify, design and model transmission and signal / image / data processing s
   Knowledge: Signals and system, digital filters, sampling
 
 C5 Implement, implement, develop, deploy systems for transmission and processing of signals / images / data
-  Ability: To be able to implement a digital filter on a DSP
-  Ability: To be able to use simulation software to simulate / evaluate digital filters
+  Capacity: To be able to implement a digital filter on a DSP
+  Capacity: To be able to use simulation software to simulate / evaluate digital filters
   Knowledge: The techniques of implementation of digital filters
   Knowledge: Implementing a Development System for DSP
   Knowledge: Structure of digital filters, DSP
@@ -1054,22 +1054,22 @@ A6 Communicate an analysis or a scientific approach with scenarios adapted to th
 B2 Work, learn, evolve autonomously
 B3 Interact with others, work in a team
 TC-3-I-CRO ****************************
-This EC is part of the teaching unit Signal Processing and C (TC-3-S2-TSC) and contributes to the following skills:            
+This EC is part of the teaching unit Signal Processing and C (TC-3-S2-TSC) and contributes to the following skills:
 
 C3 Specify, design and model algorithms and computer programs
-C7 Implement, implement, develop, deploy computer programs
-  Ability: Design an algorithm from a problem
-  Ability: Master recursion
-  Ability: Master the mechanism of indirection (pointers in C)
-  Ability: Design, realize, debug, optimize a program in C to solve a problem.
-  Ability: Use the compilation and debugging tools: gcc, gdb, make, valgrind.
-  Ability: Use meta-compilation tools on simple examples: lex, yacc.
+C7 Design, implement, develop, deploy computer programs
+  Capacity: Design an algorithm from a problem
+  Capacity: Master recursion
+  Capacity: Master the mechanism of indirection (pointers in C)
+  Capacity: Design, realize, debug, optimize a program in C to solve a problem.
+  Capacity: Use the compilation and debugging tools: gcc, gdb, make, valgrind.
+  Capacity: Use meta-compilation tools on simple examples: lex, yacc.
   Knowledge: The C Language
   Knowledge: Base of the executive: compilation string, program execution, execution stack
   Knowledge: Know the basics of grammar and compilation of programming languages
 
 A5 Process data
-  Ability: Choosing a Data Structure to Implement an Algorithm
+  Capacity: Choosing a Data Structure to Implement an Algorithm
   Knowledge: Chained list, table, tree
 
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
@@ -1079,11 +1079,11 @@ In addition, it requires the following skills:
 A2 Exploit a model of a real or virtual system
 B3 Interact with others, work in a team
 TC-4-T-CNA ****************************
-This EC is part of the teaching unit Signal and Image (TC-4-S1-S & I) and contributes to the following skills:            
+This EC is part of the teaching unit Signal and Image (TC-4-S1-S & I) and contributes to the following skills:
 
 C1 Specify, design and model transmission and signal / image / data processing systems
   Capacity: Design a digital transmission system (point-to-point) following a coherent and validated approach, adapted to a transmission channel
-  Ability: Optimize blocks of a transmission system by demonstrating its performance, by theory
+  Capacity: Optimize blocks of a transmission system by demonstrating its performance, by theory
   Knowledge: Theoretical baseband model of a transmission system
   Knowledge: Model of a baseband radio channel
   Knowledge: Methods for Evaluating the Performance of a Transmission System
@@ -1097,8 +1097,8 @@ C5 Implement, implement, develop, deploy systems for transmission and processing
   Knowledge: Simulink, modeling, performance
 
 A1 Analyze a real or virtual system (or problem)
-  Ability: Analyze a standard: identify the different functions and their roles
-  Ability: Understanding new technologies
+  Capacity: Analyze a standard: identify the different functions and their roles
+  Capacity: Understanding new technologies
   Capacity: Anticipate future technological developments for radio systems
   Knowledge: Radio standards (PHY layer): Wifi, GSM, UMTS, LTE, ¿
 
@@ -1111,20 +1111,20 @@ A4 Design a system that meets a set of specifications
 A2 Exploit a model of a real or virtual system
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
 TC-3-P-PALE ****************************
-This EC is part of the teaching unit Research and Engineering Project (TC-3-S2-PRI) and contributes to the following skills:            
+This EC is part of the teaching unit Research and Engineering Project (TC-3-S2-PRI) and contributes to the following skills:
 
 C9 Conduct projects in the digital domain
   Capacity: Manage an agile project in iterative mode
   Capacity: Manage a project in flow of functions
-  Ability: Estimate the tasks of a project
+  Capacity: Estimate the tasks of a project
   Capacity: Accompany a client to a project
   Knowledge: Agile Scrum Cycle
   Knowledge: Kanban Agile Flow
   Knowledge: Project management, agile development
 
 B3 Interact with others, work in a team
-  Ability: Take the lead of a project
-  Ability: Interact with a team, a client
+  Capacity: Take the lead of a project
+  Capacity: Interact with a team, a client
   Knowledge: Artists and Specifiers
   Knowledge: Marshmallow Challenge
 
@@ -1133,10 +1133,10 @@ In addition, it requires the following skills:
 
 B6 Situate, work, evolve in a company, a socio-productive organization
 TC-3-P-DRE ****************************
-This EC is part of the teaching unit Research and Engineering Project (TC-3-S2-PRI) and contributes to the following skills:            
+This EC is part of the teaching unit Research and Engineering Project (TC-3-S2-PRI) and contributes to the following skills:
 
 B6 Situate, work, evolve in a company, a socio-productive organization
-  Ability: To grasp the outline of a scientific presentation
+  Capacity: To grasp the outline of a scientific presentation
   Capacity: Know the actors of a laboratory
   Knowledge: The activities of the teacher-researcher
   Knowledge: The life of a research team
@@ -1145,9 +1145,9 @@ B6 Situate, work, evolve in a company, a socio-productive organization
 A1 Analyze a real or virtual system (or problem)
 B2 Work, learn, evolve autonomously
 TC-5-OP1-VSR ****************************
-This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:            
+This EC is part of the teaching unit 5TC Options (TC-5-OPT) and contributes to the following skills:
 
-C6 Implement, implement, develop, deploy networks and protocols
+C6 Design, implement, develop, deploy networks and protocols
   Capacity: Conduct a project to virtualize an information system
   Capacity: Choice of virtualization and cloud technical architecture
   Capacity: Design and deploy a virtualization architecture
@@ -1160,26 +1160,26 @@ C6 Implement, implement, develop, deploy networks and protocols
 In addition, it requires the following skills:
 
 C2 Specify, design and model communication networks and protocols
-C7 Implement, implement, develop, deploy computer programs
+C7 Design, implement, develop, deploy computer programs
 B2 Work, learn, evolve autonomously
 B3 Interact with others, work in a team
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
 C5 Implement, implement, develop, deploy systems for transmission and processing of signals / images / data
 C9 Conduct projects in the digital domain
 TC-3-T-CMN ****************************
-This EC is part of the teaching unit Communication Systems (TC-3-S1-SCM) and contributes to the following skills:            
+This EC is part of the teaching unit Communication Systems (TC-3-S1-SCM) and contributes to the following skills:
 
 C5 Implement, implement, develop, deploy systems for transmission and processing of signals / images / data
-  Ability: Manipulate numeric codes
+  Capacity: Manipulate numeric codes
   Capacity: Implement source / channel coders
   Knowledge: Information Coding, Boolean Algebra, Combinatory Logic, and Sequential Logic
   Knowledge: Source Coding: Source Coding Theorem, Shannon-Fano Coding, Huffman Coding, Arithmetic Coding, RLC Coding, and LZW Coding
   Knowledge: Channel coding: Channel coding theorem, Hamming codes, Cyclic codes (BCH), convolutional codes.
 
 C8 Operate, analyze, improve digital systems
-  Ability: Analyze logical systems
-  Ability: Evaluating the performance of a digital modulation
-  Ability: Analyze the structure of a digital modulator.
+  Capacity: Analyze logical systems
+  Capacity: Evaluating the performance of a digital modulation
+  Capacity: Analyze the structure of a digital modulator.
   Knowledge: Principle of numerical modulations, evaluation criteria
   Knowledge: Modulation of digital signals: by amplitude displacement (MDA), phase (MDP) and frequency (MDF) and QAM modulation.
   Knowledge: Structure of modulators and demodulators.
@@ -1198,19 +1198,19 @@ A2 Exploit a model of a real or virtual system
 B2 Work, learn, evolve autonomously
 B3 Interact with others, work in a team
 TC-3-I-PWEB ****************************
-This EC is part of the teaching unit Practice and Projects (TC-3-S2-PRA) and contributes to the following skills:            
+This EC is part of the teaching unit Practice and Projects (TC-3-S2-PRA) and contributes to the following skills:
 
 A1 Analyze a real or virtual system (or problem)
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
 C3 Specify, design and model algorithms and computer programs
-C7 Implement, implement, develop, deploy computer programs
+C7 Design, implement, develop, deploy computer programs
 C9 Conduct projects in the digital domain
 B3 Interact with others, work in a team
-  Ability: Perform a technology watch on the web frameworks
-  Ability: Mode'liser, design an information system
-  Ability: Integrate different front / back end web programming tools / frameworks
-  Ability: Perform deployment tests from a specific use case
-  Ability: Demonstrate the functionality of the deployed site
+  Capacity: Perform a technology watch on the web frameworks
+  Capacity: Mode'liser, design an information system
+  Capacity: Integrate different front / back end web programming tools / frameworks
+  Capacity: Perform deployment tests from a specific use case
+  Capacity: Demonstrate the functionality of the deployed site
   Knowledge: Dynamic Web Programming Language (python, javascript, PHP, etc.)
   Knowledge: Web Application Structuring Templates (MVC, MVT, Microservices, etc.)
 
@@ -1220,28 +1220,28 @@ A5 Process data
 
 In addition, it requires the following skills:
 
-C6 Implement, implement, develop, deploy networks and protocols
+C6 Design, implement, develop, deploy networks and protocols
 A3 Implement an experimental approach
 B2 Work, learn, evolve autonomously
 TC-4-P-PAO ****************************
-This EC is part of the teaching unit Invitation to tender (TC-4-S2-PAO) and contributes to the following skills:            
+This EC is part of the teaching unit Invitation to tender (TC-4-S2-PAO) and contributes to the following skills:
 
 C2 Specify, design and model communication networks and protocols
-  Ability: Analyze an existing, needs and constraints
+  Capacity: Analyze an existing, needs and constraints
   Capacity: Design LAN / MAN / WAN network architecture
   Capacity: Select and characterize appropriate hardware and software (LAN / MAN, security, network administration, TOIP, WIFI)
   Capacity: Organize and schedule deployment with migration constraints and support for solution operation
   Capacity: Implement a response to a call for tenders
   Capacity: Develop a technical, organizational and financial offer
-  Ability: Perform an offer defense defense, argue against the client
-  Ability: Work as a team of experts
+  Capacity: Perform an offer defense defense, argue against the client
+  Capacity: Work as a team of experts
   Knowledge: The phases of a call for tenders
   Knowledge: Architecture and services in a communication network
 
 
 In addition, it requires the following skills:
 
-C6 Implement, implement, develop, deploy networks and protocols
+C6 Design, implement, develop, deploy networks and protocols
 C4 Specify and size digital systems in response to customer needs
 C9 Conduct projects in the digital domain
 A1 Analyze a real or virtual system (or problem)
@@ -1252,23 +1252,23 @@ B4 Show creativity, innovate, undertake
 B5 Act responsibly in a complex world
 B7 Work in an international and intercultural context
 TC-3-I-ELP ****************************
-This EC is part of the teaching unit Programming (TC-3-S1-PRO) and contributes to the following skills:            
+This EC is part of the teaching unit Programming (TC-3-S1-PRO) and contributes to the following skills:
 
 C3 Specify, design and model algorithms and computer programs
-  Ability: Translate the mathematical statement of a problem into a functional program
-  Ability: Structure java and python programs
-  Ability: Choose to code for behaviors rather than for particular objects
+  Capacity: Translate the mathematical statement of a problem into a functional program
+  Capacity: Structure java and python programs
+  Capacity: Choose to code for behaviors rather than for particular objects
   Knowledge: Principle of recurrence
   Knowledge: Polymorphism in java
   Knowledge: Duck typing in python
 
-C7 Implement, implement, develop, deploy computer programs
+C7 Design, implement, develop, deploy computer programs
   Capacity: Asynchronously execute a stream of functions in javascript
-  Ability: Perform competing tasks in go.
+  Capacity: Perform competing tasks in go.
   Knowledge: Callback and promise javascript, goroutine and channel,
 
 A5 Process data
-  Ability: Prototype a flow of python data processing.
+  Capacity: Prototype a flow of python data processing.
   Knowledge: Visualization of data with NumPy, SciPy and matplotlib.
   Knowledge: Recursive data structures (lists, trees),
 
@@ -1277,10 +1277,10 @@ In addition, it requires the following skills:
 
 A1 Analyze a real or virtual system (or problem)
 TC-3-H-CTC2 ****************************
-This EC is part of the teaching unit Humanities 2 (TC-3-S2-HUMA) and contributes to the following skills:            
+This EC is part of the teaching unit Humanities 2 (TC-3-S2-HUMA) and contributes to the following skills:
 
 B6 Situate, work, evolve in a company, a socio-productive organization
-  Ability: Analyze the technical, sociological and economic dimensions of telecommunications
+  Capacity: Analyze the technical, sociological and economic dimensions of telecommunications
   Capacity: Conduct a documentary search
   Capacity: Make a presentation adapted to the target
   Knowledge: Acquiring a general culture of the telecoms sector
@@ -1295,10 +1295,10 @@ A4 Design a system that meets a set of specifications
 A2 Exploit a model of a real or virtual system
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
 TC-3-T-ACM ****************************
-This EC is part of the teaching unit Communication Systems (TC-3-S1-SCM) and contributes to the following skills:            
+This EC is part of the teaching unit Communication Systems (TC-3-S1-SCM) and contributes to the following skills:
 
 C1 Specify, design and model transmission and signal / image / data processing systems
-  Ability: Evaluate the quality of a received signal
+  Capacity: Evaluate the quality of a received signal
   Capacity: Evaluate the main parameters of the different analog modulations
   Knowledge: Radiation Diagram
   Knowledge: Model of a radio channel in free space and with 1 reflection
@@ -1323,19 +1323,19 @@ A6 Communicate an analysis or a scientific approach with scenarios adapted to th
 B3 Interact with others, work in a team
 B2 Work, learn, evolve autonomously
 TC-5-P-PILS ****************************
-This EC is part of the teaching unit End of R & D Studies Project (TC-5-P-PFE-S9) and contributes to the following skills:            
+This EC is part of the teaching unit End of R & D Studies Project (TC-5-P-PFE-S9) and contributes to the following skills:
 
 C9 Conduct projects in the digital domain
-  Ability: Set up an idea improvement process
-  Ability: Knowing how to start a technological project on the basis of acquired knowledge
-  Ability: Understanding the value of use
+  Capacity: Set up an idea improvement process
+  Capacity: Knowing how to start a technological project on the basis of acquired knowledge
+  Capacity: Understanding the value of use
   Knowledge: LeanStartup
   Knowledge: Realization of support videos
   Knowledge: Rapid Prototyping Solutions
   Knowledge: Project, Innovation, LeanStartup
 
 B2 Work, learn, evolve autonomously
-  Ability: Set up a team project management tool
+  Capacity: Set up a team project management tool
 
 
 In addition, it requires the following skills:
@@ -1344,7 +1344,7 @@ B3 Interact with others, work in a team
 B4 Show creativity, innovate, undertake
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
 TC-3-I-PIT ****************************
-This EC is part of the teaching unit Basics of Computing and Architecture (TC-3-S1-BIA) and contributes to the following skills:            
+This EC is part of the teaching unit Basics of Computing and Architecture (TC-3-S1-BIA) and contributes to the following skills:
 
 C3 Specify, design and model algorithms and computer programs
   Knowledge: Basic operations (moving, writing, recording) under vi
@@ -1356,9 +1356,9 @@ C3 Specify, design and model algorithms and computer programs
   Knowledge: Bash Script
   Knowledge: Simple instructions from the Python interpreter
 
-C7 Implement, implement, develop, deploy computer programs
-  Ability: Manipulate variables under Bash and Python
-  Ability: Translate a simple statement into a functional Bash or Python program
+C7 Design, implement, develop, deploy computer programs
+  Capacity: Manipulate variables under Bash and Python
+  Capacity: Translate a simple statement into a functional Bash or Python program
   Capacity: Follow a tutorial in autonomy
 
 
@@ -1366,12 +1366,12 @@ In addition, it requires the following skills:
 
 B2 Work, learn, evolve autonomously
 TC-3-P-PTIR ****************************
-This EC is part of the teaching unit Research and Engineering Project (TC-3-S2-PRI) and contributes to the following skills:            
+This EC is part of the teaching unit Research and Engineering Project (TC-3-S2-PRI) and contributes to the following skills:
 
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
-  Ability: To join a research team
+  Capacity: To join a research team
   Capacity: Work in a group (with 4 other students)
-  Ability: Conduct individual work as part of a group project
+  Capacity: Conduct individual work as part of a group project
   Capacity: Synthetic and regular presentation, orally, of his works
   Capacity: Writing a state of the art
   Capacity: Writing a synthesis report of a research initiation activity
@@ -1395,12 +1395,12 @@ A6 Communicate an analysis or a scientific approach with scenarios adapted to th
 B5 Act responsibly in a complex world
 B6 Situate, work, evolve in a company, a socio-productive organization
 TC-3-P-ASDS ****************************
-This EC is part of the teaching unit Research and Engineering Project (TC-3-S2-PRI) and contributes to the following skills:            
+This EC is part of the teaching unit Research and Engineering Project (TC-3-S2-PRI) and contributes to the following skills:
 
 B2 Work, learn, evolve autonomously
-  Ability: To know how to find relevant and reliable documents in relation to a problem
-  Ability: Analyze the structure and content of different scientific documents
-  Ability: To know how to situate a result in a state of the art
+  Capacity: To know how to find relevant and reliable documents in relation to a problem
+  Capacity: Analyze the structure and content of different scientific documents
+  Capacity: To know how to situate a result in a state of the art
   Capacity: Conduct a bibliographic study on a recent research topic
   Knowledge: Know different types of scientific documents, know how they are developed and be able to assess their reliability
   Knowledge: Know the structure of the different scientific documents
@@ -1408,7 +1408,7 @@ B2 Work, learn, evolve autonomously
   Knowledge: Knowing rules for presenting scientific results
 
 B1 To know oneself, to manage oneself physically and mentally
-  Ability: Present scientific results in writing, orally and in poster form
+  Capacity: Present scientific results in writing, orally and in poster form
 
 
 In addition, it requires the following skills:
@@ -1417,12 +1417,12 @@ A4 Design a system that meets a set of specifications
 A1 Analyze a real or virtual system (or problem)
 A3 Implement an experimental approach
 TC-4-R-PRF ****************************
-This EC is part of the teaching unit Network Modeling and Architectures (TC-4-S1-MAR) and contributes to the following skills:            
+This EC is part of the teaching unit Network Modeling and Architectures (TC-4-S1-MAR) and contributes to the following skills:
 
 C2 Specify, design and model communication networks and protocols
-  Ability: To be able to model a network system using analytical tools
-  Ability: To know how to simulate a system using a discrete event simulator
-  Ability: To know how to evaluate the transient and stationary performance of a system by using analytical or simulation tools.
+  Capacity: To be able to model a network system using analytical tools
+  Capacity: To know how to simulate a system using a discrete event simulator
+  Capacity: To know how to evaluate the transient and stationary performance of a system by using analytical or simulation tools.
   Capacity: Know how to size a network by conducting an adequate performance evaluation
   Knowledge: Knowledge of analytical modeling tools: discrete time Markov chain, continuous time Markov chain, Queues, Queue networks.
   Knowledge: To know the different equations characterizing the transient and permanent regimes of the analytical models.
@@ -1430,17 +1430,17 @@ C2 Specify, design and model communication networks and protocols
   Knowledge: Knowing the theoretical underpinnings of discrete event simulation and the basis of the NS2 simulator
 
 C1 Specify, design and model transmission and signal / image / data processing systems
-  Ability: To be able to model and evaluate some simple transmission systems (channel access approaches, correcting codes, retransmissions, etc.) using analytical tools
+  Capacity: To be able to model and evaluate some simple transmission systems (channel access approaches, correcting codes, retransmissions, etc.) using analytical tools
   Knowledge: Knowledge of analytical modeling tools: discrete time Markov chain, continuous time Markov chain, Queues, Queue networks.
 
 C8 Operate, analyze, improve digital systems
   Knowledge: Knowledge of analytical tools and simulations useful for performance assessments of already deployed digital systems (capabilities, limits, reliability, bottlenecks, etc.)
 
 A2 Exploit a model of a real or virtual system
-  Ability: To know how to put in place a scientific approach allowing the analysis of the performances of a system by correctly modeling the system and the inputs and by computing and analyzing output performance metrics
+  Capacity: To know how to put in place a scientific approach allowing the analysis of the performances of a system by correctly modeling the system and the inputs and by computing and analyzing output performance metrics
 
 A6 Communicate an analysis or a scientific approach with scenarios adapted to their specialty
-  Ability: To model some engineering problems using analytical tools (Markov Chain) with an ineret in different fields of engineering
+  Capacity: To model some engineering problems using analytical tools (Markov Chain) with an ineret in different fields of engineering
   Knowledge: Know some analytical and simulation tools useful for the discussion of different engineering problems
 
 
