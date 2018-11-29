@@ -76,34 +76,42 @@ module.exports =
     code: 'A1'
     val: 'Analyser un système (ou un problème) réel ou virtuel'
     valAnglais: 'Analyze a real or virtual system (or problem)'
+    bs: '1'
   'A2':
     code: 'A2'
     val: 'Exploiter un modèle d\'un système réel ou virtuel'
     valAnglais: 'Exploit a model of a real or virtual system'
+    bs: '2'
   'A3':
     code: 'A3'
     val: 'Mettre en œuvre une démarche expérimentale'
     valAnglais: 'Implement an experimental approach'
+    bs: '3'
   'A4':
     code: 'A4'
     val: 'Concevoir un système répondant à un cahier des charges'
     valAnglais: 'Design a system that meets a set of specifications'
+    bs: '4'
   'A5':
     code: 'A5'
     val: 'Traiter des données'
     valAnglais: 'Process data'
+    bs: '5'
   'A6':
     code: 'A6'
     val: 'Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité'
     valAnglais: 'Communicate an analysis or a scientific approach with scenarios adapted to their specialty'
+    bs: '6'
   'B1':
     code: 'B1'
     val: 'Se connaître, se gérer physiquement et mentalement'
     valAnglais: 'To know oneself, to manage oneself physically and mentally'
+    bs: '23'
   'B2':
     code: 'B2'
     val: 'Travailler, apprendre, évoluer de manière autonome'
     valAnglais: 'Work, learn, evolve autonomously'
+    bs: '24'
   'B28': # Erreur GI http://planete.insa-lyon.fr/scolpeda/f/ects?id=35856&_lang=fr
     code: 'B2'
     val: 'Travailler, apprendre, évoluer de manière autonome'
@@ -112,22 +120,27 @@ module.exports =
     code: 'B3'
     val: 'Interagir avec les autres, travailler en équipe'
     valAnglais: 'Interact with others, work in a team'
+    bs: '25'
   'B4':
     code: 'B4'
     val: 'Faire preuve de créativité, innover, entreprendre'
     valAnglais: 'Show creativity, innovate, undertake'
+    bs: '26'
   'B5':
     code: 'B5'
     val: 'Agir de manière responsable dans un monde complexe'
     valAnglais: 'Act responsibly in a complex world'
+    bs: '27'
   'B6':
     code: 'B6'
     val: 'Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive'
     valAnglais: 'Situate, work, evolve in a company, a socio-productive organization'
+    bs: '28'
   'B7':
     code: 'B7'
     val: 'Travailler dans un contexte international et interculturel'
     valAnglais: 'Work in an international and intercultural context'
+    bs: '29'
   'TC-C1':
     code: 'C1'
     val: 'Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données'
@@ -350,3 +363,70 @@ module.exports =
   'IF-C15':
     val: 'Utiliser des diagrammes UML pour modéliser un objet d\'étude'
     code: 'C15'
+  'BS-C1':
+    val: 'Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique'
+    code: 'C1'
+    bs: '7'
+  'BS-C2':
+    val: 'Concevoir, adapter et optimiser des plans d\'expériences en Biosciences'
+    code: 'C2'
+    bs: '8'
+  'BS-C3':
+    val: 'Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data)'
+    code: 'C3'
+    bs: '9'
+  'BS-C4':
+    val: 'Mettre en œuvre des outils d\'analyse pour la biologie à haut débit'
+    code: 'C4'
+    bs: '18'
+  'BS-C5':
+    val: 'Quantifier, caractériser structurellement et purifier des biomolécules'
+    code: 'C5'
+    bs: '10'
+  'BS-C5.1': # Dupicate BS
+    val: 'Quantifier, caractériser structurellement et purifier des biomolécules'
+    code: 'C5'
+    bs: '19'
+  'BS-C6':
+    val: 'Mesurer et évaluer l\'impact de nouveaux produits de santé ou de méthodes diagnostiques'
+    code: 'C6'
+    bs: '20'
+  'BS-C7':
+    val: 'Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire'
+    code: 'C7'
+    bs: '11'
+  'BS-C8':
+    val: 'Utiliser les principales techniques d\'exploration des fonctions biologiques'
+    code: 'C8'
+    bs: '12'
+  'BS-C9':
+    val: 'Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique'
+    code: 'C9'
+    bs: '13'
+  'BS-C10':
+    val: 'Apprécier les limites de validité d\'un modèle et identifier les sources de variabilité et d\'incertitudes'
+    code: 'C10'
+    bs: '14'
+  'BS-C11':
+    val: 'Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents'
+    code: 'C11'
+    bs: '15'
+  'BS-C12':
+    val: 'Automatiser le traitement et l\'extraction de connaissances à partir de données biologiques'
+    code: 'C12'
+  'BS-C13':
+    val: 'Comprendre le référentiel d\'assurance qualité et de la réglementation dans le domaine des biotechnologies'
+    code: 'C13'
+    bs: '17'
+  'BS-C14':
+    val: 'Développer et valider des procédés de fabrication en biotechnologies'
+    code: 'C14'
+    bs: '21'
+  'BS-C15':
+    val: 'Contribuer à des études environnementales en y apportant la composante biologique et évolutive'
+    code: 'C15'
+    bs: '16'
+  'BS-C15.1': #Duplicate BS
+    val: 'Contribuer à des études environnementales en y apportant la composante biologique et évolutive'
+    code: 'C15'
+    bs: '22'
