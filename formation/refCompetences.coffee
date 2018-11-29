@@ -338,3 +338,15 @@ module.exports =
   'GM-C10':
     val: 'Etablir une démarche de résolution d\'un problème'
     code: 'C10'
+  'IF-C10':
+    val: 'Mettre en oeuvre une chaîne complète pour analyser / transformer un langage'
+    code: 'C10'
+  'IF-C12':
+    val: 'Mettre en oeuvre une chaîne complète pour analyser / transformer un langage'
+    code: 'C12'
+  'IF-C13':
+    val: 'Implémenter de bons logiciels'
+    code: 'C13'
+  'IF-C15':
+    val: 'Utiliser des diagrammes UML pour modéliser un objet d\'étude'
+    code: 'C15'
