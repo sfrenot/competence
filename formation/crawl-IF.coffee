@@ -105,15 +105,14 @@ extractPdfStructure = (pdf) ->
           # console.log "Connaissances #{connName}"
           # On place la compétence
           # TODO: IF n'a pas de niveaux pour l'instant
-          # [, compet, niveau] = /([ABC]\d+)- .*\(niveau (.*)\)/i.exec(compName)
-          [, compet] = /([ABC]\d+)- .*/i.exec(compName)
+          [, compet, niveau] = /([ABC]\d+)- .*\(niveau (.*)\)/i.exec(compName)
           if compet.startsWith('C')
             compet = "#{DPTINSA}-#{compet}"
           comp = _.clone(refCompetences[compet])
           unless comp?
             throw Error("*#{x}* est inconnue, #{compet}")
           # Le niveau est en dur
-          comp.niveau = 3
+          comp.niveau = niveau
 
           addCapaOrConn = (compet, listName, field) ->
             if listName
