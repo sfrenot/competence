@@ -101,10 +101,6 @@ extractPdfStructure = (pdf) ->
             else
               compName = x.trim()
 
-          # console.log "Capacite #{capaName}"
-          # console.log "Connaissances #{connName}"
-          # On place la compétence
-          # TODO: IF n'a pas de niveaux pour l'instant
           [, compet, niveau] = /([ABC]\d+)- .*\(niveau (.*)\)/i.exec(compName)
           if compet.startsWith('C')
             compet = "#{DPTINSA}-#{compet}"
