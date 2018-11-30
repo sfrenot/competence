@@ -33,11 +33,11 @@ insertDetail = () ->
           compName = data.field3.replace(/"/g,'').replace('oe', 'œ').replace(/  /g, ' ').trim()
           tmpComp = _.find(refCompetences, {'val': compName})
           unless tmpComp
-            console.error("COMPETENCE ERREUR", currentMat.ueCode, JSON.stringify compName,null, 2)
+            console.error("COMPETENCE ERREUR", JSON.stringify(currentMat,null, 2), JSON.stringify compName,null, 2)
             process.exit()
           else
             refComp = tmpComp.code
-            
+
           if data["field#{i}"] is 'M'
             currentMat.competencesM.push("#{refComp} #{compName}")
           else
@@ -70,7 +70,7 @@ insertDetail = () ->
     Promise.map files, (file) ->
       new Promise (resolve, reject) ->
         datas = []
-        csv({flatKeys: true, delimiter: ";", noheader: true})
+        csv({flatKeys: true, delimiter: ",", noheader: true})
         .fromFile("./sources/#{file}")
         .on 'json', (data) ->
           datas.push data

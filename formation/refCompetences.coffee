@@ -195,9 +195,13 @@ module.exports =
     valAnglais: 'Specify, model and design methods and algorithms for the processing and management of information conveyed by signals and images'
   'GE-C5':
     code: 'C5'
-    val: 'Concevoir et réaliser des systèmes électroniques pour l\'acquisition, le traitement, la commande et la communication de données'
+    val: "Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données"
     valAnglais: 'Design and build electronic systems for data acquisition, processing, control and communication'
-
+  'GE-C6':
+    code: 'C6'
+    val: 'Mettre en œuvre les étapes permettant le contrôle du fonctionnement d’un système échantillonné ou continu'
+    valAnglais: 'Implement steps to control the operation of a discrete or continuous system'
+  'GE-C6.2': #TODO : bug GE
     code: 'C6'
     val: 'Mettre en œuvre les étapes permettant le contrôle du fonctionnement d’un système discret ou continu'
     valAnglais: 'Implement steps to control the operation of a discrete or continuous system'
@@ -210,7 +214,7 @@ module.exports =
     val: 'Mettre en œuvre des principes et stratégies d’ordonnancements des tâches et de gestion'
     valAnglais: 'Implement principles and strategies for scheduling tasks and managing'
   'GI-C6':
-    val: 'Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité'
+    val: 'Communiquer une analyse ou une démarche scientifique'
     code: 'C6'
     valAnglais: 'Communicate an analysis or a scientific approach with scenarios adapted to their specialty'
   'GI-C7':
