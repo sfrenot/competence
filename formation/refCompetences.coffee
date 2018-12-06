@@ -213,10 +213,6 @@ module.exports =
     code: 'C8'
     val: 'Mettre en œuvre des principes et stratégies d’ordonnancements des tâches et de gestion'
     valAnglais: 'Implement principles and strategies for scheduling tasks and managing'
-  'GI-C6':
-    val: 'Communiquer une analyse ou une démarche scientifique'
-    code: 'C6'
-    valAnglais: 'Communicate an analysis or a scientific approach with scenarios adapted to their specialty'
   'GI-C7':
     val: 'Observer, mesurer, analyser et interpréter une activité ou un système à partir de données'
     code: 'C7'
