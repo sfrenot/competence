@@ -355,9 +355,24 @@ module.exports =
   'GM-C10':
     val: 'Etablir une démarche de résolution d\'un problème'
     code: 'C10'
+  'IF-C01':
+    val: 'Construire et analyser des circuits numériques'
+    code: 'C1'
   'IF-C02':
     val: 'Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée'
     code: 'C2'
+  'IF-C03':
+    val: 'Coder, décoder, transmettre l¿information numérique'
+    code: 'C3'
+  'IF-C04':
+    val: 'Maîtriser l¿organisation générale d¿une machine à base de microprocesseur'
+    code: 'C4'
+  'IF-C06':
+    val: 'Maîtriser les mécanismes essentiels d\'un OS'
+    code: 'C6'
+  'IF-C07':
+    val: 'Concevoir, développer et tester une application répartie'
+    code: 'C7'
   'IF-C10':
     val: 'Mettre en oeuvre une chaîne complète pour analyser / transformer un langage'
     code: 'C10'
@@ -376,6 +391,15 @@ module.exports =
   'IF-C15':
     val: 'Utiliser des diagrammes UML pour modéliser un objet d\'étude'
     code: 'C15'
+  'IF-C22':
+    val: 'Concevoir et développer une application pour les SI'
+    code: 'C22'
+  'IF-C24':
+    val: 'Mettre en oeuvre une BD relationnelle centralisée ou distribuée'
+    code: 'C24'
+  'IF-C28':
+    val: 'Analyser et concevoir des modèles de données'
+    code: 'C28'
   'BS-C1':
     val: 'Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique'
     code: 'C1'
