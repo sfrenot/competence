@@ -30,7 +30,7 @@ getCompetenceBruteSection = (pdf) ->
 
 getCompetenceSection = (matiere, start) ->
   compSections = [
-    "Cet EC relève de l'unité d'enseignement\.\*et contribue aux : "
+    "Cet EC contribue aux : "
     "En mobilisant les compétences suivantes"
     "En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : "
     "En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : "
@@ -74,34 +74,35 @@ extractPdfStructure = (pdf) ->
   matiere.connaissance = []
   matiere.competenceToCapaciteEtConnaissance = {}
   # Compétences
-  lcompetences = getCompetenceSection(matiere, "Cet EC relève de l'unité d'enseignement\.\*et contribue aux : ")
+  lcompetences = getCompetenceSection(matiere, "Cet EC contribue aux : ")
   # console.log(lcompetences[1])
+  # process.exit()
   if lcompetences?
     try
-      matiere.listeComp = lcompetences[1].trim().split(/ (?=[ABC]\d+- )/).map (x) ->
+      matiere.listeComp = lcompetences[1].trim().split(/ == (?=[ABC]\d+ )/).map (x) ->
 
-        if /[ABC]\d+-/.test(x)
+        if /[ABC]\d+/.test(x)
           # console.log "**#{x}**"
-          capaciteIdx = x.indexOf(' Capacités : ')
-          connaissanceIdx = x.indexOf(' Connaissances : ')
+          capaciteIdx = x.indexOf('* Capacités : ')
+          connaissanceIdx = x.indexOf('* Connaissances : ')
 
           # console.log "CapaciteIdx #{capaciteIdx}, ConnaissanceIdx #{connaissanceIdx}"
 
           if capaciteIdx > 0 and connaissanceIdx > 0
             compName = x.substring(0, capaciteIdx).trim()
-            capaName = x.substring(capaciteIdx + ' Capacités : - '.length, connaissanceIdx).trim()
-            connName = x.substring(connaissanceIdx + ' Connaissances : - '.length).trim()
+            capaName = x.substring(capaciteIdx + '* Capacités : - '.length, connaissanceIdx).trim()
+            connName = x.substring(connaissanceIdx + '* Connaissances : - '.length).trim()
           else
             if capaciteIdx > 0 # Il n'y a que des capacites
               compName = x.substring(0, capaciteIdx).trim()
-              capaName = x.substring(capaciteIdx + ' Capacités : - '.length).trim()
+              capaName = x.substring(capaciteIdx + '* Capacités : - '.length).trim()
             else if connaissanceIdx > 0 # Il n'y a que des competences
               compName = x.substring(0, connaissanceIdx).trim()
-              connName = x.substring(connaissanceIdx + ' Connaissances : - '.length).trim()
+              connName = x.substring(connaissanceIdx + '* Connaissances : - '.length).trim()
             else
               compName = x.trim()
 
-          [, compet, niveau] = /([ABC]\d+)- .*\(niveau (.*)\)/i.exec(compName)
+          [, compet, niveau] = /([ABC]\d+) .*\(niveau (.*)\) ==/i.exec(compName)
           if compet.startsWith('C')
             compet = "#{DPTINSA}-#{compet}"
           comp = _.clone(refCompetences[compet])
@@ -161,7 +162,7 @@ request()
     if departement is DPTINSA
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        if $(@).attr('href') is '/fr/formation/parcours/726/4/2'
+        if $(@).attr('href') is '/fr/formation/parcours/726/3/2'
           semestres.push
             url: $(@).attr('href')
             ecs: []
@@ -183,7 +184,7 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
-            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35056&_lang=fr'
+            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35535&_lang=fr'
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')

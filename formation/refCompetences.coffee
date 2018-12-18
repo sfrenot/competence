@@ -102,6 +102,14 @@ module.exports =
     val: 'Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité'
     valAnglais: 'Communicate an analysis or a scientific approach with scenarios adapted to their specialty'
     bs: '6'
+  'GE-A6':
+    val: 'Communiquer une analyse ou une démarche scientifique'
+    code: 'A6'
+    valAnglais: 'Communicate an analysis or a scientific approach'
+  'GI-A6':
+    val: 'Communiquer une analyse ou une démarche scientifique'
+    code: 'A6'
+    valAnglais: 'Communicate an analysis or a scientific approach'
   'B1':
     code: 'B1'
     val: 'Se connaître, se gérer physiquement et mentalement'
@@ -198,10 +206,6 @@ module.exports =
     val: "Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données"
     valAnglais: 'Design and build electronic systems for data acquisition, processing, control and communication'
   'GE-C6':
-    code: 'C6'
-    val: 'Mettre en œuvre les étapes permettant le contrôle du fonctionnement d’un système échantillonné ou continu'
-    valAnglais: 'Implement steps to control the operation of a discrete or continuous system'
-  'GE-C6.2': #TODO : bug GE
     code: 'C6'
     val: 'Mettre en œuvre les étapes permettant le contrôle du fonctionnement d’un système discret ou continu'
     valAnglais: 'Implement steps to control the operation of a discrete or continuous system'
@@ -351,15 +355,24 @@ module.exports =
   'GM-C10':
     val: 'Etablir une démarche de résolution d\'un problème'
     code: 'C10'
+  'IF-C02':
+    val: 'Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée'
+    code: 'C2'
   'IF-C10':
     val: 'Mettre en oeuvre une chaîne complète pour analyser / transformer un langage'
     code: 'C10'
+  'IF-C11':
+    val: 'Mettre en oeuvre une méthodologie pour concevoir, réaliser et maintenir des logiciels de qualité'
+    code: 'C11'
   'IF-C12':
     val: 'Mettre en oeuvre une chaîne complète pour analyser / transformer un langage'
     code: 'C12'
   'IF-C13':
     val: 'Implémenter de bons logiciels'
     code: 'C13'
+  'IF-C14':
+    val: 'Mettre en oeuvre des outils génériques pour la qualité logicielle.'
+    code: 'C14'
   'IF-C15':
     val: 'Utiliser des diagrammes UML pour modéliser un objet d\'étude'
     code: 'C15'
