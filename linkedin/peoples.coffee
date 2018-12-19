@@ -8,11 +8,12 @@ _extends = Object.assign || (target) ->
 axios = require 'axios'
 utils = require './utils'
 constants = require './constants'
+normalizePositions = require './normalizePositions'
 
 fetch = (sessionCookies) ->
   makeReqPYMKGET(sessionCookies)
   .then (data) ->
-    normalize(data)
+    console.log(normalizePositions.normalize(data))
 
 makeReqPYMKGET = (cookies) ->
   csrfToken = utils.trim(cookies.JSESSIONID, '"')
@@ -34,10 +35,6 @@ makeReqPYMKGET = (cookies) ->
   axios.get(constants.urls.getPeople, reqConfig)
   .then (response) ->
     response.data
-
-normalize = (data) ->
-  console.log(JSON.stringify(data, null, 2))
-  process.exit()
 
 module.exports =
   fetch: fetch

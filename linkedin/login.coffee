@@ -10,7 +10,8 @@ constants = require './constants'
 utils = require './utils'
 
 sessionCookies = (email, password) ->
-  makeReqLoginGET().then (cookies) ->
+  makeReqLoginGET()
+  .then (cookies) ->
     makeReqLoginPOST(email, password, cookies)
 
 makeReqLoginGET = () ->
