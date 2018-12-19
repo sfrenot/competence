@@ -21,7 +21,9 @@ buildCaptureMiddle = (from, to) ->
   return regle
 
 getCompetenceBruteSection = (pdf) ->
-  mainSections = ["PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "\n\nmailto"]
+  # console.log pdf
+  # process.exit()
+  mainSections = ["PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "\n\n[http//if.insa-lyon.fr|mailto]"]
   for section in mainSections
     rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
     if rech?
@@ -29,12 +31,12 @@ getCompetenceBruteSection = (pdf) ->
   return null
 
 getCompetenceSection = (matiere, start) ->
+  # console.log matiere.competencesBrutes
+  # process.exit()
   compSections = [
     "Cet EC contribue aux : "
     "En mobilisant les compétences suivantes"
-    "En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : "
-    "En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : "
-    ""
+    "\n\n[http//if.insa-lyon.fr|mailto]"
   ]
   startfound = false
   for section in compSections
@@ -166,7 +168,7 @@ request()
     if departement is DPTINSA
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        if $(@).attr('href') is '/fr/formation/parcours/726/3/1'
+        # if $(@).attr('href') is '/fr/formation/parcours/726/3/1'
           semestres.push
             url: $(@).attr('href')
             ecs: []
@@ -188,7 +190,7 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35535&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34569&_lang=fr'
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')
