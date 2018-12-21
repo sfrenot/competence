@@ -1,5 +1,4 @@
 module.exports =
-
   'E1':
     code: 'GCU-E1'
     val: 'Concevoir et dimensionner des réseaux et ouvrages en (hydrologie et) hydraulique pour les projets d\'aménagement urbain, de bâtiments et d\'ouvrage d\'art'
@@ -467,3 +466,18 @@ module.exports =
     val: 'Contribuer à des études environnementales en y apportant la composante biologique et évolutive'
     code: 'C15'
     bs: '22'
+  'SGM-C1':
+    val: 'Connaître et pouvoir établir les relations Structures-Propriétés des Matériaux'
+    code: 'C1'
+  'SGM-C2':
+    val: 'Identifier et mettre en œuvre les méthodes d\'élaboration des matériaux'
+    code: 'C2'
+  'SGM-C3':
+    val: 'Mettre en application les matériaux'
+    code: 'C3'
+  'SGM-C4':
+    val: 'Modéliser et prédire le comportement des matériaux'
+    code: 'C4'
+  'SGM-C5':
+    val: 'Innover et rechercher dans les matériaux'
+    code: 'C5'

@@ -10,12 +10,13 @@ utils = require './utils'
 constants = require './constants'
 normalizePositions = require './normalizePositions'
 
-fetch = (sessionCookies) ->
-  makeReqPYMKGET(sessionCookies)
+fetch = (sessionCookies, candidate) ->
+  makeReqPYMKGET(sessionCookies, candidate.id)
   .then (data) ->
-    console.log(normalizePositions.normalize(data))
+    candidate.positions = normalizePositions.normalize(data)
+    candidate
 
-makeReqPYMKGET = (cookies) ->
+makeReqPYMKGET = (cookies, linkedinId) ->
   csrfToken = utils.trim(cookies.JSESSIONID, '"')
 
   query =
@@ -32,7 +33,8 @@ makeReqPYMKGET = (cookies) ->
     params: query
     responseType: 'json'
 
-  axios.get(constants.urls.getPeople, reqConfig)
+  voyagerUrl = "https://www.linkedin.com/voyager/api/identity/profiles/#{linkedinId}/profileView"
+  axios.get(voyagerUrl, reqConfig)
   .then (response) ->
     response.data
 

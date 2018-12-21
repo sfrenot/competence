@@ -47,7 +47,6 @@ normalizePositions = (description) ->
 
       return [debutDate, findDate]
 
-
     key = position.entityUrn #urn:li:fs_position:(ACoAAAVhWNkBRxxrfHTQx5Czo-n-qB22I1D5O0I,219254659)
 
     jobs.push
@@ -60,3 +59,7 @@ normalizePositions = (description) ->
 
 module.exports =
   normalize: normalizePositions
+
+unless module.parent
+  val = require('./test-julienlacroix')
+  console.log(JSON.stringify normalizePositions(val), null, 2)

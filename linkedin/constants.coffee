@@ -1,7 +1,7 @@
 urls =
   login: 'https://www.linkedin.com/uas/login'
   loginSubmit: 'https://www.linkedin.com/uas/login-submit'
-  getPeople: 'https://www.linkedin.com/voyager/api/identity/profiles/claire-pipon-58a17531/profileView'
+  # getPeople: "https://www.linkedin.com/voyager/api/identity/profiles/#{linkedinId}/profileView"
   # // getPeople: 'https://www.linkedin.com/voyager/api/identity/profiles/julienlacroix/profileView'
 
 headers =
