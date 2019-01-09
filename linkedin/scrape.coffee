@@ -5,6 +5,7 @@ credentials = require './creds.json'
 loadAndShuffle = require './loadAndShuffle'
 
 candidate = loadAndShuffle.getNextCandidate()
+console.error(JSON.stringify candidate, null, 2)
 
 login.sessionCookies(credentials.email, credentials.password)
 .then (sessionCookies) ->

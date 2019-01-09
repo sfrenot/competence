@@ -7,7 +7,7 @@ getNextCandidate = () ->
   randomIdx = Math.floor(Math.random() * Math.floor(students.length))
 
   while true
-    if not students[randomIdx].positions
+    if students[randomIdx].id and not students[randomIdx].positions
       break
     randomIdx++
     if randomIdx is students.length
@@ -36,4 +36,4 @@ module.exports =
   print: print
 
 unless module.parent
-  console.log(getNextCandidate().name)
+  console.log(getNextCandidate())

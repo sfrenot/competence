@@ -30,12 +30,13 @@ normalizePositions = (description) ->
       debut = _.find description.included,
         "$type": "com.linkedin.common.Date"
         "$id": "#{key},timePeriod,startDate"
-      if debut.month
-        debutDate = "#{debut.year}#{String(debut.month).padStart(2, 0)}"
-      else
-        debutDate = "#{debut.year}00"
+      if debut
+        if debut.month
+          debutDate = "#{debut.year}#{String(debut.month).padStart(2, 0)}"
+        else
+          debutDate = "#{debut.year}00"
 
-      if dateRange.endDate
+      if dateRange?.endDate
         end = _.find description.included,
           "$type": "com.linkedin.common.Date"
           "$id": "#{key},timePeriod,endDate"
