@@ -50,17 +50,39 @@ normalizePositions = (description) ->
 
     key = position.entityUrn #urn:li:fs_position:(ACoAAAVhWNkBRxxrfHTQx5Czo-n-qB22I1D5O0I,219254659)
 
-    jobs.push
+    details =
       entreprise: getCompanyDetail()
       location: position.locationName
       titre: position.title
       dates: getDates()
 
+    if position.companyUrn
+      details.linkedinid = position.companyUrn.split(':').pop()
+
+    jobs.push(details)
+
+
   (_.sortBy jobs, (job) -> job.dates[0]).reverse()
+
+getCompanyDetails = (description, id) ->
+  company = _.find description.included,
+    url: "https://www.linkedin.com/company/#{id}"
+  creation = _.find description.included,
+    $id: "urn:li:fs_normalized_company:#{id},foundedOn"
+
+  res = {}
+  res.specialities = company.specialities
+  if creation
+    res.creeele = creation.year
+
+  return res
 
 module.exports =
   normalize: normalizePositions
+  getCompanyDetails: getCompanyDetails
 
 unless module.parent
-  val = require('./test-julienlacroix')
-  console.log(JSON.stringify normalizePositions(val), null, 2)
+  # val = require('./test-julienlacroix')
+  # console.log(JSON.stringify normalizePositions(val), null, 2)
+  val = require('./valoris.raw.json')
+  console.log(JSON.stringify getCompanyDetails(val, 25403), null, 2)

@@ -7,7 +7,7 @@ getNextCandidate = () ->
   randomIdx = Math.floor(Math.random() * Math.floor(students.length))
 
   while true
-    if students[randomIdx].id and not students[randomIdx].positions
+    if (students[randomIdx].id and not students[randomIdx].positions) or (students[randomIdx].id and students[randomIdx].positions[0].linkedinid and not students[randomIdx].positions[0].description)
       break
     randomIdx++
     if randomIdx is students.length

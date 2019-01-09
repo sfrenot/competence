@@ -1,11 +1,17 @@
 login = require './login'
 peoples = require './peoples'
+company = require './company'
 credentials = require './creds.json'
 
 loadAndShuffle = require './loadAndShuffle'
 
 candidate = loadAndShuffle.getNextCandidate()
 console.error(JSON.stringify candidate, null, 2)
+
+# Testing
+# candidate =
+#   "id": "jean-baptiste-blondel-5539481"
+# process.exit()
 
 login.sessionCookies(credentials.email, credentials.password)
 .then (sessionCookies) ->
@@ -14,7 +20,8 @@ login.sessionCookies(credentials.email, credentials.password)
   console.log '->', err
 
 fetchNextPeoples = (sessionCookies) ->
-  peoples.fetch(sessionCookies, candidate)
+  targetFunction = if candidate.positions?[0] then company else peoples
+  targetFunction.fetch(sessionCookies, candidate)
   .then (data) ->
     loadAndShuffle.storeCandidate(data)
     loadAndShuffle.print(data)

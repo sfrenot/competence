@@ -13,6 +13,8 @@ normalizePositions = require './normalizePositions'
 fetch = (sessionCookies, candidate) ->
   makeReqPYMKGET(sessionCookies, candidate.id)
   .then (data) ->
+    # console.log '->', JSON.stringify data, null, 2
+    # process.exit()
     candidate.positions = normalizePositions.normalize(data)
     candidate
 
