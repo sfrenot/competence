@@ -89,7 +89,7 @@ C1 Spécifier, concevoir et modéliser des systèmes de transmission et de trait
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
 A4 Concevoir un système répondant à un cahier des charges
-A2 Exploiter un modèle d’un système réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
 B2 Travailler, apprendre, évoluer de manière autonome
 B3 Interagir avec les autres, travailler en équipe
 ACM ****************************
@@ -118,7 +118,7 @@ C1 Spécifier, concevoir et modéliser des systèmes de transmission et de trait
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
 A4 Concevoir un système répondant à un cahier des charges
-A2 Exploiter un modèle d’un système réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
 A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
 B3 Interagir avec les autres, travailler en équipe
 B2 Travailler, apprendre, évoluer de manière autonome
@@ -134,7 +134,7 @@ C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informa
   Connaissance : Concepts basiques (listes, tuples, dictionnaires, structures conditionnelles, boucles) sous Python
   Connaissance : Concepts standard (modularité, exceptions, classes, manipulation de fichiers) sous Python
   Connaissance : Script Bash
-  Connaissance : Instructions simples de l’interpréteur de commandes Python
+  Connaissance : Instructions simples de l'interpréteur de commandes Python
 
 C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 1)
 
@@ -231,7 +231,7 @@ A6 Communiquer une analyse ou une démarche scientifique avec des mises en situa
 
 C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 3)
 
-A2 Exploiter un modèle d’un système réel ou virtuel (niveau 1)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 1)
 
   Connaissance : Notions de l'algorithmique :  définition, écriture, preuve, complexité en temps et mémoire
   Connaissance : Algorithmes fondamentaux :  tris, file/liste, parcours d'arbre, de graphes
@@ -243,7 +243,7 @@ B2 Travailler, apprendre, évoluer de manière autonome
 PBS ****************************
 Cet EC relève de l'unité d'enseignement Outils théoriques (TC-3-S1-OTE) et contribue aux compétences suivantes :            
 
-A2 Exploiter un modèle d’un système réel ou virtuel (niveau 3)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
 
   Capacité : Modéliser une expérience aléatoire : univers, évènement, variables aléatoire, signal aléatoire
   Capacité : Exploiter la modélisation statistique d'un problème pour le résoudre en calculant une probablité, une espérance, la dsp d'un signal aléatoire, etc
@@ -316,7 +316,7 @@ C5 Mettre en œuvre, réaliser, développer, déployer des systèmes de transmis
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
 A4 Concevoir un système répondant à un cahier des charges
-A2 Exploiter un modèle d’un système réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
 A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
 B1 Se connaître, se gérer physiquement et mentalement
 B2 Travailler, apprendre, évoluer de manière autonome
@@ -338,7 +338,7 @@ De plus, elle nécessite de mobiliser les compétences suivantes :
 B2 Travailler, apprendre, évoluer de manière autonome
 B3 Interagir avec les autres, travailler en équipe
 A4 Concevoir un système répondant à un cahier des charges
-A2 Exploiter un modèle d’un système réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
 A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
 ANG ****************************
 Cet EC relève de l'unité d'enseignement Humanités 1 (TC-3-S1-HUMA) et contribue aux compétences suivantes :            
@@ -433,7 +433,7 @@ A6 Communiquer une analyse ou une démarche scientifique avec des mises en situa
 
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
-A2 Exploiter un modèle d’un système réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
 B3 Interagir avec les autres, travailler en équipe
 WEB ****************************
 Cet EC relève de l'unité d'enseignement Web et Réseau (TC-3-S2-WER) et contribue aux compétences suivantes :            
@@ -577,7 +577,7 @@ De plus, elle nécessite de mobiliser les compétences suivantes :
 B3 Interagir avec les autres, travailler en équipe
 A3 Mettre en œuvre une démarche expérimentale
 A4 Concevoir un système répondant à un cahier des charges
-A2 Exploiter un modèle d’un système réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
 A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
 B1 Se connaître, se gérer physiquement et mentalement
 ASDS ****************************
@@ -739,13 +739,13 @@ C8 Opérer, analyser, améliorer des systèmes numériques (niveau 1)
 
   Connaissance : Connaître des outils analytiques et de simulations utiles pour l'évaluations de performances de systèmes numériques déjà déployés ( capacités, limites, fiabilité, goulots d'étranglement, etc.)
 
-A2 Exploiter un modèle d’un système réel ou virtuel (niveau 1)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
 
   Capacité : Savoir mettre en place une approche scientifique permettant l'analyse des performances d'un système en modélisant correctement le système et les entrées et en calculant et analysant des métriques de performance en sortie
 
-A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 1)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 1)
 
-  Capacité : Savoir modéliser quelques problèmes d'ingénieirie en utilisant des outils analytiques (Chaine de Markov) ayant un inéteret dans différents domaines de l’ingénierie
+  Capacité : Savoir utiliser des outils analytiques (Chaine de Markov, files d'attente, etc.) pour modéliser et résoudre quelques problèmes d'ingénieirie.
 
   Connaissance : Connaître quelques outils analytiques et de simulation utiles pour la forumation de différents problèmes d'ingénierie
 
@@ -791,7 +791,7 @@ De plus, elle nécessite de mobiliser les compétences suivantes :
 B2 Travailler, apprendre, évoluer de manière autonome
 B3 Interagir avec les autres, travailler en équipe
 A4 Concevoir un système répondant à un cahier des charges
-A2 Exploiter un modèle d’un système réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
 A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
 TIP ****************************
 Cet EC relève de l'unité d'enseignement Signal et Image (TC-4-S1-S&I) et contribue aux compétences suivantes :            
@@ -836,7 +836,7 @@ De plus, elle nécessite de mobiliser les compétences suivantes :
 A4 Concevoir un système répondant à un cahier des charges
 B2 Travailler, apprendre, évoluer de manière autonome
 B3 Interagir avec les autres, travailler en équipe
-A2 Exploiter un modèle d’un système réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
 A3 Mettre en œuvre une démarche expérimentale
 PSC ****************************
 Cet EC relève de l'unité d'enseignement Signal et Image (TC-4-S1-S&I) et contribue aux compétences suivantes :            
@@ -909,17 +909,15 @@ C8 Opérer, analyser, améliorer des systèmes numériques (niveau 2)
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
 A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
-GES1/2 ****************************
+GES1 ****************************
 Cet EC relève de l'unité d'enseignement Gestion de projet entrepreneurial responsable (TC-4-S1-GESPER) et contribue aux compétences suivantes :            
 
 B5 Agir de manière responsable dans un monde complexe (niveau 3)
 
-  Capacité : Conduire une démarche de Design thinking pour trouver une idée de produit/service le plus possible innovant, technique & responsable (GES1)
-  Capacité : Réaliser une étude de faisabilité et le business model canevas de l'organisation lié à ce produit/service (GES2)
+  Capacité : Conduire une démarche de Design thinking pour trouver une idée de produit/service le plus possible innovant, technique & responsable
 
-  Connaissance : Innovation, Responsabilité sociétale des organisations (GES 1 et 2)
-  Connaissance : Design thinking (GES1)
-  Connaissance : Marché, utilisateurs, gouvernance, business model canvas, modèles économique et financier, communication des organisations (GES2)
+  Connaissance : Innovation, Responsabilité sociétale des organisations
+  Connaissance : Design thinking
 
 B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
 
@@ -927,6 +925,24 @@ B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
 B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+GES2 ****************************
+Cet EC relève de l'unité d'enseignement Gestion de projet entrepreneurial responsable (TC-4-S1-GESPER) et contribue aux compétences suivantes :            
+
+B5 Agir de manière responsable dans un monde complexe (niveau 3)
+
+  Capacité : Réaliser une étude de faisabilité et le business model canevas de l'organisation lié à ce produit/service
+
+  Connaissance : Innovation, Responsabilité sociétale des organisations
+  Connaissance : Stratégie des organisations : valeur & parties prenantes, diagnostic et choix marketing, gouvernance, modèle économique & responsabilité sociétale, modèle financier, communication des organisations
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
 B3 Interagir avec les autres, travailler en équipe
 RSM ****************************
 Cet EC relève de l'unité d'enseignement Humanités 3 (TC-4-S1-HUMA) et contribue aux compétences suivantes :            
@@ -981,7 +997,7 @@ C2 Spécifier, concevoir et modéliser des réseaux de communication et des prot
   Capacité : Concevoir un système distribué sans mémoire centrale de type RPC
   Capacité : Implanter une chaîne de transaction prouvée à concensus dynamique type Bitcoin
   Capacité : Implémenter un réseau P2P de gestion de tables de hash type Chord
-  Capacité : Analyser les biais de sécurité d’un système distribué
+  Capacité : Analyser les biais de sécurité d'un système distribué
 
   Connaissance : Principes définissant les systèmes distribués concernant la mémoire globale et le temps
   Connaissance : Vocabulaire associé aux grands algorithmes distribués et à la tolérance de panne
@@ -989,7 +1005,7 @@ C2 Spécifier, concevoir et modéliser des réseaux de communication et des prot
   Connaissance : Mécanisme de synchronisation temporel associé aux horloges de Lamport et vectorielles
   Connaissance : Protocoles distribués, Transactions, Consensus, Délais
 
-A2 Exploiter un modèle d’un système réel ou virtuel (niveau 1)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 1)
 
   Capacité : Conception de mécanismes d'invocations de procédures distantes
 
@@ -1042,7 +1058,7 @@ C8 Opérer, analyser, améliorer des systèmes numériques (niveau 3)
   Connaissance : Canaux de transport
   Connaissance : Canaux logiques
   Connaissance : Gestion des ressources
-  Connaissance : Mapping des canaux, zone de localisation, paging, handover, etablissement, protocole RRC
+  Connaissance : Mapping des canaux, zone de localisation, paging, handover, établissement, protocole RRC
 
 C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 2)
 
@@ -1059,7 +1075,7 @@ C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des proto
   Capacité : Décrire l'émission/réception de messages (données ou voix)
 
   Connaissance : Éléments d'architecture des réseaux 2G, 3G ou 4G
-  Connaissance : Réseaux cellulaire, etablissement d'appel, etablissement d'une session IP, access stratum, non-access stratum
+  Connaissance : Réseaux cellulaire, établissement d'appel, établissement d'une session IP, access stratum, non-access stratum
 
 
 De plus, elle nécessite de mobiliser les compétences suivantes :
@@ -1279,6 +1295,7 @@ C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des proto
   Connaissance : Travaux pratiques sur la mise  en œuvre d'un IPBX ASTERISK.
   Connaissance : Travaux pratiques sur la qualité de service sur IP
 
+
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
 C4 Spécifier et dimensionner des systèmes numériques en réponse au besoin clients
@@ -1286,7 +1303,6 @@ A1 Analyser un système (ou un problème) réel ou virtuel
 C9 Conduire des projets dans le domaine du numérique
 A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
 B4 Faire preuve de créativité, innover, entreprendre
-
 OP1-PRJ ****************************
 Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
 
@@ -1331,6 +1347,36 @@ De plus, elle nécessite de mobiliser les compétences suivantes :
 
 A1 Analyser un système (ou un problème) réel ou virtuel
 C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles
+B3 Interagir avec les autres, travailler en équipe
+RLD ****************************
+Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 3)
+
+A5 Traiter des données (niveau 3)
+
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 2)
+
+C4 Spécifier et dimensionner des systèmes numériques en réponse au besoin clients (niveau 1)
+
+C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 3)
+
+C8 Opérer, analyser, améliorer des systèmes numériques (niveau 1)
+
+  Capacité : Choisir la meilleure technologie LPWAN pour une application donnée
+  Capacité : Collecter des données environnementales en utilisant une technologie LPWAN
+  Capacité : Créer un réseau LPWAN point-à-point
+  Capacité : Utiliser un réseau public LPWAN pour collecter les données
+  Capacité : Visualiser et analyser les données environnementales
+  Capacité : Apprendre les méthodes permettant une connectivité IPv6 dans les réseaux contraintes
+  Capacité : Etudier la connectivité d'un réseau LPWAN
+  Capacité : Mesurer les performances d'un réseau LPWAN
+
+  Connaissance : LPWAN, LoRa, LoRaWAN, Sigfox, Ingenu, NB-IoT, LTE-M, The Things Network, IPv6 header compression
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
 B3 Interagir avec les autres, travailler en équipe
 CIT ****************************
 Cet EC relève de l'unité d'enseignement  () et contribue aux compétences suivantes :            
@@ -1393,7 +1439,7 @@ De plus, elle nécessite de mobiliser les compétences suivantes :
 
 A4 Concevoir un système répondant à un cahier des charges
 A3 Mettre en œuvre une démarche expérimentale
-A2 Exploiter un modèle d’un système réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
 B3 Interagir avec les autres, travailler en équipe
 B4 Faire preuve de créativité, innover, entreprendre
 OP2-PRJ ****************************
@@ -1427,7 +1473,7 @@ A6 Communiquer une analyse ou une démarche scientifique avec des mises en situa
   Connaissance : Gestionnaire d'interruption, pilotes de périphériques, OS léger
   Connaissance : Administration linux
 
-A2 Exploiter un modèle d’un système réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
 
   Capacité : Programmer un micro-contrôleur:
   Capacité : Construire une distribution linux pour un système embarqué
@@ -1577,7 +1623,7 @@ A4 Concevoir un système répondant à un cahier des charges (niveau 2)
 
 A3 Mettre en œuvre une démarche expérimentale (niveau 2)
 
-A2 Exploiter un modèle d’un système réel ou virtuel (niveau 2)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
 
 A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
 
@@ -1619,7 +1665,7 @@ De plus, elle nécessite de mobiliser les compétences suivantes :
 A1 Analyser un système (ou un problème) réel ou virtuel
 C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données
 B1 Se connaître, se gérer physiquement et mentalement
-A2 Exploiter un modèle d’un système réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
 ELK ****************************
 Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :            
 
@@ -1765,7 +1811,7 @@ A5 Traiter des données (niveau 3)
 
 A3 Mettre en œuvre une démarche expérimentale (niveau 1)
 
-A2 Exploiter un modèle d’un système réel ou virtuel (niveau 1)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 1)
 
 C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 1)
 
@@ -1825,11 +1871,11 @@ C8 Opérer, analyser, améliorer des systèmes numériques (niveau 2)
 
   Capacité : Créer des smart contracts
   Capacité : Trouver l'information relative aux projets blockchain/crypto-monnaies
-  Capacité : Faire des choix technologiques liés à l’état de la technique et au contexte d’usage
+  Capacité : Faire des choix technologiques liés à l'état de la technique et au contexte d'usage
 
   Connaissance : Organisation des projets blockchain/crypto-monnaies
   Connaissance : Histoire et évolution des technologies blockchain/crypto-monnaies/DAO
-  Connaissance : Logiciels et services participant à l’écosystème des réseaux crypto-monétaires
+  Connaissance : Logiciels et services participant à l'écosystème des réseaux crypto-monétaires
   Connaissance : Tokens ERC20 et smart contracts Ethereum
   Connaissance : Habitat numérique des projets blockchain/crypto-monnaies
 
