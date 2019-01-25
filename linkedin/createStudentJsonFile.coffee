@@ -24,3 +24,4 @@ readCsv()
 
 
   console.log JSON.stringify students, null, 2
+  # console.error 'Terminé'

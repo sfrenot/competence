@@ -155,7 +155,7 @@ module.exports =
   'TC-C2':
     code: 'C2'
     val: 'Spécifier, concevoir et modéliser des réseaux de communication et des protocoles'
-    valAnglais: 'Specify, design and model communication networks and protocols'
+    valAnglais: 'Specify, design and model computer networks and protocols'
   'TC-C3':
     code: 'C3'
     val: 'Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques'
@@ -163,7 +163,7 @@ module.exports =
   'TC-C4':
     code: 'C4'
     val: 'Spécifier et dimensionner des systèmes numériques en réponse au besoin clients'
-    valAnglais: 'Specify and size digital systems in response to customer needs'
+    valAnglais: 'Specify and scale digital systems in response to customer needs'
   'TC-C5':
     code: 'C5'
     val: 'Mettre en œuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données'

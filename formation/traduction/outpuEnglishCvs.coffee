@@ -30,13 +30,13 @@ courses.forEach (matiere) ->
           console.log "  #{matiere.detail.connaissanceAnglais[idx]}"
       console.log()
 
-  # if DPTINSA is 'TC'
-  unless _.isEmpty(matiere.detail.capaciteAnglais)
-    matiere.detail.capaciteAnglais.forEach (capa) ->
-      console.log "  #{capa}"
-  unless _.isEmpty(matiere.detail.connaissanceAnglais)
-    matiere.detail.connaissanceAnglais.forEach (capa) ->
-      console.log "  #{capa}"
+  if DPTINSA is 'GEN'
+    unless _.isEmpty(matiere.detail.capaciteAnglais)
+      matiere.detail.capaciteAnglais.forEach (capa) ->
+        console.log "  #{capa}"
+    unless _.isEmpty(matiere.detail.connaissanceAnglais)
+      matiere.detail.connaissanceAnglais.forEach (capa) ->
+        console.log "  #{capa}"
 
   if not _.isEmpty(matiere.detail.listeCompMobilise)
     console.log("\nIn addition, it requires the following skills:\n")
