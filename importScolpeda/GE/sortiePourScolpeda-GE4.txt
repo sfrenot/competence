@@ -1,0 +1,828 @@
+undefined ****************************
+Cet EC relève de l'unité d'enseignement undefined (undefined) et contribue aux compétences suivantes :            
+
+Automatique 3 ****************************
+Cet EC relève de l'unité d'enseignement  (UE41) et contribue aux compétences suivantes :            
+
+C4 Spécifier, modéliser et concevoir les méthodes et algorithmes pour le traitement et la gestion de l'information véhiculée par les signaux et les images (niveau 3)
+
+ Sous compétence : Spécifier, modéliser et concevoir les méthodes et algorithmes pour le traitement et la gestion de des flux de production
+
+  Capacité : Appréhender la lecture et l'écriture d'un cahier des charges
+  Capacité : Modéliser un système de production en vue de son analyse de performances et /ou son dimensionnement
+  Capacité : Analyser les propriétés du modèle liées au marquage initial : vivacité, bornage et réinitialisation
+  Capacité : Analyser les performances d'un système et le dimensionner
+  Capacité : Transférer ses connaissances à d'autres types de systèmes qui ne concernent pas la production
+
+  Connaissance : Connaître l'outil Réseau de Petri
+  Connaissance : Méthodologie pour modéliser un système de Production via les réseaux de Petri
+  Connaissance : Méthodologie pour analyser les perfromances et/ou le dimensionnement d'un système de production
+
+C6 Mettre en œuvre les étapes permettant le contrôle du fonctionnement d’un système discret ou continu (niveau 3)
+
+ Sous compétence : Développer la communication dans un système automatisé
+
+  Capacité : Implémenter la commande d'équipements industriels communicant en Modbus/TCP
+  Capacité : Conception d'Interface Homme Machine accessible via le Web
+
+ Sous compétence : Développer la commande d’un système discret
+
+  Capacité : Modéliser la facette commande d'un système du point de vue fonctionnel
+  Capacité : Encapsuler le savoir-faire dans un composant logiciel
+  Capacité : Capitaliser les savoir-faire et les rendre réutilisables
+  Capacité : Mise en œuvre dans un atelier logiciel industriel de programmation d'API
+
+  Connaissance : Initiation aux réseaux de terrain industriels
+  Connaissance : Sensibilisation à la cyber-sécurité
+  Connaissance : Appréhender les concepts de l'ingénierie système
+  Connaissance : Appréhender le cycle de vie d'un système
+  Connaissance : Modélisation SysML
+
+C7 Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l’information) (niveau 2)
+
+  Capacité : Simuler un système de production et le modéliser par un réseau de Petri
+  Capacité : Analyser, via un logiciel de simulation, les propriétés structurelles d'un système de production complexe
+  Capacité : Analyser, via un logiciel de simulation, les propriétés liées au marquage initial d'un système de production complexe
+
+  Connaissance : Mise en œuvre du savoir-faire en Réseau de Petri sur un logiciel de simulation
+  Connaissance : Analyser les résultats issus de la simulation et les critiquer
+
+C8 Mettre en œuvre des principes et stratégies d’ordonnancements des tâches et de gestion (niveau 2)
+
+  Capacité : Spécifier des contraintes d'ordonnancement dans un cahier des charges
+  Capacité : Modéliser des contraintes d'ordonnancement via les réseaux de Petri
+  Capacité : Calculer les invariants issus de l'ordonnancement
+  Capacité : Comprendre l'influence de l'ordonnancement sur les propriétés structurelles d'un réseau de Petri
+
+  Connaissance : Notion de base d'ordonnancement dans un système de production
+  Connaissance : Connaître l'influence de l'ordonnancement sur les propriétés du système de production
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B5 Agir de manière responsable dans un monde complexe
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+Electronique et Capteurs 3 ****************************
+Cet EC relève de l'unité d'enseignement  (UE52) et contribue aux compétences suivantes :            
+
+C1 Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage (niveau 2)
+
+ Sous compétence : Conception et mise en œuvre de circuits numériques à l'aide du langage VHDL
+
+  Capacité : Ecrire la description correspondant au fonctionnement d'un circuit avec les instructions VHDL appropriées
+  Capacité : Mettre en oeuvre les différentes étapes du flot de conception avec les outils appropriés pour implémenter des fonctions logiques simples
+  Capacité : Ecrire les bancs de test pour la réalisation de simulations fonctionnelles
+  Capacité : Tester et valider un circuit numérique à l'aide d'un analyseur logique
+
+  Connaissance : Principes généraux et fondamentaux du langage VHDL
+  Connaissance : Electronique numérique (systèmes logiques)
+
+C2 Mettre en œuvre les propriétés physiques des matériaux pour le domaine du génie électrique (niveau 2)
+
+ Sous compétence : Mettre en œuvre les propriétés physiques des matériaux pour l'optoélectronique
+
+  Capacité : Dimensionner une fibre optique pour les applications en télécommunication
+  Capacité : Dimensionner une diode laser
+
+  Connaissance : Capteurs couleurs CCD, CMOS
+  Connaissance : Physique du semiconducteur pour l'optoélectronique
+  Connaissance : Propagation de la lumière dans un milieu transparent
+
+C5 Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données (niveau 2)
+
+ Sous compétence : Conception de systèmes numériques à l'aide du langage VHDL
+
+  Capacité : Concevoir des systèmes numériques répondant aux besoins d'un cahier des charges
+  Capacité : Configurer le FPGA pour qu'il communique avec des périphériques (CAN, CNA, etc)
+  Capacité : Tester et valider un système numérique à l'aide d'un analyseur logique
+
+  Connaissance : Principes généraux et fondamentaux du langage VHDL
+  Connaissance : Electronique analogique et numériques, capteurs
+
+ Sous compétence : Conception de systèmes d'interfaçage optoélectroniques
+
+  Capacité : Dimensionner un système électronique basé sur des optocoupleurs
+
+  Connaissance : Fonctions de base de l'électronique analogique
+  Connaissance : Composants optoélectroniques
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A4 Concevoir un système répondant à un cahier des charges
+A6 Communiquer une analyse ou une démarche scientifique
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+Humanités 3 ****************************
+Cet EC relève de l'unité d'enseignement  (UE43) et contribue aux compétences suivantes :            
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+
+  Capacité : Etre capable d'intégrer dans son organisation personnelle un volume de travail individuel sur un sujet ouvert
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+  Capacité : Etre capable de stimuler la recherche de solutions sur un sujet donné pour la co-construction d'un projet d'innovation
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+  Capacité : Travailler en petite équipe binôme / trinôme
+  Capacité : Développer sa complémentarité dans une petite équipe dans une situation de mission d'entreprise
+
+  Connaissance : Co-concevoir et co-définir un projet innovant à partir d'une problématique entrepreneuriale
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+  Capacité : Mener des recherches d'informations sur un domaine inconnu
+  Capacité : Etre capable d'oser sortir du cadre scolaire pour résoudre un problème
+
+  Connaissance : Situer une offre dans un univers concurrentiel direct ou indirect (segmentation, ciblage, positionnement)
+  Connaissance : Développer l'approche systémique de la création de valeur
+  Connaissance : Opérer des croisements créatifs pour créer de la valeur pour un client, un marché
+
+B5 Agir de manière responsable dans un monde complexe (niveau 1)
+
+  Connaissance : Maîtriser par l'anticipation et un plan d'actions les risques dans un projet d'innovation
+  Connaissance : Prévoir ce que l'on veut faire avec des métriques, évaluer ce que l'on a fait par l'analyse des écarts
+  Connaissance : Converger quand les solutions sont dans un univers ouvert pour un problème posé
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  Capacité : Respecter des échéances données
+  Capacité : Ecrire une synthèse de dossier technique orientée manager (executive summary)
+
+  Connaissance : Construire un Cahier des Charges Fonctionnel (finalité, cycle de vie, diagramme d'interactions, fonctions d'usages, de contraintes, performances)
+  Connaissance : Utiliser la gestion de projet (organigramme technique, organigramme des tâches, phasage, planning et jalon) pour un projet d'innovation de plusieurs mois
+  Connaissance : Prendre en compte les contraintes technico-économiques
+
+B7 Travailler dans un contexte international et interculturel (niveau 1)
+
+  Capacité : Passer d'un sujet à un projet d'innovation en situation d'équipe en entreprise
+
+Humanités 4 ****************************
+Cet EC relève de l'unité d'enseignement  (U53) et contribue aux compétences suivantes :            
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau *)
+
+  Capacité : Mettre en œuvre les règles d'une communication efficace
+  Capacité : Améliorer son efficacité intrapersonnelle
+  Capacité : Adapter son mode de fonctionnement à son environnement
+  Capacité : Améliorer l’impact de sa communication sur les autres
+
+  Connaissance : Comment valoriser son potentiel pour accroître son impact personnel
+  Connaissance : Savoir mieux comprendre et ajuster ses modes de fonctionnement et ceux d'autrui selon son environnement
+
+B3 Interagir avec les autres, travailler en équipe (niveau *)
+
+ Sous compétence : Développer et exploiter son potentiel grâce au M-BTI
+
+  Capacité : Reconnaître le type de personnalité de ses interlocuteurs
+  Capacité : Améliorer son efficacité personnelle et professionnelle
+  Capacité : Comprendre et accepter les comportements des autres
+  Capacité : Améliorer son efficacité interpersonnelle
+
+  Connaissance : Apprendre à interpréter les modes de fonctionnement des autres selon l'environnement
+  Connaissance : Découvrir les quatre dimensions du MBTI et leur impact sur les attitudes, les comportements et les relations avec les autres
+  Connaissance : Apprendre à utiliser ses préférences pour résoudre les problèmes et prendre des décisions avec méthode
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+ Sous compétence : La propriété intellectuelle, un outil essentiel pour l'innovation
+
+  Capacité : Mettre à profit les connaissances du domaine de la propriété intellectuelle
+  Capacité : Capacité à rechercher et à comprendre les informations dans les brevets
+
+  Connaissance : La PI utilisée comme outil d'innovation
+  Connaissance : La PI utilisée comme outil de valorisation de la recherche
+  Connaissance : Acquisition des clés de lecture des brevets et des modalités de recherche dans les bases de données brevets
+
+ Sous compétence : Sensibilisation à la création d'entreprise
+
+  Capacité : Identifier les innovations qui semble avoir un vrai potentiel économique
+  Capacité : Proposer une stratégie de valorisation (création d'entreprise ou transfert de technologie)
+
+  Connaissance : Comment évaluer le potentiel marché d'une technologie innovante
+  Connaissance : Valorisation des technologies issues de la recherche, par la création d'entreprises ou le transfert de technologie
+
+ Sous compétence : Le management du changement sous l'angle de l'innovation par l'usage
+
+  Capacité : Capacité à  utiliser des outils et supports de la créativité divergente et convergente
+  Capacité : Capacité à utiliser des techniques d'immersion in situ et savoir agencer les modalités d'une rencontre usager sensible et empathique
+
+  Connaissance : Apprendre à développer des compétences agiles face à un contexte d'innovation "organique" (mouvant, adaptatif...)
+  Connaissance : Apprendre à animer, synthétiser et transformer le matériau créatif : passer de l'invention a l'innovation
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+ Sous compétence : Veille stratégique et intelligence économique
+
+  Capacité : Sensibiliser à une bonne hygiène informationnelle et à la protection des savoirs de l'entreprise
+  Capacité : Capable d'établir un plan de veille
+
+  Connaissance : Donner des clés de lecture du monde global au sein du quel évolue l’entreprise
+  Connaissance : Replacer l’entreprise au sein de son univers concurrentiel
+  Connaissance : S'initier à la problématique et aux méthodes de l'intelligence économique dans ses 3 dimensions prédictive, préventive et influence
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau *)
+
+ Sous compétence : Comprendre les systèmes monétaires et financiers contemporains
+
+  Capacité : Aptitude à préparer une négociation, soit à analyser les ; enjeux, objectifs, éléments stratégiques présents et absents
+  Capacité : Capacité à établir un plan de négociation selon les enjeux et objectifs
+  Capacité : Comprendre les politiques économiques conduites aujourd’hui, leurs fondements, leurs objectifs et leurs effets
+
+  Connaissance : Apprendre à identifier et adapter les meilleurs stratégies de négociation
+  Connaissance : Organisation et fonctionnement du système économique contemporain.
+  Connaissance : Présentation des principaux marchés de capitaux en vigueur aujourd’hui et des objectifs poursuivis par les acteurs
+  Connaissance : Présentation de la globalisation financière et de ses effets sur les économies nationales, notamment ses risques
+
+ Sous compétence : Marchés publics / Marchés privés
+
+  Capacité : Positionner le produit selon le marché public ou privé
+  Capacité : Préparer une proposition de réponse à un appel d'offre de marché public
+
+  Connaissance : Découvrir le métier de l’ingénieur responsable d’affaire
+  Connaissance : Découvrir le cadre juridique des marchés publics par opposition à celui des marchés privés
+  Connaissance : Initiation à la démarche de réponse à un appel à candidature
+
+B7 Travailler dans un contexte international et interculturel (niveau 2)
+
+ Sous compétence : La propriété intellectuelle, un outil stratégique pour l'entreprise
+
+  Capacité : Mise en œuvre des informations de la PI dans un contexte de développement d'entreprise et d'intelligence économique
+  Capacité : Capacité à indentifier les innovations bretables et la marche à suivre pour leur valorisation
+  Capacité : Capacité à établir l'interface avec les experts des cabinets en PI
+
+  Connaissance : La PI utilisée comme outil de veille et d'aide à la décision de stratégie de développement
+
+B7 Travailler dans un contexte international et interculturel (niveau *)
+
+ Sous compétence : Place et techniques de négociation en contexte interculturel
+
+  Capacité : Comprendre le fonctionnement économique global de l'entreprise
+  Capacité : Capable d'estimer la performance et rentabilité économique de l'entrerprise ainsi que ses potentiels de développement
+  Capacité : Capable d'offrir leur valeur ajoutée dans les décisions stratégiques de développement de l'entreprise
+
+  Connaissance : Approche de la compréhension générale du fonctionnement économique de l'entreprise.
+  Connaissance : Clés pour une analyse stratégique de l'entreprise, de son organisation interne à la prise en compte de tout son environnement
+
+Informatique 2 ****************************
+Cet EC relève de l'unité d'enseignement  (UE35) et contribue aux compétences suivantes :            
+
+C4 Spécifier, modéliser et concevoir les méthodes et algorithmes pour le traitement et la gestion de l'information véhiculée par les signaux et les images (niveau 2)
+
+  Capacité : Etre capable d'évaluer et comparer des approches mathématiques et algorithmiques
+  Capacité : Etre capable de planifier et organiser une réalisation informatique en petit groupe
+  Capacité : Etre capable de résoudre des problémes algorithmques élémentaires pour l'interfacage et le traitement des signaux
+
+  Connaissance : Algorithmes de gestion des entrées et sorties
+  Connaissance : Algorithmie des éléments d’analyse numérique
+
+C5 Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données (niveau 2)
+
+  Capacité : Etre capable de concevoir et analyser des systèmes à base de microcontrôleurs
+  Capacité : Etre capable d'observer, d'identifier et d'expérimenter des systèmes à base de microcontrôleurs
+  Capacité : Etre capable de maîtriser les outils de compilation croisée
+
+  Connaissance : Architectures des microcontrôleurs et à base de microcontrôleurs
+  Connaissance : IDE et compilation croisée, débogage distant
+  Connaissance : Algorithmes, fonctionnement des I/O et modules spécifiques des microcontroleurs
+
+C7 Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l’information) (niveau 2)
+
+  Capacité : Etre capable de développer des logiciels de bas niveau pour systèmes embarqués
+  Capacité : Etre capable de développer des logiciels de haut niveau pour systèmes embarqués
+  Capacité : Etre capable de maîtriser les outils de développement pour systèmes embarqués
+
+  Connaissance : Langage assembleur et langage C
+  Connaissance : IDE et compilation croisée, débogage distant
+  Connaissance : Gestion et mise en œuvre des interruptions matérielles
+
+C8 Mettre en œuvre des principes et stratégies d’ordonnancements des tâches et de gestion (niveau 1)
+
+  Capacité : Etre capable de structurer une application avec un programme principal et une routine d'interruption
+  Capacité : Etre capable de réaliser une application structurée en langage C/C++
+
+  Connaissance : Gestion et mise en œuvre des interruptions matérielles
+  Connaissance : Langage de haut niveau (C/C++)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B3 Interagir avec les autres, travailler en équipe
+B5 Agir de manière responsable dans un monde complexe
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+Informatique 3 ****************************
+Cet EC relève de l'unité d'enseignement  (UE42) et contribue aux compétences suivantes :            
+
+C4 Spécifier, modéliser et concevoir les méthodes et algorithmes pour le traitement et la gestion de l'information véhiculée par les signaux et les images (niveau 3)
+
+  Capacité : Etre capable de concevoir et développer des logiciels de bas niveau  interruptibles
+  Capacité : Etre capable de concevoir et développer des logiciels en Orienté Objet
+
+  Connaissance : Structure et mécanismes des routines d'interruption et des échanges d'information
+  Connaissance : 4 Paradigmes orientés objet : encapsulation, héritage, polymorphisme, généricité
+  Connaissance : Langage UML : diagramme de class
+
+C7 Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l’information) (niveau 3)
+
+  Capacité : Etre capable de concevoir et développer des logiciels de bas niveau  interruptibles
+  Capacité : Etre capable d'observer, d'identifier et d'expérimenter l'éxécution d'un programme en langage machine avec interruption
+  Capacité : Etre capable d'utiliser la pile pour ses usages de base en langage machine
+  Capacité : Etre capable de définir et d'utiliser des variables en langage machine
+  Capacité : Etre capable d'écrire et tester un programme en langage machine interruptible en environnement de base X86
+  Capacité : Etre capable de concevoir et développer des logiciels en Orienté Objet
+  Capacité : Etre capable d'observer, d'identifier et d'expérimenter l'exécution d'un programme en langage C++
+  Capacité : Etre capable de modéliser les constituants d’un système avec le diagrammes de classe en UML
+  Capacité : Etre capable d’implémenter une application orientée objet en C++
+  Capacité : Etre capable d'écrire et tester un programme en langage C++
+
+  Connaissance : Structure des applications informatiques gérant des interruptions
+  Connaissance : Accès mémoires en environnement segmenté
+  Connaissance : Fonctionnement de la pile sur un processeur
+  Connaissance : Principe et fonctionnement des interruptions vectorisées
+  Connaissance : Notions de bas sur le fonctionnement et la programmation en langage machine des processeurs compatible X86
+  Connaissance : 4 Paradigmes OO : encapsulation, héritage, polymorphisme, généricité
+  Connaissance : Langage UML : diagramme de class
+  Connaissance : Langage C++ : class, operator, std
+  Connaissance : Notions sur la compilation et le développement langage C/C++
+  Connaissance : Principes fondamentaux des accès mémoires (pile, page et segment)
+
+C8 Mettre en œuvre des principes et stratégies d’ordonnancements des tâches et de gestion (niveau 2)
+
+  Capacité : Etre capable de concevoir et développer des logiciels de bas niveau  interruptibles
+  Capacité : Etre capable d'observer, d'identifier et d'expérimenter l'éxécution d'un programme en langage machine avec interruption
+  Capacité : Etre capable d'écrire et tester un programme en langage machine interruptible en environnement de base X86
+
+  Connaissance : Structure des applications informatiques gérant des interruptions
+  Connaissance : Principe et fonctionnement des interruptions vectorisées
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+Informatique 4 ****************************
+Cet EC relève de l'unité d'enseignement  (UE51) et contribue aux compétences suivantes :            
+
+C7 Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l’information) (niveau 2)
+
+  Capacité : Etre capable de mettre en œuvre des principes et stratégies d'ordonnancement
+  Capacité : Etre capable de mettre en œuvre des principes et stratégies de gestion des utilisateurs
+  Capacité : Etre capable de mettre en œuvre des principes et stratégies de gestion des tâches
+
+  Connaissance : Base des systèmes multi-tâches (POSIX) et multi utilisateurs (UNIX)
+  Connaissance : Echange de données entre tâches (PIPE),Gestion des signaux, Gestion des ressources (verrous et sémaphores)
+  Connaissance : Principes d'ordonnancement
+
+C8 Mettre en œuvre des principes et stratégies d’ordonnancements des tâches et de gestion (niveau 3)
+
+  Capacité : Etre capable de réaliser un ordonnancement de tâches
+  Capacité : Etre capable de mettre en œuvre des logiciels temps réel
+
+  Connaissance : Bases et stratégies des systèmes temps-réel
+  Connaissance : Ordonnancement statique et dynamique
+  Connaissance : Stratégies des serveurs de tâches apériodiques
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+Ingénierie des Système Intégrés de Production ****************************
+Cet EC relève de l'unité d'enseignement  (UE54) et contribue aux compétences suivantes :            
+
+C6 Mettre en œuvre les étapes permettant le contrôle du fonctionnement d’un système discret ou continu (niveau 3)
+
+  Capacité : Analyser le fonctionnement de l'entreprise de production selon le modèle inspiré de la pyramide CIM
+  Capacité : Niveau Process : Dimensionner des équipements en technologie pneumatique, électro-pneumatique. Commander un robot poly-articulé
+  Capacité : Niveau Contrôle - Commande : Développer la commande de procédés industriels de type manufacturier (API et IHM)
+  Capacité : Développer la communication industrielle en implémentant les standards des réseaux de terrain, la technologie OPC, les Web Services
+
+  Connaissance : Initiation aux capteurs et actionneurs spécifiques aux industries de process
+  Connaissance : Initiation à la commande de process continus en utilisant des SNCC (Systèmes Numériques de Contrôle Commande)
+  Connaissance : Sensibilisation à la sécurité Machines et à la cyber-sécurité
+
+C7 Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l’information) (niveau 3)
+
+  Capacité : Développer une application de MES (Manufacturing Execution System)
+  Capacité : Développer, au sein d'un MES, les fonctionnalités d'exécution des fabrications et de suivi de la production (indicateurs de performance et gestion de la qualité)
+
+  Connaissance : Initiation aux différents types de systèmes d'information industriels en industries manufacturières et de process
+  Connaissance : Initiation aux spécificités des applications MES dans l'industrie de process
+
+C8 Mettre en œuvre des principes et stratégies d’ordonnancements des tâches et de gestion (niveau 2)
+
+  Capacité : Réfléchir à l'organisation de l'entreprise en utilisant des démarches d'amélioration continue de type Lean Management
+  Capacité : Développer le travail collaboratif au sein d'équipes projets favorisant les technologies innovantes et utilsant les concepts de l'Ingénierie Système
+  Capacité : Analyser un système et mettre en place  l'ordonnancement
+
+  Connaissance : Initiation au droit du travail et des contrats
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+B4 Faire preuve de créativité, innover, entreprendre
+B5 Agir de manière responsable dans un monde complexe
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+B7 Travailler dans un contexte international et interculturel
+Technologie et physique des composants à semiconducteur ****************************
+Cet EC relève de l'unité d'enseignement  (UE54) et contribue aux compétences suivantes :            
+
+C1 Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage (niveau 3)
+
+ Sous compétence : Mettre en œuvre des composants électroniques semiconducteurs au sein d'un système électronique
+
+  Capacité : Mesurer l'impact d'une technologie de semiconducteur sur les performances électriques d'un système électronique
+  Capacité : Dimensionner un système électronique en fonction des contraintes d'une technologie de semiconducteur
+  Capacité : Décrire un circuit numérique destiné à être synthétisé via le langage de description matérielle VHDL
+
+  Connaissance : Électronique analogique et numérique
+  Connaissance : Structures des composants semiconducteurs
+  Connaissance : Langage de description matérielle VHDL
+
+C2 Mettre en œuvre les propriétés physiques des matériaux pour le domaine du génie électrique (niveau 3)
+
+ Sous compétence : Mettre en œuvre les propriétés physiques d'un matériau semiconducteur dans la conception et la fabrication d'un composant électronique ou d'un circuit intégré
+
+  Capacité : Comprendre la physique du semiconducteur et des composants semiconducteurs pour concevoir des composants et des circuits intégrés qui répondent à des besoins identifiés
+  Capacité : Identifier les différents procédés technologiques de salle blanche et savoir les intégrer dans la conception d'un composant semiconducteur
+  Capacité : Concevoir et modéliser un composant semiconducteur par éléments finis en s'appuyant sur des modèles physiques ou empiriques existants
+  Capacité : Caractériser électriquement un composant semiconducteur, en faire le lien avec la physique du composant et en mesurer l'impact au sein d'un système électronique
+
+  Connaissance : Physique du semiconducteur et des composants semiconducteurs
+  Connaissance : Procédés technologiques de salle blanche
+  Connaissance : Modélisation par éléments finis
+  Connaissance : Caractérisations électriques sous pointes et en boîtier
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+Traitement numérique des signaux et des images ****************************
+Cet EC relève de l'unité d'enseignement  (UE54) et contribue aux compétences suivantes :            
+
+C4 Spécifier, modéliser et concevoir les méthodes et algorithmes pour le traitement et la gestion de l'information véhiculée par les signaux et les images (niveau 3)
+
+  Capacité : Spécifier et réaliser un rendu d'une image et une synthèse d'image 3D
+  Capacité : Concevoir et spécifier une chaine de traitement du signal ou de l'image
+  Capacité : Modéliser des signaux en vue de leurs traitements ou analyses
+
+  Connaissance : Fondamentaux du traitement des images (filtrages linéaire/non-linéaire, contours, segmentations, analyse)
+  Connaissance : Fondamentaux théoriques et méthodes d'analyse et modélisation des signaux
+  Connaissance : Fondamentaux théorique et méthodes de la théorie de l'estimation, de la décision et de l'apprentissage pour les signaux
+  Connaissance : Initiation aux spécificités de traitements industrielles et médicales
+
+C5 Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données (niveau 3)
+
+  Capacité : Déterminer la technologie d'acquisition adaptée à un contexte par rapport à sa physique ou son environnement
+  Capacité : Concevoir et réaliser des traitements ou commandes sur des systèmes à base de FPGA, DSP ou GPU respectant des con-traintes spécifiques
+  Capacité : Mettre en oeuvre un système d'acquisition (RGB, depth, US, RX)
+
+  Connaissance : Fondamentaux de l'imagerie optique, RX, US, RGB, de profondeur et la parole
+  Connaissance : Fondamentaux de l'architecture des FPGA, DSP et GPU ainsi que l'optimisation algorithmique adaptée à ces architectures
+  Connaissance : Initiation aux spécificités d'acquisition, transmission et stockage de données industrielles et médicales
+
+C7 Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l’information) (niveau 3)
+
+  Capacité : Développer un logiciel de traitement d'image en appliquant une démarche d'ingénieur adaptée au problème
+  Capacité : Développer un traitement utilisant une architecture de calcul spécifique (GPP, FPGA, DSP ou GPU)
+  Capacité : Mettre en oeuvre des éléments existants afin de résoudre un problème complexe de traitement/analyse/représentation/modélisation de signaux ou d'images
+
+  Connaissance : Langages de programmation pour le signal et l'image et leurs utilisations
+  Connaissance : Principes et solutions de réalités virtuelle et augmentée
+  Connaissance : Fondamentaux sur l'utilisation des FPGA, DSP et GPU ainsi que l'optimisation algorithmique adaptée à ces architectures
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+B4 Faire preuve de créativité, innover, entreprendre
+B5 Agir de manière responsable dans un monde complexe
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+B7 Travailler dans un contexte international et interculturel
+Projet de Fin d'Etudes ****************************
+Cet EC relève de l'unité d'enseignement  (UE56) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  Capacité : Prendre en compte les enjeux industriels et économiques
+  Capacité : S'approprier les différentes phases d'un projet
+  Capacité : Se sensibiliser au travail en contexte international
+  Capacité : Gérer son temps et son projet
+  Capacité : Analyser et rédiger des documents professionnels
+  Capacité : S'intégrer dans une équipe, contribuer à l'animer, à l'organiser et à la faire évoluer
+  Capacité : Utiliser les différents moyens de communication au sein de l'entreprise en s'adaptant à son interlocuteur
+  Capacité : Exposer efficacement un travail à l'écrit et à l'oral ; s'adapter à l'auditoire
+  Capacité : Prendre en compte les enjeux du management de l'innovation
+  Capacité : Identifier des concepts innovants pour des applications futures
+
+  Connaissance : Démarche projet
+  Connaissance : Compétences métier, relations humaines, communication
+  Connaissance : Etat de l'art industriel et de la recherche
+  Connaissance : Prospectives de recherche et attentes industrielles
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+B4 Faire preuve de créativité, innover, entreprendre
+Projet de réalisation technique ****************************
+Cet EC relève de l'unité d'enseignement  (UE42) et contribue aux compétences suivantes :            
+
+C5 Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données (niveau 3)
+
+ Sous compétence : Concevoir et dimensionner un système technique couvrant plusieurs domaines du Génie Electrique
+
+  Capacité : Découper un projet sous forme de sous-fonctions
+  Capacité : Modéliser et simuler des systèmes électriques
+  Capacité : Choisir des composants pour une application donnée
+  Capacité : Réaliser une analyse fonctionnelle autour d'un projet technique
+
+  Connaissance : Modélisation de systèmes sous forme de schémas équivalents
+  Connaissance : Simulation de fonction électronique et/ou électrique
+  Connaissance : Analyse de solution technique
+  Connaissance : Structure et démarche classiques d'analyse fonctionnelle
+
+ Sous compétence : Réalisation d'un système électronique et/ou électrique
+
+  Capacité : Réalisation de prototype de circuit ou d'un système électronique ou électrique
+  Capacité : Agencement de composants
+  Capacité : Définition et réalisation des tests de validation
+
+  Connaissance : Procédure de réalisation de prototype, réalisation de typon
+  Connaissance : Plan d'expériences pour la validation du projet
+
+ Sous compétence : Travail en équipe
+
+  Capacité : Mettre en adéquation sensibilités personnelles et opportunités professionnelles
+  Capacité : Exposer efficacement un travail à l'écrit et à l'oral ; s'adapter à l'auditoire
+  Capacité : Répartition des tâches et coordination
+
+  Connaissance : Contexte industriel et académique en termes de réalisation de projet technique dans le domaine du génie électrique
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B3 Interagir avec les autres, travailler en équipe
+B4 Faire preuve de créativité, innover, entreprendre
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+Signaux, Systèmes et Mathématique des Transformées ****************************
+Cet EC relève de l'unité d'enseignement  (UE31) et contribue aux compétences suivantes :            
+
+C4 Spécifier, modéliser et concevoir les méthodes et algorithmes pour le traitement et la gestion de l'information véhiculée par les signaux et les images (niveau 2)
+
+  Capacité : Etre capable de comprendre et d'appliquer les transformées de Fourier, Laplace et z
+
+  Connaissance : Savoir manipuler les signaux et calculer les grandeurs caractéristiques de ces signaux
+  Connaissance : Savoir calculer les transformées de signaux usuels
+  Connaissance : Savoir appliquer les transformées de Laplace et z à la résolution des équations différentielles et aux différences
+
+C6 Mettre en œuvre les étapes permettant le contrôle du fonctionnement d’un système discret ou continu (niveau 2)
+
+  Capacité : Etre capable de déterminer les propriétés d'un système discret ou continu
+  Capacité : Etre capable d'analyser le comportement interne du système en temps et en fréquence
+
+  Connaissance : Comprendre l'interaction entrée sortie du système
+  Connaissance : Savoir mettre en équation un système continu ou discret
+  Connaissance : Savoir déterminer la réponse impulsionnelle d'un système et sa réponse harmonique
+  Connaissance : Savoir déterminer le régime forcé, le régime libre, la fonction de transfert, la stabilité d'un système
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+Télécommunications 2 ****************************
+Cet EC relève de l'unité d'enseignement  (UE42) et contribue aux compétences suivantes :            
+
+C1 Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage (niveau 3)
+
+ Sous compétence : Mettre en œuvre des antennes filaires et patch
+
+  Capacité : Décrire le fonctionnement physique d'une antenne (domaine RF)
+  Capacité : calculer le diagramme de rayonnement d'une antenne
+  Capacité : Simuler et analyser le fonctionnement électromagnétique et électrique d'une antenne patch
+  Capacité : Ecrire et analyser un bilan de liaison hertzienne
+
+  Connaissance : Types d'antennes, caractéristiques physiques et électriques
+  Connaissance : Identifier la structure d'un bilan de liaison hertzienne
+  Connaissance : Fonctionnement physique d'une antenne filaire
+
+ Sous compétence : Mettre en œuvre des circuits radiofréquences
+
+  Capacité : Caractériser et simuler un amplificateur radiofréquence faible bruit (LNA)
+  Capacité : Caractériser et simuler un oscillateur radiofréquence (VCO)
+  Capacité : Caractériser et simuler un amplificateur de puissance radiofréquence (PA) à partir d'un cahier des charges
+  Capacité : Caractériser et simuler un mélangeur radiofréquence (MIXER) à partir d'un cahier des charges
+  Capacité : Etudier et modéliser des circuits radiofréquences non linéaires via le simulateur ADS d'Agilent Technologies
+
+  Connaissance : Dispostifs d'adaptation en puissance RF (types, caractéristiques, techniques d'optimisation)
+  Connaissance : Simulations DC, S parameters, Harmonic Balance, LF et Phase Noise
+  Connaissance : Caractéristiques électriques des circuits actifs  (DC, petit-signal, bruit, fort-signal)
+
+C5 Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données (niveau 2)
+
+  Capacité : Concevoir un amplificateur radiofréquence faible bruit (LNA) à partir d'un cahier des charges
+  Capacité : Concevoir un oscillateur radiofréquence (VCO) à partir d'un cahier des charges
+  Capacité : Concevoir un amplificateur de puissance radiofréquence (PA) à partir d'un cahier des charges
+  Capacité : Concevoir un mélangeur radiofréquence (MIXER) à partir d'un cahier des charges
+  Capacité : Concevoir une antenne (filaire, patch) à partir d'un cahier des charges
+
+  Connaissance : Couverture et planification radio
+  Connaissance : Sensibilité, dynamique et sélectivité d'un système d'émission-réception RF
+  Connaissance : Architecture des circuits radiofréquences d'émission et de réception
+
+C8 Mettre en œuvre des principes et stratégies d’ordonnancements des tâches et de gestion (niveau 2)
+
+  Capacité : Organiser et partitioner un travail de recherche et de conception CAO entre 6 et 10 personnes
+  Capacité : Planifier les différentes taches de conception CAO à partir de cahier de charge
+  Capacité : Respecter les délais et les objectifs du maitre d'ouvrage
+
+  Connaissance : Apprentissage par projets - Etude de cas
+  Connaissance : Gestion de projet de recherche documentaire et de création d'entreprise
+  Connaissance : Lecture et analyse d'un cahier des charges
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A2 Exploiter un modèle d'un système réel ou virtuel
+A4 Concevoir un système répondant à un cahier des charges
+A6 Communiquer une analyse ou une démarche scientifique
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+Travaux Pratiques Transversaux ****************************
+Cet EC relève de l'unité d'enseignement  (UE52) et contribue aux compétences suivantes :            
+
+C1 Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage (niveau 3)
+
+  Capacité : Etre capable d'analyser un système mettant en œuvre plusieurs domaines du génie électrique
+  Capacité : Etre capable de réquisitionner des connaissances aquises sur les autres années au département
+
+  Connaissance : Connaître les bases de l'analyse spectrale et de la CEM
+
+C3 Mettre en œuvre les différents éléments de production d’énergie, de transport d’énergie électrique et de conversion d'énergie (niveau 3)
+
+  Connaissance : Connaître le principe de fonctionnement et les éléments constituant un système de pilotage de machines électriques
+  Connaissance : Connaître le fonctionnement d'un système de correction de facteur de puissance
+
+C4 Spécifier, modéliser et concevoir les méthodes et algorithmes pour le traitement et la gestion de l'information véhiculée par les signaux et les images (niveau 3)
+
+  Capacité : Etre capable d'appréhender un système de vision industrielle
+
+C5 Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données (niveau 3)
+
+  Connaissance : Connaître le principe de fonctionnement d'un système de télécommunication
+
+C6 Mettre en œuvre les étapes permettant le contrôle du fonctionnement d’un système discret ou continu (niveau 3)
+
+  Capacité : Etre capable de traiter un problème de commande d'un système mécatronique
+  Capacité : Etre capable d'utiliser des techniques automatiques pour l'identification des systèmes dynamiques linéaires
+
+  Connaissance : Appréhender la commande d'un système non-linéaire
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+B4 Faire preuve de créativité, innover, entreprendre
+B5 Agir de manière responsable dans un monde complexe
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+B7 Travailler dans un contexte international et interculturel
+Transferts Thermiques ****************************
+Cet EC relève de l'unité d'enseignement  (UE34) et contribue aux compétences suivantes :            
+
+C2 Mettre en œuvre les propriétés physiques des matériaux pour le domaine du génie électrique (niveau 2)
+
+  Capacité : Comprendre et dialoguer avec un spécialiste des transferts thermiques
+  Capacité : Choisir des matériaux pour le contrôle thermique de systèmes électriques/électroniques
+  Capacité : Résoudre un problème simple de transfert de chaleur
+
+  Connaissance : Principales propriétés thermophysiques mises en jeux dans un problème de transfert de chaleur
+  Connaissance : Modes de transferts de chaleur et ordre de grandeur
+  Connaissance : Technologie de refroidissement passifs et actifs de systèmes électriques/électroniques
+
+C1 Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage (niveau 1)
+
+  Capacité : Comprendre et dialoguer avec un spécialiste des transferts thermiques
+  Capacité : Prendre en compte les contraintes thermiques dans le choix des composants
+  Capacité : Prendre en compte les contraintes thermiques dans la conception d'une carte électronique
+  Capacité : Comprendre et dialoguer avec un spécialiste des transferts thermiques
+  Capacité : Prendre en compte les contraintes thermiques dans la conception des systèmes
+  Capacité : Comprendre et dialoguer avec un spécialiste des transferts thermiques
+  Capacité : Prendre en compte les contraintes thermiques dans la conception des systèmes électroniques
+  Capacité : Prendre en compte les contraintes thermiques dans le choix des composants
+
+  Connaissance : Modèlisation thermique de composants
+  Connaissance : Modes de transferts de chaleur et ordre de grandeur
+  Connaissance : Technologie de refroidissement passifs et actifs des composants
+  Connaissance : Modèlisation thermique des systèmes
+  Connaissance : Mise en œuvre des méthodes nodales et des méthodes numériques
+  Connaissance : Technologie de refroidissement passifs et actifs de systèmes
+  Connaissance : Modèlisation thermique des composants
+  Connaissance : Modes de transferts de chaleur et ordre de grandeur
+  Connaissance : Technologie de refroidissement passifs et actifs de systèmes
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C3 Mettre en œuvre les différents éléments de production d’énergie, de transport d’énergie électrique et de conversion d'énergie
+C5 Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+ ****************************
+Cet EC relève de l'unité d'enseignement  (UE 44) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  Capacité : Prendre en compte les enjeux industriels et économiques
+  Capacité : S'approprier les différentes phases d'un projet
+  Capacité : Se sensibiliser au travail en contexte international
+  Capacité : Gérer son temps et son projet
+  Capacité : Analyser et rédiger des documents professionnels
+  Capacité : S'intégrer dans une équipe, contribuer à l'animer, à l'organiser et à la faire évoluer
+  Capacité : Utiliser les différents moyens de communication au sein de l'entreprise en s'adaptant à son interlocuteur
+  Capacité : Exposer efficacement un travail à l'écrit et à l'oral ; s'adapter à l'auditoire
+  Capacité : Prendre en compte les enjeux du management de l'innovation
+  Capacité : Identifier des concepts innovants pour des applications futures
+
+  Connaissance : Démarche projet
+  Connaissance : Compétences métier, relations humaines, communication
+  Connaissance : Etat de l'art industriel et de la recherche
+  Connaissance : Prospectives de recherche et attentes industrielles
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+B4 Faire preuve de créativité, innover, entreprendre

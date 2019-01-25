@@ -1,0 +1,2710 @@
+Biochimie Structurale ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-BIO_S1) et contribue aux compétences suivantes :            
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 1)
+
+Biochimie Analytique ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-BIO_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
+
+  capacite : Comprendre et utiliser les technologies, spectroscopie de masse, UV, IR, méthodes séparatives
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 1)
+
+  capacite : Extraire et purifier des biomolécules
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+Biochimie Analytique TP ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-BIOP_S2) et contribue aux compétences suivantes :            
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 1)
+
+  capacite : Analyser des données, les représenter (graphiques, schémas), modéliser et interpréter des phénomènes physico-chimiques
+
+  connaissance : Développer une argumentation adaptée à l'expérimentation en fonction des étapes
+
+A5 Traiter des données (niveau 1)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+  capacite : Réaliser, développer des protocoles de biochimie
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 3)
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 1)
+
+  capacite : Analyser des données, les représenter (graphiques, schémas), modéliser et interpréter des phénomènes physico-chimiques
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 1)
+
+  connaissance : Connaissances SHS et des réglementations en matières d'hygiène et sécurité, des bonnes pratiques de laboratoires de recherche et de l'industrie, Connaissances des bonnes pratiques industrielles, techniques biochimiques analytiques, industrielles
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 1)
+
+  capacite : Caractériser et quantifier des molécules.
+  capacite : Réaliser des mesures biophysiques et biochimiques
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
+Biochimie Métabolique et Fonctionnelle ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-BIO_S1) et contribue aux compétences suivantes :            
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 1)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+Enzymologie ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-BIO_S1) et contribue aux compétences suivantes :            
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+C6 Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques (niveau 2)
+
+Enzymologie Industrielle TP ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-BIOP_S1) et contribue aux compétences suivantes :            
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 1)
+
+  capacite : Optimiser les conditions expérimentales (production, analyse) grâce aux plans d'expériences
+  capacite : Réaliser, développer des protocoles de biochimie
+  capacite : Interpréter des réactions de catalyse enzymatique, effectuer des mesure de cinétiques, identifier des mécanismes d'inhibition, déterminer les paramètres enzymatiques. Choisir le réacteur enzymatique le plus approprié.  Proposer des procédés utilisant la catalyse enzymatique
+  capacite : Concevoir et réaliser le transfert d'une innovation vers une production à l'échelle industrielle (notamment l'utilisation de substances naturelles à usage biomédical, d'enzymes)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  capacite : Optimiser les conditions expérimentales (production, analyse) grâce aux plans d'expériences
+  capacite : Réaliser, développer des protocoles de biochimie
+  capacite : Interpréter des réactions de catalyse enzymatique, effectuer des mesure de cinétiques, identifier des mécanismes d'inhibition, déterminer les paramètres enzymatiques. Choisir le réacteur enzymatique le plus approprié.  Proposer des procédés utilisant la catalyse enzymatique
+  capacite : Concevoir et réaliser le transfert d'une innovation vers une production à l'échelle industrielle (notamment l'utilisation de substances naturelles à usage biomédical, d'enzymes)
+
+C2 Concevoir, adapter et optimiser des plans d'expériences en Biosciences (niveau 2)
+
+  capacite : Optimiser les conditions expérimentales (production, analyse) grâce aux plans d'expériences
+  capacite : Concevoir et réaliser le transfert d'une innovation vers une production à l'échelle industrielle (notamment l'utilisation de substances naturelles à usage biomédical, d'enzymes)
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 2)
+
+  capacite : Interpréter des réactions de catalyse enzymatique, effectuer des mesure de cinétiques, identifier des mécanismes d'inhibition, déterminer les paramètres enzymatiques. Choisir le réacteur enzymatique le plus approprié.  Proposer des procédés utilisant la catalyse enzymatique
+
+  connaissance : Biochimie structurale, biochimie analytique,Connaissance des molécules et de leurs caractéristiques physico-chimiques. Biochimie structurale, analytique, relation structure-fonction d'un lipide
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 3)
+
+C6 Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques (niveau 1)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+Biochimie Structurale & Dynamique ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-BIOP_S1) et contribue aux compétences suivantes :            
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+  capacite : Analyser des données, les représenter (graphiques, schémas), modéliser et interpréter des phénomènes physico-chimiques, Mettre en relation le phénomène observé avec les structures moléculaires
+
+  connaissance : Régressions linéaire et non linéaire. Statistique linéaire
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 1)
+
+  capacite : Analyser des données, les représenter (graphiques, schémas), modéliser et interpréter des phénomènes physico-chimiques, Mettre en relation le phénomène observé avec les structures moléculaires
+
+  connaissance : Régressions linéaire et non linéaire. Statistique linéaire
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+  connaissance : BPL, biochimie générale, analytique, séparative. Enzymologie. Connaître les potentialités, les perfomances et les limites des différents outils analytiques
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+  connaissance : Anatomie et biologie générale
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 2)
+
+Biochimie Métabolique et Signalisation ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-BIO_S1) et contribue aux compétences suivantes :            
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
+Projet Procédés Industriels ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-BIOP_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 3)
+
+  capacite : Concevoir une démarche de production
+  capacite : Réaliser, développer des protocoles de biochimie
+  capacite : Analyser des molécules du vivant
+  capacite : Résoudre des problèmes concrets théoriques et pratiques de production, de purification et d'analyses de substances naturelles
+  capacite : Mise en œuvre d'un procédé d'extraction et de purification à l'échelle pré-pilote d'une substance naturelle
+
+A4 Concevoir un système répondant à un cahier des charges (niveau 3)
+
+C2 Concevoir, adapter et optimiser des plans d'expériences en Biosciences (niveau 3)
+
+  capacite : Résoudre des problèmes concrets théoriques et pratiques de production, de purification et d'analyses de substances naturelles
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 3)
+
+  connaissance : Connaissance des molécules et de leurs caractéristiques physico-chimiques. Techniques de biochimie dynamique et analytique d'études de composés biologiques dosage spectrophotométriques,  filtration tangentielle, filtration frontale. Choix et utilisation de techniques courantes de mesure de paramètres physico-chimiques (température, pH, viscosité...)- BPL, biochimie générale, analytique, séparative. ). Connaître les potentialités, les perfomances et les limites des différents outils analytiques
+  connaissance : Biochimie structurale, analytique, relation structure-fonction d'une protéine - Techniques de purification, d'extraction, d'analyses, de caractérisations physico-chimiques
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 3)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+  capacite : Réaliser, développer des protocoles de biochimie
+  capacite : Analyser des molécules du vivant
+  capacite : Intégrer les notions de production en masse et en continu
+  capacite : Caractériser et quantifier des molécules. Réaliser des mesures biophysiques et biochimiques
+  capacite : S'adapter à son environnement de travail, choisir son matériel, ses outils analytiques adéquats réaliser ses montages et faire des choix expérimentaux
+  capacite : Résoudre des problèmes concrets théoriques et pratiques de production, de purification et d'analyses de substances naturelles
+  capacite : Mise en œuvre d'un procédé d'extraction et de purification à l'échelle pré-pilote d'une substance naturelle
+  capacite : Maîtriser les relations structure-activité des molécules du vivant. Connaître la structure, la fonction  et analyser les protéines.
+
+  connaissance : Structure et activité moléculaire
+  connaissance : biochimie et biotechnologie
+  connaissance : Méthodes analytiques biochimiques
+  connaissance : Connaissance des molécules et de leurs caractéristiques physico-chimiques. Techniques de biochimie dynamique et analytique d'études de composés biologiques dosage spectrophotométriques,  filtration tangentielle, filtration frontale. Choix et utilisation de techniques courantes de mesure de paramètres physico-chimiques (température, pH, viscosité...)- BPL, biochimie générale, analytique, séparative. ). Connaître les potentialités, les perfomances et les limites des différents outils analytiques
+  connaissance : Biochimie structurale, analytique, relation structure-fonction d'une protéine - Techniques de purification, d'extraction, d'analyses, de caractérisations physico-chimiques
+  connaissance : Connaissances SHS et des réglementations en matières d'hygiène et sécurité, des bonnes pratiques de laboratoires de recherche et de l'industrie, Connaissances des bonnes pratiques industrielles, techniques biochimiques analytiques, industrielles
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+  capacite : Prendre en compte les enjeux de compétitivité, productivité, innovation et propriété intellectuelle, Raisonner en tenant compte des exigences de qualité, de coût et de sécurité
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+Sciences et technologie des aliments ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-BIO_S1) et contribue aux compétences suivantes :            
+
+Biochimie Structurale ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-BIOSC_S2) et contribue aux compétences suivantes :            
+
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 1)
+
+  capacite : Analyser des molécules du vivant (y compris les approches métabolomiques)
+  capacite : Maîtriser les relations structure-activité des molécules du vivant (lipides, sucres, acides nucléiques, acides aminés, protéines)
+
+  connaissance : Structure et activité moléculaire
+  connaissance : Méthodes analytiques biochimiques
+
+C4 Mettre en œuvre des outils d'analyse pour la biologie à haut débit (niveau 1)
+
+Enzymologie ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-BIOSC_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+  capacite : Réaliser, développer des protocoles de biochimie
+  capacite : Mettre en relation le phénomène observé avec les structures moléculaires
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+  capacite : Réaliser, développer des protocoles de biochimie
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  capacite : Réaliser, développer des protocoles de biochimie
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 2)
+
+  capacite : Interpréter des réactions de catalyse enzymatique, effectuer des mesure de cinétiques, identifier des mécanismes d'inhibition, déterminer les paramètres enzymatiques.
+
+  connaissance : Biochimie structurale, biochimie analytique, biochimie industrielle (en intégrant les notions de coûts; dimensionnement, transposition à l'échelle industrielle d'une production semi-pilote de substance naturelle à usages médical et alimentaire réalisée en laboratoire), Génie des pocédés
+  connaissance : BPL, biochimie générale, analytique, séparative. Enzymologie. Connaître les potentialités, les perfomances et les limites des différents outils analytiques
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 2)
+
+  capacite : Utiliser des outils informatiques, mathématiques et statistiques
+  capacite : Réaliser des mesures biophysiques et biochimiques,
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 2)
+
+  capacite : Utiliser des outils informatiques, mathématiques et statistiques
+
+  connaissance : Régressions linéaire et non linéaire. Statistique linéaire
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 2)
+
+  capacite : Analyser des données, les représenter (graphiques, schémas), modéliser et interpréter des phénomènes physico-chimiques,
+
+C4 Mettre en œuvre des outils d'analyse pour la biologie à haut débit (niveau 3)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+Sciences et technologies des aliments ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-BIOSC_S1) et contribue aux compétences suivantes :            
+
+Bioinformatique ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-BIOP_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 1)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  capacite : Mobiliser des ressources mullti- et inter-disciplinaires en bio-math-info
+
+A5 Traiter des données (niveau 2)
+
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 2)
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 1)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 2)
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 2)
+
+  capacite : Mobiliser des ressources mullti- et inter-disciplinaires en bio-math-info
+  capacite : Programmer des scripts sous Linux
+  capacite : Utiliser BLAST
+
+  connaissance : Bioinformatique
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 2)
+
+Virologie structurale ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-BIO_S1) et contribue aux compétences suivantes :            
+
+Génomique et Bioinformatique ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-BIOSC_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  connaissance : Biologie moléculaire, génomique évolutive, algorithmes pour la génomique
+
+A5 Traiter des données (niveau 2)
+
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 3)
+
+  connaissance : Biologie moléculaire, génomique évolutive, algorithmes pour la génomique
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 2)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 2)
+
+  capacite : Rechercher des séquences
+  capacite : Mettre en œuvre des outils de mapping
+
+  connaissance : Biologie moléculaire, génomique évolutive, algorithmes pour la génomique
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 3)
+
+Transcriptomique ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-BIOSC_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  capacite : Mettre en œuvre des outils statistiques adaptés pour l'analyse des données transcriptomiques
+
+  connaissance : Reconstruction de réseaux biologiques
+
+A5 Traiter des données (niveau 2)
+
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 3)
+
+  capacite : Mettre en œuvre des outils statistiques adaptés pour l'analyse des données transcriptomiques
+
+  connaissance : Méthodes statistiques pour l'analyse des données transcriptomiques
+  connaissance : Reconstruction de réseaux biologiques
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 2)
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 2)
+
+  capacite : Mettre en œuvre des outils statistiques adaptés pour l'analyse des données transcriptomiques
+
+  connaissance : Méthodes statistiques pour l'analyse des données transcriptomiques
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 3)
+
+Génomique Comparée et Evolutive ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-BIOSC_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  capacite : Analyser des données de séquençage haut-débit
+
+A5 Traiter des données (niveau 2)
+
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 3)
+
+  capacite : Analyser des données de séquençage haut-débit
+
+  connaissance : Ecologie Microbienne
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 2)
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 2)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 3)
+
+  capacite : Mobiliser des ressources mullti- et inter-disciplinaires en bio-math-info
+  capacite : Modéliser des processus génomiques
+  capacite : Assembler des séquences
+
+  connaissance : bioinformatique et modélisation
+  connaissance : algorithmes pour la génomique (Modèles de markov, assemblage)
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 3)
+
+Cristallographie Biologique ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-BIOSC_S2) et contribue aux compétences suivantes :            
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+A5 Traiter des données (niveau 2)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+C4 Mettre en œuvre des outils d'analyse pour la biologie à haut débit (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+Bioinfo. Structurale, Protéomique & Drug Design ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-BIOSC_S2) et contribue aux compétences suivantes :            
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 2)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 2)
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 2)
+
+  capacite : Exploiter les ressources issues des grandes bases de données génomiques et protéiques - y compris structurale
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 3)
+
+Modélisation de réseaux biologiques ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-BIOSC_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 3)
+
+  connaissance : Théorie des graphes, théorie du contrôle, reconstruction de réseaux biologique
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 3)
+
+  connaissance : Théorie des graphes, théorie du contrôle, reconstruction de réseaux biologique
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 2)
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 2)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 3)
+
+Phylogénie et évolution moléculaire ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-BIOSC_S1) et contribue aux compétences suivantes :            
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 3)
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 2)
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 2)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 3)
+
+  capacite : Utiliser des logiciels d'alignement, de comparaisons de séquences et de phylogénie
+
+Virologie structurale ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-BIOSC_S1) et contribue aux compétences suivantes :            
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 3)
+
+Protéomique & Drug Design ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-BIOSC_S1) et contribue aux compétences suivantes :            
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 2)
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 3)
+
+  capacite : Exploiter les ressources issues des grandes bases de données génomiques et protéiques - y compris structurale
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 3)
+
+Biologie Cellulaire ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-BIO_S1) et contribue aux compétences suivantes :            
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+  capacite : Intégrer des connaissance en biologie cellulaire pour formuler des hypothèses
+
+  connaissance : biologie cellulaire
+
+Anatomie Pratique ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-BIO_P_S1) et contribue aux compétences suivantes :            
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 3)
+
+Biologie Générale ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-BIO_S2) et contribue aux compétences suivantes :            
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+  capacite : Intégrer des connaissance en biologie générale pour formuler des hypothèses
+
+  connaissance : biodiversité, écologie, évolution
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+  capacite : Intégrer des connaissance en biologie générale pour formuler des hypothèses
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 3)
+
+C14 Développer et valider des procédés de fabrication en biotechnologies (niveau 2)
+
+Génétique ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-BIO_S2) et contribue aux compétences suivantes :            
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+  capacite : Mettre en œuvre les concepts de la génétique pour formuler des hypothèses fonctionneelle et en évolution
+
+  connaissance : génétique et épigénétique
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 3)
+
+Biodiversité des organismes modèles ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-BIO_P_S2) et contribue aux compétences suivantes :            
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 3)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 3)
+
+  capacite : Expérimenter sur des modèles animaux
+
+  connaissance : Biodiversité, anatomie, physiologie
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+Immunologie Fondamentale et Appliquée ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-BIO_S1) et contribue aux compétences suivantes :            
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+C4 Mettre en œuvre des outils d'analyse pour la biologie à haut débit (niveau 2)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 3)
+
+Immunologie Fondamentale et Appliquée TP ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-BIOP_S1) et contribue aux compétences suivantes :            
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 3)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+C4 Mettre en œuvre des outils d'analyse pour la biologie à haut débit (niveau 3)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 3)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+Biologie & Sciences Humaines ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-BIO_S2) et contribue aux compétences suivantes :            
+
+Biologie du Développement ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-BIO_S2) et contribue aux compétences suivantes :            
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+  capacite : Mettre en œuvre les concepts de la biologie du développement pour formuler des hypothèses fonctionnelles et en évolution
+
+  connaissance : biologie du développement, morphogénèse
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+  connaissance : biologie du développement, morphogénèse
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 3)
+
+Biotechnologies & Imagerie Cellulaire ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-BIOP_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A5 Traiter des données (niveau 2)
+
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 2)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 3)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 3)
+
+  capacite : Expérimenter sur des modèles cellulaires
+  capacite : Réaliser un protocole de transgénèse végétale
+
+  connaissance : Techniques de génie génétique et d'analyse de l'expression des gènes incluant notamment la PCR, la RT-PCR, la qPCR, le séquençage à haut débit (NGS) et la transgénèse
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 2)
+
+  capacite : ; Réaliser des marquage et observer au microscope
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 2)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 3)
+
+  connaissance : Bonnes pratiques de laboratoire
+
+C4 Mettre en œuvre des outils d'analyse pour la biologie à haut débit (niveau 3)
+
+  capacite : Analyser des données de la biologie à haut débit
+
+  connaissance : Techniques de génie génétique et d'analyse de l'expression des gènes incluant notamment la PCR, la RT-PCR, la qPCR, le séquençage à haut débit (NGS) et la transgénèse
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+Biologie & Physiologie Végétales ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-BIO_S1) et contribue aux compétences suivantes :            
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+  capacite : Intégrer les spécificités de la biologie végétale pour travailler dans le domaine de l'agronomie
+
+  connaissance : biologie végétale
+
+Biologie Cellulaire ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-BIOSC_S1) et contribue aux compétences suivantes :            
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+  capacite : Intégrer des connaissance en biologie cellulaire pour formuler des hypothèses
+
+  connaissance : biologie cellulaire
+
+Biologie Générale ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-BIOSC_S1) et contribue aux compétences suivantes :            
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+  capacite : Intégrer des connaissance en biologie générale pour formuler des hypothèses
+
+  connaissance : biodiversité, écologie, évolution
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 1)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+  capacite : Intégrer des connaissance en biologie générale pour formuler des hypothèses
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 2)
+
+C14 Développer et valider des procédés de fabrication en biotechnologies (niveau 2)
+
+Biologie Générale TP S1 ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-BIOSC_S1) et contribue aux compétences suivantes :            
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 3)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+C14 Développer et valider des procédés de fabrication en biotechnologies (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+Biologie Générale TP ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-BIOSC_S2) et contribue aux compétences suivantes :            
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 3)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+  capacite : Expérimenter sur des modèles cellulaires
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+Génétique & Dynamique des Populations ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-BIOSC_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 1)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+  connaissance : génétique, évolution, écologie
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 2)
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 3)
+
+  capacite : Choisir et mettre en œuvre une démarche de modélisation en écologie en utilisant des outils statistiques adaptés
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 1)
+
+  capacite : Choisir et mettre en œuvre une démarche de modélisation en écologie en utilisant des outils statistiques adaptés
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 3)
+
+C14 Développer et valider des procédés de fabrication en biotechnologies (niveau 1)
+
+Chimie Analytique & Electroanalytique ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-CHIM_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
+
+  capacite : Concevoir/ Identifier l'état d'équilibre d'un système simple en fonction des propriétés acido-basiques, complexantes ou oxydo-réductrices des électrolytes en solution
+  capacite : Etudier un système d'équilibres simultanés en solution dans des conditions réactionnelles particulières (pH, agent complexant, agent précipitant)
+  capacite : Analyser/Modéliser une courbe de dosage par réaction acido-basique, de complexation, d'oxydo-réduction ou de précipitation
+
+  connaissance : Etablir un diagramme de prédominance en fonction du pH, d'un ligand ou d'un potentiel redox, Echelles de pKa, structure et acido-basicité, acides aminés, cellules électrochimiques
+  connaissance : Mettre en équation et résoudre un système basé sur plusieurs équilibres chimiques simultanés
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+  capacite : Concevoir/ Identifier l'état d'équilibre d'un système simple en fonction des propriétés acido-basiques, complexantes ou oxydo-réductrices des électrolytes en solution
+
+  connaissance : Etablir un diagramme de prédominance en fonction du pH, d'un ligand ou d'un potentiel redox, Echelles de pKa, structure et acido-basicité, acides aminés, cellules électrochimiques
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  capacite : Analyser/Modéliser une courbe de dosage par réaction acido-basique, de complexation, d'oxydo-réduction ou de précipitation
+  capacite : Choisir les méthodes physiques et chimiques analytiques adaptées à la quantification d'espèces en solution
+
+  connaissance : Citer les éléments de base d'un montage de chimie analytique ou électroanalytique, choisir un moyen de détection approprié pour la fin d'un titrage
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 1)
+
+  capacite : Etudier un système d'équilibres simultanés en solution dans des conditions réactionnelles particulières (pH, agent complexant, agent précipitant)
+
+  connaissance : Mettre en équation et résoudre un système basé sur plusieurs équilibres chimiques simultanés
+
+C2 Concevoir, adapter et optimiser des plans d'expériences en Biosciences (niveau 1)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 3)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 1)
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+Structure et Manipulation des Molécules Organiques ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-CHIM_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
+
+  capacite : Identifier l'environnement électronique de chaque atome
+  capacite : Expliquer chimiquement la stabilité des molécules (1,, proposer une structure moléculaire cohérente
+  capacite : Utiliser la classification périodique comme outil dans la construction et la compréhension des édifices moléculaires
+  capacite : Exploiter les informations principales des édifices moléculaires
+  capacite : Prévoir l'évolution de certaines propriétés physico-chimiques en fonction des effets électroniques
+
+  connaissance : Connaître la nomenclature d"une molécule simple
+  connaissance : Savoir identifier les espèces / site de réaction potentielle
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+  capacite : Expliquer chimiquement la stabilité des molécules (1,, proposer une structure moléculaire cohérente
+  capacite : Utiliser la classification périodique comme outil dans la construction et la compréhension des édifices moléculaires
+  capacite : Exploiter les informations principales des édifices moléculaires
+  capacite : Prévoir l'évolution de certaines propriétés physico-chimiques en fonction des effets électroniques
+
+  connaissance : Savoir dessiner en structure tridimensionnelle les molécules et maîtriser les différentes représentations dans l'espace
+  connaissance : Connaître la nomenclature d"une molécule simple
+  connaissance : Savoir identifier les espèces / site de réaction potentielle
+
+C2 Concevoir, adapter et optimiser des plans d'expériences en Biosciences (niveau 1)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 1)
+
+  capacite : Exploiter les informations principales des édifices moléculaires
+  capacite : Etudier l'interaction d'une molécule avec son environnement
+  capacite : Prévoir l'évolution de certaines propriétés physico-chimiques en fonction des effets électroniques
+  capacite : Développer des compétences expérimentales
+
+  connaissance : Savoir identifier les espèces / site de réaction potentielle
+  connaissance : Connaître les techniques expérimentales classiques et les montages associés
+
+Chimie Physique et Biophysique ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-CHIM_S3) et contribue aux compétences suivantes :            
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 3)
+
+C6 Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques (niveau 1)
+
+TP Chimie Analytique ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3_CHIM_S2) et contribue aux compétences suivantes :            
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  capacite : Mettre en œuvre une démarche expérimentale en chimie analytique
+  capacite : Etre capable d'utiliser en toute sécurité matériel et produits chimiques appropriés
+  capacite : Analyser/Exploiter des mesures expérimentales
+
+  connaissance : Stoechiométrie, Constante d’équilibre, facteur de dilution, étalonnage, incertitude de mesure, répétabilité, représentation graphique
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 1)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+  capacite : Mettre en œuvre une démarche expérimentale en chimie analytique
+  capacite : Etre capable d'utiliser en toute sécurité matériel et produits chimiques appropriés
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+Réactivité et synthèses des Molécules Organiques ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3_CHIM_S2) et contribue aux compétences suivantes :            
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 1)
+
+  capacite : Comprendre la réactivité des fonctions de base
+
+  connaissance : Proposer un réactif pout une transformation donnée
+  connaissance : Adapter les outils chimiques à la synthèse ou biosynthèse de molécules d'intérêt
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  capacite : Comprendre la réactivité des fonctions de base
+  capacite : Etre capable d'utiliser en toute sécurité matériel et produits chimiques appropriés
+  capacite : Analyser/Exploiter des mesures expérimentales
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 1)
+
+  capacite : Mettre en œuvre une démarche expérimentale en chimie organique
+  capacite : Etre capable d'utiliser en toute sécurité matériel et produits chimiques appropriés
+
+  connaissance : Proposer un réactif pout une transformation donnée
+  connaissance : Adapter les outils chimiques à la synthèse ou biosynthèse de molécules d'intérêt
+  connaissance : Développer de nouvelles aptitudes expérimentales
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+Structure des Molécules Organiques ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-BIOSC_S1) et contribue aux compétences suivantes :            
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 1)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 1)
+
+Chimie Physique ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-BIOSC_S2) et contribue aux compétences suivantes :            
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 1)
+
+C6 Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques (niveau 1)
+
+RMN Biomoléculaire ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-BIOSC_S2) et contribue aux compétences suivantes :            
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 1)
+
+Base de données ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-INFO_S1) et contribue aux compétences suivantes :            
+
+A4 Concevoir un système répondant à un cahier des charges (niveau 1)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 1)
+
+Architecture des ordinateurs et systèmes d'exploitation ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-INFO_S1) et contribue aux compétences suivantes :            
+
+Algorithmique et programmation ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-INFO_S1) et contribue aux compétences suivantes :            
+
+A4 Concevoir un système répondant à un cahier des charges (niveau 2)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 2)
+
+Développement Logiciel ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-INFO_S2) et contribue aux compétences suivantes :            
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 1)
+
+A4 Concevoir un système répondant à un cahier des charges (niveau 3)
+
+A5 Traiter des données (niveau 1)
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 1)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+Gestion de projet en développement logiciel ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-INFO_S2) et contribue aux compétences suivantes :            
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A4 Concevoir un système répondant à un cahier des charges (niveau 3)
+
+A5 Traiter des données (niveau 2)
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 3)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+Initiation à la bioinformatique ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-INFO_S2) et contribue aux compétences suivantes :            
+
+Intelligence artificielle ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-INFO_S1) et contribue aux compétences suivantes :            
+
+A5 Traiter des données (niveau 3)
+
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+
+Informatique théorique ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-INFO_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 0)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 1)
+
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 3)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 1)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 2)
+
+Programmation réseau et programmation web ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-INFO_S2) et contribue aux compétences suivantes :            
+
+Calcul haute performance et déploiement ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-INFO_S2) et contribue aux compétences suivantes :            
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+Traitement du Signal et Analyse d'Image ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-INFO_S1) et contribue aux compétences suivantes :            
+
+A4 Concevoir un système répondant à un cahier des charges (niveau 2)
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 2)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 3)
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 2)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+Projet de simulation d'un système biologique ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-INFO_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 3)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+C2 Concevoir, adapter et optimiser des plans d'expériences en Biosciences (niveau 2)
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 2)
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 3)
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 2)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 2)
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 3)
+
+Langue Vivante I ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-HUMA_S1) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+Langue Vivante II ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-HUMA_S1) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+Economie d'Entreprise ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-HUMA_S1) et contribue aux compétences suivantes :            
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+  capacite : Repérer et analyser les principes d’organisation et le fonctionnement d’une entreprise ou d’une autre organisation socio-productive, notamment dans les secteurs liés aux sciences du vivant
+  capacite : Analyser le contexte économique, industriel, stratégique et humain de l’organisation pour prendre des décisions professionnelles adaptées
+  capacite : Appréhender les enjeux complexes (dans l'entreprise et dans la société) qui se présentent à l'ingénieur
+  capacite : Identifier, évaluer et anticiper les conséquences de ses actions et décisions à différents niveaux d'échelle
+  capacite : Innover dans l’entreprise ou dans un cadre non marchand
+
+  connaissance : Economie d'entreprise
+  connaissance : Economie industrielle
+  connaissance : Economie de l'innovation
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+  capacite : Innover dans l’entreprise ou dans un cadre non marchand
+
+  connaissance : Economie d'entreprise
+  connaissance : Economie industrielle
+  connaissance : Economie de l'innovation
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+  capacite : Appréhender les enjeux complexes (dans l'entreprise et dans la société) qui se présentent à l'ingénieur
+  capacite : Identifier, évaluer et anticiper les conséquences de ses actions et décisions à différents niveaux d'échelle
+
+  connaissance : Economie d'entreprise
+  connaissance : Economie industrielle
+  connaissance : Economie de l'innovation
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+EPS ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-HUMA_S1) et contribue aux compétences suivantes :            
+
+Langue Vivante I ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-HUMA_S2) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+Langue Vivante II ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-HUMA_S2) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+Siences Humaines & éthique ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-HUMA_S2) et contribue aux compétences suivantes :            
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+EPS ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-HUMA_S2) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+B5 Agir de manière responsable dans un monde complexe (niveau 1)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+Elaboration du projet professionnel ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-HUMA_S1) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+  capacite : Etre capable de construire son projet professionnel, sa propre démarche réseau
+
+  connaissance : la démarche de recherche de stage
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B3 Interagir avec les autres, travailler en équipe
+Langue Vivante ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-HUMA_S1) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
+
+EPS ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-HUMA_S1) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+B5 Agir de manière responsable dans un monde complexe (niveau 1)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+Gestion des Ressources Humaines et Droit Social ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-HUMA_S2) et contribue aux compétences suivantes :            
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+  capacite : Trouver et utiliser la (les) règle(s) de droit du travail applicable(s) ; Connaître et appliquer à des cas simples les règles relatives aux relations individuelles du travail (la vie du contrat de travail, c'est-à-dire sa conclusion, son exécution et sa rupture ; les droits et obligations des parties, etc.) ; Connaître et appliquer à des cas simples les règles relatives aux relations collectives du travail (être représenté dans l'entreprise, les textes issus de la négociation collective, les conflits collectifs du travail)
+
+  connaissance : Droit du travail
+  connaissance : Gestion des Ressources Humaines
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+Sociologie pour ingénieurs ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-HUMA_S2) et contribue aux compétences suivantes :            
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+EPS ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-HUMA_S2) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+B5 Agir de manière responsable dans un monde complexe (niveau 1)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+Conférences métiers ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-HUMA_S2) et contribue aux compétences suivantes :            
+
+Langue vivante ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-HUMA_S1) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
+
+Economie de la mondialisation ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-HUMA_S1) et contribue aux compétences suivantes :            
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+  capacite : Appréhender les enjeux complexes (dans l'entreprise et dans la société) qui se présentent à l'ingénieur, y compris à l'échelle internationale
+  capacite : Identifier, évaluer et anticiper les conséquences de ses actions et décisions à différents niveaux d'échelle, y compris internationale
+  capacite : Identifier les incertitudes et les risques et agir pour les réduire, y compris à l'échelle internationale
+
+  connaissance : Macroéconomie
+  connaissance : Economie internationale
+  connaissance : Economie monétaire et financière
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  capacite : Analyser le contexte économique, industriel, stratégique et humain de l’organisation pour prendre des décisions professionnelles adaptées, y compris à l'échelle internationale
+
+  connaissance : Macroéconomie
+  connaissance : Economie internationale
+  connaissance : Economie monétaire et financière
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+Comment faire faire quelque chose à quelqu'un ? ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-HUMA_S1) et contribue aux compétences suivantes :            
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+Insertion Professionnelle ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-HUMA_S1) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+  capacite : Finaliser son projet professionnel (choix de secteur, de type de métier…), suite au stage 4BB
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B3 Interagir avec les autres, travailler en équipe
+EPS ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-HUMA_S1) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 3)
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 3)
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+Projet Personnel en Humanités (PPH) ****************************
+Cet EC relève de l'unité d'enseignement  (HUMA-PPH) et contribue aux compétences suivantes :            
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+LV1 ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-HUMA_S1) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+LV2 ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-HUMA_S1) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+Economie d'Entreprise ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-HUMA_S1) et contribue aux compétences suivantes :            
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+  capacite : Repérer et analyser les principes d’organisation et le fonctionnement d’une entreprise ou d’une autre organisation socio-productive, notamment dans les secteurs liés aux sciences du vivant
+  capacite : Analyser le contexte économique, industriel, stratégique et humain de l’organisation pour prendre des décisions professionnelles adaptées
+  capacite : Appréhender les enjeux complexes (dans l'entreprise et dans la société) qui se présentent à l'ingénieur
+  capacite : Identifier, évaluer et anticiper les conséquences de ses actions et décisions à différents niveaux d'échelle
+  capacite : Innover dans l’entreprise ou dans un cadre non marchand
+
+  connaissance : Economie d'entreprise
+  connaissance : Economie industrielle
+  connaissance : Economie de l'innovation
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+  capacite : Innover dans l’entreprise ou dans un cadre non marchand
+
+  connaissance : Economie d'entreprise
+  connaissance : Economie industrielle
+  connaissance : Economie de l'innovation
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+  capacite : Appréhender les enjeux complexes (dans l'entreprise et dans la société) qui se présentent à l'ingénieur
+  capacite : Identifier, évaluer et anticiper les conséquences de ses actions et décisions à différents niveaux d'échelle
+
+  connaissance : Economie d'entreprise
+  connaissance : Economie industrielle
+  connaissance : Economie de l'innovation
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+Siences Humaines & éthique ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-HUMA_S1) et contribue aux compétences suivantes :            
+
+B3 Interagir avec les autres, travailler en équipe (niveau 1)
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+EPS ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-HUMA_S1) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+B5 Agir de manière responsable dans un monde complexe (niveau 1)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+LV1 ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-HUMA_S2) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+LV2 ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-HUMA_S2) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+Siences Humaines & éthique ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-HUMA_S2) et contribue aux compétences suivantes :            
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+EPS ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-HUMA_S2) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+B5 Agir de manière responsable dans un monde complexe (niveau 1)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+LV ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-HUMA_S1) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
+
+EPS ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-HUMA_S1) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+B5 Agir de manière responsable dans un monde complexe (niveau 1)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+Elaboration d'un projet professionnel ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-HUMA_S1) et contribue aux compétences suivantes :            
+
+Conférences métier ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-HUMA_S2) et contribue aux compétences suivantes :            
+
+EPS ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-HUMA_S2) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+B5 Agir de manière responsable dans un monde complexe (niveau 1)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+GRH et Droit Social ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-HUMA_S2) et contribue aux compétences suivantes :            
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+  connaissance : Droit du travail
+  connaissance : Gestion des Ressources Humaines
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+LV ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-HUMA_S1) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
+
+Economie de la mondialisation ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-HUMA_S1) et contribue aux compétences suivantes :            
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+  capacite : Appréhender les enjeux complexes (dans l'entreprise et dans la société) qui se présentent à l'ingénieur, y compris à l'échelle internationale
+  capacite : Identifier, évaluer et anticiper les conséquences de ses actions et décisions à différents niveaux d'échelle, y compris internationale
+  capacite : Identifier les incertitudes et les risques et agir pour les réduire, y compris à l'échelle internationale
+
+  connaissance : Macroéconomie
+  connaissance : Economie internationale
+  connaissance : Economie monétaire et financière
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  capacite : Analyser le contexte économique, industriel, stratégique et humain de l’organisation pour prendre des décisions professionnelles adaptées, y compris à l'échelle internationale
+
+  connaissance : Macroéconomie
+  connaissance : Economie internationale
+  connaissance : Economie monétaire et financière
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+Comment faire faire quelque chose à quelqu'un ? ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-HUMA_S1) et contribue aux compétences suivantes :            
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+EPS ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-HUMA_S1) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 3)
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 3)
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+Préparation à l'insertion professionnelle ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-HUMA_S1) et contribue aux compétences suivantes :            
+
+Projet Personnel en Humanités (PPH) ****************************
+Cet EC relève de l'unité d'enseignement  (HUMA-PPH) et contribue aux compétences suivantes :            
+
+Algébre linéaire & Analyse matricielle ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-MATH_S1) et contribue aux compétences suivantes :            
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 1)
+
+  capacite : Mettre en équation un phénomène biologique
+
+  connaissance : Connaître les hypothèses biologiques sous-jacentes aux modèles classiques
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 1)
+
+EDO & Modélisation (1) ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-MATH_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+  capacite : Confronter des résultats théoriques avec  des données expérimentales
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  capacite : Confronter des résultats théoriques avec  des données expérimentales
+
+  connaissance : Estimation de paramètres
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+  capacite : Confronter des résultats théoriques avec  des données expérimentales
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 2)
+
+EDP & Modélisation ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-MATH_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+
+  capacite : Confronter des résultats théoriques avec  des données expérimentales
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 3)
+
+  capacite : Confronter des résultats théoriques avec  des données expérimentales
+
+  connaissance : Estimation de paramètres
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 3)
+
+  capacite : Confronter des résultats théoriques avec  des données expérimentales
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+Equations aux Différences, EDP ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-MATH_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+
+  capacite : Confronter des résultats théoriques avec  des données expérimentales
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 3)
+
+  capacite : Confronter des résultats théoriques avec  des données expérimentales
+
+  connaissance : Estimation de paramètres
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 3)
+
+  capacite : Confronter des résultats théoriques avec  des données expérimentales
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+Théorie des jeux ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-MATH_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+
+  capacite : Mettre en œuvre un système dynamique pour modéliser des interactions entre individus
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 3)
+
+  capacite : Mettre en œuvre un système dynamique pour modéliser des interactions entre individus
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 3)
+
+  capacite : Mettre en œuvre un système dynamique pour modéliser des interactions entre individus
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 3)
+
+  capacite : Mettre en œuvre un système dynamique pour modéliser des interactions entre individus
+
+  connaissance : Théorie dees jeux, systèmes dynamiques
+
+Processus et calcul stochastique pour la biologie ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-MATH_S1) et contribue aux compétences suivantes :            
+
+Microbiologie générale ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-BIO_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
+
+  capacite : Décomposer une cellule microbienne en ses constituants et définir leurs interactions
+
+  connaissance : Les concepts de base de la structure, de la physiologie et de la génétique des microbes
+  connaissance : Les compartiments cellulaires et les mécanismes d'adressage des protéines
+
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+
+  capacite : Analyser un micro-organisme impliqué dans un processus de production ou de pathogénicité
+
+C6 Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques (niveau 1)
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 1)
+
+Microbiologie générale TP ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-BIO_P_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
+
+  capacite : Planifier et organiser des expériences en introduisant les contrôles
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 1)
+
+C2 Concevoir, adapter et optimiser des plans d'expériences en Biosciences (niveau 1)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 1)
+
+  capacite : Isoler et caractériser des bactéries. Manipuler des organismes et des produits potentiellement dangereux en appliquant les règles de la stérilité et les normes de sécurité et d'hygiène en biotechnologies
+
+  connaissance : Les méthodes classiques d'isolement, de culture, de quantification et de caractérisation des micro-organismes
+  connaissance : L'importance de la notion de phénotype en Microbiologie
+  connaissance : Extraire et introduire des molécules d'ADN artificielles chez la bactérie modèle Escherichia coli
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 1)
+
+C14 Développer et valider des procédés de fabrication en biotechnologies (niveau 1)
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 1)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+Biologie de synthèse ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-BIO_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+  capacite : Décomposer un système génétique en composantes
+
+A4 Concevoir un système répondant à un cahier des charges (niveau 1)
+
+  capacite : Décomposer un système génétique en composantes
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+C14 Développer et valider des procédés de fabrication en biotechnologies (niveau 1)
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 1)
+
+Biologie de synthèse TP ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-BIOP_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+  capacite : Conception de gènes in silico
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+  capacite : caractérisation de l'ADN
+
+C4 Mettre en œuvre des outils d'analyse pour la biologie à haut débit (niveau 2)
+
+B3 Interagir avec les autres, travailler en équipe (niveau 1)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+Microbiologie moléculaire ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-BIO_S1) et contribue aux compétences suivantes :            
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  capacite : Proposer une approche expérimentale pour valider ou infirmer une hypothèse
+  capacite : Analyser et interpréter des données expérimentales issues de la littérature scientifique en structurant son discours autour d'un raisonnement
+
+A5 Traiter des données (niveau 2)
+
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)
+
+  capacite : Analyser et interpréter des données expérimentales issues de la littérature scientifique en structurant son discours autour d'un raisonnement
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+  capacite : Intégrer des connaissances en Microbiologie et en Génétique pour formuler des hypothèses sur les mécanismes de régulation de l'expression génique
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies
+Microbiologie moléculaire TP ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-BIOP_S1) et contribue aux compétences suivantes :            
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  capacite : Définir une stratégie pour étudier l’expression d’un gène
+
+A5 Traiter des données (niveau 1)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+  capacite : Analyser l'expression d'un gène en fonction de divers paramètres environnementaux et divers contextes génétiques
+  capacite : Modifier un génome bactérien à façon
+
+  connaissance : Analyse des génomes bactériens et de leur structure. Outils de modification des génomes.    Organisation de la cellule bactérienne
+  connaissance : Biologie Moléculaire, Génétique, Génome et expression génique
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 1)
+
+  connaissance : Bonnes pratiques de laboratoire, régles d'hygiène et sécurité
+
+C4 Mettre en œuvre des outils d'analyse pour la biologie à haut débit (niveau 1)
+
+  capacite : et identifier par des approches bioinformatiques ses sites de fixation au sein d’un génome
+
+  connaissance : Biologie Moléculaire, Génétique, Génome et expression génique
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+C2 Concevoir, adapter et optimiser des plans d'expériences en Biosciences
+C5 Quantifier, caractériser structurellement et purifier des biomolécules
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive
+B4 Faire preuve de créativité, innover, entreprendre
+Bioingénierie des Protéines ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-BIO_S1) et contribue aux compétences suivantes :            
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+  capacite : concevoir des systèmes pour la production de molécules pour des applications thérapeutique, de diagnostic ou agro-alimentaire par génie génétique ou ingénierie métabolique
+
+  connaissance : Relation structure-fonction, design rationnel et mutagénèse dirigée, Evolution dirigée-Mutagénèse aléatoire et sélection, DNA shuffling. La production de protéines recombinantes et les applications en biotechnologie.  interactions entre protéines dans les mécanismes de transport, signalisation, reconnaissance de ligands , ingénierie des protéines, ingénierie génétique et métabolique
+
+A4 Concevoir un système répondant à un cahier des charges (niveau 3)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+Bioingénierie des Protéines TP ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-BIOP_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 3)
+
+A5 Traiter des données (niveau 2)
+
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 3)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+C4 Mettre en œuvre des outils d'analyse pour la biologie à haut débit (niveau 3)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 3)
+
+  capacite : et sa caractérisation biochimique
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B4 Faire preuve de créativité, innover, entreprendre
+Génétique des Procaryotes ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-BIOSC_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
+
+  capacite : Définir une unité transcriptionnelle, traductionnelle
+
+  connaissance : les bases moléculaires de la génétique procaryote
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+  capacite : Extraire et analyser des molécules d'ADN
+
+  connaissance : 
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+  connaissance : amplilfier, extraire et modifier de l'ADN recombinant
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 1)
+
+C4 Mettre en œuvre des outils d'analyse pour la biologie à haut débit (niveau 1)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B2 Travailler, apprendre, évoluer de manière autonome
+Génétique Moléculaire des Eucaryotes ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-BIOSC_S1) et contribue aux compétences suivantes :            
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+  connaissance : Biologie Moléculaire, Génétique, Génome
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 1)
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 1)
+
+  connaissance : Bonnes pratiques de laboratoire, régles d'hygiène et sécurité
+
+C4 Mettre en œuvre des outils d'analyse pour la biologie à haut débit (niveau 2)
+
+  connaissance : Biologie Moléculaire, Génétique, Génome
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive
+Physiologie Générale et Cellulaire ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-BIO_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+A5 Traiter des données (niveau 2)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive
+B4 Faire preuve de créativité, innover, entreprendre
+Communications Cellulaires ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-BIO_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A3 Mettre en œuvre une démarche expérimentale
+C5 Quantifier, caractériser structurellement et purifier des biomolécules
+B1 Se connaître, se gérer physiquement et mentalement
+Physiologie des systèmes ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-BIO_S1) et contribue aux compétences suivantes :            
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 1)
+
+  capacite : Intégrer des connaissance en biologie pour formuler des hypothèses
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 1)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+  capacite : Intégrer des connaissance en biologie pour formuler des hypothèses
+
+  connaissance : Anatomie, physiologie
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 2)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+Physiologie Expérimentale et pharmacodynamie ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-BIOP_S1) et contribue aux compétences suivantes :            
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 3)
+
+C2 Concevoir, adapter et optimiser des plans d'expériences en Biosciences (niveau 2)
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 2)
+
+  capacite : Interpréter des résultats expérimentaux et les intégrer dans une problématique biologique
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 3)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2)
+
+  connaissance : Anatomie, physiologie
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 2)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 2)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+Pharmacologie Générale et Moléculaire ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-BIO_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A5 Traiter des données (niveau 2)
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 2)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 2)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C2 Concevoir, adapter et optimiser des plans d'expériences en Biosciences
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data)
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique
+Pharmacologie générale II ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-BIO_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 1)
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique
+C5 Quantifier, caractériser structurellement et purifier des biomolécules
+Pharmacocinétique et Modélisation ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-BIOP_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 3)
+
+C2 Concevoir, adapter et optimiser des plans d'expériences en Biosciences (niveau 2)
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 2)
+
+  capacite : Interpréter des résultats expérimentaux et les intégrer dans une problématique biologique
+  capacite : Valider une méthode analytique (pharmacologie) ou expérimentale
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 3)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 3)
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 2)
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 2)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 2)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+  capacite : Valider une méthode analytique (pharmacologie) ou expérimentale
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 3)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+Communications Cellulaires & Immunologie ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-BIOSC_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+A5 Traiter des données (niveau 2)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique
+B4 Faire preuve de créativité, innover, entreprendre
+Pharmacologie Générale & Moléculaire ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-BIOSC_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 2)
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 2)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 2)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data)
+C5 Quantifier, caractériser structurellement et purifier des biomolécules
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire
+C4 Mettre en œuvre des outils d'analyse pour la biologie à haut débit
+Pharmacologie générale 2 ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-BIOSC_S1) et contribue aux compétences suivantes :            
+
+Stage professionnel ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-STAGE) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 3)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 2)
+
+  capacite : Construire un parcours personnel cohérent
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+  capacite : Travailler, apprendre, évoluer de manière autonome
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+  capacite : Travailler en équipe
+  capacite : rédiger un rapport scientifique
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+  capacite : C26.3Innover/créer de la valeur dans l'entreprise en fonction d'enjeux industriels
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+  capacite : agir de manière responsable dans un contexte professionnel
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  capacite : Se situer, travailler, évoluer dans une entreprise, une organisation socioproductive
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
+Rapport technique ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-PTREP) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 3)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+
+  capacite : Construire un parcours personnel cohérent
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+
+  capacite : Travailler, apprendre, évoluer de manière autonome
+
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+
+  capacite : Travailler en équipe
+  capacite : rédiger un rapport scientifique
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 3)
+
+  capacite : C26.3Innover/créer de la valeur dans l'entreprise en fonction d'enjeux industriels
+
+B5 Agir de manière responsable dans un monde complexe (niveau 3)
+
+  capacite : agir de manière responsable dans un contexte professionnel
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
+
+  capacite : Se situer, travailler, évoluer dans une entreprise, une organisation socioproductive
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
+Soutenance orale ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-PTREP) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 3)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+
+  capacite : Construire un parcours personnel cohérent
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+
+  capacite : Travailler, apprendre, évoluer de manière autonome
+
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+
+  capacite : Travailler en équipe
+  capacite : faire une soutenance orale
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 3)
+
+  capacite : C26.3Innover/créer de la valeur dans l'entreprise en fonction d'enjeux industriels
+
+B5 Agir de manière responsable dans un monde complexe (niveau 3)
+
+  capacite : agir de manière responsable dans un contexte professionnel
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
+
+  capacite : Se situer, travailler, évoluer dans une entreprise, une organisation socioproductive
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
+Projets 3BiM et Communication scientifique ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-HUMA_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  capacite : Mettre en oeuvre d'un développement logiciel ou une méthode d'analyse pour modéliser un processus biologique
+
+A5 Traiter des données (niveau 2)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 1)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 1)
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 1)
+
+  capacite : Mettre en oeuvre d'un développement logiciel ou une méthode d'analyse pour modéliser un processus biologique
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 1)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 1)
+
+  capacite : Mettre en oeuvre d'un développement logiciel ou une méthode d'analyse pour modéliser un processus biologique
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 1)
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+  capacite : Effectuer et organiser une recherche documentaire sur le web
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+  capacite : Gérer un projet en groupe avec à la base un questionnement biologique
+
+Projets 3BIM (S2) ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-HUMA_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  capacite : Mettre en oeuvre d'un développement logiciel ou une méthode d'analyse pour modéliser un processus biologique
+
+A5 Traiter des données (niveau 2)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 2)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 2)
+
+C11 Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents (niveau 2)
+
+  capacite : Mettre en oeuvre d'un développement logiciel ou une méthode d'analyse pour modéliser un processus biologique
+
+C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 2)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+  capacite : Mettre en oeuvre d'un développement logiciel ou une méthode d'analyse pour modéliser un processus biologique
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 2)
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+  capacite : Gérer un projet en groupe avec à la base un questionnement biologique
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+  capacite : Mettre en oeuvre d'un développement logiciel ou une méthode d'analyse pour modéliser un processus biologique
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+Stage Professionnel ( 3 mois) ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-STAGE) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 2)
+
+  capacite : Construire un parcours personnel cohérent
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+  capacite : Travailler, apprendre, évoluer de manière autonome
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+  capacite : Travailler en équipe
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 2)
+
+  capacite : C26.3Innover/créer de la valeur dans l'entreprise en fonction d'enjeux industriels
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+  capacite : agir de manière responsable dans un contexte professionnel
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  capacite : Se situer, travailler, évoluer dans une entreprise, une organisation socioproductive
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
+Rapport technique ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-PTREP) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 3)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 3)
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+
+  capacite : Construire un parcours personnel cohérent
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+
+  capacite : Travailler, apprendre, évoluer de manière autonome
+
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+
+  capacite : Travailler en équipe
+  capacite : rédiger un rapport scientifique
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 3)
+
+  capacite : C26.3Innover/créer de la valeur dans l'entreprise en fonction d'enjeux industriels
+
+B5 Agir de manière responsable dans un monde complexe (niveau 3)
+
+  capacite : agir de manière responsable dans un contexte professionnel
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
+
+  capacite : Se situer, travailler, évoluer dans une entreprise, une organisation socioproductive
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
+Soutenance orale ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-PTREP) et contribue aux compétences suivantes :            
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 3)
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 3)
+
+B1 Se connaître, se gérer physiquement et mentalement (niveau 3)
+
+  capacite : Construire un parcours personnel cohérent
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 3)
+
+  capacite : Travailler, apprendre, évoluer de manière autonome
+
+B3 Interagir avec les autres, travailler en équipe (niveau 3)
+
+  capacite : Travailler en équipe
+  capacite : faire une soutenance orale
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 3)
+
+  capacite : C26.3Innover/créer de la valeur dans l'entreprise en fonction d'enjeux industriels
+
+B5 Agir de manière responsable dans un monde complexe (niveau 3)
+
+  capacite : agir de manière responsable dans un contexte professionnel
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3)
+
+  capacite : Se situer, travailler, évoluer dans une entreprise, une organisation socioproductive
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
+Biostatiques I ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-3-BIO_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 1)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  capacite : Formuler des hypothèses statistiques à partir d'un problème biologique
+  capacite : Réaliser un test statistique
+  capacite : Analyser des données  par  modélisation linéaire avec modèle d'erreur gaussien
+
+  connaissance : Probabilités, lois d'échantillonage, tests d'hyptothèses, risque alpha et puissance d'une expérience
+  connaissance : Statistiques linéaires, régression, ANOVA 1 et 2
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 1)
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 1)
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 1)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 1)
+
+Biostastiques II ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-BIO_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
+
+  capacite : Elaborer des plans d'expériences
+
+  connaissance : Plans d'expérience statistiques, plans factoriels, mélanges, Taguchi, surface de réponse
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 1)
+
+  capacite : Analyser des données  par  modélisation linéaire avec modèle d'erreur gaussien
+
+  connaissance : Statistiques linéaires, régression, ANOVA 1 et 2, regression multiple moindre carrés et vraisemblance
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+  capacite : Elaborer des plans d'expériences
+
+  connaissance : Plans d'expérience statistiques, plans factoriels, mélanges, Taguchi, surface de réponse
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 2)
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 2)
+
+  capacite : utilisation d'un logiciel adapté
+
+  connaissance : utilisation de R
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 2)
+
+  capacite : Analyser des données  par  modélisation linéaire avec modèle d'erreur gaussien
+
+  connaissance : Statistiques linéaires, régression, ANOVA 1 et 2, regression multiple moindre carrés et vraisemblance
+
+Procédés Industriels I ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-4-SCINGE_S2) et contribue aux compétences suivantes :            
+
+A4 Concevoir un système répondant à un cahier des charges (niveau 2)
+
+  capacite : Concevoir un système répondant à un cahier des charges
+
+A5 Traiter des données (niveau 2)
+
+  capacite : Industrialiser un produit ou un service
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+C6 Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B4 Faire preuve de créativité, innover, entreprendre
+B5 Agir de manière responsable dans un monde complexe
+Procédés Industriels II ****************************
+Cet EC relève de l'unité d'enseignement  (BS-BB-5-SCINGE_S1) et contribue aux compétences suivantes :            
+
+A4 Concevoir un système répondant à un cahier des charges (niveau 2)
+
+  capacite : Concevoir un système répondant à un cahier des charges  ;
+
+A5 Traiter des données (niveau 2)
+
+  capacite : Industrialiser un produit ou un service
+
+C15 Contribuer à des études environnementales en y apportant la composante biologique et évolutive (niveau 2)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2)
+
+C6 Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques (niveau 2)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B4 Faire preuve de créativité, innover, entreprendre
+B5 Agir de manière responsable dans un monde complexe
+Biostatistiques (1) ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-MATH_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 1)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 1)
+
+  capacite : Formuler des hypothèses statistiques à partir d'un problème biologique
+  capacite : Réaliser un test statistique
+  capacite : Analyser des données  par  modélisation linéaire avec modèle d'erreur gaussien
+
+  connaissance : Probabilités, lois d'échantillonage, tests d'hyptothèses, risque alpha et puissance d'une expérience
+  connaissance : Statistiques linéaires, régression, ANOVA 1 et 2
+
+A5 Traiter des données (niveau 2)
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 1)
+
+C2 Concevoir, adapter et optimiser des plans d'expériences en Biosciences (niveau 1)
+
+C3 Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 1)
+
+C5 Quantifier, caractériser structurellement et purifier des biomolécules (niveau 1)
+
+C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 1)
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 1)
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 1)
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 1)
+
+Biostatistiques (2) ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-3-MATH_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  capacite : Analyser des données  par  modélisation linéaire avec modèle d'erreur gaussien
+
+  connaissance : Statistiques linéaires, régression, ANOVA 1 et 2, regression multiple moindre carrés et vraisemblance
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2)
+
+C2 Concevoir, adapter et optimiser des plans d'expériences en Biosciences (niveau 2)
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 2)
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 3)
+
+  capacite : comparer des modèles statistiques
+
+  connaissance : comparaison de modèles
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+  capacite : Analyser des données  par  modélisation linéaire avec modèle d'erreur gaussien
+
+  connaissance : Statistiques linéaires, régression, ANOVA 1 et 2, regression multiple moindre carrés et vraisemblance
+
+Biostatistiques (3) ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-MATH_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+
+  capacite : Analyser des données  par  modélisation linéaire avec un modèle d'erreur gaussien et des effets fixes et aléatoires, Analyser des données  par  modélisation  non paramétrique
+
+  connaissance : Statistiques linéaires (régression, ANOVA 1 et 2, régression multiple), moindre carrés et vraisemblance, modèle mixtes, Analyse multivariée - ACP, AFC, ACM-, Construction d'un test non paramétrique, Statistiques des rangs, rééchantilonnage
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 3)
+
+  capacite : Analyser des données  par  modélisation linéaire avec un modèle d'erreur gaussien et des effets fixes et aléatoires, Analyser des données  par  modélisation  non paramétrique
+
+  connaissance : Statistiques linéaires (régression, ANOVA 1 et 2, régression multiple), moindre carrés et vraisemblance, modèle mixtes, Analyse multivariée - ACP, AFC, ACM-, Construction d'un test non paramétrique, Statistiques des rangs, rééchantilonnage
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 3)
+
+C2 Concevoir, adapter et optimiser des plans d'expériences en Biosciences (niveau 3)
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 3)
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 3)
+
+  capacite : Analyser des données  par  modélisation linéaire avec un modèle d'erreur gaussien et des effets fixes et aléatoires, Analyser des données  par  modélisation  non paramétrique
+  capacite : Utilisation de R
+
+  connaissance : Statistiques linéaires (régression, ANOVA 1 et 2, régression multiple), moindre carrés et vraisemblance, modèle mixtes, Analyse multivariée - ACP, AFC, ACM-, Construction d'un test non paramétrique, Statistiques des rangs, rééchantilonnage
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+  capacite : Analyser des données  par  modélisation linéaire avec un modèle d'erreur gaussien et des effets fixes et aléatoires, Analyser des données  par  modélisation  non paramétrique
+
+  connaissance : Statistiques linéaires (régression, ANOVA 1 et 2, régression multiple), moindre carrés et vraisemblance, modèle mixtes, Analyse multivariée - ACP, AFC, ACM-, Construction d'un test non paramétrique, Statistiques des rangs, rééchantilonnage
+
+Biostatistiques (4) ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-4-MATH_S2) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2)
+
+A5 Traiter des données (niveau 2)
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 3)
+
+Statistiques Bayesiennes et applications ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-MATH_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+
+A5 Traiter des données (niveau 3)
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 3)
+
+Planification expérimentale et appl. industrielle ****************************
+Cet EC relève de l'unité d'enseignement  (BIM-5-MATH_S1) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3)
+
+  capacite : Concevoir, adapter et optimiser des plans d'expériences en Biosciences
+
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3)
+
+  capacite : Concevoir, adapter et optimiser des plans d'expériences en Biosciences
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 3)
+
+  capacite : Concevoir, adapter et optimiser des plans d'expériences en Biosciences
+
+C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 3)
+
+  capacite : Formuler des hypothèses
+
+C2 Concevoir, adapter et optimiser des plans d'expériences en Biosciences (niveau 3)
+
+  capacite : Concevoir, adapter et optimiser des plans d'expériences en Biosciences
+
+C8 Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 3)
+
+C9 Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 3)
+
+  capacite : choisir des outils statistques appropriés
+
+C10 Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3)
+
+  capacite : Apprécier les limites d'un modèle
+
