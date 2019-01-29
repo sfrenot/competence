@@ -73,49 +73,48 @@
                   "val": "Analyser un système (ou un problème) réel ou virtuel",
                   "valAnglais": "Analyze a real or virtual system (or problem)",
                   "bs": "1",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A2",
                   "val": "Exploiter un modèle d'un système réel ou virtuel",
                   "valAnglais": "Exploit a model of a real or virtual system",
                   "bs": "2",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A5",
                   "val": "Traiter des données",
                   "valAnglais": "Process data",
                   "bs": "5",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A6",
                   "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
                   "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
                   "bs": "6",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Concevoir, adapter et optimiser des plans d'expériences en Biosciences",
                   "code": "C2",
                   "bs": "8",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes",
                   "code": "C10",
                   "bs": "14",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Etablir un diagramme de prédominance en fonction du pH, d'un ligand ou d'un potentiel redox Echelles de pKa, structure et acido-basicité, acides aminés, cellules électrochimiques Mettre en équation et résoudre un système basé sur plusieurs équilibres chimiques simultanés dans des conditions réactionnelles particulières (pH, agent complexant, agent précipitant, agent oxydant) Citer les éléments de base d'un montage de chimie analytique ou électroanalytique choisir un moyen de détection approprié pour la fin d'un titrage"
             }
           },
@@ -173,57 +172,56 @@
                   "val": "Exploiter un modèle d'un système réel ou virtuel",
                   "valAnglais": "Exploit a model of a real or virtual system",
                   "bs": "2",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "A5",
                   "val": "Traiter des données",
                   "valAnglais": "Process data",
                   "bs": "5",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "A6",
                   "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
                   "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
                   "bs": "6",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
                   "code": "C13",
                   "bs": "17",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "B1",
                   "val": "Se connaître, se gérer physiquement et mentalement",
                   "valAnglais": "To know oneself, to manage oneself physically and mentally",
                   "bs": "23",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Proposer un réactif pour une transformation donnée Adapter les outils chimiques à la synthèse ou biosynthèse de molécules d'intérêt Développer de nouvelles aptitudes expérimentales"
             }
           },
@@ -263,35 +261,34 @@
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
                   "code": "C13",
                   "bs": "17",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Développer et valider des procédés de fabrication en biotechnologies",
                   "code": "C14",
                   "bs": "21",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "-Initiation à la chimie quantique -Initiation à la spectroscopie infrarouge -Initiation à la résonance magnétique nucléaire (RMN) -Initiation à la spectroscopie UV-visible -Initiation à la spectroscopie de fluorescence -Initiation à la spectroscopie de masse -Initiation à la modélisation moléculaire"
             }
           },
@@ -965,38 +962,37 @@
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B4",
                   "val": "Faire preuve de créativité, innover, entreprendre",
                   "valAnglais": "Show creativity, innovate, undertake",
                   "bs": "26",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B5",
                   "val": "Agir de manière responsable dans un monde complexe",
                   "valAnglais": "Act responsibly in a complex world",
                   "bs": "27",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B6",
                   "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
                   "valAnglais": "Situate, work, evolve in a company, a socio-productive organization",
                   "bs": "28",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "1) Transmettre les connaissances de base permettant d'analyser les stratégies mises en œuvre par les entreprises, et d'évaluer leurs effets économiques et sociaux 2) Sensibiliser les étudiants aux problématiques de l'économie de l'innovation et à leurs manifestations dans les secteurs liés aux sciences du vivant"
             }
           },
@@ -1036,36 +1032,35 @@
                   "val": "Analyser un système (ou un problème) réel ou virtuel",
                   "valAnglais": "Analyze a real or virtual system (or problem)",
                   "bs": "1",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "A6",
                   "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
                   "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
                   "bs": "6",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "val": "Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire",
                   "code": "C7",
                   "bs": "11",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Utiliser les principales techniques d'exploration des fonctions biologiques",
                   "code": "C8",
                   "bs": "12",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Acquérir les connaissances de base sur les différents niveaux d'organisation d'un organisme vivant, appréhender sa complexité structurale et thermodynamique et aborder l'étude des mécanismes responsables de l'homéostasie du milieu intérieur par une approche cybernétique. Présenter les concepts fondamentaux et les techniques de base en expérimentation animale."
             }
           },
@@ -1117,35 +1112,34 @@
                   "val": "Exploiter un modèle d'un système réel ou virtuel",
                   "valAnglais": "Exploit a model of a real or virtual system",
                   "bs": "2",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents",
                   "code": "C11",
                   "bs": "15",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Etre capable de comprendre les bases moléculaires de la biologie. Connaître les principales structures de base des acides nucléiques, glucides, lipides, aminoacides et polypeptides, ainsi que le principe de leurs fonctions."
             }
           },
@@ -1181,24 +1175,23 @@
                   "val": "Analyser un système (ou un problème) réel ou virtuel",
                   "valAnglais": "Analyze a real or virtual system (or problem)",
                   "bs": "1",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "A6",
                   "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
                   "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
                   "bs": "6",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B4",
                   "val": "Faire preuve de créativité, innover, entreprendre",
                   "valAnglais": "Show creativity, innovate, undertake",
                   "bs": "26",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Apprendre les gestes et les concepts de base de la manipulation et de la mise en culture des microorganismes. Acquérir une vision globale du monde microbien, dans la nature, les stations d'épuration, comme agents pathogènes et outils de biotechnologies. Maîtriser les notions essentielles de la génétique et comprendre l'intérêt de certaines d'entre elles pour l'identification des bactéries et leur utilisation en microbiologie industrielle. Présenter les notions de base de l'écologie, de la microbiologie et du génie génétique. Offrir une vision complète de la génétique bactérienne, de ses origines à nos jours."
             }
           },
@@ -1234,22 +1227,21 @@
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire",
                   "code": "C7",
                   "bs": "11",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "La cellule en tant qu'unité de structure des êtres vivants. La relation entre structure et fonction est largement illustrée. L'origine évolutive des organites cellulaire est discutée."
             }
           },
@@ -1285,22 +1277,21 @@
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire",
                   "code": "C7",
                   "bs": "11",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Fournir les rappels généraux sur le fonctionnement des organes et les bases de l'anatomie du petit animal de laboratoire en tant que complément du cours de physiologie et de biochimie."
             }
           },
@@ -1346,56 +1337,55 @@
                   "val": "Analyser un système (ou un problème) réel ou virtuel",
                   "valAnglais": "Analyze a real or virtual system (or problem)",
                   "bs": "1",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data)",
                   "code": "C3",
                   "bs": "9",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire",
                   "code": "C7",
                   "bs": "11",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
                   "code": "C13",
                   "bs": "17",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B5",
                   "val": "Agir de manière responsable dans un monde complexe",
                   "valAnglais": "Act responsibly in a complex world",
                   "bs": "27",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Apprendre les gestes et les concepts de base de la manipulation et de la mise en culture des microorganismes. Acquérir une vision globale du monde microbien, dans la nature, les stations d'épuration, comme agents pathogènes et outils de biotechnologies. Maîtriser les notions essentielles de la génétique et comprendre l'intérêt de certaines d'entre elles pour l'identification des bactéries et leur utilisation en microbiologie industrielle. Présenter les notions de base de l'écologie, de la microbiologie et du génie génétique. Offrir une vision complète de la génétique bactérienne, de ses origines à nos jours."
             }
           }
@@ -1426,42 +1416,41 @@
                   "val": "Analyser un système (ou un problème) réel ou virtuel",
                   "valAnglais": "Analyze a real or virtual system (or problem)",
                   "bs": "1",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Concevoir, adapter et optimiser des plans d'expériences en Biosciences",
                   "code": "C2",
                   "bs": "8",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire",
                   "code": "C7",
                   "bs": "11",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Etudier l'organisation structurale et fonctionnelle des deux principaux systèmes de communication dans l'organisme: le système hormonal et le système nerveux. Prendre connaissance des mécanismes moléculaires impliqués dans la transmission de l'information nerveuse et hormonale. Comprendre le principe, l'intérêt et les limitations des techniques \"in vivo\" et \"in vitro\" les plus utilisées dans ce domaine."
             }
           },
@@ -1496,28 +1485,27 @@
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire",
                   "code": "C7",
                   "bs": "11",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Utiliser les principales techniques d'exploration des fonctions biologiques",
                   "code": "C8",
                   "bs": "12",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Contribuer à des études environnementales en y apportant la composante biologique et évolutive",
                   "code": "C15",
                   "bs": "16",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Familiariser les étudiants à la biodiversité (structures, écologie...) et centrer leur intérêt sur les modèles les plus importants en agronomie, zootechnie, médecine et biologie fondamentale. Connaître les étapes importantes dans l'évolution et la complexification des êtres vivants."
             }
           },
@@ -1548,16 +1536,15 @@
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Contribuer à des études environnementales en y apportant la composante biologique et évolutive",
                   "code": "C15",
                   "bs": "16",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Connaissances de base en génétique distributive, génétique quantitative, en génétique moléculaire et en épigénétique. Présenter les modalités de transfert de l'information génétique chez les individus et dans les populations."
             }
           },
@@ -1595,23 +1582,22 @@
                   "val": "Analyser un système (ou un problème) réel ou virtuel",
                   "valAnglais": "Analyze a real or virtual system (or problem)",
                   "bs": "1",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Etre capable de choisir et d'utiliser l'outil analytique le plus efficace. Etre capable de choisir l'instrumentation la plus appropriée. L'objectif de ce module est de présenter et de décrire les principaux outils analytiques disponibles et d'en montrer les limites."
             }
           },
@@ -1655,49 +1641,48 @@
                   "val": "Analyser un système (ou un problème) réel ou virtuel",
                   "valAnglais": "Analyze a real or virtual system (or problem)",
                   "bs": "1",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A4",
                   "val": "Concevoir un système répondant à un cahier des charges",
                   "valAnglais": "Design a system that meets a set of specifications",
                   "bs": "4",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Développer et valider des procédés de fabrication en biotechnologies",
                   "code": "C14",
                   "bs": "21",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "1) Introduire les bases de la biologie de synthèse 2) Introduire les principes de la découverte puis d'utilisation des activités cellulaires d'intérêt dans le design de nouveaux systèmes 3) Inculquer les principes de conception de systèmes biomoléculaires simples 4) Illustrer ces notions par des exemples d'applications en biologie de synthèse marquants et d'actualité"
             }
           },
@@ -1733,54 +1718,53 @@
                   "val": "Analyser un système (ou un problème) réel ou virtuel",
                   "valAnglais": "Analyze a real or virtual system (or problem)",
                   "bs": "1",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "A2",
                   "val": "Exploiter un modèle d'un système réel ou virtuel",
                   "valAnglais": "Exploit a model of a real or virtual system",
                   "bs": "2",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Concevoir, adapter et optimiser des plans d'expériences en Biosciences",
                   "code": "C2",
                   "bs": "8",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique",
                   "code": "C9",
                   "bs": "13",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes",
                   "code": "C10",
                   "bs": "14",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents",
                   "code": "C11",
                   "bs": "15",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Être capable d'analyser des données provenant d'expériences diverses et de modéliser des situations expérimentales afin de proposer des stratégies d'étude efficaces. Être capable de s'adapter à des situations et domaines variés et de prendre en compte les contraintes de qualité et de contrôle.  Cet enseignement doit fournir les outils statistiques de base indispensables pour structurer, analyser et modéliser des données simples. Il doit permettre de concevoir des plans expérimentaux et acquérir les concepts et méthodes générales pour s'adapter aux diverses situations rencontrées dans les Sciences du Vivant et dans l'industrie. Des simulations sur micro-ordinateur visualisent les grandes lois de la statistique. Le cours s'appuie sur la consultation de sites internet spécialisés et l'utilisation de logiciels spécifiques."
             }
           },
@@ -2338,38 +2322,37 @@
                   "val": "Se connaître, se gérer physiquement et mentalement",
                   "valAnglais": "To know oneself, to manage oneself physically and mentally",
                   "bs": "23",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B4",
                   "val": "Faire preuve de créativité, innover, entreprendre",
                   "valAnglais": "Show creativity, innovate, undertake",
                   "bs": "26",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B5",
                   "val": "Agir de manière responsable dans un monde complexe",
                   "valAnglais": "Act responsibly in a complex world",
                   "bs": "27",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "aux débats éthiques (épistémologie) avec une approche pluridisciplinaire et à la question de la responsabilité sociale de l'ingénieur - de familiariser les étudiants aux méthodes et aux questionnements des sciences humaines et sociales - de préparer la journée éthique annuelle et la venue des conférenciers"
             }
           },
@@ -2431,56 +2414,55 @@
                   "val": "Exploiter un modèle d'un système réel ou virtuel",
                   "valAnglais": "Exploit a model of a real or virtual system",
                   "bs": "2",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A5",
                   "val": "Traiter des données",
                   "valAnglais": "Process data",
                   "bs": "5",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A6",
                   "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
                   "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
                   "bs": "6",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes",
                   "code": "C10",
                   "bs": "14",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
                   "code": "C13",
                   "bs": "17",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Acquisition des bonnes pratiques de manipulation dans la réalisation de dosages. Pratique de différentes techniques d'analyse quantitative d'analytes variés et dans différentes gammes de concentrations (dosages acido-basiques, pHmétrie, conductimétrie, spectrophotométrie, complexométrie, dosages redox)"
             }
           },
@@ -2542,64 +2524,63 @@
                   "val": "Exploiter un modèle d'un système réel ou virtuel",
                   "valAnglais": "Exploit a model of a real or virtual system",
                   "bs": "2",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A5",
                   "val": "Traiter des données",
                   "valAnglais": "Process data",
                   "bs": "5",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A6",
                   "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
                   "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
                   "bs": "6",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
                   "code": "C13",
                   "bs": "17",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "B1",
                   "val": "Se connaître, se gérer physiquement et mentalement",
                   "valAnglais": "To know oneself, to manage oneself physically and mentally",
                   "bs": "23",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B4",
                   "val": "Faire preuve de créativité, innover, entreprendre",
                   "valAnglais": "Show creativity, innovate, undertake",
                   "bs": "26",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Proposer un réactif pout une transformation donnée Adapter les outils chimiques à la synthèse ou biosynthèse de molécules d'intérêt Développer de nouvelles aptitudes expérimentales"
             }
           },
@@ -2639,40 +2620,38 @@
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data)",
                   "code": "C3",
                   "bs": "9",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire",
                   "code": "C7",
                   "bs": "11",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Utiliser les principales techniques d'exploration des fonctions biologiques",
                   "code": "C8",
                   "bs": "12",
-                  "niveau": "niveau 2"
-                }
-              ],
-              "listeCompMobilise": [
+                  "niveau": "2"
+                },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "mobilise"
+                  "niveau": "M"
                 }
               ],
               "connaissances": "- Argumenter sur les avantages et inconvénients des principaux organismes modèles par rapport à l'étude d'un problème biologique donné (fondamental ou appliqué) - Faire la synthèse des principales techniques d'analyses fonctionnelles pouvant être mises en œuvre lors de l'approche génétique d'un problème biologique - Expliquer le principe des techniques d'analyses fonctionnelles utilisées dans les différents organismes modèles."
@@ -2736,68 +2715,67 @@
                   "val": "Analyser un système (ou un problème) réel ou virtuel",
                   "valAnglais": "Analyze a real or virtual system (or problem)",
                   "bs": "1",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A4",
                   "val": "Concevoir un système répondant à un cahier des charges",
                   "valAnglais": "Design a system that meets a set of specifications",
                   "bs": "4",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Concevoir, adapter et optimiser des plans d'expériences en Biosciences",
                   "code": "C2",
                   "bs": "8",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data)",
                   "code": "C3",
                   "bs": "9",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire",
                   "code": "C7",
                   "bs": "11",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
                   "code": "C13",
                   "bs": "17",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "B5",
                   "val": "Agir de manière responsable dans un monde complexe",
                   "valAnglais": "Act responsibly in a complex world",
                   "bs": "27",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "éthique, sécurité et santé"
             }
           },
@@ -2861,61 +2839,60 @@
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "A5",
                   "val": "Traiter des données",
                   "valAnglais": "Process data",
                   "bs": "5",
-                  "niveau": "niveau1 "
+                  "niveau": "1"
                 },
                 {
                   "code": "A6",
                   "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
                   "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
                   "bs": "6",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "val": "Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique",
                   "code": "C9",
                   "bs": "13",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents",
                   "code": "C11",
                   "bs": "15",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
                   "code": "C13",
                   "bs": "17",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "A l'issue de ce module l'étudiant devra être capable de maîtriser les principales techniques et les outils de biochimie analytique dans le respect des bonnes pratiques de laboratoire; de mettre en oeuvre et réaliser des protocoles expérimentaux de biochimie; savoir analyser et critiquer les résultats; de savoir les interpréter dans leur contexte biologique; de s'adapter à des situations plus complexes et de proposer des améliorations de protocoles expérimentaux. Les objectifs pédagogiques sont de permettre aux étudiants d'acquérir des connaissances dans les différentes techniques biochimiques d'investigation des composés biologiques et dans la compréhension de leur principe; de maîtriser ces techniques pour isoler, purifier, doser les molécules d'intérêt; d'étudier leurs structures et propriétés; d'acquérir un savoir-faire opérationnel en expérimentation biochimique."
             }
           }
@@ -3546,38 +3523,37 @@
                   "val": "Se connaître, se gérer physiquement et mentalement",
                   "valAnglais": "To know oneself, to manage oneself physically and mentally",
                   "bs": "23",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B5",
                   "val": "Agir de manière responsable dans un monde complexe",
                   "valAnglais": "Act responsibly in a complex world",
                   "bs": "27",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B6",
                   "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
                   "valAnglais": "Situate, work, evolve in a company, a socio-productive organization",
                   "bs": "28",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "A l'issue de ce cours les étudiants devront mieux connaître l'environnement et les métiers d'ingénieurs Biosciences et d'enrichir leur projet personnel et professionnel. Ils devront être capable d'élaborer des outils et une stratégie permettant d'optimiser l'intégration en entreprise en lien avec l'environnement socio-économique."
             }
           },
@@ -3613,67 +3589,65 @@
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
+                },
+                {
+                  "code": "A5",
+                  "val": "Traiter des données",
+                  "valAnglais": "Process data",
+                  "bs": "5",
+                  "niveau": "M"
                 },
                 {
                   "code": "A6",
                   "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
                   "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
                   "bs": "6",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques",
                   "code": "C6",
                   "bs": "20",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Utiliser les principales techniques d'exploration des fonctions biologiques",
                   "code": "C8",
                   "bs": "12",
-                  "niveau": "niveau 2"
-                }
-              ],
-              "listeCompMobilise": [
-                {
-                  "code": "A5",
-                  "val": "Traiter des données",
-                  "valAnglais": "Process data",
-                  "bs": "5",
-                  "niveau": "mobilise"
+                  "niveau": "2"
                 },
                 {
                   "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
                   "code": "C13",
                   "bs": "17",
-                  "niveau": "mobilise"
+                  "niveau": "M"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "mobilise"
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "mobilise"
+                  "niveau": "M"
                 }
               ],
               "connaissances": "A l'issue de de ce cours l'étudiant devra être capable de mettre en oeuvre des protocole expérimentaux en immunologie. Il devra savoir en analyser les points forts et les faiblesses et leurs atouts relatifs. Il devra être capable d'analyser les résultats en tenant compte de la problématique des réactions croisées."
@@ -3727,55 +3701,54 @@
                   "val": "Exploiter un modèle d'un système réel ou virtuel",
                   "valAnglais": "Exploit a model of a real or virtual system",
                   "bs": "2",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Concevoir, adapter et optimiser des plans d'expériences en Biosciences",
                   "code": "C2",
                   "bs": "8",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data)",
                   "code": "C3",
                   "bs": "9",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Développer et valider des procédés de fabrication en biotechnologies",
                   "code": "C14",
                   "bs": "21",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "A l'issue de ce module l'étudiant devra être capable de gérer un projet de biotechnologies en équipe, de définir une stratégie de production de molécules d'intérêt industriel, de spécifier un cahier des charges de fabrication, de mettre en oeuvre et réaliser des protocoles expérimentaux de biochimie et d'enzymologie, savoir analyser, interpréter et critiquer des résultats, de s'adapter à des situations complexes et construire de nouveaux protocoles expérimentaux. Les objectifs pédagogiques sont de permettre aux étudiants d'acquérir des connaissances en technologies dans les domaines de la biochimie et de l'enzymologie appliqués aux biotechnologies, de maîtriser ces technologies pour mettre en oeuvre un procédé de production de molécules d'intérêt grâce à l'utilisation d'enzymes, de s'initier à la gestion de projet depuis sa conception jusqu'à sa réalisation, d'apprendre à organiser un travail d'équipe."
             }
           },
@@ -3791,71 +3764,10 @@
               "projet": "0.0 h",
               "perso": "44.0 h",
               "nom": "Biochimie : Biochimie Structurale et Dynamique",
-              "competencesBrutes": "COMPETENCES : Cet EC contribue aux compétences ci-dessous (niveau) avec les capacités associées : A2. Exploiter un modèle d'un système réél ou virtuel (niveau 2) - Analyser des données, les représenter (graphiques, schémas), - Modéliser et interpréter des phénomènes physico-chimiques, A3. Mettre en œuvre une démarche expérimentale (niveau 1) C1. Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2) - Mettre en relation le phénomène observé avec les structures moléculaires (2,3,15). C11. Modéliser et interpréter des données biologiques pour comprendre les processus sous- jacents (niveau 2) - Interpréter des réactions de catalyse enzymatique, effectuer des mesure de cinétiques, identifier des mécanismes d'inhibition, déterminer les paramètres enzymatiques. C5. Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2) - Caractériser et quantifier des molécules. Réaliser des mesures biophysiques et biochimiques (10,19). - Maîtriser les relations structure-activité des molécules du vivant (lipides, sucres, acides nucléiques, acides aminés, protéines). - Connaître la structure, la fonction  et analyser les protéines. - Appréhender la catalyse enzymatique avec ou sans co-enzyme (10,19).  Les connaissances associées à l'EC cours sont : Connaître les principes de la bioénergétique, du métabolisme intermédiaire (sucres, lipides, composés azotés) et de la signalisation cellulaire Structure et activité moléculaire Biochimie et biotechnologie Régressions linéaire et non linéaire Méthodes analytiques biochimiques Aspects théoriques et pratiques de la catalyse enzymatique et ses applications en agro alimentaire, en chimie, en pharmacie et en médecine Connaissance des molécules et de leurs caractéristiques physico-chimiques Techniques de biochimie dynamique et analytique d'études de composés biologiques CCM, dosage spectrophotométriques, GC, filtration tangentielle, filtration frontale Choix et utilisation de techniques courantes de mesure de paramètres physico-chimiques (température, pH, viscosité...) BPL, biochimie générale, analytique, séparative. Enzymologie Connaître les potentialités, les perfomances et les limites des différents outils analytiques Biochimie structurale, analytique, relation structure-fonction d'un lipide, d'une protéine Connaissances en réactivité et structure moléculaires Anatomie et biologie générale Gestion de projet. Rédaction scientifique et analyse bibliographique Développer une argumentation adaptée à l'expérimentation en fonction des étapes    OBJECTIFS : A l'issue de ce module l'étudiant devra être capable de maîtriser les principales technologies et les outils de biochimie dynamique et analytique dans le respect des bonnes pratiques de laboratoire, de mettre en oeuvre et réaliser des protocoles expérimentaux de biochimie, savoir analyser et critiquer les résultats, savoir les interpréter dans leur contexte biologique, de s'adapter à des situations plus complexes et construire de nouveaux protocoles expérimentaux. Les objectifs pédagogiques sont de permettre aux étudiants d'acquérir des connaissances dans les différentes techniques de biochimie dynamique et analytique d'investigation des composés biologiques et dans la compréhension de leur principe, de maîtriser ces techniques pour isoler, purifier, doser les molécules d'intérêt, d'étudier les structures et propriétés des lipides et des protéines et de comprendre les propriétés catalytiques des enzymes, d'acquérir un savoir-faire opérationnel en expérimentation biochimique.",
-              "capacite": [
-                "Analyser des données, les représenter (graphiques, schémas),",
-                "Modéliser et interpréter des phénomènes physico-chimiques,",
-                "Mettre en relation le phénomène observé avec les structures moléculaires (2,3,15).",
-                "Interpréter des réactions de catalyse enzymatique, effectuer des mesure de cinétiques, identifier des mécanismes d'inhibition, déterminer les paramètres enzymatiques.",
-                "Caractériser et quantifier des molécules. Réaliser des mesures biophysiques et biochimiques (10,19).",
-                "Maîtriser les relations structure-activité des molécules du vivant (lipides, sucres, acides nucléiques, acides aminés, protéines).",
-                "Connaître la structure, la fonction  et analyser les protéines.",
-                "Appréhender la catalyse enzymatique avec ou sans co-enzyme (10,19)."
-              ],
+              "competencesBrutes": "COMPETENCES : Cet EC contribue aux compétences ci-dessous (niveau) avec les capacit��s associées : A2. Exploiter un modèle d'un système réél ou virtuel (niveau 2) - Analyser des données, les représenter (graphiques, schémas), - Modéliser et interpréter des phénomènes physico-chimiques, A3. Mettre en œuvre une démarche expérimentale (niveau 1) C1. Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2) - Mettre en relation le phénomène observé avec les structures moléculaires (2,3,15). C11. Modéliser et interpréter des données biologiques pour comprendre les processus sous- jacents (niveau 2) - Interpréter des réactions de catalyse enzymatique, effectuer des mesure de cinétiques, identifier des mécanismes d'inhibition, déterminer les paramètres enzymatiques. C5. Quantifier, caractériser structurellement et purifier des biomolécules (niveau 2) - Caractériser et quantifier des molécules. Réaliser des mesures biophysiques et biochimiques (10,19). - Maîtriser les relations structure-activité des molécules du vivant (lipides, sucres, acides nucléiques, acides aminés, protéines). - Connaître la structure, la fonction  et analyser les protéines. - Appréhender la catalyse enzymatique avec ou sans co-enzyme (10,19).  Les connaissances associées à l'EC cours sont : Connaître les principes de la bioénergétique, du métabolisme intermédiaire (sucres, lipides, composés azotés) et de la signalisation cellulaire Structure et activité moléculaire Biochimie et biotechnologie Régressions linéaire et non linéaire Méthodes analytiques biochimiques Aspects théoriques et pratiques de la catalyse enzymatique et ses applications en agro alimentaire, en chimie, en pharmacie et en médecine Connaissance des molécules et de leurs caractéristiques physico-chimiques Techniques de biochimie dynamique et analytique d'études de composés biologiques CCM, dosage spectrophotométriques, GC, filtration tangentielle, filtration frontale Choix et utilisation de techniques courantes de mesure de paramètres physico-chimiques (température, pH, viscosité...) BPL, biochimie générale, analytique, séparative. Enzymologie Connaître les potentialités, les perfomances et les limites des différents outils analytiques Biochimie structurale, analytique, relation structure-fonction d'un lipide, d'une protéine Connaissances en réactivité et structure moléculaires Anatomie et biologie générale Gestion de projet. Rédaction scientifique et analyse bibliographique Développer une argumentation adaptée à l'expérimentation en fonction des étapes    OBJECTIFS : A l'issue de ce module l'étudiant devra être capable de maîtriser les principales technologies et les outils de biochimie dynamique et analytique dans le respect des bonnes pratiques de laboratoire, de mettre en oeuvre et réaliser des protocoles expérimentaux de biochimie, savoir analyser et critiquer les résultats, savoir les interpréter dans leur contexte biologique, de s'adapter à des situations plus complexes et construire de nouveaux protocoles expérimentaux. Les objectifs pédagogiques sont de permettre aux étudiants d'acquérir des connaissances dans les différentes techniques de biochimie dynamique et analytique d'investigation des composés biologiques et dans la compréhension de leur principe, de maîtriser ces techniques pour isoler, purifier, doser les molécules d'intérêt, d'étudier les structures et propriétés des lipides et des protéines et de comprendre les propriétés catalytiques des enzymes, d'acquérir un savoir-faire opérationnel en expérimentation biochimique.",
+              "capacite": [],
               "connaissance": [],
-              "competenceToCapaciteEtConnaissance": {
-                "A2": [
-                  "Analyser des données, les représenter (graphiques, schémas),",
-                  "Modéliser et interpréter des phénomènes physico-chimiques,"
-                ],
-                "BS-C1": [
-                  "Mettre en relation le phénomène observé avec les structures moléculaires (2,3,15)."
-                ],
-                "BS-C11": [
-                  "Interpréter des réactions de catalyse enzymatique, effectuer des mesure de cinétiques, identifier des mécanismes d'inhibition, déterminer les paramètres enzymatiques."
-                ],
-                "BS-C5": [
-                  "Caractériser et quantifier des molécules. Réaliser des mesures biophysiques et biochimiques (10,19).",
-                  "Maîtriser les relations structure-activité des molécules du vivant (lipides, sucres, acides nucléiques, acides aminés, protéines).",
-                  "Connaître la structure, la fonction  et analyser les protéines.",
-                  "Appréhender la catalyse enzymatique avec ou sans co-enzyme (10,19)."
-                ]
-              },
-              "listeComp": [
-                {
-                  "code": "A2",
-                  "val": "Exploiter un modèle d'un système réel ou virtuel",
-                  "valAnglais": "Exploit a model of a real or virtual system",
-                  "bs": "2",
-                  "niveau": "niveau 2"
-                },
-                {
-                  "code": "A3",
-                  "val": "Mettre en œuvre une démarche expérimentale",
-                  "valAnglais": "Implement an experimental approach",
-                  "bs": "3",
-                  "niveau": "niveau 1"
-                },
-                {
-                  "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
-                  "code": "C1",
-                  "bs": "7",
-                  "niveau": "niveau 2"
-                },
-                {
-                  "val": "Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents",
-                  "code": "C11",
-                  "bs": "15",
-                  "niveau": "niveau 2"
-                },
-                {
-                  "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
-                  "code": "C5",
-                  "bs": "10",
-                  "niveau": "niveau 2"
-                }
-              ],
-              "listeCompMobilise": [],
+              "competenceToCapaciteEtConnaissance": {},
               "connaissances": "A l'issue de ce module l'étudiant devra être capable de maîtriser les principales technologies et les outils de biochimie dynamique et analytique dans le respect des bonnes pratiques de laboratoire, de mettre en oeuvre et réaliser des protocoles expérimentaux de biochimie, savoir analyser et critiquer les résultats, savoir les interpréter dans leur contexte biologique, de s'adapter à des situations plus complexes et construire de nouveaux protocoles expérimentaux. Les objectifs pédagogiques sont de permettre aux étudiants d'acquérir des connaissances dans les différentes techniques de biochimie dynamique et analytique d'investigation des composés biologiques et dans la compréhension de leur principe, de maîtriser ces techniques pour isoler, purifier, doser les molécules d'intérêt, d'étudier les structures et propriétés des lipides et des protéines et de comprendre les propriétés catalytiques des enzymes, d'acquérir un savoir-faire opérationnel en expérimentation biochimique."
             }
           },
@@ -3887,72 +3799,70 @@
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A5",
                   "val": "Traiter des données",
                   "valAnglais": "Process data",
                   "bs": "5",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
+                },
+                {
+                  "code": "A6",
+                  "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
+                  "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
+                  "bs": "6",
+                  "niveau": "M"
                 },
                 {
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data)",
                   "code": "C3",
                   "bs": "9",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques",
                   "code": "C6",
                   "bs": "20",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire",
                   "code": "C7",
                   "bs": "11",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Utiliser les principales techniques d'exploration des fonctions biologiques",
                   "code": "C8",
                   "bs": "12",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
+                },
+                {
+                  "val": "Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique",
+                  "code": "C9",
+                  "bs": "13",
+                  "niveau": "M"
+                },
+                {
+                  "val": "Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes",
+                  "code": "C10",
+                  "bs": "14",
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
-                }
-              ],
-              "listeCompMobilise": [
-                {
-                  "code": "A6",
-                  "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
-                  "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
-                  "bs": "6",
-                  "niveau": "mobilise"
-                },
-                {
-                  "val": "Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique",
-                  "code": "C9",
-                  "bs": "13",
-                  "niveau": "mobilise"
-                },
-                {
-                  "val": "Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes",
-                  "code": "C10",
-                  "bs": "14",
-                  "niveau": "mobilise"
+                  "niveau": "M"
                 }
               ],
               "connaissances": "- Connaitre les potentialités et les limites de l'expérimentation animale - Savoir choisir un modèle expérimental,  élaborer et mettre en oeuvre un protocole expérimental en physiologie ou pharmacologie. - Savoir mettre en oeuvre un protocole d'expérimentation animale. - Connaitre les techniques de contention, maitriser les techniques d'injection de substances et de prélèvement de fluides biologiques chez les rongeurs - Savoir induire et gérer une anesthésie et maitriser les techniques élémentaires de chirurgie sur rongeurs - Savoir mettre en oeuvre une étude physiologique ou pharmacologique sur organe isolé. L'objectif principal de ce module est d'acquérir un savoir faire opérationnel et une autonomie en expérimentation animale sur rongeurs.  Les travaux pratiques permettent en outre de s'initier aux techniques d'exploration fonctionnelles et d'illustrer certains chapitres du cours \"Intégration des systèmes physiologiques\" (41-BB-INPHY)."
@@ -3996,73 +3906,72 @@
                   "val": "Analyser un système (ou un problème) réel ou virtuel",
                   "valAnglais": "Analyze a real or virtual system (or problem)",
                   "bs": "1",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A5",
                   "val": "Traiter des données",
                   "valAnglais": "Process data",
                   "bs": "5",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Concevoir, adapter et optimiser des plans d'expériences en Biosciences",
                   "code": "C2",
                   "bs": "8",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Mettre en œuvre des outils d'analyse pour la biologie à haut débit",
                   "code": "C4",
                   "bs": "18",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire",
                   "code": "C7",
                   "bs": "11",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents",
                   "code": "C11",
                   "bs": "15",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
                   "code": "C13",
                   "bs": "17",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Contribuer à des études environnementales en y apportant la composante biologique et évolutive",
                   "code": "C15",
                   "bs": "16",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "B4",
                   "val": "Faire preuve de créativité, innover, entreprendre",
                   "valAnglais": "Show creativity, innovate, undertake",
                   "bs": "26",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "- Former des généticiens moléculaires capables de mesurer l'expression des gènes, de décortiquer les mécanismes de régulation associés et de modifier des génomes bactériens à façon - Former les étudiants à la conception et à l'interprétation des expériences scientifiques"
             }
           },
@@ -4093,22 +4002,21 @@
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Utiliser les principales techniques d'exploration des fonctions biologiques",
                   "code": "C8",
                   "bs": "12",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Développer et valider des procédés de fabrication en biotechnologies",
                   "code": "C14",
                   "bs": "21",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Ce cours présente les éléments modernes de base - cellulaires et moléculaires- de l'immunologie, permettant aux étudiants de comprendre l'organisation et le fonctionnement du système immunitaire. Un chapitre spécial est attribué aux concepts et techniques immunologiques et leurs applications dans la recherche et l'industrie."
             }
           },
@@ -4140,28 +4048,26 @@
                   "val": "Analyser un système (ou un problème) réel ou virtuel",
                   "valAnglais": "Analyze a real or virtual system (or problem)",
                   "bs": "1",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
-                {
-                  "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
-                  "code": "C1",
-                  "bs": "7",
-                  "niveau": "niveau 1"
-                },
-                {
-                  "val": "Utiliser les principales techniques d'exploration des fonctions biologiques",
-                  "code": "C8",
-                  "bs": "12",
-                  "niveau": "niveau 1"
-                }
-              ],
-              "listeCompMobilise": [
                 {
                   "code": "A2",
                   "val": "Exploiter un modèle d'un système réel ou virtuel",
                   "valAnglais": "Exploit a model of a real or virtual system",
                   "bs": "2",
-                  "niveau": "mobilise"
+                  "niveau": "M"
+                },
+                {
+                  "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
+                  "code": "C1",
+                  "bs": "7",
+                  "niveau": "1"
+                },
+                {
+                  "val": "Utiliser les principales techniques d'exploration des fonctions biologiques",
+                  "code": "C8",
+                  "bs": "12",
+                  "niveau": "1"
                 }
               ],
               "connaissances": "Décrire les mécanismes qui contrôlent et régulent le fonctionnement d'un système biologique complexe à partir de ses paramêtres constitutifs, de leur hiérarchisation,  de leur articulation dans l'espace et dans le temps et des voies de communication impliquées."
@@ -4198,16 +4104,15 @@
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Développer et valider des procédés de fabrication en biotechnologies",
                   "code": "C14",
                   "bs": "21",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Etre capable d'interpreter des réactions de catalyse enzymatique: mesure des cinétiques, identifier des mécanismes d'inhibition, déterminer les paramètres enzymatiques... Etre capable d'utiliser des enzymes en génie industriel en collaboration avec des spécialistes de la bioengeneerie. Connaître les aspects théoriques et pratiques de l'enzymologie qui concernent les mécanismes physiologiques ou les applications en pharmacologie, médecine, agronomie ou d'ingénierie."
             }
           },
@@ -4223,7 +4128,7 @@
               "projet": "0.0 h",
               "perso": "30.0 h",
               "nom": "Microbiologie : Microbiologie moléculaire",
-              "competencesBrutes": "COMPETENCES : Cet EC contribue aux compétences ci-dessous (niveau) avec les capacités associées : A3 Mettre en œuvre une d��marche expérimentale (niveau 2) - Proposer une approche expérimentale pour valider ou infirmer une hypothèse A5 Traiter des données (niveau 2) A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2) - Analyser et interpréter des données expérimentales issues de la littérature scientifique en structurant son discours autour d'un raisonnement C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2) - Intégrer des connaissances en Microbiologie et en Génétique pour formuler des hypothèses sur les mécanismes de régulation de l'expression génique C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2) C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 1)  Les connaissances associées à l'EC cours sont : Le cycle cellulaire bactérien et son contrôle Mécanismes de perception de l'environnement et d'adaptation des bactéries, signalisation, communication intercellulaire Régulation transcriptionnelle et post transcriptionnelle Outils d'analyse de l'expression génique Outils de modification des génomes, CRISPR, réparation de l'ADN, recombinaison homologue Techniques d'analyse des interactions Acides Nucléiques-Protéines  OBJECTIFS : - Permettre l'acquisition des connaissances nécessaires à la compréhension de la régulation des gènes bactériens sous l'influence des variations de l'environnement. - Illustrer la notion de compartiment au sein de la cellule bactérienne ainsi que les mécanismes d'adressage et de sécrétion des protéines - Familiariser les étudiants avec les outils d'analyse de l'expression génétique et de modification des génomes",
+              "competencesBrutes": "COMPETENCES : Cet EC contribue aux compétences ci-dessous (niveau) avec les capacités associées : A3 Mettre en œuvre une démarche expérimentale (niveau 2) - Proposer une approche expérimentale pour valider ou infirmer une hypothèse A5 Traiter des données (niveau 2) A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2) - Analyser et interpréter des données expérimentales issues de la littérature scientifique en structurant son discours autour d'un raisonnement C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 2) - Intégrer des connaissances en Microbiologie et en Génétique pour formuler des hypothèses sur les mécanismes de régulation de l'expression génique C7 Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire (niveau 2) C13 Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies (niveau 1)  Les connaissances associées à l'EC cours sont : Le cycle cellulaire bactérien et son contrôle Mécanismes de perception de l'environnement et d'adaptation des bactéries, signalisation, communication intercellulaire Régulation transcriptionnelle et post transcriptionnelle Outils d'analyse de l'expression génique Outils de modification des génomes, CRISPR, réparation de l'ADN, recombinaison homologue Techniques d'analyse des interactions Acides Nucléiques-Protéines  OBJECTIFS : - Permettre l'acquisition des connaissances nécessaires à la compréhension de la régulation des gènes bactériens sous l'influence des variations de l'environnement. - Illustrer la notion de compartiment au sein de la cellule bactérienne ainsi que les mécanismes d'adressage et de sécrétion des protéines - Familiariser les étudiants avec les outils d'analyse de l'expression génétique et de modification des génomes",
               "capacite": [
                 "Proposer une approche expérimentale pour valider ou infirmer une hypothèse",
                 "Analyser et interpréter des données expérimentales issues de la littérature scientifique en structurant son discours autour d'un raisonnement",
@@ -4247,42 +4152,41 @@
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A5",
                   "val": "Traiter des données",
                   "valAnglais": "Process data",
                   "bs": "5",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A6",
                   "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
                   "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
                   "bs": "6",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire",
                   "code": "C7",
                   "bs": "11",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
                   "code": "C13",
                   "bs": "17",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "- Permettre l'acquisition des connaissances nécessaires à la compréhension de la régulation des gènes bactériens sous l'influence des variations de l'environnement. - Illustrer la notion de compartiment au sein de la cellule bactérienne ainsi que les mécanismes d'adressage et de sécrétion des protéines - Familiariser les étudiants avec les outils d'analyse de l'expression génétique et de modification des génomes"
             }
           },
@@ -4326,37 +4230,36 @@
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B7",
                   "val": "Travailler dans un contexte international et interculturel",
                   "valAnglais": "Work in an international and intercultural context",
                   "bs": "29",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Avoir une vue intégrée du métabolisme en vue d'applications dans les domaines pharmaceutiques et agro-alimentaires. Etre capable de concevoir des schémas métaboliques, de proposer des hypothèses et de construire des protocoles expérimentaux. Connaître le rôle des vitamines et des coenzymes impliqués dans les réactions enzymatiques. Acquérir une bonne connaissance du métabolisme glucidique et lipidique dans une perspective bioénergétique."
             }
           },
@@ -4396,60 +4299,59 @@
                   "val": "Analyser un système (ou un problème) réel ou virtuel",
                   "valAnglais": "Analyze a real or virtual system (or problem)",
                   "bs": "1",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A2",
                   "val": "Exploiter un modèle d'un système réel ou virtuel",
                   "valAnglais": "Exploit a model of a real or virtual system",
                   "bs": "2",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Concevoir, adapter et optimiser des plans d'expériences en Biosciences",
                   "code": "C2",
                   "bs": "8",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Utiliser les principales techniques d'exploration des fonctions biologiques",
                   "code": "C8",
                   "bs": "12",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique",
                   "code": "C9",
                   "bs": "13",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes",
                   "code": "C10",
                   "bs": "14",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents",
                   "code": "C11",
                   "bs": "15",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Etre capable d'analyser des données provenant d'expériences diverses dans différents domaines et de modéliser des situations expérimentales pour proposer des stratégies d'étude efficaces. Etre capable de s'adapter à des situations plus complexes et de pouvoir travailler avec des experts. L¿enseignement de Statistique présenté en 3ième année est complété par un enseignement réalisé sous forme de travaux dirigés. Il doit fournir à l¿étudiant les principaux outils méthodologiques et conceptuels (analyse de la variance, regression linéaire,...) qui lui permettront de traiter les résultats expérimentaux très variés obtenus dans les diverses disciplines des sciences du vivant. Une introduction aux plans d'expériences est aussi réalisée."
             }
           }
@@ -4486,45 +4388,44 @@
                   "val": "Se connaître, se gérer physiquement et mentalement",
                   "valAnglais": "To know oneself, to manage oneself physically and mentally",
                   "bs": "23",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B4",
                   "val": "Faire preuve de créativité, innover, entreprendre",
                   "valAnglais": "Show creativity, innovate, undertake",
                   "bs": "26",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B5",
                   "val": "Agir de manière responsable dans un monde complexe",
                   "valAnglais": "Act responsibly in a complex world",
                   "bs": "27",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B6",
                   "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
                   "valAnglais": "Situate, work, evolve in a company, a socio-productive organization",
                   "bs": "28",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "les écoles d'ingénieurs, les rapports hommes-femmes, l'entreprise, la mode, la consommation, les réseaux sociaux, ..."
             }
           },
@@ -4705,17 +4606,16 @@
                   "val": "Contribuer à des études environnementales en y apportant la composante biologique et évolutive",
                   "code": "C15",
                   "bs": "16",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "code": "B5",
                   "val": "Agir de manière responsable dans un monde complexe",
                   "valAnglais": "Act responsibly in a complex world",
                   "bs": "27",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Présenter les problèmes principaux et les différentes théories concernant l'évolution des organismes. Explorer les représentations et aux imaginaires liés aux biotechnologies ainsi que les problématiques éthiques"
             }
           },
@@ -4737,58 +4637,56 @@
               "competenceToCapaciteEtConnaissance": {},
               "listeComp": [
                 {
-                  "code": "A2",
-                  "val": "Exploiter un modèle d'un système réel ou virtuel",
-                  "valAnglais": "Exploit a model of a real or virtual system",
-                  "bs": "2",
-                  "niveau": "niveau 2"
-                },
-                {
-                  "val": "Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques",
-                  "code": "C6",
-                  "bs": "20",
-                  "niveau": "niveau 2"
-                },
-                {
-                  "val": "Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes",
-                  "code": "C10",
-                  "bs": "14",
-                  "niveau": "niveau 1"
-                },
-                {
-                  "val": "Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents",
-                  "code": "C11",
-                  "bs": "15",
-                  "niveau": "niveau 2"
-                },
-                {
-                  "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
-                  "code": "C13",
-                  "bs": "17",
-                  "niveau": "niveau 1"
-                }
-              ],
-              "listeCompMobilise": [
-                {
                   "code": "A1",
                   "val": "Analyser un système (ou un problème) réel ou virtuel",
                   "valAnglais": "Analyze a real or virtual system (or problem)",
                   "bs": "1",
-                  "niveau": "mobilise"
+                  "niveau": "M"
+                },
+                {
+                  "code": "A2",
+                  "val": "Exploiter un modèle d'un système réel ou virtuel",
+                  "valAnglais": "Exploit a model of a real or virtual system",
+                  "bs": "2",
+                  "niveau": "2"
                 },
                 {
                   "code": "A5",
                   "val": "Traiter des données",
                   "valAnglais": "Process data",
                   "bs": "5",
-                  "niveau": "mobilise"
+                  "niveau": "M"
+                },
+                {
+                  "val": "Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques",
+                  "code": "C6",
+                  "bs": "20",
+                  "niveau": "2"
+                },
+                {
+                  "val": "Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes",
+                  "code": "C10",
+                  "bs": "14",
+                  "niveau": "1"
+                },
+                {
+                  "val": "Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents",
+                  "code": "C11",
+                  "bs": "15",
+                  "niveau": "2"
+                },
+                {
+                  "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
+                  "code": "C13",
+                  "bs": "17",
+                  "niveau": "1"
                 },
                 {
                   "code": "B5",
                   "val": "Agir de manière responsable dans un monde complexe",
                   "valAnglais": "Act responsibly in a complex world",
                   "bs": "27",
-                  "niveau": "mobilise"
+                  "niveau": "M"
                 }
               ],
               "connaissances": "Cours: Présenter l'industrie pharmaceutique et décrire les différentes étapes de la conception d¿un médicament ( acteurs, durée, exigences réglementaires, coûts,...). Décrire, analyser et modéliser le devenir d¿un médicament dans l¿organisme (ADME). Apporter les bases fondamentales à l'étude du métabolisme et des mécanismes d'action des médicaments. Travaux pratiques: Mettre en oeuvre différentes expériences in vivo, ex vivo et in vitro pour étudier le mécanisme d'action et l'activité pharmacologique d'une drogue. Projet collectif BIOPHAR (avec la participation de DOC'INSA): Réaliser, par groupe de 4-6 étudiants, une recherche bibliographique (aspects scientifiques et économiques) sur une molécule d¿intérêt thérapeutique et proposer un protocole expérimental pour étudier son activité pharmacologique, ses propriétés pharmacocinétiques ou son métabolisme."
@@ -4821,22 +4719,21 @@
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Utiliser les principales techniques d'exploration des fonctions biologiques",
                   "code": "C8",
                   "bs": "12",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Contribuer à des études environnementales en y apportant la composante biologique et évolutive",
                   "code": "C15",
                   "bs": "16",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Présenter les aspects principaux du processus de la reproduction."
             }
           },
@@ -4868,63 +4765,62 @@
                   "val": "Concevoir un système répondant à un cahier des charges",
                   "valAnglais": "Design a system that meets a set of specifications",
                   "bs": "4",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A5",
                   "val": "Traiter des données",
                   "valAnglais": "Process data",
                   "bs": "5",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques",
                   "code": "C6",
                   "bs": "20",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
                   "code": "C13",
                   "bs": "17",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Développer et valider des procédés de fabrication en biotechnologies",
                   "code": "C14",
                   "bs": "21",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B4",
                   "val": "Faire preuve de créativité, innover, entreprendre",
                   "valAnglais": "Show creativity, innovate, undertake",
                   "bs": "26",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B5",
                   "val": "Agir de manière responsable dans un monde complexe",
                   "valAnglais": "Act responsibly in a complex world",
                   "bs": "27",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B6",
                   "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
                   "valAnglais": "Situate, work, evolve in a company, a socio-productive organization",
                   "bs": "28",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Présenter les différents procédés de biotechnologie mis en ¿uvre dans l'industrie pharmaceutique. Présenter les principaux paramètres de conduite de procédés."
             }
           }
@@ -5013,72 +4909,70 @@
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A5",
                   "val": "Traiter des données",
                   "valAnglais": "Process data",
                   "bs": "5",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A6",
                   "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
                   "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
                   "bs": "6",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data)",
                   "code": "C3",
                   "bs": "9",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Mettre en œuvre des outils d'analyse pour la biologie à haut débit",
                   "code": "C4",
                   "bs": "18",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "val": "Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique",
                   "code": "C9",
                   "bs": "13",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents",
                   "code": "C11",
                   "bs": "15",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "val": "Automatiser le traitement et l'extraction de connaissances à partir de données biologiques",
                   "code": "C12",
-                  "niveau": "niveau 3"
-                }
-              ],
-              "listeCompMobilise": [
+                  "niveau": "3"
+                },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "mobilise"
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "mobilise"
+                  "niveau": "M"
                 }
               ],
               "connaissances": "Permettre aux étudiants de s'intégrer dans un programme de recherche en bioinformatique (analyse des génomes). Introduction à la bioinformatique appliquée à l'analyse des génomes, Prise en main du système UNIX, Installation et manipulation du BLAST, Annotation structurale et fonctionnelle des séquences génomiques, Initiation à la Phylogénie, Analyse de données de biopuces ADN."
@@ -5146,76 +5040,75 @@
                   "val": "Analyser un système (ou un problème) réel ou virtuel",
                   "valAnglais": "Analyze a real or virtual system (or problem)",
                   "bs": "1",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "code": "A4",
                   "val": "Concevoir un système répondant à un cahier des charges",
                   "valAnglais": "Design a system that meets a set of specifications",
                   "bs": "4",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "code": "A6",
                   "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
                   "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
                   "bs": "6",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "val": "Concevoir, adapter et optimiser des plans d'expériences en Biosciences",
                   "code": "C2",
                   "bs": "8",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "val": "Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data)",
                   "code": "C3",
                   "bs": "9",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
                   "code": "C13",
                   "bs": "17",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "code": "B6",
                   "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
                   "valAnglais": "Situate, work, evolve in a company, a socio-productive organization",
                   "bs": "28",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Apporter un complément de formation sur les méthodes de biochimie préparative  en introduisant des notions de production en masse et en continu. Confronter les étudiants à la résolution de problèmes concrets théoriques et pratiques de production, de purification et d'analyse de substances naturelles et les amener à raisonner en tenant compte des exigences de qualité, de coût et de sécurité."
             }
           },
@@ -5245,116 +5138,114 @@
               },
               "listeComp": [
                 {
+                  "code": "A2",
+                  "val": "Exploiter un modèle d'un système réel ou virtuel",
+                  "valAnglais": "Exploit a model of a real or virtual system",
+                  "bs": "2",
+                  "niveau": "M"
+                },
+                {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "code": "A4",
                   "val": "Concevoir un système répondant à un cahier des charges",
                   "valAnglais": "Design a system that meets a set of specifications",
                   "bs": "4",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "code": "A5",
                   "val": "Traiter des données",
                   "valAnglais": "Process data",
                   "bs": "5",
-                  "niveau": "niveau 3"
-                },
-                {
-                  "val": "Concevoir, adapter et optimiser des plans d'expériences en Biosciences",
-                  "code": "C2",
-                  "bs": "8",
-                  "niveau": "niveau 3"
-                },
-                {
-                  "val": "Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data)",
-                  "code": "C3",
-                  "bs": "9",
-                  "niveau": "niveau 2"
-                },
-                {
-                  "val": "Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques",
-                  "code": "C6",
-                  "bs": "20",
-                  "niveau": "niveau 3"
-                },
-                {
-                  "val": "Utiliser les principales techniques d'exploration des fonctions biologiques",
-                  "code": "C8",
-                  "bs": "12",
-                  "niveau": "niveau 3"
-                },
-                {
-                  "val": "Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes",
-                  "code": "C10",
-                  "bs": "14",
-                  "niveau": "niveau 2"
-                },
-                {
-                  "val": "Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents",
-                  "code": "C11",
-                  "bs": "15",
-                  "niveau": "niveau 3"
-                },
-                {
-                  "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "valAnglais": "Interact with others, work in a team",
-                  "bs": "25",
-                  "niveau": "niveau M"
-                }
-              ],
-              "listeCompMobilise": [
-                {
-                  "code": "A2",
-                  "val": "Exploiter un modèle d'un système réel ou virtuel",
-                  "valAnglais": "Exploit a model of a real or virtual system",
-                  "bs": "2",
-                  "niveau": "mobilise"
+                  "niveau": "3"
                 },
                 {
                   "code": "A6",
                   "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
                   "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
                   "bs": "6",
-                  "niveau": "mobilise"
+                  "niveau": "M"
+                },
+                {
+                  "val": "Concevoir, adapter et optimiser des plans d'expériences en Biosciences",
+                  "code": "C2",
+                  "bs": "8",
+                  "niveau": "3"
+                },
+                {
+                  "val": "Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data)",
+                  "code": "C3",
+                  "bs": "9",
+                  "niveau": "2"
+                },
+                {
+                  "val": "Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques",
+                  "code": "C6",
+                  "bs": "20",
+                  "niveau": "3"
                 },
                 {
                   "val": "Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire",
                   "code": "C7",
                   "bs": "11",
-                  "niveau": "mobilise"
+                  "niveau": "M"
+                },
+                {
+                  "val": "Utiliser les principales techniques d'exploration des fonctions biologiques",
+                  "code": "C8",
+                  "bs": "12",
+                  "niveau": "3"
                 },
                 {
                   "val": "Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique",
                   "code": "C9",
                   "bs": "13",
-                  "niveau": "mobilise"
+                  "niveau": "M"
+                },
+                {
+                  "val": "Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes",
+                  "code": "C10",
+                  "bs": "14",
+                  "niveau": "2"
+                },
+                {
+                  "val": "Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents",
+                  "code": "C11",
+                  "bs": "15",
+                  "niveau": "3"
                 },
                 {
                   "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
                   "code": "C13",
                   "bs": "17",
-                  "niveau": "mobilise"
+                  "niveau": "M"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "mobilise"
+                  "niveau": "M"
+                },
+                {
+                  "code": "B3",
+                  "val": "Interagir avec les autres, travailler en équipe",
+                  "valAnglais": "Interact with others, work in a team",
+                  "bs": "25",
+                  "niveau": "M"
                 },
                 {
                   "code": "B4",
                   "val": "Faire preuve de créativité, innover, entreprendre",
                   "valAnglais": "Show creativity, innovate, undertake",
                   "bs": "26",
-                  "niveau": "mobilise"
+                  "niveau": "M"
                 }
               ],
               "connaissances": "Concevoir et réaliser l'étude pharmacocinétique d'une drogue chez le lapin. Acquérir de nouvelles techniques d'analyse et de modélisation et les appliquer aux résultats expérimentaux obtenus."
@@ -5412,71 +5303,70 @@
                   "val": "Analyser un système (ou un problème) réel ou virtuel",
                   "valAnglais": "Analyze a real or virtual system (or problem)",
                   "bs": "1",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "code": "A4",
                   "val": "Concevoir un système répondant à un cahier des charges",
                   "valAnglais": "Design a system that meets a set of specifications",
                   "bs": "4",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "code": "A5",
                   "val": "Traiter des données",
                   "valAnglais": "Process data",
                   "bs": "5",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A6",
                   "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
                   "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
                   "bs": "6",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "val": "Contribuer à des études environnementales en y apportant la composante biologique et évolutive",
                   "code": "C15",
                   "bs": "16",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B4",
                   "val": "Faire preuve de créativité, innover, entreprendre",
                   "valAnglais": "Show creativity, innovate, undertake",
                   "bs": "26",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Acquisition de concepts et de technologies dans le domaine de la microbiologie moléculaire appliquée aux biotechnologies (production de molécules d'intérêt grâce à la machinerie cellulaire).  PROGRAMME -Les produits du génie génétique -La production de protéines (insuline, subtilisine, protéines vaccins, anticorps recombinants.)."
             }
           },
@@ -5512,22 +5402,21 @@
                   "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
                   "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
                   "bs": "6",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Quantifier, caractériser structurellement et purifier des biomolécules",
                   "code": "C5",
                   "bs": "10",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Etre capable de comprendre le métabolisme azoté et de réaliser des investigations dans ce domaine. Comprendre la signalisation lipidique au sein des eucaryotes et proposer des mécanismes d'action pour la réponse cellulaire aux stimuli spécifiques. Connaître le métabolisme des nucléotides et des acides aminés ainsi que la signalisation lipidique.Connaître les bases de la chromatographie liquide couplée à la spectrométrie de masse en tandem."
             }
           },
@@ -5559,23 +5448,22 @@
                   "val": "Exploiter un modèle d'un système réel ou virtuel",
                   "valAnglais": "Exploit a model of a real or virtual system",
                   "bs": "2",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A4",
                   "val": "Concevoir un système répondant à un cahier des charges",
                   "valAnglais": "Design a system that meets a set of specifications",
                   "bs": "4",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
                   "code": "C1",
                   "bs": "7",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Etre capable de définir une stratégie pour surproduire une protéine d'intérêt industriel, la purifier et modifier ses propriétés par ingénierie  génétique."
             }
           },
@@ -5606,16 +5494,15 @@
                   "val": "Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire",
                   "code": "C7",
                   "bs": "11",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 },
                 {
                   "val": "Contribuer à des études environnementales en y apportant la composante biologique et évolutive",
                   "code": "C15",
                   "bs": "16",
-                  "niveau": "niveau 1"
+                  "niveau": "1"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Acquérir les bases biologiques et évolutives du règne végétal et connaître la physiologie des plantes à fleurs(Angiospermes) pour pouvoir les manipuler et les utiliser en Biotechnologie. Présenter les concepts fondamentaux du règne végétal et la physiologie de développement et dereproduction des plantes à fleurs."
             }
           },
@@ -5647,76 +5534,75 @@
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "A4",
                   "val": "Concevoir un système répondant à un cahier des charges",
                   "valAnglais": "Design a system that meets a set of specifications",
                   "bs": "4",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "code": "A5",
                   "val": "Traiter des données",
                   "valAnglais": "Process data",
                   "bs": "5",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "val": "Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques",
                   "code": "C6",
                   "bs": "20",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "val": "Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes",
                   "code": "C10",
                   "bs": "14",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
                   "code": "C13",
                   "bs": "17",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "val": "Développer et valider des procédés de fabrication en biotechnologies",
                   "code": "C14",
                   "bs": "21",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B4",
                   "val": "Faire preuve de créativité, innover, entreprendre",
                   "valAnglais": "Show creativity, innovate, undertake",
                   "bs": "26",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B5",
                   "val": "Agir de manière responsable dans un monde complexe",
                   "valAnglais": "Act responsibly in a complex world",
                   "bs": "27",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B6",
                   "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
                   "valAnglais": "Situate, work, evolve in a company, a socio-productive organization",
                   "bs": "28",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "* Comprendre la démarche de Validation dans l'industrie pharmaceutique * Constitution du dossier d'Autorisation de Mise sur le Marché (AMM)"
             }
           },
@@ -5752,43 +5638,42 @@
                   "val": "Analyser un système (ou un problème) réel ou virtuel",
                   "valAnglais": "Analyze a real or virtual system (or problem)",
                   "bs": "1",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "code": "A3",
                   "val": "Mettre en œuvre une démarche expérimentale",
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
-                  "niveau": "niveau 3"
+                  "niveau": "3"
                 },
                 {
                   "val": "Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques",
                   "code": "C6",
                   "bs": "20",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique",
                   "code": "C9",
                   "bs": "13",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": ""
             }
           },
@@ -5841,22 +5726,21 @@
                   "val": "Concevoir un système répondant à un cahier des charges",
                   "valAnglais": "Design a system that meets a set of specifications",
                   "bs": "4",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Comprendre le référentiel d'assurance qualité et de la réglementation dans le domaine des biotechnologies",
                   "code": "C13",
                   "bs": "17",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "val": "Développer et valider des procédés de fabrication en biotechnologies",
                   "code": "C14",
                   "bs": "21",
-                  "niveau": "niveau 2 "
+                  "niveau": "2"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Etre capable de comprendre les phénomènes biologiques et physicochimiques induisant la modification souhaitée ou non d'un aliment et de connaître les diagrammes de fabrication et les opérations unitaires dédiées."
             }
           },
@@ -6430,45 +6314,44 @@
                   "val": "Se connaître, se gérer physiquement et mentalement",
                   "valAnglais": "To know oneself, to manage oneself physically and mentally",
                   "bs": "23",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B4",
                   "val": "Faire preuve de créativité, innover, entreprendre",
                   "valAnglais": "Show creativity, innovate, undertake",
                   "bs": "26",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B5",
                   "val": "Agir de manière responsable dans un monde complexe",
                   "valAnglais": "Act responsibly in a complex world",
                   "bs": "27",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B6",
                   "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
                   "valAnglais": "Situate, work, evolve in a company, a socio-productive organization",
                   "bs": "28",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 }
-              ],
-              "listeCompMobilise": []
+              ]
             }
           },
           {
@@ -6505,38 +6388,37 @@
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B5",
                   "val": "Agir de manière responsable dans un monde complexe",
                   "valAnglais": "Act responsibly in a complex world",
                   "bs": "27",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B6",
                   "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
                   "valAnglais": "Situate, work, evolve in a company, a socio-productive organization",
                   "bs": "28",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B7",
                   "val": "Travailler dans un contexte international et interculturel",
                   "valAnglais": "Work in an international and intercultural context",
                   "bs": "29",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 }
               ],
-              "listeCompMobilise": [],
               "connaissances": "Ce cours vise à présenter les concepts et mécanismes indispensables pour développer une analyse macroéconomique basique, expliquer des choix de politiques économiques et saisir certaines dimensions de la crise actuelle du capitalisme mondialisé."
             }
           },
@@ -6568,37 +6450,35 @@
                   "val": "Se connaître, se gérer physiquement et mentalement",
                   "valAnglais": "To know oneself, to manage oneself physically and mentally",
                   "bs": "23",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B2",
                   "val": "Travailler, apprendre, évoluer de manière autonome",
                   "valAnglais": "Work, learn, evolve autonomously",
                   "bs": "24",
-                  "niveau": "niveau 2"
+                  "niveau": "2"
                 },
                 {
                   "code": "B3",
                   "val": "Interagir avec les autres, travailler en équipe",
                   "valAnglais": "Interact with others, work in a team",
                   "bs": "25",
-                  "niveau": "niveau M"
+                  "niveau": "M"
                 },
                 {
                   "code": "B5",
                   "val": "Agir de manière responsable dans un monde complexe",
                   "valAnglais": "Act responsibly in a complex world",
                   "bs": "27",
-                  "niveau": "niveau 2"
-                }
-              ],
-              "listeCompMobilise": [
+                  "niveau": "2"
+                },
                 {
                   "code": "B6",
                   "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
                   "valAnglais": "Situate, work, evolve in a company, a socio-productive organization",
                   "bs": "28",
-                  "niveau": "mobilise"
+                  "niveau": "M"
                 }
               ]
             }

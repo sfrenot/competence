@@ -98,9 +98,9 @@ extractPdfStructure = (pdf) ->
           unless comp?
             throw Error("*#{x}* est inconnue, #{compet}")
           if niveau.startsWith('niveau')
-            comp.niveau = niveau
+            comp.niveau = niveau.replace(/niveau/,'').trim()
           else
-            comp.niveau = 'mobilise'
+            comp.niveau = 'M'
         catch error
           console.error "Erreur sur la matière #{matiere.code},  #{x}"
 
@@ -154,7 +154,7 @@ request()
       semestres = []
       $('.contenu table tr td a', @).each () ->
         # if $(@).attr('href') is '/fr/formation/parcours/1371/4/2'
-          if $(@).text().trim() is 'Parcours Standard BIM'
+          if $(@).text().trim() is 'Parcours Standard BB'
             semestres.push
               url: $(@).attr('href')
               ecs: []
