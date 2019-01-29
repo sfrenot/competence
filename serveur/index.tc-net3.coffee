@@ -20,7 +20,7 @@ app.use(session(
 cas = new CASAuthentication
   cas_url: 'https://login.insa-lyon.fr/cas'
   service_url: 'http://tc-net3.insa-lyon.fr'
-  is_dev_mode: true
+  #is_dev_mode: true
   returnTo: '/matrice'
 
 app.use '/ects', cas.block, require('./ects')

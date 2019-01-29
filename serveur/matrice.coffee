@@ -3,12 +3,15 @@ app = express()
 _ = require('lodash')
 
 departements = [
-  "GCU"
   "TC"
   "GEN"
   "GE"
   "GM"
   "GI"
+  "SGM"
+  "BB"
+  "BIM"
+  "IF"
 ]
 
 refCompetences = require("../formation/refCompetences")
@@ -21,8 +24,9 @@ loadDepartement = (departement, res) ->
 
   comps = _.mapKeys comps, (value) ->
     return value.code
-
+  
   keys = _.sortBy(_.keys(comps))
+
   keys.forEach (key, index) ->
     comps[key].index = index
 
@@ -134,12 +138,15 @@ loadDepartement = (departement, res) ->
       <table class="tableheader">
        <thead>
          <tr>
-           <th><a href="GCU">GCU</a></th>
            <th><a href="TC">TC</a></th>
            <th><a href="GEN">GEN</a></th>
            <th><a href="GE">GE</a></th>
            <th><a href="GM">GM</a></th>
            <th><a href="GI">GI</a></th>
+           <th><a href="SGM">SGM</a></th>
+           <th><a href="BB">BB</a></th>
+           <th><a href="BIM">BIM</a></th>
+           <th><a href="IF">IF</a></th>
          </tr>
        </thead>
       </table>
@@ -174,12 +181,15 @@ app.get "/", (req, res) ->
     <table class="tableheader">
      <thead>
        <tr>
-         <th><a href="/matrice/GCU">GCU</a></th>
          <th><a href="/matrice/TC">TC</a></th>
          <th><a href="/matrice/GEN">GEN</a></th>
          <th><a href="/matrice/GE">GE</a></th>
          <th><a href="/matrice/GM">GM</a></th>
          <th><a href="/matrice/GI">GI</a></th>
+         <th><a href="/matrice/SGM">SGM</a></th>
+         <th><a href="/matrice/BB">BB</a></th>
+         <th><a href="/matrice/BIM">BIM</a></th>
+         <th><a href="/matrice/IF">IF</a></th>
        </tr>
      </thead>
     </table>
