@@ -399,70 +399,137 @@ module.exports =
   'IF-C28':
     val: 'Analyser et concevoir des modèles de données'
     code: 'C28'
-  'BS-C1':
+  'BIM-C1':
     val: 'Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique'
     code: 'C1'
     bs: '7'
-  'BS-C2':
+  'BIM-C2':
     val: 'Concevoir, adapter et optimiser des plans d\'expériences en Biosciences'
     code: 'C2'
     bs: '8'
-  'BS-C3':
+  'BIM-C3':
     val: 'Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data)'
     code: 'C3'
     bs: '9'
-  'BS-C4':
+  'BIM-C4':
     val: 'Mettre en œuvre des outils d\'analyse pour la biologie à haut débit'
     code: 'C4'
     bs: '18'
-  'BS-C5':
+  'BIM-C5':
     val: 'Quantifier, caractériser structurellement et purifier des biomolécules'
     code: 'C5'
     bs: '10'
-  'BS-C5.1': # Dupicate BS
+  'BIM-C5.1': # Dupicate BS
     val: 'Quantifier, caractériser structurellement et purifier des biomolécules'
     code: 'C5'
     bs: '19'
-  'BS-C6':
+  'BIM-C6':
     val: 'Mesurer et évaluer l\'impact de nouveaux produits de santé ou de méthodes diagnostiques'
     code: 'C6'
     bs: '20'
-  'BS-C7':
+  'BIM-C7':
     val: 'Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire'
     code: 'C7'
     bs: '11'
-  'BS-C8':
+  'BIM-C8':
     val: 'Utiliser les principales techniques d\'exploration des fonctions biologiques'
     code: 'C8'
     bs: '12'
-  'BS-C9':
+  'BIM-C9':
     val: 'Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique'
     code: 'C9'
     bs: '13'
-  'BS-C10':
+  'BIM-C10':
     val: 'Apprécier les limites de validité d\'un modèle et identifier les sources de variabilité et d\'incertitudes'
     code: 'C10'
     bs: '14'
-  'BS-C11':
+  'BIM-C11':
     val: 'Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents'
     code: 'C11'
     bs: '15'
-  'BS-C12':
+  'BIM-C12':
     val: 'Automatiser le traitement et l\'extraction de connaissances à partir de données biologiques'
     code: 'C12'
-  'BS-C13':
+  'BIM-C13':
     val: 'Comprendre le référentiel d\'assurance qualité et de la réglementation dans le domaine des biotechnologies'
     code: 'C13'
     bs: '17'
-  'BS-C14':
+  'BIM-C14':
     val: 'Développer et valider des procédés de fabrication en biotechnologies'
     code: 'C14'
     bs: '21'
-  'BS-C15':
+  'BIM-C15':
     val: 'Contribuer à des études environnementales en y apportant la composante biologique et évolutive'
     code: 'C15'
     bs: '16'
-  'BS-C15.1': #Duplicate BS
+  'BIM-C15.1': #Duplicate BS
+    val: 'Contribuer à des études environnementales en y apportant la composante biologique et évolutive'
+    code: 'C15'
+    bs: '22'
+  'BB-C1':
+    val: 'Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique'
+    code: 'C1'
+    bs: '7'
+  'BB-C2':
+    val: 'Concevoir, adapter et optimiser des plans d\'expériences en Biosciences'
+    code: 'C2'
+    bs: '8'
+  'BB-C3':
+    val: 'Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data)'
+    code: 'C3'
+    bs: '9'
+  'BB-C4':
+    val: 'Mettre en œuvre des outils d\'analyse pour la biologie à haut débit'
+    code: 'C4'
+    bs: '18'
+  'BB-C5':
+    val: 'Quantifier, caractériser structurellement et purifier des biomolécules'
+    code: 'C5'
+    bs: '10'
+  'BB-C5.1': # Dupicate BS
+    val: 'Quantifier, caractériser structurellement et purifier des biomolécules'
+    code: 'C5'
+    bs: '19'
+  'BB-C6':
+    val: 'Mesurer et évaluer l\'impact de nouveaux produits de santé ou de méthodes diagnostiques'
+    code: 'C6'
+    bs: '20'
+  'BB-C7':
+    val: 'Manipuler des cultures cellulaires, des microorganismes ou des animaux de laboratoire'
+    code: 'C7'
+    bs: '11'
+  'BB-C8':
+    val: 'Utiliser les principales techniques d\'exploration des fonctions biologiques'
+    code: 'C8'
+    bs: '12'
+  'BB-C9':
+    val: 'Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique'
+    code: 'C9'
+    bs: '13'
+  'BB-C10':
+    val: 'Apprécier les limites de validité d\'un modèle et identifier les sources de variabilité et d\'incertitudes'
+    code: 'C10'
+    bs: '14'
+  'BB-C11':
+    val: 'Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents'
+    code: 'C11'
+    bs: '15'
+  'BB-C12':
+    val: 'Automatiser le traitement et l\'extraction de connaissances à partir de données biologiques'
+    code: 'C12'
+  'BB-C13':
+    val: 'Comprendre le référentiel d\'assurance qualité et de la réglementation dans le domaine des biotechnologies'
+    code: 'C13'
+    bs: '17'
+  'BB-C14':
+    val: 'Développer et valider des procédés de fabrication en biotechnologies'
+    code: 'C14'
+    bs: '21'
+  'BB-C15':
+    val: 'Contribuer à des études environnementales en y apportant la composante biologique et évolutive'
+    code: 'C15'
+    bs: '16'
+  'BB-C15.1': #Duplicate BS
     val: 'Contribuer à des études environnementales en y apportant la composante biologique et évolutive'
     code: 'C15'
     bs: '22'
