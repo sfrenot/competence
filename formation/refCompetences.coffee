@@ -354,6 +354,9 @@ module.exports =
   'GM-C10':
     val: 'Etablir une démarche de résolution d\'un problème'
     code: 'C10'
+  'IF-C1':
+    val: 'Construire et analyser des circuits numériques'
+    code: 'C1'
   'IF-C01':
     val: 'Construire et analyser des circuits numériques'
     code: 'C1'
@@ -366,12 +369,21 @@ module.exports =
   'IF-C04':
     val: 'Maîtriser l¿organisation générale d¿une machine à base de microprocesseur'
     code: 'C4'
+  'IF-C05':
+    val: 'Concevoir et développer une application multi-tâches'
+    code: 'C5'
   'IF-C06':
     val: 'Maîtriser les mécanismes essentiels d\'un OS'
     code: 'C6'
   'IF-C07':
     val: 'Concevoir, développer et tester une application répartie'
     code: 'C7'
+  'IF-C08':
+    val: 'Définir et mettre en œuvre une politique de sécurité'
+    code: 'C8'
+  'IF-C09':
+    val: 'Mettre en oeuvre un processus d\'assurance et de contrôle qualité'
+    code: 'C9'
   'IF-C10':
     val: 'Mettre en oeuvre une chaîne complète pour analyser / transformer un langage'
     code: 'C10'
@@ -390,15 +402,48 @@ module.exports =
   'IF-C15':
     val: 'Utiliser des diagrammes UML pour modéliser un objet d\'étude'
     code: 'C15'
+  'IF-C16':
+    val: 'Modéliser un corpus de connaissances et le traduire en un système opérationnel'
+    code: 'C16'
+  'IF-C17':
+    val: 'Modéliser un phénomème aléatoire et tester des hypothèses'
+    code: 'C17'
+  'IF-C18':
+    val: 'Spécifier un algorithme et savoir évaluer sa compléxité'
+    code: 'C18'
+  'IF-C19':
+    val: 'Découverte de connaissances et prise de décision'
+    code: 'C19'
+  'IF-C20':
+    val: 'Modéliser/Traduire des problèmes/argumentations énoncés en langage naturel à l\'aide de formules logiques'
+    code: 'C20'
+  'IF-C21':
+    val: 'Maitrise du modèle matriciel, de la notion de signal et d\'image'
+    code: 'C21'
   'IF-C22':
     val: 'Concevoir et développer une application pour les SI'
     code: 'C22'
+  'IF-C23':
+    val: 'Mettre en œuvre une méthode d\'analyse et de conception d\'architectures de SI'
+    code: 'C23'
   'IF-C24':
     val: 'Mettre en oeuvre une BD relationnelle centralisée ou distribuée'
     code: 'C24'
+  'IF-C25':
+    val: 'Analyser les besoins métiers d\'un client'
+    code: 'C25'
+  'IF-C26':
+    val: 'Construire des solutions BI'
+    code: 'C26'
+  'IF-C27':
+    val: 'Maitriser une méthode de projet de mise en œuvre d\'ERP'
+    code: 'C27'
   'IF-C28':
     val: 'Analyser et concevoir des modèles de données'
     code: 'C28'
+  'IF-C29':
+    val: 'Analyser et concevoir des modèles de processus'
+    code: 'C29'
   'BIM-C1':
     val: 'Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique'
     code: 'C1'
