@@ -1,76 +1,4 @@
 module.exports =
-  'E1':
-    code: 'GCU-E1'
-    val: 'Concevoir et dimensionner des réseaux et ouvrages en (hydrologie et) hydraulique pour les projets d\'aménagement urbain, de bâtiments et d\'ouvrage d\'art'
-    valAnglais: 'Design and size of (hydrology and) hydraulic networks and structures for urban development projects, buildings and structures'
-  'GCU-E1':
-    code: 'GCU-E1'
-    val: 'Concevoir et dimensionner des réseaux et ouvrages en (hydrologie et) hydraulique pour les projets d\'aménagement urbain, de bâtiments et d\'ouvrage d\'art'
-    valAnglais: 'Design and size of (hydrology and) hydraulic networks and structures for urban development projects, buildings and structures'
-  'GCU-S2':
-    code: 'GCU-S2'
-    val: 'Évaluer un risque d\'instabilité hydraulique des sols'
-    valAnglais: 'Assess a risk of hydraulic instability of the soil'
-  'GCU-S3':
-    code: 'GCU-S3'
-    val: 'Réaliser et/ou interpréter des essais géotechniques en laboratoire de classification et de comportement'
-    valAnglais: 'Perform and / or interpret geotechnical laboratory tests for classification and behavior'
-  'GCU-S4':
-    code: 'GCU-S4'
-    val: 'Évaluer un risque de rupture de pente sous diverses sollicitations'
-    valAnglais: 'Evaluate a risk of slope failure under various stresses'
-  'GCU-S5':
-    code: 'GCU-S5'
-    val: 'Concevoir, dimensionner, modéliser ou vérifier des systèmes de fondations et de soutènements'
-    valAnglais: 'Design, dimension, model or verify foundation and support systems'
-  'GCU-C1':
-    code: 'GCU-C1'
-    val: 'concevoir et dimensionner / contrôler une structure de bâtiment'
-    valAnglais: 'design and dimension / control a building structure'
-  'GCU-C2':
-    code: 'GCU-C2'
-    val: 'Concevoir et dimensionner / contrôler un ouvrage d\'art (pont)'
-    valAnglais: 'Design and dimension / control an art work (bridge)'
-  'GCU-C3':
-    code: 'GCU-C3'
-    val: 'Concevoir et dimensionner / contrôler une infrastructure sur le plan structurel'
-    valAnglais: 'Design and dimension / control infrastructure at the structural level'
-  'GCU-C6':
-    code: 'GCU-C6'
-    val: 'Evaluer les modes constructifs (critères techniques, sécurité, coûts, délais)'
-    valAnglais: 'Evaluate construction methods (technical criteria, safety, costs, deadlines)'
-  'GCU-T1':
-    code: 'GCU-T1'
-    val: 'Contribuer à une conception pluridisciplinaire des bâtiments'
-    valAnglais: 'Contribute to a multidisciplinary conception of buildings'
-  'GCU-T2':
-    code: 'GCU-T2'
-    val: 'Contribuer à l\'organisation de chantiers de construction, au respect des règles de sécurité, à la maîtrise des délais, etc.'
-    valAnglais: 'Contribute to the organization of construction sites, compliance with safety rules, control of deadlines, etc.'
-  'GCU-T3':
-    code: 'GCU-T3'
-    val: 'Contribuer à des aménagements et constructions durables'
-    valAnglais: 'Contribute to sustainable development and construction'
-  'GCU-T4':
-    code: 'GCU-T4'
-    val: 'Gérer (évaluer, maintenir, réhabiliter) des ouvrages existants  Capacités visées : Mettre en œuvre des méthodes d\'optimisation'
-    valAnglais: 'Manage (evaluate, maintain, rehabilitate) existing structures Capabilities targeted: Implement optimization methods'
-  'GCU-U1':
-    code: 'GCU-U1'
-    val: 'Analyser une situation urbaine (technique, politique, sociale,...)'
-    valAnglais: 'Analyze an urban situation (technical, political, social, ...)'
-  'GCU-U3':
-    code: 'GCU-U3'
-    val: 'Concevoir et conduire un projet d\'aménagement urbain'
-    valAnglais: 'Design and lead an urban development project'
-  'GCU-P1':
-    code: 'GCU-P1'
-    val: 'Concevoir et dimensionner / contrôler les solutions techniques pour la qualité thermique, aéraulique, acoustique d\'un bâtiment'
-    valAnglais: 'Design and dimension / control the technical solutions for the thermal, aeraulic and acoustic quality of a building'
-  'GCU-P2':
-    code: 'GCU-P2'
-    val: 'Évaluer les performances thermiques d\'un bâtiment ou équipement, définir les actions nécessaires'
-    valAnglais: 'Evaluate the thermal performance of a building or equipment, define the necessary actions'
   'A1':
     code: 'A1'
     val: 'Analyser un système (ou un problème) réel ou virtuel'
@@ -148,6 +76,78 @@ module.exports =
     val: 'Travailler dans un contexte international et interculturel'
     valAnglais: 'Work in an international and intercultural context'
     bs: '29'
+  'E1':
+    code: 'GCU-E1'
+    val: 'Concevoir et dimensionner des réseaux et ouvrages en (hydrologie et) hydraulique pour les projets d\'aménagement urbain, de bâtiments et d\'ouvrage d\'art'
+    valAnglais: 'Design and size of (hydrology and) hydraulic networks and structures for urban development projects, buildings and structures'
+  'GCU-E1':
+    code: 'GCU-E1'
+    val: 'Concevoir et dimensionner des réseaux et ouvrages en (hydrologie et) hydraulique pour les projets d\'aménagement urbain, de bâtiments et d\'ouvrage d\'art'
+    valAnglais: 'Design and size of (hydrology and) hydraulic networks and structures for urban development projects, buildings and structures'
+  'GCU-S2':
+    code: 'GCU-S2'
+    val: 'Évaluer un risque d\'instabilité hydraulique des sols'
+    valAnglais: 'Assess a risk of hydraulic instability of the soil'
+  'GCU-S3':
+    code: 'GCU-S3'
+    val: 'Réaliser et/ou interpréter des essais géotechniques en laboratoire de classification et de comportement'
+    valAnglais: 'Perform and / or interpret geotechnical laboratory tests for classification and behavior'
+  'GCU-S4':
+    code: 'GCU-S4'
+    val: 'Évaluer un risque de rupture de pente sous diverses sollicitations'
+    valAnglais: 'Evaluate a risk of slope failure under various stresses'
+  'GCU-S5':
+    code: 'GCU-S5'
+    val: 'Concevoir, dimensionner, modéliser ou vérifier des systèmes de fondations et de soutènements'
+    valAnglais: 'Design, dimension, model or verify foundation and support systems'
+  'GCU-C1':
+    code: 'GCU-C1'
+    val: 'concevoir et dimensionner / contrôler une structure de bâtiment'
+    valAnglais: 'design and dimension / control a building structure'
+  'GCU-C2':
+    code: 'GCU-C2'
+    val: 'Concevoir et dimensionner / contrôler un ouvrage d\'art (pont)'
+    valAnglais: 'Design and dimension / control an art work (bridge)'
+  'GCU-C3':
+    code: 'GCU-C3'
+    val: 'Concevoir et dimensionner / contrôler une infrastructure sur le plan structurel'
+    valAnglais: 'Design and dimension / control infrastructure at the structural level'
+  'GCU-C6':
+    code: 'GCU-C6'
+    val: 'Evaluer les modes constructifs (critères techniques, sécurité, coûts, délais)'
+    valAnglais: 'Evaluate construction methods (technical criteria, safety, costs, deadlines)'
+  'GCU-T1':
+    code: 'GCU-T1'
+    val: 'Contribuer à une conception pluridisciplinaire des bâtiments'
+    valAnglais: 'Contribute to a multidisciplinary conception of buildings'
+  'GCU-T2':
+    code: 'GCU-T2'
+    val: 'Contribuer à l\'organisation de chantiers de construction, au respect des règles de sécurité, à la maîtrise des délais, etc.'
+    valAnglais: 'Contribute to the organization of construction sites, compliance with safety rules, control of deadlines, etc.'
+  'GCU-T3':
+    code: 'GCU-T3'
+    val: 'Contribuer à des aménagements et constructions durables'
+    valAnglais: 'Contribute to sustainable development and construction'
+  'GCU-T4':
+    code: 'GCU-T4'
+    val: 'Gérer (évaluer, maintenir, réhabiliter) des ouvrages existants  Capacités visées : Mettre en œuvre des méthodes d\'optimisation'
+    valAnglais: 'Manage (evaluate, maintain, rehabilitate) existing structures Capabilities targeted: Implement optimization methods'
+  'GCU-U1':
+    code: 'GCU-U1'
+    val: 'Analyser une situation urbaine (technique, politique, sociale,...)'
+    valAnglais: 'Analyze an urban situation (technical, political, social, ...)'
+  'GCU-U3':
+    code: 'GCU-U3'
+    val: 'Concevoir et conduire un projet d\'aménagement urbain'
+    valAnglais: 'Design and lead an urban development project'
+  'GCU-P1':
+    code: 'GCU-P1'
+    val: 'Concevoir et dimensionner / contrôler les solutions techniques pour la qualité thermique, aéraulique, acoustique d\'un bâtiment'
+    valAnglais: 'Design and dimension / control the technical solutions for the thermal, aeraulic and acoustic quality of a building'
+  'GCU-P2':
+    code: 'GCU-P2'
+    val: 'Évaluer les performances thermiques d\'un bâtiment ou équipement, définir les actions nécessaires'
+    valAnglais: 'Evaluate the thermal performance of a building or equipment, define the necessary actions'
   'TC-C1':
     code: 'C1'
     val: 'Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données'

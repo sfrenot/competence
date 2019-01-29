@@ -24,14 +24,15 @@ loadDepartement = (departement, res) ->
 
   comps = _.mapKeys comps, (value) ->
     return value.code
-  
-  keys = _.sortBy(_.keys(comps))
+
+  keys = _.keys(comps)
 
   keys.forEach (key, index) ->
     comps[key].index = index
 
   headComp = ->
     keys.map (key) ->
+      # console.log "->", key
       "<th class='#{key[0]}'><span>#{key} : #{comps[key].val}</span></th>"
     .join('\n')
 
