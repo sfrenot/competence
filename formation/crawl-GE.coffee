@@ -70,6 +70,12 @@ extractPdfStructure = (pdf) ->
     # console.error(error)
     return matiere
 
+  unless matiere.competencesBrutes
+    console.error("Erreur d'analyse #{matiere.code}")
+    # console.error(error)
+    return matiere
+
+
   matiere.capacite = []
   matiere.connaissance = []
   matiere.competenceToCapaciteEtConnaissance = {}
@@ -78,7 +84,9 @@ extractPdfStructure = (pdf) ->
   # console.log(lcompetences[1])
   if lcompetences?
     try
-      matiere.listeComp = lcompetences[1].trim().split(/ (?=[ABC]\d)/).map (x) ->
+      matiere.listeComp = lcompetences[1].trim().split(/ - /).map (x) ->
+        if x.startsWith('- ') then x = x.substring('- '.length)
+
         capaciteIdx = x.indexOf('Capacité : ')
         connaissanceIdx = x.indexOf('Connaissance : ')
 
@@ -96,42 +104,67 @@ extractPdfStructure = (pdf) ->
           else
             compName = x.trim()
 
-        # On place la compétence
-        [, compet, niveau] = /([ABC]\d) .*\(niveau (.*)\)/i.exec(compName)
-        if compet.startsWith('C')
-          compet = "#{DPTINSA}-#{compet}"
-        comp = _.clone(refCompetences[compet])
-        unless comp?
-          throw Error("*#{x}* est inconnue, #{compet}")
+        removeEnds = (field) ->
+          if field
+            if field.endsWith('---')
+              field.substring(0, field.length-'---'.length).trim()
+            else
+              field
+
+        capaName = removeEnds(capaName)
+        connName = removeEnds(connName)
+
+        # # On place la compétence
+        try
+          [, compet, niveau] = /(.*)\(niveau (.*)\)/.exec(compName)
+        catch
+          console.error "Pas de niveau pour #{matiere.code}"
+          [, compet] = /(.*)/.exec(compName)
+          niveau = 1
+
+        # TODO : GE ¿ -->
+        corres = _.find refCompetences, {"val": compet.replace(/¿/g,'\'').trim()}
+        unless corres?
+          console.error  "Inconnue --'#{compet.replace('¿','\'').trim()}', pour #{matiere.code}--"
+          throw Error()
+          # process.exit()
+        comp = _.clone(corres)
         comp.niveau = niveau
+
+        if comp.code.startsWith('C')
+          compet = "#{DPTINSA}-#{comp.code}"
+        else
+          compet = comp.code
 
         addCapaOrConn = (compet, listName, field, motif) ->
           if listName
             unless matiere.competenceToCapaciteEtConnaissance[compet]? then matiere.competenceToCapaciteEtConnaissance[compet] = []
-            capaArray = listName.split(new RegExp(" (?=#{motif} : )"))
+            capaArray = listName.split(new RegExp("#{motif}"))
             matiere[field].push(capaArray...)
             matiere.competenceToCapaciteEtConnaissance[compet].push(capaArray...)
 
-        addCapaOrConn(compet, capaName, "capacite", "Capacité")
-        addCapaOrConn(compet, connName, "connaissance", "Connaissance")
+        addCapaOrConn(compet, capaName, "capacite", " --- ")
+        addCapaOrConn(compet, connName, "connaissance", " --- ")
 
         comp
 
     catch error
-      console.error(lcompetences)
-      console.error(error)
-      throw error
+      # console.error(lcompetences)
+      # console.error(error)
+      # throw error
+
   # Competences mobilisées
   lcompetences = getCompetenceSection(matiere, "De plus, elle nécessite de mobiliser les compétences suivantes : ")
   if lcompetences?
     try
-      matiere.listeCompMobilise = lcompetences[1].trim().match(/[ABC]\d /g).map (x) ->
-        if x.startsWith('C')
-          x = "#{DPTINSA}-#{x}"
-        comp = refCompetences[x.trim()]
-        unless comp?
-          throw Error("#{x} est inconnue")
-        comp
+      matiere.listeCompMobilise = lcompetences[1].trim().match(/-- (.*?)\./g).map (x) ->
+        [, , compet, ] = /(--)(.*)(\.)/.exec(x)
+        # console.log '=>', compet
+        corres = _.find refCompetences, {"val": compet.replace('¿','\'').trim()}
+        unless corres?
+          throw Error("*#{x}* est inconnue, #{compet}")
+        corres
+
     catch error
       console.error(lcompetences)
       console.error(error)
@@ -150,12 +183,11 @@ request()
     if departement is DPTINSA
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        # if $(@).attr('href') is '/fr/formation/parcours/729/5/1'
-        # if $(@).attr('href') is '/fr/formation/parcours/719/3/1' #GCU
-        if $(@).text().trim() is 'Parcours Standard'
-          semestres.push
-            url: $(@).attr('href')
-            ecs: []
+        # if $(@).attr('href') is '/fr/formation/parcours/720/5/1'
+          if $(@).text().trim() is 'Parcours Standard'
+            semestres.push
+              url: $(@).attr('href')
+              ecs: []
       catalogue.push
         'departement': departement
         'semestres': semestres
@@ -174,9 +206,10 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
-            urls.push
-              UE: currentUE
-              url: $('a', @).attr('href')
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34615&_lang=fr'
+              urls.push
+                UE: currentUE
+                url: $('a', @).attr('href')
 
         Promise.each urls, (url) ->
           console.warn '-->', url.url # A laisser pour la progession du code

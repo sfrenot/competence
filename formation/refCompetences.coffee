@@ -194,7 +194,7 @@ module.exports =
     valAnglais: 'Implement the physical properties of materials for the field of electrical engineering'
   'GE-C3':
     code: 'C3'
-    val: 'Mettre en œuvre les différents éléments de production d’énergie, de transport d’énergie électrique et de conversion d\'énergie'
+    val: 'Mettre en œuvre les différents éléments de production d\'énergie, de transport d\'énergie électrique et de conversion d\'énergie'
     valAnglais: 'Implement the various elements of energy production, transport of electrical energy and energy conversion'
   'GE-C4':
     code: 'C4'
@@ -206,15 +206,15 @@ module.exports =
     valAnglais: 'Design and build electronic systems for data acquisition, processing, control and communication'
   'GE-C6':
     code: 'C6'
-    val: 'Mettre en œuvre les étapes permettant le contrôle du fonctionnement d’un système discret ou continu'
+    val: 'Mettre en œuvre les étapes permettant le contrôle du fonctionnement d\'un système discret ou continu'
     valAnglais: 'Implement steps to control the operation of a discrete or continuous system'
   'GE-C7':
     code: 'C7'
-    val: 'Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l’information)'
+    val: 'Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l\'information)'
     valAnglais: 'Design and develop high and low level software for systems (information processing and management)'
   'GE-C8':
     code: 'C8'
-    val: 'Mettre en œuvre des principes et stratégies d’ordonnancements des tâches et de gestion'
+    val: 'Mettre en œuvre des principes et stratégies d\'ordonnancements des tâches et de gestion'
     valAnglais: 'Implement principles and strategies for scheduling tasks and managing'
   'GI-C7':
     val: 'Observer, mesurer, analyser et interpréter une activité ou un système à partir de données'
