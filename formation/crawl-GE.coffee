@@ -90,6 +90,7 @@ extractPdfStructure = (pdf) ->
         end = x.indexOf('--- ')
         compName = x.substring(0, end)
         val = x.substring(end+'--- '.length)
+        val = val.replace(/-- Sous compétence.*? ---/g, '---')
 
         try
           [, compet, niveau] = /(.*)\(niveau (.*)\)/.exec(compName)
@@ -117,10 +118,11 @@ extractPdfStructure = (pdf) ->
             unless matiere.competenceToCapaciteEtConnaissance[compet]? then matiere.competenceToCapaciteEtConnaissance[compet] = []
             capaArray = listName.split(new RegExp("#{motif}"))
             capaArray.forEach (elem) ->
+              elem = elem.replace(/¿/g,'\'').trim()
               if elem.startsWith('Capacité : ')
-                matiere['capacite'].push(elem.replace(/¿/g,'\''))
+                matiere['capacite'].push(elem)
               else if elem.startsWith('Connaissance : ')
-                matiere['connaissance'].push(elem.replace(/¿/g,'\''))
+                matiere['connaissance'].push(elem)
               else
                 console.error "Ce n'est pas une capacité ou connaissance #{elem}"
               matiere.competenceToCapaciteEtConnaissance[compet].push(elem)
@@ -139,17 +141,19 @@ extractPdfStructure = (pdf) ->
   if lcompetences?
     try
       matiere.listeCompMobilise = lcompetences[1].trim().match(/-- (.*?)\./g).map (x) ->
+        # console.log '-->', x
         [, , compet, ] = /(--)(.*)(\.)/.exec(x)
         # console.log '=>', compet
         corres = _.find refCompetences, {"val": compet.replace('¿','\'').trim()}
         unless corres?
-          throw Error("*#{x}* est inconnue, #{compet}")
+          console.error("Section : Compétence Mobilisées : #{matiere.code} Erreur : compétence *#{x}* est inconnue.")
         corres
 
     catch error
       console.error(lcompetences)
       console.error(error)
       throw error
+    matiere.listeCompMobilise = matiere.listeCompMobilise.filter((x) -> x)
 
   matiere
 
@@ -164,7 +168,7 @@ request()
     if departement is DPTINSA
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        # if $(@).attr('href') is '/fr/formation/parcours/720/5/1'
+        # if $(@).attr('href') is '/fr/formation/parcours/720/3/1'
           if $(@).text().trim() is 'Parcours Standard'
             semestres.push
               url: $(@).attr('href')
@@ -187,8 +191,8 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34615&_lang=fr'
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35329&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35554&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35555&_lang=fr'
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')
