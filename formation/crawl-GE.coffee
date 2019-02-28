@@ -25,7 +25,10 @@ getCompetenceBruteSection = (pdf) ->
   for section in mainSections
     rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
     if rech?
-      return rech[1].trim().replace(/\n/g,' ')
+      solution = rech[1].trim()
+      solution = solution.replace(/mailto:[^\n]*\n/g, '')
+      solution = solution.replace(/http:\/\/www\.insa-lyon\.fr[\s\S]*?Dernière modification le : [^\n]*\n/g, '')
+      return solution.replace(/\n/g,' ')
   return null
 
 getCompetenceSection = (matiere, start) ->
@@ -48,9 +51,7 @@ getCompetenceSection = (matiere, start) ->
   console.error "#{matiere.code} section \"#{start}\" introuvable}."
 
 extractPdfStructure = (pdf) ->
-  # console.log '->', pdf
-  # Suppression de l'addresse et du numéro de page sous toutes les pages
-  pdf = pdf.replace(/mailto:[\s\S]*Dernière modification le : [^\n]+/g,'')
+
   matiere = {}
   # console.warn "-->", pdf
   # console.warn "Recherche mat"
@@ -75,46 +76,21 @@ extractPdfStructure = (pdf) ->
     # console.error(error)
     return matiere
 
-
   matiere.capacite = []
   matiere.connaissance = []
   matiere.competenceToCapaciteEtConnaissance = {}
   # Compétences
   lcompetences = getCompetenceSection(matiere, "Cet EC relève de l'unité d'enseignement\.\*et contribue aux compétences suivantes : ")
-  # console.log(lcompetences[1])
+
   if lcompetences?
     try
       matiere.listeComp = lcompetences[1].trim().split(/ - /).map (x) ->
+
         if x.startsWith('- ') then x = x.substring('- '.length)
+        end = x.indexOf('--- ')
+        compName = x.substring(0, end)
+        val = x.substring(end+'--- '.length)
 
-        capaciteIdx = x.indexOf('Capacité : ')
-        connaissanceIdx = x.indexOf('Connaissance : ')
-
-        if capaciteIdx > 0 and connaissanceIdx > 0
-          compName = x.substring(0, capaciteIdx).trim()
-          capaName = x.substring(capaciteIdx, connaissanceIdx).trim()
-          connName = x.substring(connaissanceIdx).trim()
-        else
-          if capaciteIdx > 0
-            compName = x.substring(0, capaciteIdx).trim()
-            capaName = x.substring(capaciteIdx).trim()
-          else if connaissanceIdx > 0
-            compName = x.substring(0, connaissanceIdx).trim()
-            connName = x.substring(connaissanceIdx).trim()
-          else
-            compName = x.trim()
-
-        removeEnds = (field) ->
-          if field
-            if field.endsWith('---')
-              field.substring(0, field.length-'---'.length).trim()
-            else
-              field
-
-        capaName = removeEnds(capaName)
-        connName = removeEnds(connName)
-
-        # # On place la compétence
         try
           [, compet, niveau] = /(.*)\(niveau (.*)\)/.exec(compName)
         catch
@@ -140,11 +116,16 @@ extractPdfStructure = (pdf) ->
           if listName
             unless matiere.competenceToCapaciteEtConnaissance[compet]? then matiere.competenceToCapaciteEtConnaissance[compet] = []
             capaArray = listName.split(new RegExp("#{motif}"))
-            matiere[field].push(capaArray...)
-            matiere.competenceToCapaciteEtConnaissance[compet].push(capaArray...)
+            capaArray.forEach (elem) ->
+              if elem.startsWith('Capacité : ')
+                matiere['capacite'].push(elem.replace(/¿/g,'\''))
+              else if elem.startsWith('Connaissance : ')
+                matiere['connaissance'].push(elem.replace(/¿/g,'\''))
+              else
+                console.error "Ce n'est pas une capacité ou connaissance #{elem}"
+              matiere.competenceToCapaciteEtConnaissance[compet].push(elem)
 
-        addCapaOrConn(compet, capaName, "capacite", " --- ")
-        addCapaOrConn(compet, connName, "connaissance", " --- ")
+        addCapaOrConn(compet, val, null, " --- ")
 
         comp
 
@@ -183,7 +164,7 @@ request()
     if departement is DPTINSA
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        # if $(@).attr('href') is '/fr/formation/parcours/720/5/1'
+        if $(@).attr('href') is '/fr/formation/parcours/720/5/1'
           if $(@).text().trim() is 'Parcours Standard'
             semestres.push
               url: $(@).attr('href')
@@ -207,6 +188,7 @@ request()
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34615&_lang=fr'
+            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35329&_lang=fr'
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')
