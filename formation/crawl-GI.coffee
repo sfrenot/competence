@@ -60,6 +60,8 @@ extractPdfStructure = (pdf) ->
   # console.warn "-->", pdf
   # console.warn "Recherche mat"
   matiere.code = extractRe(/CODE : .*ECTS/s, pdf).replace(/\n/g, '')
+  matiere.code = matiere.code.substring(0, matiere.code.length-('ECTS'.length))
+
   # //
   # // Bug fix for coffeescript linter
   matiere.ects = extractRe(/ECTS : .*/, pdf)
