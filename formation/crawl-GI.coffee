@@ -26,8 +26,12 @@ getCompetenceBruteSection = (pdf) ->
   for section in mainSections
     rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
     if rech?
-      #TODO: GI encore des ... l¿
-      return rech[1].trim().replace(/\n/g,' ').replace(/l¿/, 'l\'')
+      solution = rech[1].trim()
+      solution = solution.replace(/mailto:[^\n]*\n/g, '')
+      solution = solution.replace(/http:\/\/www\.insa-lyon\.fr[\s\S]*?Dernière modification le : [^\n]*\n/g, '')
+      return solution.replace(/\n/g,' ').replace(/l¿/, 'l\'')
+      #
+      # return rech[1].trim().replace(/\n/g,' ').replace(/l¿/, 'l\'')
   return null
 
 getCompetenceSection = (matiere, start) ->
@@ -47,7 +51,8 @@ getCompetenceSection = (matiere, start) ->
       rech = buildCaptureMiddle(start, section).exec(matiere.competencesBrutes)
       if rech?
         return rech
-  console.error "#{matiere.code} section \"#{start}\" introuvable}."
+  unless /^HU-|^EPS-|^HUMA-/.test(matiere.code)
+    console.error "#{matiere.code} section \"#{start}\" introuvable}."
 
 extractPdfStructure = (pdf) ->
   # console.log '->', pdf
@@ -90,9 +95,9 @@ extractPdfStructure = (pdf) ->
         comp.niveau = niveau
         comp
     catch error
-      console.error(lcompetences)
-      console.error(error)
-      throw error
+      # console.error(lcompetences)
+      console.error(error.message)
+      # throw error
 
   # Competences mobilisées
   lcompetences = getCompetenceSection(matiere, "De plus, elle nécessite de mobiliser les compétences suivantes : ")
