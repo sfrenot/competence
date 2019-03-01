@@ -3,7 +3,7 @@
 # TODO : garer le format sans écraser les retours à la ligne.
 # Extraire la section parmis cette liste
 DPTINSA = 'BS'
-SPECIALITE = 'BB'
+SPECIALITE = 'BIM'
 
 Promise = require 'bluebird'
 cheerio = require 'cheerio'
