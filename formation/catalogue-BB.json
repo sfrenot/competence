@@ -53,17 +53,17 @@
                   "Faire le bilan des espèces, des équilibres en présence, mener un raisonnement à partir d'un problème posé en utilisant les outils associés : constantes d'équilibres, diagrammes de prédominances,...",
                   "Etablir/compléter un schéma/graphe représentant les données"
                 ],
-                "BB-C1": [
+                "BS-C1": [
                   "Mettre en équations un problème de chimie des solutions basé sur plusieurs équilibres chimiques simultanés dans des conditions réactionnelles particulières (pH, agent complexant, agent précipitant)",
                   "Faire des hypothèses simplificatrices de la résolution de calcul"
                 ],
-                "BB-C2": [
+                "BS-C2": [
                   "Proposer un protocole pour préparer une solution de pH donné",
                   "Citer les éléments de base d'un montage de chimie analytique ou électroanalytique",
                   "Choisir les méthodes physiques et chimiques analytiques adaptées à la quantification d'espèces en solution",
                   "Choisir un moyen de détection approprié pour la fin d'un titrage"
                 ],
-                "BB-C10": [
+                "BS-C10": [
                   "Vérifier la validité d'un calcul"
                 ]
               },
@@ -159,18 +159,18 @@
                   "Exploiter les informations principales des édifices moléculaires",
                   "Etudier l'interaction d'une molécule avec son environnement"
                 ],
-                "BB-C2": [
+                "BS-C2": [
                   "Développer des compétences expérimentales",
                   "Citer les différentes techniques expérimentales et les montages associés"
                 ],
-                "BB-C5": [
+                "BS-C5": [
                   "Dessiner en structure tridimensionnelle les molécules et maîtriser les différentes représentations dans l'espace",
                   "Prévoir l'évolution de certaines propriétés physico-chimiques en fonction des effets électroniques",
                   "Déterminer la nomenclature d'une molécule simple",
                   "Identifier les espèces / sites de réaction potentielle",
                   "Utiliser une technique d'extraction et purification d'une molécule d'origine naturelle"
                 ],
-                "BB-C13": [
+                "BS-C13": [
                   "Respecter les bonnes pratiques de laboratoire et travailler en sécurité"
                 ]
               },
@@ -252,13 +252,13 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C5": [
+                "BS-C5": [
                   "Analyser des données spectrométriques et déduire la structure de composés"
                 ],
-                "BB-C13": [
+                "BS-C13": [
                   "Respecter les bonnes pratiques de laboratoire et travailler en sécurité"
                 ],
-                "BB-C14": [
+                "BS-C14": [
                   "Etre capable d'appliquer les principes de base en chimie à la compréhension des mécanismes biochimiques"
                 ]
               },
@@ -346,7 +346,7 @@
               "tp": "0.0 h",
               "projet": "0.0 h",
               "perso": "14.0 h",
-              "nom": "Langues Étrang��res : SOCIAL SKILLS at WORK S5",
+              "nom": "Langues Étrangères : SOCIAL SKILLS at WORK S5",
               "competencesBrutes": "Compétences ciblées CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle  CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères  L'étudiant peut apprendre à : --Communiquer face à face, par mail ou par téléphone sur des sujet factuels --Donner des instructions, expliquer une procédure; réussir une présentation orale dynamique",
               "capacite": [],
               "connaissance": [],
@@ -1029,7 +1029,7 @@
                 "A6": [
                   "Interpréter des résultats expérimentaux et les intégrer dans une problématique biologique"
                 ],
-                "BB-C7": [
+                "BS-C7": [
                   "Choisir le modèle expérimental le plus pertinent"
                 ]
               },
@@ -1100,13 +1100,13 @@
                   "Analyser des données, les représenter (graphiques, schémas),",
                   "Modéliser et interpréter des phénomènes physico-chimiques,"
                 ],
-                "BB-C1": [
+                "BS-C1": [
                   "Mettre en relation le phénomène observé avec les structures moléculaires."
                 ],
-                "BB-C11": [
+                "BS-C11": [
                   "Interpréter des réactions de catalyse enzymatique, effectuer des mesure de cinétiques, identifier des mécanismes d'inhibition, déterminer les paramètres enzymatiques."
                 ],
-                "BB-C5": [
+                "BS-C5": [
                   "Caractériser et quantifier des molécules. Réaliser des mesures biophysiques et biochimiques.",
                   "Maîtriser les relations structure-activité des molécules du vivant (lipides, sucres, acides nucléiques, acides aminés, protéines).",
                   "Connaître la structure, la fonction et analyser les protéines.",
@@ -1224,7 +1224,7 @@
                 "A3": [
                   "Comprendre la structure de la cellule pour développer des protocoles de marquage"
                 ],
-                "BB-C7": [
+                "BS-C7": [
                   "Intégrer des connaissance en biologie cellulaire pour formuler des hypothèses"
                 ]
               },
@@ -1274,7 +1274,7 @@
                 "A3": [
                   "Intégrer les concepts de l'anatomie de l'animal de laboratoire pour développer des protocoles d'expérimentation en physiologie"
                 ],
-                "BB-C7": [
+                "BS-C7": [
                   "Disséquer un organe ou un tissu"
                 ]
               },
@@ -1324,13 +1324,13 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C3": [
+                "BS-C3": [
                   "Acquérir et utiliser des données des bases de données biotechnologiques"
                 ],
-                "BB-C7": [
+                "BS-C7": [
                   "Isoler et caractériser des bactéries."
                 ],
-                "BB-C13": [
+                "BS-C13": [
                   "Travailler en conditions de stérilité",
                   "Manipuler des organismes et des produits potentiellement dangereux en appliquant les règles de la stérilité et les normes de sécurité et d'hygiène en biotechnologies"
                 ],
@@ -1479,10 +1479,10 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C1": [
+                "BS-C1": [
                   "Intégrer des connaissance en biologie générale pour formuler des hypothèses"
                 ],
-                "BB-C15": [
+                "BS-C15": [
                   "Comprendre la diversité des organismes et leur complexités pour participer à des études environnementales"
                 ]
               },
@@ -1533,7 +1533,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C15": [
+                "BS-C15": [
                   "Mettre en œuvre les concepts de la génétique pour formuler des hypothèses fonctionneelle et en évolution"
                 ]
               },
@@ -1575,7 +1575,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C5": [
+                "BS-C5": [
                   "Comprendre et appliquer les méthodes et les technologies de caractérisation biophysiques et biochimiques (analytiques et quantitatives)",
                   "Comprendre et utiliser les technologies, spectroscopie de masse, UV, IR, méthodes séparatives",
                   "Extraire et purifier des biomolécules",
@@ -1635,7 +1635,7 @@
                 "A4": [
                   "Utilisation des activités cellulaires d'intérêt dans le design de nouveaux systèmes"
                 ],
-                "BB-C14": [
+                "BS-C14": [
                   "Concevoir et analyser des expérimentations in silico et in vitro sur l'ADN",
                   "Conception de gènes in silico à partir de Biobricks",
                   "Concevoir et faire synthétiser en sous-traitance la séquence complète de molécules d'ADN destinées à assurer la production de protéines d'intérêt agro-alimentaire, pharmaceutique ou médical par des souches de bactéries et de levures ou des lignées de cellules de mammifères"
@@ -1948,7 +1948,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : CHINOIS S2",
-              "competencesBrutes": "Cet EC relève de l'UE : HUMANITÉS  Il contribue aux compétences Ecole transversales suivantes : CT7: Travailler dans un contexte international et interculturel --CT7.1 : Communiquer en langues étrangères  en permettant �� l'élève ingénieur de travailler et d'être évalué sur les connaissances et les capacités suivantes :  Être capable de : -- comprendre et mettre en œuvre les codes sociaux propres aux diverses cultures --avoir une conversation adaptée au niveau ciblé --faire face à des situations de communication de difficulté croissante --produire divers types de textes --comprendre des documents (écrits, audio-visuels) authentiques --parler d'une société ou d'un phénomène de société --mettre en œuvre la grammaire et le vocabulaire présentés en cours  Le niveau d'acquisition attendu (A1-B2) est fixé en fonction du groupe.",
+              "competencesBrutes": "Cet EC relève de l'UE : HUMANITÉS  Il contribue aux compétences Ecole transversales suivantes : CT7: Travailler dans un contexte international et interculturel --CT7.1 : Communiquer en langues étrangères  en permettant à l'élève ingénieur de travailler et d'être évalué sur les connaissances et les capacités suivantes :  Être capable de : -- comprendre et mettre en œuvre les codes sociaux propres aux diverses cultures --avoir une conversation adaptée au niveau ciblé --faire face à des situations de communication de difficulté croissante --produire divers types de textes --comprendre des documents (écrits, audio-visuels) authentiques --parler d'une société ou d'un phénomène de société --mettre en œuvre la grammaire et le vocabulaire présentés en cours  Le niveau d'acquisition attendu (A1-B2) est fixé en fonction du groupe.",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -2382,13 +2382,13 @@
                 "A6": [
                   "Communiquer des résultats expérimentaux sous formes synthétiques orale et écrite"
                 ],
-                "BB-C5": [
+                "BS-C5": [
                   "Comprendre le principe et utiliser différentes techniques de dosage"
                 ],
-                "BB-C10": [
+                "BS-C10": [
                   "Identifier et quantifier l'incertitude relative liée à un résultat expérimental"
                 ],
-                "BB-C13": [
+                "BS-C13": [
                   "Etre capable d'utiliser en toute sécurité matériel et produits chimiques appropriés"
                 ],
                 "B3": [
@@ -2490,13 +2490,13 @@
                   "Utiliser les compétences validées en 3BB-ORGCH pour maîtriser l'application de ces concepts sur les grandes fonctions de la chimie organique",
                   "Communiquer des résultats expérimentaux sous formes synthétiques orale et écrite                                                                                                                       "
                 ],
-                "BB-C5": [
+                "BS-C5": [
                   "Comprendre l'enchaînement théorique de synthèse multi-étapes",
                   "Proposer un réactif pour une transformation donnée",
                   "Adapter les outils à la synthèse / biosynthèse de molécules d'intérêt",
                   "Conduire de manière autonome la réalisation pratique d'un projet de synthèse"
                 ],
-                "BB-C13": [
+                "BS-C13": [
                   "Comprendre et appliquer les impératifs de sécurités"
                 ],
                 "B1": [
@@ -2592,10 +2592,10 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C7": [
+                "BS-C7": [
                   "Expérimenter sur des modèles animaux (drosophile, nématode, poisson zèbre)"
                 ],
-                "BB-C8": [
+                "BS-C8": [
                   "Réaliser des marquage fluorescents et observer au microscope à épifluorescence"
                 ],
                 "B3": [
@@ -2678,16 +2678,16 @@
                 "A4": [
                   "Consigner les expériences réalisées dans un cahier de laboratoire"
                 ],
-                "BB-C2": [
+                "BS-C2": [
                   "Planifier et organiser des expériences en introduisant les contrôles",
                   "Optimiser des protocoles expérimentaux",
                   "Identifier et diagnostiquer les dysfonctionnements et proposer des solutions correctives"
                 ],
-                "BB-C5": [
+                "BS-C5": [
                   "Caractérisation de l'ADN",
                   "Assemblage génétique par clonage (\"wet lab\" )"
                 ],
-                "BB-C7": [
+                "BS-C7": [
                   "modifier génétiquement des bactéries"
                 ],
                 "B3": [
@@ -2803,21 +2803,21 @@
                 "A6": [
                   "Développer une argumentation adaptée à l'expérimentation en fonction des étapes"
                 ],
-                "BB-C1": [
+                "BS-C1": [
                   "Mettre en relation le phénomène observé avec les structures moléculaires"
                 ],
-                "BB-C5": [
+                "BS-C5": [
                   "Analyser des molécules du vivant",
                   "Caractériser et quantifier des molécules",
                   "Réaliser des mesures biophysiques et biochimiques"
                 ],
-                "BB-C9": [
+                "BS-C9": [
                   "Connaître les potentialités, les perfomances et les limites des différents outils analytiques"
                 ],
-                "BB-C11": [
+                "BS-C11": [
                   "Modéliser et interpréter des phénomènes physico-chimiques"
                 ],
-                "BB-C13": [
+                "BS-C13": [
                   "Connaissances des réglementations en matières d'hygiène et sécurité, des bonnes pratiques de laboratoires de recherche et de l'industrie"
                 ]
               },
@@ -2919,7 +2919,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : JOB HUNTING in English S7",
-              "competencesBrutes": "CT1: SE CONNAÎTRE, SE GÉRER PHYSIQUEMENT ET MENTALEMENT 1.1- Se situer, s'auto évaluer CT2: TRAVAILLER, APPRENDRE, ÉVOLUER DE MANIÈRE AUTONOME 2.1- Mobiliser ses ressources 2.2- Élaborer, mettre en oeuvre, réguler une stratégie d'action pertinente dans un but défini CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.1- Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères 7.2- Décoder des références culturelles dans des discours, attitudes et comportements --L'étudiant peut apprendre à relater des éléments de son expérience personnelle et professionnelle et à rédiger de manière appropriée à la recherche d'emploi.  Compétences mobilisées --Communiquer face à face, par mail ou par téléphone sur des sujets complexes avec plusieurs interlocuteurs; --Réussir une présentation orale persuasive",
+              "competencesBrutes": "CT1: SE CONNAÎTRE, SE GÉRER PHYSIQUEMENT ET MENTALEMENT 1.1- Se situer, s'auto évaluer CT2: TRAVAILLER, APPRENDRE, ÉVOLUER DE MANIÈRE AUTONOME 2.1- Mobiliser ses ressources 2.2- Élaborer, mettre en oeuvre, réguler une stratégie d'action pertinente dans un but défini CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.1- Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères 7.2- Décoder des références culturelles dans des discours, attitudes et comportements --L'étudiant peut apprendre à relater des éléments de son exp��rience personnelle et professionnelle et à rédiger de manière appropriée à la recherche d'emploi.  Compétences mobilisées --Communiquer face à face, par mail ou par téléphone sur des sujets complexes avec plusieurs interlocuteurs; --Réussir une présentation orale persuasive",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -3009,7 +3009,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : Module Professionnel Allemand S1",
-              "competencesBrutes": "COMPÉTENCES CIBLÉES ET MOBILISÉES Ciblées : a) Travailler dans un contexte international et interculturel b) Interagir avec les autres, travailler en équipe  Mobilisées : a) Se connaître, se gérer physiquement et mentalement b) Travailler, apprendre, évoluer de manière autonome",
+              "competencesBrutes": "COMP��TENCES CIBLÉES ET MOBILISÉES Ciblées : a) Travailler dans un contexte international et interculturel b) Interagir avec les autres, travailler en équipe  Mobilisées : a) Se connaître, se gérer physiquement et mentalement b) Travailler, apprendre, évoluer de manière autonome",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -3564,7 +3564,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C6": [
+                "BS-C6": [
                   "Comprendre le fonctionnement du système immunitaire pour développer des protocole de recherche en santé et développer des techniques d'immunomarquages en exploration fonctionnelle"
                 ],
                 "B3": [
@@ -3665,18 +3665,18 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C2": [
+                "BS-C2": [
                   "Optimiser les conditions expérimentales (production, analyse) grâce aux plans d'expériences"
                 ],
-                "BB-C3": [
+                "BS-C3": [
                   "Réaliser, développer des protocoles de biochimie"
                 ],
-                "BB-C5": [
+                "BS-C5": [
                   "Interpréter des réactions de catalyse enzymatique, effectuer des mesure de cinétiques, identifier des mécanismes d'inhibition, déterminer les paramètres enzymatiques.",
                   "Choisir le réacteur enzymatique le plus approprié.",
                   "Proposer des procédés utilisant la catalyse enzymatique"
                 ],
-                "BB-C14": [
+                "BS-C14": [
                   "Concevoir et réaliser le transfert d'une innovation vers une production à l'échelle industrielle"
                 ],
                 "B3": [
@@ -3769,13 +3769,13 @@
                   "Analyser des données, les représenter (graphiques, schémas),",
                   "Modéliser et interpréter des phénomènes physico-chimiques,"
                 ],
-                "BB-C1": [
+                "BS-C1": [
                   "Mettre en relation le phénomène observé avec les structures moléculaires."
                 ],
-                "BB-C11": [
+                "BS-C11": [
                   "Interpréter des réactions de catalyse enzymatique, effectuer des mesure de cinétiques, identifier des mécanismes d'inhibition, déterminer les paramètres enzymatiques."
                 ],
-                "BB-C5": [
+                "BS-C5": [
                   "Caractériser et quantifier des molécules. Réaliser des mesures biophysiques et biochimiques.",
                   "Maîtriser les relations structure-activité des molécules du vivant (lipides, sucres, acides nucléiques, acides aminés, protéines).",
                   "Connaître la structure, la fonction  et analyser les protéines.",
@@ -3837,7 +3837,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C3": [
+                "BS-C3": [
                   "Interpréter des résultats expérimentaux et les intégrer dans une problématique biologique"
                 ]
               },
@@ -3940,10 +3940,10 @@
                 "A3": [
                   "Définir une stratégie pour étudier l¿expression d¿un gène"
                 ],
-                "BB-C4": [
+                "BS-C4": [
                   "Identifier par des approches bioinformatiques ses sites de fixation au sein d¿un génome"
                 ],
-                "BB-C7": [
+                "BS-C7": [
                   "Analyser l'expression d'un gène en fonction de divers paramètres environnementaux et divers contextes génétiques",
                   "Modifier un génome bactérien à façon"
                 ]
@@ -4041,7 +4041,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C14": [
+                "BS-C14": [
                   "Comprendre le fonctionnement du système immunitaire pour développer des protocoles de recherche en santé et développer des techniques d'immunomarquages en exploration fonctionnelle"
                 ]
               },
@@ -4086,7 +4086,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C1": [
+                "BS-C1": [
                   "Intégrer des connaissances en biologie pour formuler des hypothèses"
                 ]
               },
@@ -4140,10 +4140,10 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C5": [
+                "BS-C5": [
                   "Mettre en œuvre les outils fondamentaux de caractérisation des biomolécules (enzymes) (19)"
                 ],
-                "BB-C14": [
+                "BS-C14": [
                   "Produire des molécules bioactives et développer des procédés en  biologie de synthèse dans les domaines de la santé, de l'agroalimentaire et de l'environnement"
                 ]
               },
@@ -4190,7 +4190,7 @@
                 "A6": [
                   "Analyser et interpréter des données expérimentales issues de la littérature scientifique en structurant son discours autour d'un raisonnement"
                 ],
-                "BB-C1": [
+                "BS-C1": [
                   "Intégrer des connaissances en Microbiologie et en Génétique pour formuler des hypothèses sur les mécanismes de régulation de l'expression génique"
                 ]
               },
@@ -4260,7 +4260,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C5": [
+                "BS-C5": [
                   "Caractériser et quantifier des molécules",
                   "Maîtriser les relations structure-activité des molécules du vivant (lipides, sucres, acides nucléiques, acides aminés, protéines)",
                   "Connaître les principes de la bioénergétique, du métabolisme intermédiaire , Structure et activité moléculaire (6,10)"
@@ -4337,7 +4337,7 @@
                 "A3": [
                   "Analyser des données  par  modélisation linéaire avec modèle d'erreur gaussien"
                 ],
-                "BB-C9": [
+                "BS-C9": [
                   "Utilisation d'un logiciel adapté (R)"
                 ]
               },
@@ -4953,29 +4953,29 @@
                 "A6": [
                   "rapport, présentations orales, pour rendre compte de leur projet et analyses"
                 ],
-                "BB-C1": [
+                "BS-C1": [
                   "Analyser des données de séquençage à haut-débit (NGS)",
                   "réaliser des expériences de biologie moléculaire et cellulaire pour répondre à une question scientifique"
                 ],
-                "BB-C3": [
+                "BS-C3": [
                   "Manipulation de données de séquençage haut-débit",
                   "traitement des données obtenues par qPCR ou imagerie"
                 ],
-                "BB-C4": [
+                "BS-C4": [
                   "Mise en place de protocoles d'analyses bioinformatiques (contrôle qualité, assemblage de novo d'un génome, détection de mutations, RNA-seq, ChIP-seq, étude de diversité 16S)"
                 ],
-                "BB-C7": [
+                "BS-C7": [
                   "Réaliser un protocole de transgénèse végétale",
                   "Expérimenter sur des modèles cellulaires",
                   "Expérimenter sur des insectes"
                 ],
-                "BB-C8": [
+                "BS-C8": [
                   "Réaliser des marquage et observer au microscope"
                 ],
-                "BB-C9": [
+                "BS-C9": [
                   "Significativité, faux-positifs, faux-négatifs, problème des tests multiples, normalisation statistique"
                 ],
-                "BB-C12": [
+                "BS-C12": [
                   "Mise en place de protocoles d'analyses bioinformatiques (contrôle qualité, assemblage de novo d'un génome, détection de mutations, RNA-seq, ChIP-seq, étude de diversité 16S)"
                 ],
                 "B4": [
@@ -5232,7 +5232,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C15": [
+                "BS-C15": [
                   "Mettre en œuvre les concepts de la biologie du développement pour formuler des hypothèses fonctionnelles et en évolution"
                 ]
               },
@@ -5277,7 +5277,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C6": [
+                "BS-C6": [
                   "Industrialiser un produit ou un service"
                 ]
               },
@@ -5397,25 +5397,25 @@
                 "A6": [
                   "Rédaction de compte-rendus"
                 ],
-                "BB-C1": [
+                "BS-C1": [
                   "Répondre à une problématique biologique par l'analyse bioinformatique de données biologiques"
                 ],
-                "BB-C3": [
+                "BS-C3": [
                   "Bases de données de séquences"
                 ],
-                "BB-C4": [
+                "BS-C4": [
                   "Utiliser l'outil BLAST pour la comparaison de séquences",
                   "Utiliser les méthodes d'annotation structurale et fonctionnelle des séquences génomiques",
                   "Utiliser les méthodes de reconstructions phylogénétiques",
                   "Utiliser les packages R pour l'analyse de données de biopuces ADN"
                 ],
-                "BB-C9": [
+                "BS-C9": [
                   "Significativité, faux-positifs, faux-négatifs, problème des tests multiples, normalisation statistique"
                 ],
-                "BB-C11": [
+                "BS-C11": [
                   "Analyser des données de biopuces ADN"
                 ],
-                "BB-C12": [
+                "BS-C12": [
                   "Analyser des données de biopuces ADN"
                 ],
                 "B2": [
@@ -5538,20 +5538,20 @@
                 "A4": [
                   "Prendre en compte les enjeux de compétitivité, productivité, innovation et propriété intellectuelle"
                 ],
-                "BB-C2": [
+                "BS-C2": [
                   "Réaliser, développer des protocoles de biochimie"
                 ],
-                "BB-C3": [
+                "BS-C3": [
                   "Analyser des molécules du vivant"
                 ],
-                "BB-C5": [
+                "BS-C5": [
                   "Caractériser et quantifier des molécules",
                   "Réaliser des mesures biophysiques et biochimiques",
                   "S'adapter à son environnement de travail, choisir son matériel, ses outils analytiques adéquats réaliser ses montages et faire des choix expérimentaux",
                   "Résoudre des problèmes concrets théoriques et pratiques de production, de purification et d'analyses de substances naturelles",
                   "Mise en œuvre d'un procédé d'extraction et de purification à l'échelle pré-pilote d'une substance naturelle"
                 ],
-                "BB-C13": [
+                "BS-C13": [
                   "Raisonner en tenant compte des exigences de qualité, de coût et de sécurité",
                   "Savoir rédiger des fiches de production et d'analyse de substance naturelle produite en industrie"
                 ]
@@ -5653,7 +5653,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C3": [
+                "BS-C3": [
                   "Interpréter des résultats expérimentaux et les intégrer dans une problématique biologique",
                   "Valider une méthode analytique (pharmacologie) ou expérimentale"
                 ]
@@ -5807,7 +5807,7 @@
                 "A6": [
                   "Découper le plan expérimental et analytique en tâches, les répartir au sein de l'équipe, communiquer les résultats"
                 ],
-                "BB-C5": [
+                "BS-C5": [
                   "Caractérisation biochimique des protéines",
                   "Modifier une molécule produite pour en faciliter sa purification et sa caractérisation biochimique"
                 ],
@@ -5912,7 +5912,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C1": [
+                "BS-C1": [
                   "Maîtriser les relations structures",
                   "activités des molécules du vivant",
                   "Connaître les principes du métabolisme  (lipides) et de la signalisation cellulaire"
@@ -6007,7 +6007,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C15": [
+                "BS-C15": [
                   "Intégrer les spécificités de la biologie végétale pour travailler dans le domaine de l'agronomie"
                 ]
               },
@@ -6046,7 +6046,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C6": [
+                "BS-C6": [
                   "Industrialiser un produit ou un service"
                 ]
               },
@@ -6315,7 +6315,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BB-C14": [
+                "BS-C14": [
                   "Comprendre les phénomènes biologiques et physicochimiques induisant la modification souhaitée ou non d'un aliment",
                   "Connaître les diagrammes de fabrication et les opérations unitaires dédiées"
                 ]

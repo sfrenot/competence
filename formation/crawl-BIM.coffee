@@ -99,7 +99,7 @@ extractPdfStructure = (pdf) ->
           tmp = description.shift()
           [, compet, niveau] = /([ABC]\d+).*\((.*)\)/.exec(tmp)
           if compet.startsWith('C')
-            compet = "#{SPECIALITE}-#{compet}"
+            compet = "#{DPTINSA}-#{compet}"
           comp = _.clone(refCompetences[compet])
 
           unless comp?

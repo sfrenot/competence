@@ -27,7 +27,7 @@
                 "A3": [
                   "Comprendre la structure de la cellule pour développer des protocoles de marquage"
                 ],
-                "BIM-C7": [
+                "BS-C7": [
                   "Intégrer des connaissance en biologie cellulaire pour formuler des hypothèses"
                 ]
               },
@@ -74,10 +74,10 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BIM-C1": [
+                "BS-C1": [
                   "Intégrer des connaissance en biologie générale pour formuler des hypothèses"
                 ],
-                "BIM-C15": [
+                "BS-C15": [
                   "Comprendre la diversité des organismes et leur complexités pour participer à des études environnementales"
                 ]
               },
@@ -133,7 +133,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BIM-C7": [
+                "BS-C7": [
                   "Réaliser un protocole de transgénèse végétale",
                   "Manipuler des microorganismes",
                   "Déterminer les besoins physiologiques de microorganismes",
@@ -223,13 +223,13 @@
                   "Utiliser les compétences validées en 3BB-ORGCH pour maîtriser l'application de ces concepts sur les grandes fonctions de la chimie organique",
                   "Communiquer des résultats expérimentaux sous formes synthétiques orale et écrite                                     "
                 ],
-                "BIM-C5": [
+                "BS-C5": [
                   "Comprendre l'enchaînement théorique de synthèse multi-étapes",
                   "Proposer un réactif pour une transformation donnée",
                   "Adapter les outils à la synthèse / biosynthèse de molécules d'intérêt",
                   "Conduire de manière autonome la réalisation pratique d'un projet de synthèse"
                 ],
-                "BIM-C13": [
+                "BS-C13": [
                   "Comprendre et appliquer les impératifs de sécurités"
                 ],
                 "B1": [
@@ -327,7 +327,7 @@
                 "A4": [
                   "Concevoir un algorithme pour résoudre un problème et l'implémenter en Python"
                 ],
-                "BIM-C12": [
+                "BS-C12": [
                   "Implémenter un algorithme en Python dans le style impératif",
                   "Passer un programme du style impératif au style orienté-objet",
                   "Choisir judicieusement les structures de données et les algorithmes pour minimiser la complexité algorithmique et donc maximiser la performance  Cet EC mobilise de plus les compétences suivantes :"
@@ -398,10 +398,10 @@
                 "A2": [
                   "comprendre comment l'information est codée dans un ordinateur"
                 ],
-                "BIM-C3": [
+                "BS-C3": [
                   "comprendre le fonctionnement général d'un système d'exploitation et notamment le système de fichiers et les processus"
                 ],
-                "BIM-C12": [
+                "BS-C12": [
                   "comprendre l'organisation générale des différents composants d'un ordinateur",
                   "utiliser Linux en ligne de commande",
                   "écrire des scripts shell simples",
@@ -474,10 +474,10 @@
                   "Choisir entre un modèle relationnel et un modèle non relationnel pour une base de données",
                   "Concevoir une base de données selon un modèle relationnel"
                 ],
-                "BIM-C3": [
+                "BS-C3": [
                   "Mettre en oeuvre et administrer un Système de Gestion de Bases de Données comme MySQL"
                 ],
-                "BIM-C12": [
+                "BS-C12": [
                   "Ecrire des requêtes SQL pour exploiter une base de données relationnelle",
                   "Effectuer les opérations de base sur une base de données non relationnelle"
                 ]
@@ -591,7 +591,7 @@
               "tp": "0.0 h",
               "projet": "0.0 h",
               "perso": "14.0 h",
-              "nom": "Langues Étrang��res : SOCIAL SKILLS at WORK S5",
+              "nom": "Langues Étrangères : SOCIAL SKILLS at WORK S5",
               "competencesBrutes": "Compétences ciblées CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle  CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères  L'étudiant peut apprendre à : --Communiquer face à face, par mail ou par téléphone sur des sujet factuels --Donner des instructions, expliquer une procédure; réussir une présentation orale dynamique",
               "capacite": [],
               "connaissance": [],
@@ -1477,10 +1477,10 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BIM-C1": [
+                "BS-C1": [
                   "Mettre en équation un phénomène biologique"
                 ],
-                "BIM-C11": [
+                "BS-C11": [
                   "Caractériser analytiquement et résoudre numériquement des problèmes en bio- mathématiques"
                 ]
               },
@@ -1566,10 +1566,10 @@
                 "B2": [
                   "Savoir résoudre des exercices en classe et chez soi"
                 ],
-                "BIM-C1": [
+                "BS-C1": [
                   "Savoir identifier, choisir et utiliser des modèles mathématiques classiques en fonction d'un problème biologique"
                 ],
-                "BIM-C11": [
+                "BS-C11": [
                   "Confronter des résultats théoriques avec des données expérimentales",
                   "Utiliser des outils informatiques et mathématiques",
                   "Caractériser les équilibres d'un système dynamique",
@@ -1789,7 +1789,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BIM-C5": [
+                "BS-C5": [
                   "Analyser des données spectrométriques et déduire la structure de composés",
                   "Développer des études en modélisation moléculaire"
                 ]
@@ -1858,7 +1858,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BIM-C5": [
+                "BS-C5": [
                   "Analyser des molécules du vivant (y compris les approches métabolomiques)",
                   "Maîtriser les relations structure-activité des molécules du vivant (lipides, sucres, acides nucléiques, acides aminés, protéines)"
                 ]
@@ -1899,10 +1899,10 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BIM-C7": [
+                "BS-C7": [
                   "Expérimenter sur des modèles cellulaires"
                 ],
-                "BIM-C8": [
+                "BS-C8": [
                   "Réaliser des marquage et observer au microscope"
                 ]
               },
@@ -1951,7 +1951,7 @@
                 "A1": [
                   "Définir une unité transcriptionnelle, traductionnelle"
                 ],
-                "BIM-C5": [
+                "BS-C5": [
                   "Amplifier, Extraire et analyser des molécules d'ADN"
                 ]
               },
@@ -2029,13 +2029,13 @@
                 "A3": [
                   "S'adapter à son environnement de travail, choisir son matériel, ses outils analytiques adéquats réaliser ses montages et faire des choix expérimentaux"
                 ],
-                "BIM-C3": [
+                "BS-C3": [
                   "Interpréter des réactions de catalyse enzymatique, effectuer des mesure de cinétiques, identifier des mécanismes d'inhibition, déterminer les paramètres enzymatiques"
                 ],
-                "BIM-C7": [
+                "BS-C7": [
                   "Disséquer un organe ou un tissu animal et préserver l'intégrité de l'échantillon"
                 ],
-                "BIM-C11": [
+                "BS-C11": [
                   "Analyser des données, les représenter (graphiques, schémas), modéliser et interpréter des phénomènes physico-chimiques",
                   "Mettre en relation le phénomène observé avec les structures moléculaires"
                 ],
@@ -2149,22 +2149,22 @@
                 "A5": [
                   "Mise en place de protocoles d'analyses bioinformatiques (contrôle qualité, assemblage de novo d'un génome, détection de mutations, RNA-seq, ChIP-seq, étude de diversité 16S)"
                 ],
-                "BIM-C1": [
+                "BS-C1": [
                   "Analyser des données de séquençage à haut-débit"
                 ],
-                "BIM-C3": [
+                "BS-C3": [
                   "Manipulation de données de séquençage haut-débit"
                 ],
-                "BIM-C4": [
+                "BS-C4": [
                   "Mise en place de protocoles d'analyses bioinformatiques (contrôle qualité, assemblage de novo d'un génome, détection de mutations, RNA-seq, ChIP-seq, étude de diversité 16S)"
                 ],
-                "BIM-C9": [
+                "BS-C9": [
                   "Significativité, faux-positifs, faux-négatifs, problème des tests multiples, normalisation statistique"
                 ],
-                "BIM-C11": [
+                "BS-C11": [
                   "Analyser des données de séquençage à haut-débit"
                 ],
-                "BIM-C12": [
+                "BS-C12": [
                   "Mise en place de protocoles d'analyses bioinformatiques (contrôle qualité, assemblage de novo d'un génome, détection de mutations, RNA-seq, ChIP-seq, étude de diversité 16S)"
                 ]
               },
@@ -2285,10 +2285,10 @@
                 "B3": [
                   "Présenter en public un projet inédit préparé en équipe"
                 ],
-                "BIM-C1": [
+                "BS-C1": [
                   "Savoir identifier, choisir et utiliser des modèles mathématiques classiques en fonction d'un problème biologique donné"
                 ],
-                "BIM-C11": [
+                "BS-C11": [
                   "Confronter des résultats théoriques avec des données expérimentales",
                   "Utiliser des outils informatiques et mathématiques"
                 ]
@@ -2401,7 +2401,7 @@
                   "Comparer des données expérimentales et théoriques sur la base de critères adaptés au contexte",
                   "Interpréter des données dans le cadre d'un modèle"
                 ],
-                "BIM-C9": [
+                "BS-C9": [
                   "Développer et utiliser les tests standards de comparaisons d'échantillons",
                   "Calculer la puissance d'une expérience et contrôler les différents risques d'erreurs",
                   "Ajuster un modèle linéaire et non linéaire et valider la qualité de l'ajustement"
@@ -3184,7 +3184,7 @@
                 "A1": [
                   "Organiser un programme selon le paradigme de la programmation orientée-objet"
                 ],
-                "BIM-C12": [
+                "BS-C12": [
                   "Implémenter un algorithme en C++",
                   "Comprendre et automatiser la chaîne de compilation (Makefile)",
                   "Maîtriser la gestion manuelle de la mémoire et les différents modes de passage de paramètres",
@@ -3351,7 +3351,7 @@
                 "B3": [
                   "Savoir restituer un projet de modélisation élaboré en équipe"
                 ],
-                "BIM-C11": [
+                "BS-C11": [
                   "Confronter des résultats théoriques avec  des données expérimentales",
                   "Savoir identifier, choisir et utiliser des modèles mathématiques classiques",
                   "Utiliser des outils informatique et mathématiques",
@@ -3717,18 +3717,18 @@
                 "A6": [
                   "Rédaction de compte-rendus"
                 ],
-                "BIM-C1": [
+                "BS-C1": [
                   "Analyse de données génomiques"
                 ],
-                "BIM-C3": [
+                "BS-C3": [
                   "Bases de données de séquences, données de séquençage à haut-débit"
                 ],
-                "BIM-C11": [
+                "BS-C11": [
                   "Recherche de similarités de séquences",
                   "Annotation de séquences génomiques",
                   "Mettre en œuvre des outils de mapping"
                 ],
-                "BIM-C12": [
+                "BS-C12": [
                   "Mise en place de protocoles d'analyses bioinformatiques pour l'analyse de données de séquençage à haut-débit",
                   "Annotation de séquences génomiques"
                 ],
@@ -3832,7 +3832,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BIM-C15": [
+                "BS-C15": [
                   "Comprendre et analyser les modèles de génétique de populations."
                 ]
               },
@@ -4709,7 +4709,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BIM-C12": [
+                "BS-C12": [
                   "programmer en Python une application client-serveur simple basée sur les sockets et capable de répondre à plusieurs requêtes en parallèle",
                   "programmer en Python un service web REST simple",
                   "programmer en Javascript une application web côté client, avec interrogation d'un serveur en Ajax  Cet EC mobilise de plus les compétences suivantes :"
@@ -4765,12 +4765,12 @@
                 "A4": [
                   "choisir l'architecture parallèle la plus appropriée pour paralléliser l'exécution d'un programme"
                 ],
-                "BIM-C12": [
+                "BS-C12": [
                   "mettre en oeuvre les principales familles d'algorithmes utilisées dans les programmes de calcul scientifique dans le cadre de la programmation parallèle",
                   "déployer un logiciel (notamment Python et R), à travers un gestionnaire de paquets (package manager system)",
                   "déployer un logiciel dans des conteneurs logiciels, à travers le logiciel Docker"
                 ],
-                "BIM-C13": [
+                "BS-C13": [
                   "choisir une licence appropriée pour la diffusion d'un logiciel  Cet EC mobilise de plus les compétences suivantes :"
                 ]
               },
@@ -4854,11 +4854,11 @@
                   "Structurer son discours autour d'un raisonnement logique et argumenté, visant des objectifs clairement identifiés",
                   "S'exprimer avec un niveau de langue satisfaisant en recherchant un équilibre entre langage usuel et langage symbolique"
                 ],
-                "BIM-C9": [
+                "BS-C9": [
                   "Calculer la puissance d'une expérience et contrôler les différents risques d'erreurs",
                   "Ajuster un modèle linéaire et non linéaire et valider la qualité de l'ajustement"
                 ],
-                "BIM-C11": [
+                "BS-C11": [
                   "Proposer, évaluer et implémenter des solutions de modélisations appropriées (logiciels de calculs formel et de statistiques, languages de programmation)"
                 ]
               },
@@ -4957,13 +4957,13 @@
                 "B2": [
                   "Apprendre des notions et résoudre des exercises en autonomie"
                 ],
-                "BIM-C1": [
+                "BS-C1": [
                   "Confronter des résultats théoriques à une situation biologique"
                 ],
-                "BIM-C10": [
+                "BS-C10": [
                   "Savoir identifier les limites et contraintes d'un modèle, savoir proposer des améliorations pour plus de réalisme"
                 ],
-                "BIM-C11": [
+                "BS-C11": [
                   "Mettre en œuvre un système dynamique pour modéliser des interactions entre individus (applications en économie et en écologie)"
                 ]
               },
@@ -5344,23 +5344,23 @@
                 "A6": [
                   "Rédaction de compte-rendus"
                 ],
-                "BIM-C1": [
+                "BS-C1": [
                   "Analyser des données de séquençage haut-débit"
                 ],
-                "BIM-C3": [
+                "BS-C3": [
                   "Analyser des données de séquençage haut-débit"
                 ],
-                "BIM-C4": [
+                "BS-C4": [
                   "Comparer des génomes",
                   "Assembler des lectures de séquençage à haut-débit",
                   "Etudier la diversité bactérienne d'un environnement par analyse de données de séquençage d'ARNr 16S"
                 ],
-                "BIM-C11": [
+                "BS-C11": [
                   "Modéliser des processus génomiques",
                   "Assembler des séquences",
                   "Etudier la diversité bactérienne d'un environnement par analyse de données de séquençage d'ARNr 16S"
                 ],
-                "BIM-C12": [
+                "BS-C12": [
                   "Mise en place de protocoles d'analyses bioinformatiques (assemblage, métagénomique)"
                 ],
                 "B2": [
@@ -5496,24 +5496,24 @@
                 "A6": [
                   "Réalisation d'un poster"
                 ],
-                "BIM-C1": [
+                "BS-C1": [
                   "Analyser des données de séquençage haut-débit"
                 ],
-                "BIM-C3": [
+                "BS-C3": [
                   "Manipulation de données de séquençage haut-débit"
                 ],
-                "BIM-C4": [
+                "BS-C4": [
                   "Utiliser les outils adaptés pour l'analyse de données RNA-seq",
                   "Utiliser les méthodes de reconstruction de réseaux de régulation",
                   "Utiliser les méthodes d'identification de variants d'épissage"
                 ],
-                "BIM-C9": [
+                "BS-C9": [
                   "Mettre en œuvre des outils statistiques adaptés pour l'analyse des données transcriptomiques"
                 ],
-                "BIM-C11": [
+                "BS-C11": [
                   "Analyser des données de séquençage haut-débit"
                 ],
-                "BIM-C12": [
+                "BS-C12": [
                   "Mise en place de protocoles d'analyses bioinformatiques pour l'analyse de données transcriptomiques"
                 ],
                 "B2": [
@@ -5623,7 +5623,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BIM-C5": [
+                "BS-C5": [
                   "RMN biomoléculaire et ses applications en sciences génomiques et protéomiques (structures 3D, études d'interactions et de mécanisme réactionnels enzymatiques),",
                   "sensibilité aux mouvements dynamiques dans les liquides."
                 ]
@@ -5787,7 +5787,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BIM-C11": [
+                "BS-C11": [
                   "Exploiter les ressources issues des grandes bases de données génomiques et protéiques",
                   "y compris structurale"
                 ]
@@ -5877,10 +5877,10 @@
                   "Comparer des données expérimentales et théoriques sur la base de critères adaptés au contexte",
                   "Interpréter des données dans le cadre d'un modèle"
                 ],
-                "BIM-C9": [
+                "BS-C9": [
                   "Ajuster un modèle linéaire et non linéaire et valider la qualité de l'ajustement"
                 ],
-                "BIM-C11": [
+                "BS-C11": [
                   "Proposer, évaluer et implémenter des solutions de modélisations appropriées (logiciels de calculs formel et de statistiques, languages de programmation)"
                 ]
               },
@@ -5946,75 +5946,10 @@
               "projet": "0.0 h",
               "perso": "31.0 h",
               "nom": "Mathématiques : Planification expérimentale et applications industrielles",
-              "competencesBrutes": "COMPETENCES : Cet EC contribue aux compétences ci-dessous (niveau) avec les capacités associées : A1. Analyser un système (ou un problème) réel ou virtuel (niveau 3) A2. Exploiter un modèle d'un système réel ou virtuel (niveau 3) A3. Mettre en œuvre une démarche expérimentale (niveau 3) C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 3) - Formuler des hypothèses C2. Concevoir, adapter et optimiser des plans d'expériences en Biosciences (niveau 3) C6. Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques (niveau 2) C9. Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 3) C10. Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3) C11. Modéliser et interpréter des données biologiques pour comprendre les processus sous- jacents (niveau 3)  Les connaissances associées à cet EC sont : Stratégie d'échantillonage Bonne pratiques de modélisation Plans d'expériences (modèles de mélanges, plans Tagushi)  OBJECTIFS : L'objectif pédagogique est  d'apporter une maîtrise de la méthodologie de mise au point expérimentale appliquée aux contextes industriels. Il s'agit donc de présenter cette méthodologie en montrant qu'elle est applicable à tous les domaines industriels et à toutes les étapes : de la R et D à la production. Nous proposons aux étudiants  de vivre une expérience de déploiement  de cette méthodologie au contact d'un intervenant industriel.",
-              "capacite": [
-                "Formuler des hypothèses"
-              ],
+              "competencesBrutes": "COMPETENCES : Cet EC contribue aux compétences ci-dessous (niveau) avec les capacités associ��es : A1. Analyser un système (ou un problème) réel ou virtuel (niveau 3) A2. Exploiter un modèle d'un système réel ou virtuel (niveau 3) A3. Mettre en œuvre une démarche expérimentale (niveau 3) C1 Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 3) - Formuler des hypothèses C2. Concevoir, adapter et optimiser des plans d'expériences en Biosciences (niveau 3) C6. Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques (niveau 2) C9. Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 3) C10. Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3) C11. Modéliser et interpréter des données biologiques pour comprendre les processus sous- jacents (niveau 3)  Les connaissances associées à cet EC sont : Stratégie d'échantillonage Bonne pratiques de modélisation Plans d'expériences (modèles de mélanges, plans Tagushi)  OBJECTIFS : L'objectif pédagogique est  d'apporter une maîtrise de la méthodologie de mise au point expérimentale appliquée aux contextes industriels. Il s'agit donc de présenter cette méthodologie en montrant qu'elle est applicable à tous les domaines industriels et à toutes les étapes : de la R et D à la production. Nous proposons aux étudiants  de vivre une expérience de déploiement  de cette méthodologie au contact d'un intervenant industriel.",
+              "capacite": [],
               "connaissance": [],
-              "competenceToCapaciteEtConnaissance": {
-                "BIM-C1": [
-                  "Formuler des hypothèses"
-                ]
-              },
-              "listeComp": [
-                {
-                  "code": "A1",
-                  "val": "Analyser un système (ou un problème) réel ou virtuel",
-                  "valAnglais": "Analyze a real or virtual system (or problem)",
-                  "bs": "1",
-                  "niveau": "3"
-                },
-                {
-                  "code": "A2",
-                  "val": "Exploiter un modèle d'un système réel ou virtuel",
-                  "valAnglais": "Exploit a model of a real or virtual system",
-                  "bs": "2",
-                  "niveau": "3"
-                },
-                {
-                  "code": "A3",
-                  "val": "Mettre en œuvre une démarche expérimentale",
-                  "valAnglais": "Implement an experimental approach",
-                  "bs": "3",
-                  "niveau": "3"
-                },
-                {
-                  "val": "Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique",
-                  "code": "C1",
-                  "bs": "7",
-                  "niveau": "3"
-                },
-                {
-                  "val": "Concevoir, adapter et optimiser des plans d'expériences en Biosciences",
-                  "code": "C2",
-                  "bs": "8",
-                  "niveau": "3"
-                },
-                {
-                  "val": "Mesurer et évaluer l'impact de nouveaux produits de santé ou de méthodes diagnostiques",
-                  "code": "C6",
-                  "bs": "20",
-                  "niveau": "2"
-                },
-                {
-                  "val": "Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique",
-                  "code": "C9",
-                  "bs": "13",
-                  "niveau": "3"
-                },
-                {
-                  "val": "Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes",
-                  "code": "C10",
-                  "bs": "14",
-                  "niveau": "3"
-                },
-                {
-                  "val": "Modéliser et interpréter des données biologiques pour comprendre les processus sous-jacents",
-                  "code": "C11",
-                  "bs": "15",
-                  "niveau": "3"
-                }
-              ],
+              "competenceToCapaciteEtConnaissance": {},
               "connaissances": "de la R et D à la production. Nous proposons aux étudiants  de vivre une expérience de déploiement  de cette méthodologie au contact d'un intervenant industriel."
             }
           },
@@ -6039,7 +5974,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BIM-C11": [
+                "BS-C11": [
                   "Appliquer des chaînes de Markov cachées pour la comparaison, l'identification, l'alignement et la prédiction de séquences.",
                   "Utiliser des processus de Moran pour inferrer les étapes de développement de cancer.",
                   "Construire et simuler des réseaux biochimiques à l'aide de l'algorithme de simulation stochastique.",
@@ -6102,7 +6037,7 @@
               "projet": "0.0 h",
               "perso": "17.0 h",
               "nom": "Informatique : Traitement du signal et analyse d'image",
-              "competencesBrutes": "COMPETENCES : Cet EC contribue aux compétences ci-dessous (niveau) avec les capacités associées : A5. Traiter des données (niveau 3) - caractériser un signal, - filtrer les éléments indésirables d'un signal, - utiliser les outils spécifiques pour traiter les signaux aléatoires, - restaurer un signal bidimensionnel de type image, - extraire l'information utile d'un signal bidimensionnel de type image, - décrire les objets détectés dans un signal bidimensionnel de type image. C3. Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 3) - réaliser l'acquisition d'un signal (échantillonnage, théorème de Shannon) C9. Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 2) C10. Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3) C12. Automatiser le traitement et l'extraction de connaissances à partir de données biologiques. (niveau 3)  Cet EC mobilise de plus les compétences suivantes : A4. Concevoir un système répondant à un cahier des charges  Les connaissances associées à cet EC sont : I. TRAITEMENT DES SIGNAUX 1D  1. Définition d'un signal 2. Définition de son spectre et transformée de Fourier 3. Convolution et filtrage 4. Acquisition et échantillonnage 5. Bruit, signaux aléatoires  I. TRAITEMENT DES IMAGES (SIGNAUX 2D)  1. Introduction au traitement d'images 2. Filtrage (convolution, filtres spatiaux, filtres fréquentiels) 3. Détection de contours, segmentation 4. Opérations sur images binaires, morphomathématiques 5. Détection et reconnaissance d'objects  OBJECTIFS : A l'issue de ce module, l'étudiant sera capable de : - définir un problème de traitement et d'analyse de signal et/ou d'image, par exemple en microscopie optique, - de réaliser l'acquisition d'un signal (échantillonnage, théorème de Shannon), - de caractériser un signal, - de filtrer les éléments ind��sirables d'un signal, - d'utiliser les outils spécifiques pour traiter les signaux aléatoires, - de restaurer un signal bidimensionnel de type image, - d'extraire l'information utile d'un signal bidimensionnel de type image, - de décrire les objets détectés dans un signal bidimensionnel de type image.",
+              "competencesBrutes": "COMPETENCES : Cet EC contribue aux compétences ci-dessous (niveau) avec les capacités associées : A5. Traiter des données (niveau 3) - caractériser un signal, - filtrer les éléments indésirables d'un signal, - utiliser les outils spécifiques pour traiter les signaux aléatoires, - restaurer un signal bidimensionnel de type image, - extraire l'information utile d'un signal bidimensionnel de type image, - décrire les objets détectés dans un signal bidimensionnel de type image. C3. Collecter, stocker et organiser des données biologiques obtenues in vivo, in vitro et in silico y compris massive (big data) (niveau 3) - réaliser l'acquisition d'un signal (échantillonnage, théorème de Shannon) C9. Choisir et mettre en œuvre des outils statistiques adaptés aux et à une problématique biologique (niveau 2) C10. Apprécier les limites de validité d'un modèle et identifier les sources de variabilité et d'incertitudes (niveau 3) C12. Automatiser le traitement et l'extraction de connaissances �� partir de données biologiques. (niveau 3)  Cet EC mobilise de plus les compétences suivantes : A4. Concevoir un système répondant à un cahier des charges  Les connaissances associées à cet EC sont : I. TRAITEMENT DES SIGNAUX 1D  1. Définition d'un signal 2. Définition de son spectre et transformée de Fourier 3. Convolution et filtrage 4. Acquisition et échantillonnage 5. Bruit, signaux aléatoires  I. TRAITEMENT DES IMAGES (SIGNAUX 2D)  1. Introduction au traitement d'images 2. Filtrage (convolution, filtres spatiaux, filtres fréquentiels) 3. Détection de contours, segmentation 4. Opérations sur images binaires, morphomathématiques 5. Détection et reconnaissance d'objects  OBJECTIFS : A l'issue de ce module, l'étudiant sera capable de : - définir un problème de traitement et d'analyse de signal et/ou d'image, par exemple en microscopie optique, - de réaliser l'acquisition d'un signal (échantillonnage, théorème de Shannon), - de caractériser un signal, - de filtrer les éléments indésirables d'un signal, - d'utiliser les outils spécifiques pour traiter les signaux aléatoires, - de restaurer un signal bidimensionnel de type image, - d'extraire l'information utile d'un signal bidimensionnel de type image, - de décrire les objets détectés dans un signal bidimensionnel de type image.",
               "capacite": [
                 "caractériser un signal,",
                 "filtrer les éléments indésirables d'un signal,",
@@ -6122,7 +6057,7 @@
                   "extraire l'information utile d'un signal bidimensionnel de type image,",
                   "décrire les objets détectés dans un signal bidimensionnel de type image."
                 ],
-                "BIM-C3": [
+                "BS-C3": [
                   "réaliser l'acquisition d'un signal (échantillonnage, théorème de Shannon)"
                 ]
               },
@@ -6159,7 +6094,7 @@
                 },
                 null
               ],
-              "connaissances": "- définir un problème de traitement et d'analyse de signal et/ou d'image, par exemple en microscopie optique, - de réaliser l'acquisition d'un signal (échantillonnage, théorème de Shannon), - de caractériser un signal, - de filtrer les éléments ind��sirables d'un signal, - d'utiliser les outils spécifiques pour traiter les signaux aléatoires, - de restaurer un signal bidimensionnel de type image, - d'extraire l'information utile d'un signal bidimensionnel de type image, - de décrire les objets détectés dans un signal bidimensionnel de type image."
+              "connaissances": "- définir un problème de traitement et d'analyse de signal et/ou d'image, par exemple en microscopie optique, - de réaliser l'acquisition d'un signal (échantillonnage, théorème de Shannon), - de caractériser un signal, - de filtrer les éléments indésirables d'un signal, - d'utiliser les outils spécifiques pour traiter les signaux aléatoires, - de restaurer un signal bidimensionnel de type image, - d'extraire l'information utile d'un signal bidimensionnel de type image, - de décrire les objets détectés dans un signal bidimensionnel de type image."
             }
           },
           {
@@ -6267,7 +6202,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : JOB HUNTING in English S7",
-              "competencesBrutes": "CT1: SE CONNAÎTRE, SE GÉRER PHYSIQUEMENT ET MENTALEMENT 1.1- Se situer, s'auto évaluer CT2: TRAVAILLER, APPRENDRE, ÉVOLUER DE MANIÈRE AUTONOME 2.1- Mobiliser ses ressources 2.2- Élaborer, mettre en oeuvre, réguler une stratégie d'action pertinente dans un but défini CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.1- Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères 7.2- Décoder des références culturelles dans des discours, attitudes et comportements --L'étudiant peut apprendre à relater des éléments de son expérience personnelle et professionnelle et à rédiger de manière appropriée à la recherche d'emploi.  Compétences mobilisées --Communiquer face à face, par mail ou par téléphone sur des sujets complexes avec plusieurs interlocuteurs; --Réussir une présentation orale persuasive",
+              "competencesBrutes": "CT1: SE CONNAÎTRE, SE GÉRER PHYSIQUEMENT ET MENTALEMENT 1.1- Se situer, s'auto évaluer CT2: TRAVAILLER, APPRENDRE, ÉVOLUER DE MANIÈRE AUTONOME 2.1- Mobiliser ses ressources 2.2- Élaborer, mettre en oeuvre, réguler une stratégie d'action pertinente dans un but défini CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.1- Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères 7.2- Décoder des références culturelles dans des discours, attitudes et comportements --L'étudiant peut apprendre à relater des éléments de son exp��rience personnelle et professionnelle et à rédiger de manière appropriée à la recherche d'emploi.  Compétences mobilisées --Communiquer face à face, par mail ou par téléphone sur des sujets complexes avec plusieurs interlocuteurs; --Réussir une présentation orale persuasive",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -7066,7 +7001,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BIM-C3": [
+                "BS-C3": [
                   "Construire des modèles de réseaux génétiques ou métaboliques prédictifs à partir d'information génomiques, transcriptomiques et/ou protéomiques"
                 ]
               },
@@ -7178,7 +7113,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BIM-C11": [
+                "BS-C11": [
                   "Utiliser des logiciels d'alignement, de comparaisons de séquences et de phylogénie"
                 ]
               },
@@ -7250,7 +7185,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BIM-C11": [
+                "BS-C11": [
                   "Exploiter les ressources issues des grandes bases de données génomiques et protéiques",
                   "y compris structurale"
                 ]
@@ -7479,7 +7414,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BIM-C14": [
+                "BS-C14": [
                   "Comprendre les phénomènes biologiques et physicochimiques induisant la modification souhaitée ou non d'un aliment",
                   "Connaître les diagrammes de fabrication et les opérations unitaires dédiées"
                 ]
