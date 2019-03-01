@@ -696,7 +696,7 @@
             "UE": "Humanités et Education Sportive (GE-3-UE33)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36882&_lang=fr",
             "detail": {
-              "code": "HU-L-ANG-MOD-TRT-",
+              "code": "HU-L-ANG-MOD-TRT-S5",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -732,7 +732,7 @@
             "UE": "Humanités et Education Sportive (GE-3-UE33)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36893&_lang=fr",
             "detail": {
-              "code": "HU-L-ANG-MOD-",
+              "code": "HU-L-ANG-MOD-MUS-S5",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -966,7 +966,7 @@
             "UE": "Humanités et Education Sportive (GE-3-UE33)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36824&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S1-",
+              "code": "HU-L-ESP-S1-HUMOUR",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -984,7 +984,7 @@
             "UE": "Humanités et Education Sportive (GE-3-UE33)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36800&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S1-",
+              "code": "HU-L-ESP-S1-CATALAN",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -1038,7 +1038,7 @@
             "UE": "Humanités et Education Sportive (GE-3-UE33)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34927&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP/FLE-TAN-",
+              "code": "HU-L-ESP/FLE-TAN-S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -1182,7 +1182,7 @@
             "UE": "Humanités et Education Sportive (GE-3-UE33)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34807&_lang=fr",
             "detail": {
-              "code": "HU-L-",
+              "code": "HU-L-FLEDptTTCB1B2S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -1236,7 +1236,7 @@
             "UE": "Humanités et Education Sportive (GE-3-UE33)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34939&_lang=fr",
             "detail": {
-              "code": "HU-L-FLEDptCCB2C1-",
+              "code": "HU-L-FLEDptCCB2C1-S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "28.0 h",
@@ -2154,7 +2154,7 @@
             "UE": "Humanités et Education Sportive (GE-3-UE36)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36894&_lang=fr",
             "detail": {
-              "code": "HU-L-ANG-MOD-",
+              "code": "HU-L-ANG-MOD-MUS-S6",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2190,7 +2190,7 @@
             "UE": "Humanités et Education Sportive (GE-3-UE36)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36883&_lang=fr",
             "detail": {
-              "code": "HU-L-ANG-MOD-TRT-",
+              "code": "HU-L-ANG-MOD-TRT-S6",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2316,7 +2316,7 @@
             "UE": "Humanités et Education Sportive (GE-3-UE36)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36825&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S2-",
+              "code": "HU-L-ESP-S2-INTERCOM",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2352,7 +2352,7 @@
             "UE": "Humanités et Education Sportive (GE-3-UE36)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36836&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S2-TH",
+              "code": "HU-L-ESP-S2-TH+MUS",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2370,7 +2370,7 @@
             "UE": "Humanités et Education Sportive (GE-3-UE36)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34930&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP/FLE-TAN-",
+              "code": "HU-L-ESP/FLE-TAN-S2",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2532,7 +2532,7 @@
             "UE": "Humanités et Education Sportive (GE-3-UE36)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34806&_lang=fr",
             "detail": {
-              "code": "HU-L-FLE Dpt PEB2",
+              "code": "HU-L-FLE Dpt PEB2S2",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2586,7 +2586,7 @@
             "UE": "Humanités et Education Sportive (GE-3-UE36)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34482&_lang=fr",
             "detail": {
-              "code": "HU-L-FLEDptCCB2C1-",
+              "code": "HU-L-FLEDptCCB2C1-S2",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "28.0 h",
@@ -2604,7 +2604,7 @@
             "UE": "Humanités et Education Sportive (GE-3-UE36)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34425&_lang=fr",
             "detail": {
-              "code": "HU-L-",
+              "code": "HU-L-FLEDptTTCB1B2S2",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -3788,7 +3788,7 @@
             "UE": "Humanités et Education Sportive (GE-4-UE43-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34927&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP/FLE-TAN-",
+              "code": "HU-L-ESP/FLE-TAN-S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -3806,7 +3806,7 @@
             "UE": "Humanités et Education Sportive (GE-4-UE43-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36800&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S1-",
+              "code": "HU-L-ESP-S1-CATALAN",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -3950,7 +3950,7 @@
             "UE": "Humanités et Education Sportive (GE-4-UE43-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36824&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S1-",
+              "code": "HU-L-ESP-S1-HUMOUR",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -4094,7 +4094,7 @@
             "UE": "Humanités et Education Sportive (GE-4-UE43-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34807&_lang=fr",
             "detail": {
-              "code": "HU-L-",
+              "code": "HU-L-FLEDptTTCB1B2S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -4184,7 +4184,7 @@
             "UE": "Humanités et Education Sportive (GE-4-UE43-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34939&_lang=fr",
             "detail": {
-              "code": "HU-L-FLEDptCCB2C1-",
+              "code": "HU-L-FLEDptCCB2C1-S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "28.0 h",
@@ -5228,7 +5228,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : JOB HUNTING in English S7",
-              "competencesBrutes": "CT1: SE CONNAÎTRE, SE GÉRER PHYSIQUEMENT ET MENTALEMENT 1.1- Se situer, s'auto évaluer CT2: TRAVAILLER, APPRENDRE, ÉVOLUER DE MANIÈRE AUTONOME 2.1- Mobiliser ses ressources 2.2- Élaborer, mettre en oeuvre, réguler une stratégie d'action pertinente dans un but défini CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.1- Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères 7.2- Décoder des références culturelles dans des discours, attitudes et comportements --L'étudiant peut apprendre à relater des éléments de son exp��rience personnelle et professionnelle et à rédiger de manière appropriée à la recherche d'emploi.  Compétences mobilisées --Communiquer face à face, par mail ou par téléphone sur des sujets complexes avec plusieurs interlocuteurs; --Réussir une présentation orale persuasive",
+              "competencesBrutes": "CT1: SE CONNAÎTRE, SE GÉRER PHYSIQUEMENT ET MENTALEMENT 1.1- Se situer, s'auto évaluer CT2: TRAVAILLER, APPRENDRE, ÉVOLUER DE MANIÈRE AUTONOME 2.1- Mobiliser ses ressources 2.2- Élaborer, mettre en oeuvre, réguler une stratégie d'action pertinente dans un but défini CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.1- Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères 7.2- Décoder des références culturelles dans des discours, attitudes et comportements --L'étudiant peut apprendre à relater des éléments de son expérience personnelle et professionnelle et à rédiger de manière appropriée à la recherche d'emploi.  Compétences mobilisées --Communiquer face à face, par mail ou par téléphone sur des sujets complexes avec plusieurs interlocuteurs; --Réussir une présentation orale persuasive",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -5281,7 +5281,7 @@
               "tp": "0.0 h",
               "projet": "0.0 h",
               "perso": "14.0 h",
-              "nom": "Langues Étrang��res : MODULE TECHNIQUE S2",
+              "nom": "Langues Étrangères : MODULE TECHNIQUE S2",
               "competencesBrutes": "L'évaluation des choix scientifiques et technologiques donne le cadre de ce module dans l'objectif d'apprentissage d'un allemand spécifique.  L'objectif de ce module est aussi de donner un espace aux questions suivantes qui deviennent importantes pour la société moderne : A) Qu'est-ce qu'on peut faire ? B) Qu'est-ce qu'on doit faire ? et C) Qu'est-ce qu'on veut faire ?  Ce cours permet de développer - sa compréhension/expression dans des situations rencontrées dans une entreprise, dans un bureau d'études, un laboratoire de recherche, lors d'un salon de la branche industrielle en question, communication par internet/par fax  - des méthodes et stratégies de lecture de textes de spécialité, y compris quelques traductions  - du vocabulaire de base de l'entreprise",
               "capacite": [],
               "connaissance": [],
@@ -5346,7 +5346,7 @@
             "UE": "Humanités et Education Sportive (GE-4-UE43-S2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36825&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S2-",
+              "code": "HU-L-ESP-S2-INTERCOM",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -5382,7 +5382,7 @@
             "UE": "Humanités et Education Sportive (GE-4-UE43-S2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36836&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S2-TH",
+              "code": "HU-L-ESP-S2-TH+MUS",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -5400,7 +5400,7 @@
             "UE": "Humanités et Education Sportive (GE-4-UE43-S2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34930&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP/FLE-TAN-",
+              "code": "HU-L-ESP/FLE-TAN-S2",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -5562,7 +5562,7 @@
             "UE": "Humanités et Education Sportive (GE-4-UE43-S2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34482&_lang=fr",
             "detail": {
-              "code": "HU-L-FLEDptCCB2C1-",
+              "code": "HU-L-FLEDptCCB2C1-S2",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "28.0 h",
@@ -5598,7 +5598,7 @@
             "UE": "Humanités et Education Sportive (GE-4-UE43-S2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34425&_lang=fr",
             "detail": {
-              "code": "HU-L-",
+              "code": "HU-L-FLEDptTTCB1B2S2",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -5634,7 +5634,7 @@
             "UE": "Humanités et Education Sportive (GE-4-UE43-S2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34806&_lang=fr",
             "detail": {
-              "code": "HU-L-FLE Dpt PEB2",
+              "code": "HU-L-FLE Dpt PEB2S2",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -7720,7 +7720,7 @@
             "UE": "GE-5-FEE (GE-5-FEE)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34748&_lang=fr",
             "detail": {
-              "code": "HU-5-FEE LYONTECH-",
+              "code": "HU-5-FEE LYONTECH-S2",
               "ects": "30.0",
               "cours": "180.0 h",
               "td": "50.0 h",
