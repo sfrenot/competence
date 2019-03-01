@@ -35,7 +35,7 @@ getCompetenceSection = (matiere, start) ->
   compSections = [
     "Cet EC contribue aux : "
     "En mobilisant les compétences suivantes"
-    "\n\n[http//if.insa-lyon.fr|mailto]"
+    "http://if.insa-lyon.fr"
     ""
   ]
   startfound = false
@@ -51,7 +51,8 @@ getCompetenceSection = (matiere, start) ->
     console.error "#{matiere.code} section \"#{start}\" introuvable}."
 
 extractPdfStructure = (pdf) ->
-  #console.log '->', pdf
+  # console.log '->', pdf
+  # process.exit()
   matiere = {}
   # console.warn "-->", pdf
   # console.warn "Recherche mat"
@@ -169,7 +170,7 @@ request()
     if departement is DPTINSA
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        if $(@).attr('href') is '/fr/formation/parcours/726/3/1'
+        # if $(@).attr('href') is '/fr/formation/parcours/726/4/1'
           semestres.push
             url: $(@).attr('href')
             ecs: []
@@ -191,7 +192,7 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
-            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34461&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34465&_lang=fr'
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')

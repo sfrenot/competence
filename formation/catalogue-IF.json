@@ -983,7 +983,7 @@
             "UE": "3IF - Langues Etrangères (S1) (IF-3-UE-LANG-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36882&_lang=fr",
             "detail": {
-              "code": "HU-L-ANG-MOD-TRT-",
+              "code": "HU-L-ANG-MOD-TRT-S5",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -1001,7 +1001,7 @@
             "UE": "3IF - Langues Etrangères (S1) (IF-3-UE-LANG-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36893&_lang=fr",
             "detail": {
-              "code": "HU-L-ANG-MOD-",
+              "code": "HU-L-ANG-MOD-MUS-S5",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -1181,7 +1181,7 @@
             "UE": "3IF - Langues Etrangères (S1) (IF-3-UE-LANG-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34927&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP/FLE-TAN-",
+              "code": "HU-L-ESP/FLE-TAN-S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -1199,7 +1199,7 @@
             "UE": "3IF - Langues Etrangères (S1) (IF-3-UE-LANG-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36800&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S1-",
+              "code": "HU-L-ESP-S1-CATALAN",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -1325,7 +1325,7 @@
             "UE": "3IF - Langues Etrangères (S1) (IF-3-UE-LANG-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36824&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S1-",
+              "code": "HU-L-ESP-S1-HUMOUR",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -1541,7 +1541,7 @@
             "UE": "3IF - Langues Etrangères (S1) (IF-3-UE-LANG-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34939&_lang=fr",
             "detail": {
-              "code": "HU-L-FLEDptCCB2C1-",
+              "code": "HU-L-FLEDptCCB2C1-S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "28.0 h",
@@ -1559,7 +1559,7 @@
             "UE": "3IF - Langues Etrangères (S1) (IF-3-UE-LANG-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34807&_lang=fr",
             "detail": {
-              "code": "HU-L-",
+              "code": "HU-L-FLEDptTTCB1B2S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -1603,7 +1603,7 @@
               "projet": "0.0 h",
               "perso": "0.0 h",
               "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives",
-              "competencesBrutes": "Cet EC relève de l¿Unité d¿enseignement : SHS et contribue à développer 6 compétences écoles en humanité, documentation et Education Physique et Sportive.  B1 : Autoévaluer ses propres performances Connaissances : - Fondamentaux, principes d¿actions et terminologie des Activités Physiques Sportives et Artistiques (APSA) - Critères  d¿observation, de réalisation et  de réussite. Capacités : - Situer son niveau de pratique - Construire un échauffement - Se fixer des objectifs de progrès - Développer une motricité spécifique à l¿APSA - Gérer son potentiel physique et mental  B2 : Travailler, apprendre, évoluer de manière autonome Connaissances : - Règlements des APSA - Critères d¿observation - Principes d¿échauffement, de récupération¿ Capacités : - Mobiliser ses ressources - Analyser, observer, interroger - S¿engager dans différents rôles (arbitre, chorégraphe¿)  B3 : Interagir avec les autres, travailler en équipe Connaissances : - Différents rôles et fonctions dans chaque APSA - Points forts et points faibles de chacun - Facteurs de motivation Capacités : - Communiquer de manière appropriée : communication verbale, non verbale, posturale - S¿intégrer dans un groupe - S¿engager dans un projet collectif et le faire évoluer - Prendre des initiatives - Etre à l¿écoute  B4 : Faire preuve de créativité, innover, entreprendre Connaissances : - Les champs disciplinaires artistiques - Les lieux de diffusion et de création et les fréquenter Capacités : - Mobiliser ses acquis, ses ressources et puiser dans divers champs artistiques pour produire une création originale - Mobiliser son imaginaire, sa sensibilité et les rendre lisibles à travers le mouvement dansé - Accéder à la symbolique du corps    B5 : Agir de manière responsable dans un monde complexe Connaissances : - Les règles de sécurité et de fonctionnement Capacités : - Identifier les incertitudes et les risques et agir pour les réduire - Intégrer une dimension responsable dans ses actions - Faire preuve de respect, de fair play dans les rapports de force B7 : Travailler dans un contexte international Connaissances : - Les différences socio-culturelles Capacités : - Intégrer la diversité culturelle dans le travail en groupe - Agir dans le respect de soi et des autres",
+              "competencesBrutes": "Cet EC relève de l¿Unité d¿enseignement : SHS et contribue à développer 6 compétences écoles en humanité, documentation et Education Physique et Sportive.  B1 : Autoévaluer ses propres performances Connaissances : - Fondamentaux, principes d¿actions et terminologie des Activités Physiques Sportives et Artistiques (APSA) - Critères  d¿observation, de réalisation et  de réussite. Capacités : - Situer son niveau de pratique - Construire un échauffement - Se fixer des objectifs de progrès - Développer une motricité spécifique à l¿APSA - Gérer son potentiel physique et mental  B2 : Travailler, apprendre, évoluer de manière autonome Connaissances : - Règlements des APSA - Critères d¿observation - Principes d¿échauffement, de récupération¿ Capacités : - Mobiliser ses ressources - Analyser, observer, interroger - S¿engager dans différents rôles (arbitre, chorégraphe¿)  B3 : Interagir avec les autres, travailler en équipe Connaissances : - Différents rôles et fonctions dans chaque APSA - Points forts et points faibles de chacun - Facteurs de motivation Capacités : - Communiquer de manière appropriée : communication verbale, non verbale, posturale - S¿intégrer dans un groupe - S¿engager dans un projet collectif et le faire évoluer - Prendre des initiatives - Etre à l¿écoute  B4 : Faire preuve de créativité, innover, entreprendre Connaissances : - Les champs disciplinaires artistiques - Les lieux de diffusion et de création et les fréquenter Capacités : - Mobiliser ses acquis, ses ressources et puiser dans divers champs artistiques pour produire une création originale - Mobiliser son imaginaire, sa sensibilité et les rendre lisibles à travers le mouvement dansé - Accéder à la symbolique du corps   B5 : Agir de manière responsable dans un monde complexe Connaissances : - Les règles de sécurité et de fonctionnement Capacités : - Identifier les incertitudes et les risques et agir pour les réduire - Intégrer une dimension responsable dans ses actions - Faire preuve de respect, de fair play dans les rapports de force B7 : Travailler dans un contexte international Connaissances : - Les différences socio-culturelles Capacités : - Intégrer la diversité culturelle dans le travail en groupe - Agir dans le respect de soi et des autres",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -2404,7 +2404,7 @@
             "UE": "3IF - Langues Etrangères (S2) (IF-3-UE-LANG-S2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36883&_lang=fr",
             "detail": {
-              "code": "HU-L-ANG-MOD-TRT-",
+              "code": "HU-L-ANG-MOD-TRT-S6",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2422,7 +2422,7 @@
             "UE": "3IF - Langues Etrangères (S2) (IF-3-UE-LANG-S2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36894&_lang=fr",
             "detail": {
-              "code": "HU-L-ANG-MOD-",
+              "code": "HU-L-ANG-MOD-MUS-S6",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2548,7 +2548,7 @@
             "UE": "3IF - Langues Etrangères (S2) (IF-3-UE-LANG-S2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36825&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S2-",
+              "code": "HU-L-ESP-S2-INTERCOM",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2584,7 +2584,7 @@
             "UE": "3IF - Langues Etrangères (S2) (IF-3-UE-LANG-S2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34930&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP/FLE-TAN-",
+              "code": "HU-L-ESP/FLE-TAN-S2",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2620,7 +2620,7 @@
             "UE": "3IF - Langues Etrangères (S2) (IF-3-UE-LANG-S2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36836&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S2-TH",
+              "code": "HU-L-ESP-S2-TH+MUS",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2746,7 +2746,7 @@
             "UE": "3IF - Langues Etrangères (S2) (IF-3-UE-LANG-S2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34482&_lang=fr",
             "detail": {
-              "code": "HU-L-FLEDptCCB2C1-",
+              "code": "HU-L-FLEDptCCB2C1-S2",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "28.0 h",
@@ -2800,7 +2800,7 @@
             "UE": "3IF - Langues Etrangères (S2) (IF-3-UE-LANG-S2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34806&_lang=fr",
             "detail": {
-              "code": "HU-L-FLE Dpt PEB2",
+              "code": "HU-L-FLE Dpt PEB2S2",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2836,7 +2836,7 @@
             "UE": "3IF - Langues Etrangères (S2) (IF-3-UE-LANG-S2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34425&_lang=fr",
             "detail": {
-              "code": "HU-L-",
+              "code": "HU-L-FLEDptTTCB1B2S2",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2862,7 +2862,7 @@
               "projet": "0.0 h",
               "perso": "0.0 h",
               "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives",
-              "competencesBrutes": "Cet EC relève de l¿Unité d¿enseignement : SHS et contribue à développer 6 compétences écoles en humanité, documentation et Education Physique et Sportive.  B1 : Autoévaluer ses propres performances Connaissances : - Fondamentaux, principes d¿actions et terminologie des Activités Physiques Sportives et Artistiques (APSA) - Critères  d¿observation, de réalisation et  de réussite. Capacités : - Situer son niveau de pratique - Construire un échauffement - Se fixer des objectifs de progrès - Développer une motricité spécifique à l¿APSA - Gérer son potentiel physique et mental  B2 : Travailler, apprendre, évoluer de manière autonome Connaissances : - Règlements des APSA - Critères d¿observation - Principes d¿échauffement, de récupération¿ Capacités : - Mobiliser ses ressources - Analyser, observer, interroger - S¿engager dans différents rôles (arbitre, chorégraphe¿)  B3 : Interagir avec les autres, travailler en équipe Connaissances : - Différents rôles et fonctions dans chaque APSA - Points forts et points faibles de chacun - Facteurs de motivation Capacités : - Communiquer de manière appropriée : communication verbale, non verbale, posturale - S¿intégrer dans un groupe - S¿engager dans un projet collectif et le faire évoluer - Prendre des initiatives - Etre à l¿écoute  B4 : Faire preuve de créativité, innover, entreprendre Connaissances : - Les champs disciplinaires artistiques - Les lieux de diffusion et de création et les fréquenter Capacités : - Mobiliser ses acquis, ses ressources et puiser dans divers champs artistiques pour produire une création originale - Mobiliser son imaginaire, sa sensibilité et les rendre lisibles à travers le mouvement dansé - Accéder à la symbolique du corps    B5 : Agir de manière responsable dans un monde complexe Connaissances : - Les règles de sécurité et de fonctionnement Capacités : - Identifier les incertitudes et les risques et agir pour les réduire - Intégrer une dimension responsable dans ses actions - Faire preuve de respect, de fair play dans les rapports de force B7 : Travailler dans un contexte international Connaissances : - Les différences socio-culturelles Capacités : - Intégrer la diversité culturelle dans le travail en groupe - Agir dans le respect de soi et des autres",
+              "competencesBrutes": "Cet EC relève de l¿Unité d¿enseignement : SHS et contribue à développer 6 compétences écoles en humanité, documentation et Education Physique et Sportive.  B1 : Autoévaluer ses propres performances Connaissances : - Fondamentaux, principes d¿actions et terminologie des Activités Physiques Sportives et Artistiques (APSA) - Critères  d¿observation, de réalisation et  de réussite. Capacités : - Situer son niveau de pratique - Construire un échauffement - Se fixer des objectifs de progrès - Développer une motricité spécifique à l¿APSA - Gérer son potentiel physique et mental  B2 : Travailler, apprendre, évoluer de manière autonome Connaissances : - Règlements des APSA - Critères d¿observation - Principes d¿échauffement, de récupération¿ Capacités : - Mobiliser ses ressources - Analyser, observer, interroger - S¿engager dans différents rôles (arbitre, chorégraphe¿)  B3 : Interagir avec les autres, travailler en équipe Connaissances : - Différents rôles et fonctions dans chaque APSA - Points forts et points faibles de chacun - Facteurs de motivation Capacités : - Communiquer de manière appropriée : communication verbale, non verbale, posturale - S¿intégrer dans un groupe - S¿engager dans un projet collectif et le faire évoluer - Prendre des initiatives - Etre à l¿écoute  B4 : Faire preuve de créativité, innover, entreprendre Connaissances : - Les champs disciplinaires artistiques - Les lieux de diffusion et de création et les fréquenter Capacités : - Mobiliser ses acquis, ses ressources et puiser dans divers champs artistiques pour produire une création originale - Mobiliser son imaginaire, sa sensibilité et les rendre lisibles à travers le mouvement dansé - Accéder à la symbolique du corps   B5 : Agir de manière responsable dans un monde complexe Connaissances : - Les règles de sécurité et de fonctionnement Capacités : - Identifier les incertitudes et les risques et agir pour les réduire - Intégrer une dimension responsable dans ses actions - Faire preuve de respect, de fair play dans les rapports de force B7 : Travailler dans un contexte international Connaissances : - Les différences socio-culturelles Capacités : - Intégrer la diversité culturelle dans le travail en groupe - Agir dans le respect de soi et des autres",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -3350,7 +3350,7 @@
               "projet": "0.0 h",
               "perso": "60.0 h",
               "nom": "4IF - Méthodologie pour la conception et le déploiement d'Architectures : Réseau et de Services",
-              "competencesBrutes": "Ce projet tiré de cas réels vise la proposition d'une architecture distribuée pour supporter un service de gestion de vision 360° client dans une entreprise commerciale multi-agences et multi-sites. L'objectif est de comprendre un besoin métier et le traduire en solution au niveau applicatif, technique et physique et de concevoir l'architecture applicative (objets métier et couches de services)et technique incluant l'organisation de l'infrastructure en prenant en compte les impératifs de sécurité du SI et sa disponibilité (organisation d'un plan de reprise d'activité)sur cette nouvelle fonctionnalité. La mise en œuvre d'un POC sur table utilisant des technologies de virtualisation permettra de valider les choix architecturaux et d¿en démontrer la faisabilité. Plus précisément, les objectifs sont de - Se confronter à un contexte métier réel à l'échelle de l'entreprise - Mettre en œuvre UML pour la conception et le développement d'architecture applicative - Mettre en œuvre une méthodologie de conception d¿architecture applicative Web orientée services (Identifier et modéliser les objets métiers, Concevoir et spécifier les couches de services, Concevoir l'architecture technique support, Prototyper et déployer des services) - Donner une vision concrète de l'organisation d'une infrastructure utilisant machines virtuelles et équipements réels, la mettre en œuvre et en préparer l'exploitation de cette architecture  Cet EC contribue aux :  *** Compétences spécifiques IF ***  == C10 Mettre en oeuvre une chaîne complète pour analyser / transformer un langage (niveau 2) == * Capacités : - Mettre en œuvre un analyseur syntaxique ascendant (niveau 2) - Mettre en œuvre un analyseur lexical (niveau 2) * Connaissances : - L'outil d'analyse automatique Bison/flex - L'outil d'analyse automatique ANTLR2  == C11 Mettre en oeuvre une méthodologie pour concevoir, réaliser et maintenir des logiciels de qualité (niveau 1.5) == * Capacités : - Mettre en oeuvre les principes du manifeste Agile (niveau 1) - Mettre en oeuvre un processus de développement itératif  (niveau 2)  == C12 Concevoir l'architecture d'un logiciel orienté objet (niveau 2) == * Capacités : - Utiliser des Design Patterns (niveau 2) - Structurer un logiciel en paquetages et classes faiblement couplés et fortement cohésifs (niveau 2)  == C13 Implémenter de bons logiciels (niveau 2) == * Capacités : - Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 2) - Mettre en oeuvre à bon escient les mécanismes offerts par les langages de programmation orientés objet : héritage, généricité, surcharge, polymorphisme, ... (niveau 2)  == C15 Utiliser des diagrammes UML pour modéliser un objet d'étude (niveau 2) == * Capacités : - Concevoir un diagramme UML modélisant un objet d'étude (niveau 2)  http://if.insa-lyon.fr",
+              "competencesBrutes": "Ce projet tiré de cas réels vise la proposition d'une architecture distribuée pour supporter un service de gestion de vision 360° client dans une entreprise commerciale multi-agences et multi-sites. L'objectif est de comprendre un besoin métier et le traduire en solution au niveau applicatif, technique et physique et de concevoir l'architecture applicative (objets métier et couches de services)et technique incluant l'organisation de l'infrastructure en prenant en compte les impératifs de sécurité du SI et sa disponibilité (organisation d'un plan de reprise d'activité)sur cette nouvelle fonctionnalité. La mise en œuvre d'un POC sur table utilisant des technologies de virtualisation permettra de valider les choix architecturaux et d¿en démontrer la faisabilité. Plus précisément, les objectifs sont de - Se confronter à un contexte métier réel à l'échelle de l'entreprise - Mettre en œuvre UML pour la conception et le développement d'architecture applicative - Mettre en œuvre une méthodologie de conception d¿architecture applicative Web orientée services (Identifier et modéliser les objets métiers, Concevoir et spécifier les couches de services, Concevoir l'architecture technique support, Prototyper et déployer des services) - Donner une vision concrète de l'organisation d'une infrastructure utilisant machines virtuelles et équipements réels, la mettre en œuvre et en préparer l'exploitation de cette architecture  Cet EC contribue aux :  *** Compétences spécifiques IF ***  == C10 Mettre en oeuvre une chaîne complète pour analyser / transformer un langage (niveau 2) == * Capacités : - Mettre en œuvre un analyseur syntaxique ascendant (niveau 2) - Mettre en œuvre un analyseur lexical (niveau 2) * Connaissances : - L'outil d'analyse automatique Bison/flex - L'outil d'analyse automatique ANTLR2  == C11 Mettre en oeuvre une méthodologie pour concevoir, réaliser et maintenir des logiciels de qualité (niveau 1.5) == * Capacités : - Mettre en oeuvre les principes du manifeste Agile (niveau 1) - Mettre en oeuvre un processus de développement itératif  (niveau 2)  == C12 Concevoir l'architecture d'un logiciel orienté objet (niveau 2) == * Capacités : - Utiliser des Design Patterns (niveau 2) - Structurer un logiciel en paquetages et classes faiblement couplés et fortement cohésifs (niveau 2)  == C13 Implémenter de bons logiciels (niveau 2) == * Capacités : - Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 2) - Mettre en oeuvre à bon escient les mécanismes offerts par les langages de programmation orientés objet : héritage, généricité, surcharge, polymorphisme, ... (niveau 2)  == C15 Utiliser des diagrammes UML pour modéliser un objet d'étude (niveau 2) == * Capacités : - Concevoir un diagramme UML modélisant un objet d'étude (niveau 2)  http://if.insa-lyon.fr http://www.insa-lyon.fr   INSA LYON Campus LyonTech La Doua 20, avenue Albert Einstein - 69621 Villeurbanne cedex - France Tel. +33 (0)4 72 43 83 83 - Fax +33 (0)4 72 43 85 00 www.insa-lyon.fr  Dernière modification le : 20 décembre 2018 2",
               "capacite": [
                 "capacite : Mettre en œuvre un analyseur syntaxique ascendant (niveau 2)",
                 "capacite : Mettre en œuvre un analyseur lexical (niveau 2)",
@@ -3360,7 +3360,7 @@
                 "capacite : Structurer un logiciel en paquetages et classes faiblement couplés et fortement cohésifs (niveau 2)",
                 "capacite : Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 2)",
                 "capacite : Mettre en oeuvre à bon escient les mécanismes offerts par les langages de programmation orientés objet : héritage, généricité, surcharge, polymorphisme, ... (niveau 2)",
-                "capacite : Concevoir un diagramme UML modélisant un objet d'étude (niveau 2)  http://if.insa-lyon.fr"
+                "capacite : Concevoir un diagramme UML modélisant un objet d'étude (niveau 2)"
               ],
               "connaissance": [
                 "connaissance : L'outil d'analyse automatique Bison/flex",
@@ -3386,7 +3386,7 @@
                   "capacite : Mettre en oeuvre à bon escient les mécanismes offerts par les langages de programmation orientés objet : héritage, généricité, surcharge, polymorphisme, ... (niveau 2)"
                 ],
                 "C15": [
-                  "capacite : Concevoir un diagramme UML modélisant un objet d'étude (niveau 2)  http://if.insa-lyon.fr"
+                  "capacite : Concevoir un diagramme UML modélisant un objet d'étude (niveau 2)"
                 ]
               },
               "listeComp": [
@@ -3430,12 +3430,12 @@
               "projet": "0.0 h",
               "perso": "10.0 h",
               "nom": "Entreprise : 4IF - Gestion de Projets",
-              "competencesBrutes": "1) Acquérir les principes de base, les méthodes et les outils standards pour la conduite de projet.  2) Connaître les démarches habituelles utilisées dans les différentes phases d'un projet de conception de système d'information : + Étude des cycles de vie d'un projet + Découpage en phases, sous-phases, tâches, planning + Plans des livrables (dossier à fournir) + Évaluation des charges et des coûts + Analyse des risques + Management d'équipes + Tableaux de bord, indicateurs + Suivi,  3) Se familiariser avec les outils, les standards de gestion de projets  Cet EC contribue aux :  *** Compétences transversales ***  == B3 Interagir avec les autres, travailler en équipe (niveau 1) == * Connaissances : - Rôles des acteurs d'un projet  == B5 Agir de manière responsable dans un monde complexe (niveau 1) == * Capacités : - Comprendre les attentes et s¿approprier les objectifs (niveau 1) - Identifier les incertitudes et les risques et agir pour les réduire (niveau 1) - Mettre à jour et suivre un tableau de bord (niveau 1) - Identifier et décrire les livrables, les activités et les tâches et élaborer un planning prévisionnel (niveau 1) - Suivre les états d¿avancement (tâches, livrables) et optimiser les coûts et les délais (niveau 1) - Suivre la qualité, les risques (niveau 1) - Organiser une équipe de projet et répartir les rôles (niveau 1) - Maitriser un outil de gestion de projet (Exemple MS Project) (niveau 1) - Organiser et animer des réunions (niveau 1) - Estimer les charges, les coûts et prévoir les ressources et établir un budget (niveau 1)  *** Compétences spécifiques IF ***  == C23 Mettre en œuvre une méthode d'analyse et de conception d'architectures de SI (niveau 1) == * Connaissances : - Architectures applicatives et techniques  == C25 Analyser les besoins métiers d'un client (niveau 1) == * Connaissances : - Cahier des charges - Organisation et fonctionnement d'une entreprise - Modèles d'entreprise  == C29 Analyser et concevoir des modèles de processus (niveau 1) == * Connaissances : - Compréhension des besoins métiers  http://if.insa-lyon.fr   En mobilisant les compétences suivantes - A1 Analyser un système (ou un problème) réel ou virtuel - B2 Travailler, apprendre, évoluer de façon autonome - B3 Interagir avec les autres, travailler en équipe - B4 Faire preuve de créativité, innover, entreprendre - B5 Agir de manière responsable dans un monde complexe - C09 Mettre en oeuvre un processus d'assurance et de contrôle qualité. - C19 Découverte de connaissances et prise de décision - C23 Mettre en œuvre une méthode d'analyse et de conception d'architectures de SI",
+              "competencesBrutes": "1) Acquérir les principes de base, les méthodes et les outils standards pour la conduite de projet.  2) Connaître les démarches habituelles utilisées dans les différentes phases d'un projet de conception de système d'information : + Étude des cycles de vie d'un projet + Découpage en phases, sous-phases, tâches, planning + Plans des livrables (dossier à fournir) + Évaluation des charges et des coûts + Analyse des risques + Management d'équipes + Tableaux de bord, indicateurs + Suivi,  3) Se familiariser avec les outils, les standards de gestion de projets  Cet EC contribue aux :  *** Compétences transversales ***  == B3 Interagir avec les autres, travailler en équipe (niveau 1) == * Connaissances : - Rôles des acteurs d'un projet  == B5 Agir de manière responsable dans un monde complexe (niveau 1) == * Capacités : - Comprendre les attentes et s¿approprier les objectifs (niveau 1) - Identifier les incertitudes et les risques et agir pour les réduire (niveau 1) - Mettre à jour et suivre un tableau de bord (niveau 1) - Identifier et décrire les livrables, les activités et les t��ches et élaborer un planning prévisionnel (niveau 1) - Suivre les états d¿avancement (tâches, livrables) et optimiser les coûts et les délais (niveau 1) - Suivre la qualité, les risques (niveau 1) - Organiser une équipe de projet et répartir les rôles (niveau 1) - Maitriser un outil de gestion de projet (Exemple MS Project) (niveau 1) - Organiser et animer des réunions (niveau 1) - Estimer les charges, les coûts et prévoir les ressources et établir un budget (niveau 1)  *** Compétences spécifiques IF ***  == C23 Mettre en œuvre une méthode d'analyse et de conception d'architectures de SI (niveau 1) == * Connaissances : - Architectures applicatives et techniques  == C25 Analyser les besoins métiers d'un client (niveau 1) == * Connaissances : - Cahier des charges - Organisation et fonctionnement d'une entreprise - Modèles d'entreprise  == C29 Analyser et concevoir des modèles de processus (niveau 1) == * Connaissances : - Compréhension des besoins métiers  http://if.insa-lyon.fr  En mobilisant les compétences suivantes - A1 Analyser un système (ou un problème) réel ou virtuel - B2 Travailler, apprendre, évoluer de façon autonome - B3 Interagir avec les autres, travailler en équipe - B4 Faire preuve de créativité, innover, entreprendre - B5 Agir de manière responsable dans un monde complexe - C09 Mettre en oeuvre un processus d'assurance et de contrôle qualité. - C19 Découverte de connaissances et prise de décision - C23 Mettre en œuvre une méthode d'analyse et de conception d'architectures de SI",
               "capacite": [
                 "capacite : Comprendre les attentes et s¿approprier les objectifs (niveau 1)",
                 "capacite : Identifier les incertitudes et les risques et agir pour les réduire (niveau 1)",
                 "capacite : Mettre à jour et suivre un tableau de bord (niveau 1)",
-                "capacite : Identifier et décrire les livrables, les activités et les tâches et élaborer un planning prévisionnel (niveau 1)",
+                "capacite : Identifier et décrire les livrables, les activités et les t��ches et élaborer un planning prévisionnel (niveau 1)",
                 "capacite : Suivre les états d¿avancement (tâches, livrables) et optimiser les coûts et les délais (niveau 1)",
                 "capacite : Suivre la qualité, les risques (niveau 1)",
                 "capacite : Organiser une équipe de projet et répartir les rôles (niveau 1)",
@@ -3459,7 +3459,7 @@
                   "capacite : Comprendre les attentes et s¿approprier les objectifs (niveau 1)",
                   "capacite : Identifier les incertitudes et les risques et agir pour les réduire (niveau 1)",
                   "capacite : Mettre à jour et suivre un tableau de bord (niveau 1)",
-                  "capacite : Identifier et décrire les livrables, les activités et les tâches et élaborer un planning prévisionnel (niveau 1)",
+                  "capacite : Identifier et décrire les livrables, les activités et les t��ches et élaborer un planning prévisionnel (niveau 1)",
                   "capacite : Suivre les états d¿avancement (tâches, livrables) et optimiser les coûts et les délais (niveau 1)",
                   "capacite : Suivre la qualité, les risques (niveau 1)",
                   "capacite : Organiser une équipe de projet et répartir les rôles (niveau 1)",
@@ -3764,7 +3764,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : JOB HUNTING in English S7",
-              "competencesBrutes": "CT1: SE CONNAÎTRE, SE GÉRER PHYSIQUEMENT ET MENTALEMENT 1.1- Se situer, s'auto évaluer CT2: TRAVAILLER, APPRENDRE, ÉVOLUER DE MANIÈRE AUTONOME 2.1- Mobiliser ses ressources 2.2- Élaborer, mettre en oeuvre, réguler une stratégie d'action pertinente dans un but défini CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.1- Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères 7.2- Décoder des références culturelles dans des discours, attitudes et comportements --L'étudiant peut apprendre à relater des éléments de son exp��rience personnelle et professionnelle et à rédiger de manière appropriée à la recherche d'emploi.  Compétences mobilisées --Communiquer face à face, par mail ou par téléphone sur des sujets complexes avec plusieurs interlocuteurs; --Réussir une présentation orale persuasive",
+              "competencesBrutes": "CT1: SE CONNAÎTRE, SE GÉRER PHYSIQUEMENT ET MENTALEMENT 1.1- Se situer, s'auto évaluer CT2: TRAVAILLER, APPRENDRE, ÉVOLUER DE MANIÈRE AUTONOME 2.1- Mobiliser ses ressources 2.2- Élaborer, mettre en oeuvre, réguler une stratégie d'action pertinente dans un but défini CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.1- Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères 7.2- Décoder des références culturelles dans des discours, attitudes et comportements --L'étudiant peut apprendre à relater des éléments de son expérience personnelle et professionnelle et à rédiger de manière appropriée à la recherche d'emploi.  Compétences mobilisées --Communiquer face à face, par mail ou par téléphone sur des sujets complexes avec plusieurs interlocuteurs; --Réussir une présentation orale persuasive",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -3900,7 +3900,7 @@
             "UE": "4IF-UE-Langues Etrangères (S1) (IF-4-UE-LANG-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36824&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S1-",
+              "code": "HU-L-ESP-S1-HUMOUR",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -3954,7 +3954,7 @@
             "UE": "4IF-UE-Langues Etrangères (S1) (IF-4-UE-LANG-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34927&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP/FLE-TAN-",
+              "code": "HU-L-ESP/FLE-TAN-S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -4062,7 +4062,7 @@
             "UE": "4IF-UE-Langues Etrangères (S1) (IF-4-UE-LANG-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36800&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S1-",
+              "code": "HU-L-ESP-S1-CATALAN",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -4242,7 +4242,7 @@
             "UE": "4IF-UE-Langues Etrangères (S1) (IF-4-UE-LANG-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34807&_lang=fr",
             "detail": {
-              "code": "HU-L-",
+              "code": "HU-L-FLEDptTTCB1B2S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -4278,7 +4278,7 @@
             "UE": "4IF-UE-Langues Etrangères (S1) (IF-4-UE-LANG-S1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34939&_lang=fr",
             "detail": {
-              "code": "HU-L-FLEDptCCB2C1-",
+              "code": "HU-L-FLEDptCCB2C1-S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "28.0 h",
@@ -4304,7 +4304,7 @@
               "projet": "0.0 h",
               "perso": "0.0 h",
               "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives",
-              "competencesBrutes": "Objectifs recherchés pas cet enseignement : Cet EC relève de l¿Unité d¿enseignement : SHS et contribue à développer 6 compétences écoles en humanité, documentation et Education Physique et Sportive.  B1 : Autoévaluer ses propres performances Connaissances : - Fondamentaux, principes d¿actions et terminologie des Activités Physiques Sportives et Artistiques (APSA) - Critères  d¿observation, de réalisation et  de réussite. Capacités : - Situer son niveau de pratique - Construire un échauffement - Se fixer des objectifs de progrès - Développer une motricité spécifique à l¿APSA - Gérer son potentiel physique et mental  B2 : Travailler, apprendre, évoluer de manière autonome Connaissances : - Règlements des APSA - Critères d¿observation - Principes d¿échauffement, de récupération¿ Capacités : - Mobiliser ses ressources - Analyser, observer, interroger - S¿engager dans différents rôles (arbitre, chorégraphe¿)  B3 : Interagir avec les autres, travailler en équipe Connaissances : - Différents rôles et fonctions dans chaque APSA - Points forts et points faibles de chacun - Facteurs de motivation Capacités : - Communiquer de manière appropriée : communication verbale, non verbale, posturale - S¿intégrer dans un groupe - S¿engager dans un projet collectif et le faire évoluer - Prendre des initiatives - Etre à l¿écoute  B4 : Faire preuve de créativité, innover, entreprendre Connaissances : - Les champs disciplinaires artistiques - Les lieux de diffusion et de création et les fréquenter Capacités : - Mobiliser ses acquis, ses ressources et puiser dans divers champs artistiques pour produire une création originale - Mobiliser son imaginaire, sa sensibilité et les rendre lisibles à travers le mouvement dansé - Accéder à la symbolique du corps    B5 : Agir de manière responsable dans un monde complexe Connaissances : - Les règles de sécurité et de fonctionnement Capacités : - Identifier les incertitudes et les risques et agir pour les réduire - Intégrer une dimension responsable dans ses actions - Faire preuve de respect, de fair play dans les rapports de force B7 : Travailler dans un contexte international Connaissances : - Les différences socio-culturelles Capacités : - Intégrer la diversité culturelle dans le travail en groupe - Agir dans le respect de soi et des autres",
+              "competencesBrutes": "Objectifs recherchés pas cet enseignement : Cet EC relève de l¿Unité d¿enseignement : SHS et contribue à développer 6 compétences écoles en humanité, documentation et Education Physique et Sportive.  B1 : Autoévaluer ses propres performances Connaissances : - Fondamentaux, principes d¿actions et terminologie des Activités Physiques Sportives et Artistiques (APSA) - Critères  d¿observation, de réalisation et  de réussite. Capacités : - Situer son niveau de pratique - Construire un échauffement - Se fixer des objectifs de progrès - Développer une motricité spécifique à l¿APSA - Gérer son potentiel physique et mental  B2 : Travailler, apprendre, évoluer de manière autonome Connaissances : - Règlements des APSA - Critères d¿observation - Principes d¿échauffement, de récupération¿ Capacités : - Mobiliser ses ressources - Analyser, observer, interroger - S¿engager dans différents rôles (arbitre, chorégraphe¿)  B3 : Interagir avec les autres, travailler en équipe Connaissances : - Différents rôles et fonctions dans chaque APSA - Points forts et points faibles de chacun - Facteurs de motivation Capacités : - Communiquer de manière appropriée : communication verbale, non verbale, posturale - S¿intégrer dans un groupe - S¿engager dans un projet collectif et le faire évoluer - Prendre des initiatives - Etre à l¿écoute  B4 : Faire preuve de créativité, innover, entreprendre Connaissances : - Les champs disciplinaires artistiques - Les lieux de diffusion et de création et les fréquenter Capacités : - Mobiliser ses acquis, ses ressources et puiser dans divers champs artistiques pour produire une création originale - Mobiliser son imaginaire, sa sensibilité et les rendre lisibles à travers le mouvement dansé - Accéder à la symbolique du corps   B5 : Agir de manière responsable dans un monde complexe Connaissances : - Les règles de sécurité et de fonctionnement Capacités : - Identifier les incertitudes et les risques et agir pour les réduire - Intégrer une dimension responsable dans ses actions - Faire preuve de respect, de fair play dans les rapports de force B7 : Travailler dans un contexte international Connaissances : - Les différences socio-culturelles Capacités : - Intégrer la diversité culturelle dans le travail en groupe - Agir dans le respect de soi et des autres",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -4768,7 +4768,7 @@
               "projet": "0.0 h",
               "perso": "60.0 h",
               "nom": "Systèmes et Réseaux : 4IF - SMART",
-              "competencesBrutes": "L'objectif principal du projet est de stimuler la créativité des élèves via un projet complexe avec un possible impact sociétal. Le périmètre thématique choisi concerne la « ville intelligente » (SmartCity). Ce projet repose sur quelques invariants spécifiques au métier d'ingénieur : - Une expertise technique solide : l'élève est confronté à un problème complexe qui nécessite d'utiliser des compétences acquises dans les différents domaines 3IF et 4IF : forte composante multi-thématiques (développement logiciel, fouille de données, traitement d'images, gestion de projet, travail en équipe etc.) ; - Une créativité/ingéniosité au service de la société : le sujet demande la création d'un service utile à la ville (habitants, visiteurs ou dirigeants), et demande également le positionnement par rapport à l'existant ; - Une méthode de travail : pour aboutir à un démonstrateur de qualité, le projet nécessite l'application d'une méthode de gestion de projet (« agile »), une anticipation/maîtrise des risques et une gestion rigoureuse du temps ; - La communication : dans le cadre de l'équipe (mobiliser, échanger, utiliser les compétences de l'autre) mais aussi avec les acteurs extérieurs (enseignants, Jury extérieur, experts du domaine) - générant une « empathie » client.  Cet EC contribue aux :  *** Compétences écoles en sciences pour l'ingénieur ***  == A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2) == * Capacités : - Analyser le métier et les besoins d'un client (niveau 2)  == A4 Concevoir un système répondant à un cahier des charges (niveau 2) == * Capacités : - Modéliser des systèmes complexes en utilisant des langages et des outils spécifiques au domaine informatique (niveau 2)  *** Compétences transversales ***  == B3 Interagir avec les autres, travailler en équipe (niveau 3) == * Capacités : - Interagir avec les autres, travailler en équipe (niveau 3)  == B4 Faire preuve de créativité, innover, entreprendre (niveau 2) == * Capacités : - Faire preuve de créativité, innover, entreprendre (niveau 2)  == B5 Agir de manière responsable dans un monde complexe (niveau 1.5) == * Capacités : - Conduire des projets informatiques de toute nature (niveau 2) - Agir de manière responsable dans un monde complexe (niveau 1)  *** Compétences spécifiques IF ***  == C02 Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée (niveau 2) == * Capacités : - Mettre en œuvre des architectures techniques et logicielles complexes et réparties (niveau 2)  http://if.insa-lyon.fr   == C11 Mettre en oeuvre une méthodologie pour concevoir, réaliser et maintenir des logiciels de qualité (niveau 1.5) == * Capacités : - Mettre en oeuvre un processus de développement itératif  (niveau 2) - Mettre en oeuvre les principes du manifeste Agile (niveau 1) * Connaissances : - Modéliser des systèmes complexes en utilisant des langages et des outils spécifiques au domaine informatique  == C14 Mettre en oeuvre des outils génériques pour la qualité logicielle. (niveau 1) == * Capacités : - Mettre en place et utiliser des outils pour le travail collaboratif (gestion de versions, IDE) (niveau 1)",
+              "competencesBrutes": "L'objectif principal du projet est de stimuler la créativité des élèves via un projet complexe avec un possible impact sociétal. Le périmètre thématique choisi concerne la « ville intelligente » (SmartCity). Ce projet repose sur quelques invariants spécifiques au métier d'ingénieur : - Une expertise technique solide : l'élève est confronté à un problème complexe qui nécessite d'utiliser des compétences acquises dans les différents domaines 3IF et 4IF : forte composante multi-thématiques (développement logiciel, fouille de données, traitement d'images, gestion de projet, travail en équipe etc.) ; - Une créativité/ingéniosité au service de la société : le sujet demande la création d'un service utile à la ville (habitants, visiteurs ou dirigeants), et demande également le positionnement par rapport à l'existant ; - Une méthode de travail : pour aboutir à un démonstrateur de qualité, le projet nécessite l'application d'une méthode de gestion de projet (« agile »), une anticipation/maîtrise des risques et une gestion rigoureuse du temps ; - La communication : dans le cadre de l'équipe (mobiliser, échanger, utiliser les compétences de l'autre) mais aussi avec les acteurs extérieurs (enseignants, Jury extérieur, experts du domaine) - générant une « empathie » client.  Cet EC contribue aux :  *** Compétences écoles en sciences pour l'ingénieur ***  == A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2) == * Capacités : - Analyser le métier et les besoins d'un client (niveau 2)  == A4 Concevoir un système répondant à un cahier des charges (niveau 2) == * Capacités : - Modéliser des systèmes complexes en utilisant des langages et des outils spécifiques au domaine informatique (niveau 2)  *** Compétences transversales ***  == B3 Interagir avec les autres, travailler en équipe (niveau 3) == * Capacités : - Interagir avec les autres, travailler en équipe (niveau 3)  == B4 Faire preuve de créativité, innover, entreprendre (niveau 2) == * Capacités : - Faire preuve de créativité, innover, entreprendre (niveau 2)  == B5 Agir de manière responsable dans un monde complexe (niveau 1.5) == * Capacités : - Conduire des projets informatiques de toute nature (niveau 2) - Agir de manière responsable dans un monde complexe (niveau 1)  *** Compétences spécifiques IF ***  == C02 Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée (niveau 2) == * Capacités : - Mettre en œuvre des architectures techniques et logicielles complexes et réparties (niveau 2)  http://if.insa-lyon.fr  == C11 Mettre en oeuvre une méthodologie pour concevoir, réaliser et maintenir des logiciels de qualité (niveau 1.5) == * Capacités : - Mettre en oeuvre un processus de développement itératif  (niveau 2) - Mettre en oeuvre les principes du manifeste Agile (niveau 1) * Connaissances : - Modéliser des systèmes complexes en utilisant des langages et des outils spécifiques au domaine informatique  == C14 Mettre en oeuvre des outils génériques pour la qualité logicielle. (niveau 1) == * Capacités : - Mettre en place et utiliser des outils pour le travail collaboratif (gestion de versions, IDE) (niveau 1)",
               "capacite": [
                 "capacite : Analyser le métier et les besoins d'un client (niveau 2)",
                 "capacite : Modéliser des systèmes complexes en utilisant des langages et des outils spécifiques au domaine informatique (niveau 2)  *** Compétences transversales ***",
@@ -4776,14 +4776,9 @@
                 "capacite : Faire preuve de créativité, innover, entreprendre (niveau 2)",
                 "capacite : Conduire des projets informatiques de toute nature (niveau 2)",
                 "capacite : Agir de manière responsable dans un monde complexe (niveau 1)  *** Compétences spécifiques IF ***",
-                "capacite : Mettre en œuvre des architectures techniques et logicielles complexes et réparties (niveau 2)  http://if.insa-lyon.fr",
-                "capacite : Mettre en oeuvre un processus de développement itératif  (niveau 2)",
-                "capacite : Mettre en oeuvre les principes du manifeste Agile (niveau 1)",
-                "capacite : Mettre en place et utiliser des outils pour le travail collaboratif (gestion de versions, IDE) (niveau 1)"
+                "capacite : Mettre en œuvre des architectures techniques et logicielles complexes et réparties (niveau 2)"
               ],
-              "connaissance": [
-                "connaissance : Modéliser des systèmes complexes en utilisant des langages et des outils spécifiques au domaine informatique"
-              ],
+              "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
                 "A1": [
                   "capacite : Analyser le métier et les besoins d'un client (niveau 2)"
@@ -4802,15 +4797,7 @@
                   "capacite : Agir de manière responsable dans un monde complexe (niveau 1)  *** Compétences spécifiques IF ***"
                 ],
                 "C2": [
-                  "capacite : Mettre en œuvre des architectures techniques et logicielles complexes et réparties (niveau 2)  http://if.insa-lyon.fr"
-                ],
-                "C11": [
-                  "capacite : Mettre en oeuvre un processus de développement itératif  (niveau 2)",
-                  "capacite : Mettre en oeuvre les principes du manifeste Agile (niveau 1)",
-                  "connaissance : Modéliser des systèmes complexes en utilisant des langages et des outils spécifiques au domaine informatique"
-                ],
-                "C14": [
-                  "capacite : Mettre en place et utiliser des outils pour le travail collaboratif (gestion de versions, IDE) (niveau 1)"
+                  "capacite : Mettre en œuvre des architectures techniques et logicielles complexes et réparties (niveau 2)"
                 ]
               },
               "listeComp": [
@@ -4853,16 +4840,6 @@
                   "val": "Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée",
                   "code": "C2",
                   "niveau": "2"
-                },
-                {
-                  "val": "Mettre en oeuvre une méthodologie pour concevoir, réaliser et maintenir des logiciels de qualité",
-                  "code": "C11",
-                  "niveau": "1.5"
-                },
-                {
-                  "val": "Mettre en oeuvre des outils génériques pour la qualité logicielle.",
-                  "code": "C14",
-                  "niveau": "1"
                 }
               ]
             }
@@ -5024,7 +5001,7 @@
               "projet": "0.0 h",
               "perso": "0.0 h",
               "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives",
-              "competencesBrutes": "Objectifs recherchés pas cet enseignement :  Cet EC relève de l¿Unité d¿enseignement : SHS et contribue à développer 6 compétences écoles en humanité, documentation et Education Physique et Sportive.  B1 : Autoévaluer ses propres performances Connaissances : - Fondamentaux, principes d¿actions et terminologie des Activités Physiques Sportives et Artistiques (APSA) - Critères  d¿observation, de réalisation et  de réussite. Capacités : - Situer son niveau de pratique - Construire un échauffement - Se fixer des objectifs de progrès - Développer une motricité spécifique à l¿APSA - Gérer son potentiel physique et mental  B2 : Travailler, apprendre, évoluer de manière autonome Connaissances : - Règlements des APSA - Critères d¿observation - Principes d¿échauffement, de récupération¿ Capacités : - Mobiliser ses ressources - Analyser, observer, interroger - S¿engager dans différents rôles (arbitre, chorégraphe¿)  B3 : Interagir avec les autres, travailler en équipe Connaissances : - Différents rôles et fonctions dans chaque APSA - Points forts et points faibles de chacun - Facteurs de motivation Capacités : - Communiquer de manière appropriée : communication verbale, non verbale, posturale - S¿intégrer dans un groupe - S¿engager dans un projet collectif et le faire évoluer - Prendre des initiatives - Etre à l¿écoute  B4 : Faire preuve de créativité, innover, entreprendre Connaissances : - Les champs disciplinaires artistiques - Les lieux de diffusion et de création et les fréquenter Capacités : - Mobiliser ses acquis, ses ressources et puiser dans divers champs artistiques pour produire une création originale - Mobiliser son imaginaire, sa sensibilité et les rendre lisibles à travers le mouvement dansé - Accéder à la symbolique du corps    B5 : Agir de manière responsable dans un monde complexe Connaissances : - Les règles de sécurité et de fonctionnement Capacités : - Identifier les incertitudes et les risques et agir pour les réduire - Intégrer une dimension responsable dans ses actions - Faire preuve de respect, de fair play dans les rapports de force B7 : Travailler dans un contexte international Connaissances : - Les différences socio-culturelles Capacités : - Intégrer la diversité culturelle dans le travail en groupe - Agir dans le respect de soi et des autres",
+              "competencesBrutes": "Objectifs recherchés pas cet enseignement :  Cet EC relève de l¿Unité d¿enseignement : SHS et contribue à développer 6 compétences écoles en humanité, documentation et Education Physique et Sportive.  B1 : Autoévaluer ses propres performances Connaissances : - Fondamentaux, principes d¿actions et terminologie des Activités Physiques Sportives et Artistiques (APSA) - Critères  d¿observation, de réalisation et  de réussite. Capacités : - Situer son niveau de pratique - Construire un échauffement - Se fixer des objectifs de progrès - Développer une motricité spécifique à l¿APSA - Gérer son potentiel physique et mental  B2 : Travailler, apprendre, évoluer de manière autonome Connaissances : - Règlements des APSA - Critères d¿observation - Principes d¿échauffement, de récupération¿ Capacités : - Mobiliser ses ressources - Analyser, observer, interroger - S¿engager dans différents rôles (arbitre, chorégraphe¿)  B3 : Interagir avec les autres, travailler en équipe Connaissances : - Différents rôles et fonctions dans chaque APSA - Points forts et points faibles de chacun - Facteurs de motivation Capacités : - Communiquer de manière appropriée : communication verbale, non verbale, posturale - S¿intégrer dans un groupe - S¿engager dans un projet collectif et le faire évoluer - Prendre des initiatives - Etre à l¿écoute  B4 : Faire preuve de créativité, innover, entreprendre Connaissances : - Les champs disciplinaires artistiques - Les lieux de diffusion et de création et les fréquenter Capacités : - Mobiliser ses acquis, ses ressources et puiser dans divers champs artistiques pour produire une création originale - Mobiliser son imaginaire, sa sensibilité et les rendre lisibles à travers le mouvement dansé - Accéder à la symbolique du corps   B5 : Agir de manière responsable dans un monde complexe Connaissances : - Les règles de sécurité et de fonctionnement Capacités : - Identifier les incertitudes et les risques et agir pour les réduire - Intégrer une dimension responsable dans ses actions - Faire preuve de respect, de fair play dans les rapports de force B7 : Travailler dans un contexte international Connaissances : - Les différences socio-culturelles Capacités : - Intégrer la diversité culturelle dans le travail en groupe - Agir dans le respect de soi et des autres",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -5514,7 +5491,7 @@
               "projet": "0.0 h",
               "perso": "0.0 h",
               "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives",
-              "competencesBrutes": "La 5ème année se caractérise par l'aboutissement de la formation initiale ; c'est donc un moment de bilan, de synthèse, d'évaluation, mais aussi d'ouverture vers une formation continue.  A travers et par la pratique physique et sportive, amener les étudiants à réfléchir sur les questions de la SANTE, à en avoir une approche globale et complexe et contribuer ainsi à ce qu'ils s'interrogent sur un projet de vie physique.  Objectifs recherchés pas cet enseignement : Cet EC relève de l¿Unité d¿enseignement : SHS et contribue à développer 6 compétences écoles en humanité, documentation et Education Physique et Sportive.  B1 : Autoévaluer ses propres performances Connaissances : - Fondamentaux, principes d¿actions et terminologie des Activités Physiques Sportives et Artistiques (APSA) - Critères  d¿observation, de réalisation et  de réussite. Capacités : - Situer son niveau de pratique - Construire un échauffement - Se fixer des objectifs de progrès - Développer une motricité spécifique à l¿APSA - Gérer son potentiel physique et mental  B2 : Travailler, apprendre, évoluer de manière autonome Connaissances : - Règlements des APSA - Critères d¿observation - Principes d¿échauffement, de récupération¿ Capacités : - Mobiliser ses ressources - Analyser, observer, interroger - S¿engager dans différents rôles (arbitre, chorégraphe¿)  B3 : Interagir avec les autres, travailler en équipe Connaissances : - Différents rôles et fonctions dans chaque APSA - Points forts et points faibles de chacun - Facteurs de motivation Capacités : - Communiquer de manière appropriée : communication verbale, non verbale, posturale - S¿intégrer dans un groupe - S¿engager dans un projet collectif et le faire évoluer - Prendre des initiatives - Etre à l¿écoute  B4 : Faire preuve de créativité, innover, entreprendre Connaissances : - Les champs disciplinaires artistiques - Les lieux de diffusion et de création et les fréquenter Capacités : - Mobiliser ses acquis, ses ressources et puiser dans divers champs artistiques pour produire une création originale - Mobiliser son imaginaire, sa sensibilité et les rendre lisibles à travers le mouvement dansé - Accéder à la symbolique du corps    B5 : Agir de manière responsable dans un monde complexe Connaissances : - Les règles de sécurité et de fonctionnement Capacités : - Identifier les incertitudes et les risques et agir pour les réduire - Intégrer une dimension responsable dans ses actions - Faire preuve de respect, de fair play dans les rapports de force B7 : Travailler dans un contexte international Connaissances : - Les différences socio-culturelles Capacités : - Intégrer la diversité culturelle dans le travail en groupe - Agir dans le respect de soi et des autres",
+              "competencesBrutes": "La 5ème année se caractérise par l'aboutissement de la formation initiale ; c'est donc un moment de bilan, de synthèse, d'évaluation, mais aussi d'ouverture vers une formation continue.  A travers et par la pratique physique et sportive, amener les étudiants à réfléchir sur les questions de la SANTE, à en avoir une approche globale et complexe et contribuer ainsi à ce qu'ils s'interrogent sur un projet de vie physique.  Objectifs recherchés pas cet enseignement : Cet EC relève de l¿Unité d¿enseignement : SHS et contribue à développer 6 compétences écoles en humanité, documentation et Education Physique et Sportive.  B1 : Autoévaluer ses propres performances Connaissances : - Fondamentaux, principes d¿actions et terminologie des Activités Physiques Sportives et Artistiques (APSA) - Critères  d¿observation, de réalisation et  de réussite. Capacités : - Situer son niveau de pratique - Construire un échauffement - Se fixer des objectifs de progrès - Développer une motricité spécifique à l¿APSA - Gérer son potentiel physique et mental  B2 : Travailler, apprendre, évoluer de manière autonome Connaissances : - Règlements des APSA - Critères d¿observation - Principes d¿échauffement, de récupération¿ Capacités : - Mobiliser ses ressources - Analyser, observer, interroger - S¿engager dans différents rôles (arbitre, chorégraphe¿)  B3 : Interagir avec les autres, travailler en équipe Connaissances : - Différents rôles et fonctions dans chaque APSA - Points forts et points faibles de chacun - Facteurs de motivation Capacités : - Communiquer de manière appropriée : communication verbale, non verbale, posturale - S¿intégrer dans un groupe - S¿engager dans un projet collectif et le faire évoluer - Prendre des initiatives - Etre à l¿écoute  B4 : Faire preuve de créativité, innover, entreprendre Connaissances : - Les champs disciplinaires artistiques - Les lieux de diffusion et de création et les fréquenter Capacités : - Mobiliser ses acquis, ses ressources et puiser dans divers champs artistiques pour produire une création originale - Mobiliser son imaginaire, sa sensibilité et les rendre lisibles à travers le mouvement dansé - Accéder à la symbolique du corps   B5 : Agir de manière responsable dans un monde complexe Connaissances : - Les règles de sécurité et de fonctionnement Capacités : - Identifier les incertitudes et les risques et agir pour les réduire - Intégrer une dimension responsable dans ses actions - Faire preuve de respect, de fair play dans les rapports de force B7 : Travailler dans un contexte international Connaissances : - Les différences socio-culturelles Capacités : - Intégrer la diversité culturelle dans le travail en groupe - Agir dans le respect de soi et des autres",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -5806,7 +5783,7 @@
               "projet": "0.0 h",
               "perso": "0.0 h",
               "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives",
-              "competencesBrutes": "La 5ème année se caractérise par l'aboutissement de la formation initiale ; c'est donc un moment de bilan, de synthèse, d'évaluation, mais aussi d'ouverture vers une formation continue.  A travers et par la pratique physique et sportive, amener les étudiants à réfléchir sur les questions de la SANTE, à en avoir une approche globale et complexe et contribuer ainsi à ce qu'ils s'interrogent sur un projet de vie physique.  Objectifs recherchés pas cet enseignement : Cet EC relève de l¿Unité d¿enseignement : SHS et contribue à développer 6 compétences écoles en humanité, documentation et Education Physique et Sportive.  B1 : Autoévaluer ses propres performances Connaissances : - Fondamentaux, principes d¿actions et terminologie des Activités Physiques Sportives et Artistiques (APSA) - Critères  d¿observation, de réalisation et  de réussite. Capacités : - Situer son niveau de pratique - Construire un échauffement - Se fixer des objectifs de progrès - Développer une motricité spécifique à l¿APSA - Gérer son potentiel physique et mental  B2 : Travailler, apprendre, évoluer de manière autonome Connaissances : - Règlements des APSA - Critères d¿observation - Principes d¿échauffement, de récupération¿ Capacités : - Mobiliser ses ressources - Analyser, observer, interroger - S¿engager dans différents rôles (arbitre, chorégraphe¿)  B3 : Interagir avec les autres, travailler en équipe Connaissances : - Différents rôles et fonctions dans chaque APSA - Points forts et points faibles de chacun - Facteurs de motivation Capacités : - Communiquer de manière appropriée : communication verbale, non verbale, posturale - S¿intégrer dans un groupe - S¿engager dans un projet collectif et le faire évoluer - Prendre des initiatives - Etre à l¿écoute  B4 : Faire preuve de créativité, innover, entreprendre Connaissances : - Les champs disciplinaires artistiques - Les lieux de diffusion et de création et les fréquenter Capacités : - Mobiliser ses acquis, ses ressources et puiser dans divers champs artistiques pour produire une création originale - Mobiliser son imaginaire, sa sensibilité et les rendre lisibles à travers le mouvement dansé - Accéder à la symbolique du corps    B5 : Agir de manière responsable dans un monde complexe Connaissances : - Les règles de sécurité et de fonctionnement Capacités : - Identifier les incertitudes et les risques et agir pour les réduire - Intégrer une dimension responsable dans ses actions - Faire preuve de respect, de fair play dans les rapports de force B7 : Travailler dans un contexte international Connaissances : - Les différences socio-culturelles Capacités : - Intégrer la diversité culturelle dans le travail en groupe - Agir dans le respect de soi et des autres",
+              "competencesBrutes": "La 5ème année se caractérise par l'aboutissement de la formation initiale ; c'est donc un moment de bilan, de synthèse, d'évaluation, mais aussi d'ouverture vers une formation continue.  A travers et par la pratique physique et sportive, amener les étudiants à réfléchir sur les questions de la SANTE, à en avoir une approche globale et complexe et contribuer ainsi à ce qu'ils s'interrogent sur un projet de vie physique.  Objectifs recherchés pas cet enseignement : Cet EC relève de l¿Unité d¿enseignement : SHS et contribue à développer 6 compétences écoles en humanité, documentation et Education Physique et Sportive.  B1 : Autoévaluer ses propres performances Connaissances : - Fondamentaux, principes d¿actions et terminologie des Activités Physiques Sportives et Artistiques (APSA) - Critères  d¿observation, de réalisation et  de réussite. Capacités : - Situer son niveau de pratique - Construire un échauffement - Se fixer des objectifs de progrès - Développer une motricité spécifique à l¿APSA - Gérer son potentiel physique et mental  B2 : Travailler, apprendre, évoluer de manière autonome Connaissances : - Règlements des APSA - Critères d¿observation - Principes d¿échauffement, de récupération¿ Capacités : - Mobiliser ses ressources - Analyser, observer, interroger - S¿engager dans différents rôles (arbitre, chorégraphe¿)  B3 : Interagir avec les autres, travailler en équipe Connaissances : - Différents rôles et fonctions dans chaque APSA - Points forts et points faibles de chacun - Facteurs de motivation Capacités : - Communiquer de manière appropriée : communication verbale, non verbale, posturale - S¿intégrer dans un groupe - S¿engager dans un projet collectif et le faire évoluer - Prendre des initiatives - Etre à l¿écoute  B4 : Faire preuve de créativité, innover, entreprendre Connaissances : - Les champs disciplinaires artistiques - Les lieux de diffusion et de création et les fréquenter Capacités : - Mobiliser ses acquis, ses ressources et puiser dans divers champs artistiques pour produire une création originale - Mobiliser son imaginaire, sa sensibilité et les rendre lisibles à travers le mouvement dansé - Accéder à la symbolique du corps   B5 : Agir de manière responsable dans un monde complexe Connaissances : - Les règles de sécurité et de fonctionnement Capacités : - Identifier les incertitudes et les risques et agir pour les réduire - Intégrer une dimension responsable dans ses actions - Faire preuve de respect, de fair play dans les rapports de force B7 : Travailler dans un contexte international Connaissances : - Les différences socio-culturelles Capacités : - Intégrer la diversité culturelle dans le travail en groupe - Agir dans le respect de soi et des autres",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -6621,7 +6598,7 @@
               "projet": "0.0 h",
               "perso": "0.0 h",
               "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives",
-              "competencesBrutes": "La 5ème année se caractérise par l'aboutissement de la formation initiale ; c'est donc un moment de bilan, de synthèse, d'évaluation, mais aussi d'ouverture vers une formation continue.  A travers et par la pratique physique et sportive, amener les étudiants à réfléchir sur les questions de la SANTE, à en avoir une approche globale et complexe et contribuer ainsi à ce qu'ils s'interrogent sur un projet de vie physique.  Objectifs recherchés pas cet enseignement : Cet EC relève de l¿Unité d¿enseignement : SHS et contribue à développer 6 compétences écoles en humanité, documentation et Education Physique et Sportive.  B1 : Autoévaluer ses propres performances Connaissances : - Fondamentaux, principes d¿actions et terminologie des Activités Physiques Sportives et Artistiques (APSA) - Critères  d¿observation, de réalisation et  de réussite. Capacités : - Situer son niveau de pratique - Construire un échauffement - Se fixer des objectifs de progrès - Développer une motricité spécifique à l¿APSA - Gérer son potentiel physique et mental  B2 : Travailler, apprendre, évoluer de manière autonome Connaissances : - Règlements des APSA - Critères d¿observation - Principes d¿échauffement, de récupération¿ Capacités : - Mobiliser ses ressources - Analyser, observer, interroger - S¿engager dans différents rôles (arbitre, chorégraphe¿)  B3 : Interagir avec les autres, travailler en équipe Connaissances : - Différents rôles et fonctions dans chaque APSA - Points forts et points faibles de chacun - Facteurs de motivation Capacités : - Communiquer de manière appropriée : communication verbale, non verbale, posturale - S¿intégrer dans un groupe - S¿engager dans un projet collectif et le faire évoluer - Prendre des initiatives - Etre à l¿écoute  B4 : Faire preuve de créativité, innover, entreprendre Connaissances : - Les champs disciplinaires artistiques - Les lieux de diffusion et de création et les fréquenter Capacités : - Mobiliser ses acquis, ses ressources et puiser dans divers champs artistiques pour produire une création originale - Mobiliser son imaginaire, sa sensibilité et les rendre lisibles à travers le mouvement dansé - Accéder à la symbolique du corps    B5 : Agir de manière responsable dans un monde complexe Connaissances : - Les règles de sécurité et de fonctionnement Capacités : - Identifier les incertitudes et les risques et agir pour les réduire - Intégrer une dimension responsable dans ses actions - Faire preuve de respect, de fair play dans les rapports de force B7 : Travailler dans un contexte international Connaissances : - Les différences socio-culturelles Capacités : - Intégrer la diversité culturelle dans le travail en groupe - Agir dans le respect de soi et des autres",
+              "competencesBrutes": "La 5ème année se caractérise par l'aboutissement de la formation initiale ; c'est donc un moment de bilan, de synthèse, d'évaluation, mais aussi d'ouverture vers une formation continue.  A travers et par la pratique physique et sportive, amener les étudiants à réfléchir sur les questions de la SANTE, à en avoir une approche globale et complexe et contribuer ainsi à ce qu'ils s'interrogent sur un projet de vie physique.  Objectifs recherchés pas cet enseignement : Cet EC relève de l¿Unité d¿enseignement : SHS et contribue à développer 6 compétences écoles en humanité, documentation et Education Physique et Sportive.  B1 : Autoévaluer ses propres performances Connaissances : - Fondamentaux, principes d¿actions et terminologie des Activités Physiques Sportives et Artistiques (APSA) - Critères  d¿observation, de réalisation et  de réussite. Capacités : - Situer son niveau de pratique - Construire un échauffement - Se fixer des objectifs de progrès - Développer une motricité spécifique à l¿APSA - Gérer son potentiel physique et mental  B2 : Travailler, apprendre, évoluer de manière autonome Connaissances : - Règlements des APSA - Critères d¿observation - Principes d¿échauffement, de récupération¿ Capacités : - Mobiliser ses ressources - Analyser, observer, interroger - S¿engager dans différents rôles (arbitre, chorégraphe¿)  B3 : Interagir avec les autres, travailler en équipe Connaissances : - Différents rôles et fonctions dans chaque APSA - Points forts et points faibles de chacun - Facteurs de motivation Capacités : - Communiquer de manière appropriée : communication verbale, non verbale, posturale - S¿intégrer dans un groupe - S¿engager dans un projet collectif et le faire évoluer - Prendre des initiatives - Etre à l¿écoute  B4 : Faire preuve de créativité, innover, entreprendre Connaissances : - Les champs disciplinaires artistiques - Les lieux de diffusion et de création et les fréquenter Capacités : - Mobiliser ses acquis, ses ressources et puiser dans divers champs artistiques pour produire une création originale - Mobiliser son imaginaire, sa sensibilité et les rendre lisibles à travers le mouvement dansé - Accéder à la symbolique du corps   B5 : Agir de manière responsable dans un monde complexe Connaissances : - Les règles de sécurité et de fonctionnement Capacités : - Identifier les incertitudes et les risques et agir pour les réduire - Intégrer une dimension responsable dans ses actions - Faire preuve de respect, de fair play dans les rapports de force B7 : Travailler dans un contexte international Connaissances : - Les différences socio-culturelles Capacités : - Intégrer la diversité culturelle dans le travail en groupe - Agir dans le respect de soi et des autres",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -7070,7 +7047,7 @@
               "projet": "0.0 h",
               "perso": "30.0 h",
               "nom": "Projets : Développement d'applications Blockchain",
-              "competencesBrutes": "L'objectif de ce projet est d'apprendre le développement d'application sur une plateforme blockchain.  Cet EC contribue aux :  *** Compétences transversales ***  == B2 Travailler, apprendre, évoluer de façon autonome (niveau 3) == * Capacités : - Acquérir par soi-même de nouvelles compétences en allant rechercher les ressources nécessaires (niveau 3)  == B3 Interagir avec les autres, travailler en équipe (niveau 3) == * Capacités : - S'intégrer dans un groupe, se positionner, construire une relation dynamique au groupe, intégrer de nouveaux membres (niveau 3)  == B4 Faire preuve de créativité, innover, entreprendre (niveau 2) == * Capacités : - Faire preuve de créativité, innover, entreprendre (niveau 2)  *** Compétences spécifiques IF ***  == C02 Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée (niveau 3) == * Capacités : - Concevoir l'architecture d'un système distribué (niveau 3) * Connaissances : - programmation répartie  == C07 Concevoir, développer et tester une application répartie (niveau 3) == * Capacités : - Concevoir un protocole de niveau applicatif (niveau 3) * Connaissances : - systèmes répartis  == C13 Implémenter de bons logiciels (niveau 3) == * Capacités : - Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3) * Connaissances : - langages de programmation  == C14 Mettre en oeuvre des outils génériques pour la qualité logicielle. (niveau 3) == * Capacités : - Mettre en place et utiliser des outils pour le travail collaboratif (gestion de versions, IDE) (niveau 3) * Connaissances : - outils de travail collaboratif  http://if.insa-lyon.fr   == C18 Spécifier un algorithme et savoir évaluer sa compléxité  - prouver la correction d'un algorithme - C1 C11 C16 (niveau 3) == * Capacités : - Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3) * Connaissances : - algorithmique de base et cryptographie de base  En mobilisant les compétences suivantes - A1 Analyser un système (ou un problème) réel ou virtuel - A3 Mettre en oeuvre une démarche expérimentale - A6 Communiquer une analyse ou une démarche scientifique",
+              "competencesBrutes": "L'objectif de ce projet est d'apprendre le développement d'application sur une plateforme blockchain.  Cet EC contribue aux :  *** Compétences transversales ***  == B2 Travailler, apprendre, évoluer de façon autonome (niveau 3) == * Capacités : - Acquérir par soi-même de nouvelles compétences en allant rechercher les ressources nécessaires (niveau 3)  == B3 Interagir avec les autres, travailler en équipe (niveau 3) == * Capacités : - S'intégrer dans un groupe, se positionner, construire une relation dynamique au groupe, intégrer de nouveaux membres (niveau 3)  == B4 Faire preuve de créativité, innover, entreprendre (niveau 2) == * Capacités : - Faire preuve de créativité, innover, entreprendre (niveau 2)  *** Compétences spécifiques IF ***  == C02 Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée (niveau 3) == * Capacités : - Concevoir l'architecture d'un système distribué (niveau 3) * Connaissances : - programmation répartie  == C07 Concevoir, développer et tester une application répartie (niveau 3) == * Capacités : - Concevoir un protocole de niveau applicatif (niveau 3) * Connaissances : - systèmes répartis  == C13 Implémenter de bons logiciels (niveau 3) == * Capacités : - Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3) * Connaissances : - langages de programmation  == C14 Mettre en oeuvre des outils génériques pour la qualité logicielle. (niveau 3) == * Capacités : - Mettre en place et utiliser des outils pour le travail collaboratif (gestion de versions, IDE) (niveau 3) * Connaissances : - outils de travail collaboratif  http://if.insa-lyon.fr  == C18 Spécifier un algorithme et savoir évaluer sa compléxité  - prouver la correction d'un algorithme - C1 C11 C16 (niveau 3) == * Capacités : - Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3) * Connaissances : - algorithmique de base et cryptographie de base  En mobilisant les compétences suivantes - A1 Analyser un système (ou un problème) réel ou virtuel - A3 Mettre en oeuvre une démarche expérimentale - A6 Communiquer une analyse ou une démarche scientifique",
               "capacite": [
                 "capacite : Acquérir par soi-même de nouvelles compétences en allant rechercher les ressources nécessaires (niveau 3)",
                 "capacite : S'intégrer dans un groupe, se positionner, construire une relation dynamique au groupe, intégrer de nouveaux membres (niveau 3)",
@@ -7201,7 +7178,7 @@
               "projet": "0.0 h",
               "perso": "30.0 h",
               "nom": "Projets : Evolution des SI pour mieux décider",
-              "competencesBrutes": "Ce projet s'inscrit dans le contexte d'une évolution majeure dans la vie d'une startup. Cette startup de vente en ligne souhaite s'ouvrir à l'international et compte ouvrir des points de vente dans plusieurs villes en France. Il s'agit alors de faire évoluer efficacement le système d'information de la startup et de mettre en place un système cohérent de pilotage décisionnel EIS (Executive Information System). En effet, les entreprises évoluent dorénavant dans un monde complexe et rapide où s'affrontent de multiples enjeux. Réduire l'incertitude pour atteindre le but fixé est la préoccupation majeure de tout décideur. Les tableaux de bord greffés sur une application de gestion d'entreprise (ERP) sont une solution intéressante pour aider le décideur à mieux décider. Un tableau de bord rassemble un ensemble d'informations significatives à caractère financier, commercial ou technique. Son but est de comparer les prévisions avec les réalisations, d'analyser les écarts, mesurer les performances de l'entreprise et de la piloter. Outre, l'analyse généralement chiffrée d'un phénomène, il est souhaitable de privilégier le caractère visuel d'un indicateur de performance au sein d'un tableau de bord. En effet, une bonne garantie d'appropriation du tableau de bord par un décideur et son équipe est la possibilité de lui offrir une visualisation à la fois facile et rapide, proche de l'informatique grand public, lui permettant d'appréhender ainsi clairement l'état du phénomène. La décision qui en résultera, s'en trouvera alors accélérée. La mise en relation des constats résultant de la lecture et l'analyse des indicateurs de performance avec des faits concrets (ce qui s'est passé dans la période) permettra ainsi au décideur de tirer de nouvelles conclusions opérationnelles qui seront vérifiées ou infirmées à travers les résultats de la période suivante. Ces nouvelles conclusions serviront de base aux actions que le décideur lancera pour faire infléchir la tendance, en tenant compte des objectifs qui lui sont impartis. Le système d'information doit aussi évoluer et prendre en compte les nouvelles réglementations en vigueur. En l'occurrence, dans ce projet le système d'information de la startup devra se conformer à la nouvelle directive européenne en matière de données personnelles (RGPD).  Cet EC contribue aux :  *** Compétences spécifiques IF ***  == C08 Définir et mettre en œuvre une politique de sécurité (niveau 3) == * Capacités : - Sécuriser un système informatique (niveau 3) - Analyser les menaces et les vulnérabilités d'un système (niveau 3) * Connaissances : - Mise en conformité RGPD - Analyse de risque  == C23 Mettre en œuvre une méthode d'analyse et de conception d'architectures de SI (niveau 1) == * Connaissances : - Conception d'un réseau de tableaux de bord pour décideurs  == C25 Analyser les besoins métiers d'un client (niveau 1) ==  == C28 Analyser et concevoir des modèles de données (niveau 1) ==  == C29 Analyser et concevoir des modèles de processus (niveau 1) ==  http://if.insa-lyon.fr   En mobilisant les compétences suivantes - A1 Analyser un système (ou un problème) réel ou virtuel - B3 Interagir avec les autres, travailler en équipe - B5 Agir de manière responsable dans un monde complexe - C08 Définir et mettre en œuvre une politique de sécurité",
+              "competencesBrutes": "Ce projet s'inscrit dans le contexte d'une évolution majeure dans la vie d'une startup. Cette startup de vente en ligne souhaite s'ouvrir à l'international et compte ouvrir des points de vente dans plusieurs villes en France. Il s'agit alors de faire évoluer efficacement le système d'information de la startup et de mettre en place un système cohérent de pilotage décisionnel EIS (Executive Information System). En effet, les entreprises évoluent dorénavant dans un monde complexe et rapide où s'affrontent de multiples enjeux. Réduire l'incertitude pour atteindre le but fixé est la préoccupation majeure de tout décideur. Les tableaux de bord greffés sur une application de gestion d'entreprise (ERP) sont une solution intéressante pour aider le décideur à mieux décider. Un tableau de bord rassemble un ensemble d'informations significatives à caractère financier, commercial ou technique. Son but est de comparer les prévisions avec les réalisations, d'analyser les écarts, mesurer les performances de l'entreprise et de la piloter. Outre, l'analyse généralement chiffrée d'un phénomène, il est souhaitable de privilégier le caractère visuel d'un indicateur de performance au sein d'un tableau de bord. En effet, une bonne garantie d'appropriation du tableau de bord par un décideur et son équipe est la possibilité de lui offrir une visualisation à la fois facile et rapide, proche de l'informatique grand public, lui permettant d'appréhender ainsi clairement l'état du phénomène. La décision qui en résultera, s'en trouvera alors accélérée. La mise en relation des constats résultant de la lecture et l'analyse des indicateurs de performance avec des faits concrets (ce qui s'est passé dans la période) permettra ainsi au décideur de tirer de nouvelles conclusions opérationnelles qui seront vérifiées ou infirmées à travers les résultats de la période suivante. Ces nouvelles conclusions serviront de base aux actions que le décideur lancera pour faire infléchir la tendance, en tenant compte des objectifs qui lui sont impartis. Le système d'information doit aussi évoluer et prendre en compte les nouvelles réglementations en vigueur. En l'occurrence, dans ce projet le système d'information de la startup devra se conformer à la nouvelle directive européenne en matière de données personnelles (RGPD).  Cet EC contribue aux :  *** Compétences spécifiques IF ***  == C08 Définir et mettre en œuvre une politique de sécurité (niveau 3) == * Capacités : - Sécuriser un système informatique (niveau 3) - Analyser les menaces et les vulnérabilités d'un système (niveau 3) * Connaissances : - Mise en conformité RGPD - Analyse de risque  == C23 Mettre en œuvre une méthode d'analyse et de conception d'architectures de SI (niveau 1) == * Connaissances : - Conception d'un réseau de tableaux de bord pour décideurs  == C25 Analyser les besoins métiers d'un client (niveau 1) ==  == C28 Analyser et concevoir des modèles de données (niveau 1) ==  == C29 Analyser et concevoir des modèles de processus (niveau 1) ==  http://if.insa-lyon.fr  En mobilisant les compétences suivantes - A1 Analyser un système (ou un problème) réel ou virtuel - B3 Interagir avec les autres, travailler en équipe - B5 Agir de manière responsable dans un monde complexe - C08 Définir et mettre en œuvre une politique de sécurité",
               "capacite": [
                 "capacite : Sécuriser un système informatique (niveau 3)",
                 "capacite : Analyser les menaces et les vulnérabilités d'un système (niveau 3)"
@@ -7458,7 +7435,7 @@
               "projet": "0.0 h",
               "perso": "0.0 h",
               "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives",
-              "competencesBrutes": "La 5ème année se caractérise par l'aboutissement de la formation initiale ; c'est donc un moment de bilan, de synthèse, d'évaluation, mais aussi d'ouverture vers une formation continue.  A travers et par la pratique physique et sportive, amener les étudiants à réfléchir sur les questions de la SANTE, à en avoir une approche globale et complexe et contribuer ainsi à ce qu'ils s'interrogent sur un projet de vie physique.  Objectifs recherchés pas cet enseignement : Cet EC relève de l¿Unité d¿enseignement : SHS et contribue à développer 6 compétences écoles en humanité, documentation et Education Physique et Sportive.  B1 : Autoévaluer ses propres performances Connaissances : - Fondamentaux, principes d¿actions et terminologie des Activités Physiques Sportives et Artistiques (APSA) - Critères  d¿observation, de réalisation et  de réussite. Capacités : - Situer son niveau de pratique - Construire un échauffement - Se fixer des objectifs de progrès - Développer une motricité spécifique à l¿APSA - Gérer son potentiel physique et mental  B2 : Travailler, apprendre, évoluer de manière autonome Connaissances : - Règlements des APSA - Critères d¿observation - Principes d¿échauffement, de récupération¿ Capacités : - Mobiliser ses ressources - Analyser, observer, interroger - S¿engager dans différents rôles (arbitre, chorégraphe¿)  B3 : Interagir avec les autres, travailler en équipe Connaissances : - Différents rôles et fonctions dans chaque APSA - Points forts et points faibles de chacun - Facteurs de motivation Capacités : - Communiquer de manière appropriée : communication verbale, non verbale, posturale - S¿intégrer dans un groupe - S¿engager dans un projet collectif et le faire évoluer - Prendre des initiatives - Etre à l¿écoute  B4 : Faire preuve de créativité, innover, entreprendre Connaissances : - Les champs disciplinaires artistiques - Les lieux de diffusion et de création et les fréquenter Capacités : - Mobiliser ses acquis, ses ressources et puiser dans divers champs artistiques pour produire une création originale - Mobiliser son imaginaire, sa sensibilité et les rendre lisibles à travers le mouvement dansé - Accéder à la symbolique du corps    B5 : Agir de manière responsable dans un monde complexe Connaissances : - Les règles de sécurité et de fonctionnement Capacités : - Identifier les incertitudes et les risques et agir pour les réduire - Intégrer une dimension responsable dans ses actions - Faire preuve de respect, de fair play dans les rapports de force B7 : Travailler dans un contexte international Connaissances : - Les différences socio-culturelles Capacités : - Intégrer la diversité culturelle dans le travail en groupe - Agir dans le respect de soi et des autres",
+              "competencesBrutes": "La 5ème année se caractérise par l'aboutissement de la formation initiale ; c'est donc un moment de bilan, de synthèse, d'évaluation, mais aussi d'ouverture vers une formation continue.  A travers et par la pratique physique et sportive, amener les étudiants à réfléchir sur les questions de la SANTE, à en avoir une approche globale et complexe et contribuer ainsi à ce qu'ils s'interrogent sur un projet de vie physique.  Objectifs recherchés pas cet enseignement : Cet EC relève de l¿Unité d¿enseignement : SHS et contribue à développer 6 compétences écoles en humanité, documentation et Education Physique et Sportive.  B1 : Autoévaluer ses propres performances Connaissances : - Fondamentaux, principes d¿actions et terminologie des Activités Physiques Sportives et Artistiques (APSA) - Critères  d¿observation, de réalisation et  de réussite. Capacités : - Situer son niveau de pratique - Construire un échauffement - Se fixer des objectifs de progrès - Développer une motricité spécifique à l¿APSA - Gérer son potentiel physique et mental  B2 : Travailler, apprendre, évoluer de manière autonome Connaissances : - Règlements des APSA - Critères d¿observation - Principes d¿échauffement, de récupération¿ Capacités : - Mobiliser ses ressources - Analyser, observer, interroger - S¿engager dans différents rôles (arbitre, chorégraphe¿)  B3 : Interagir avec les autres, travailler en équipe Connaissances : - Différents rôles et fonctions dans chaque APSA - Points forts et points faibles de chacun - Facteurs de motivation Capacités : - Communiquer de manière appropriée : communication verbale, non verbale, posturale - S¿intégrer dans un groupe - S¿engager dans un projet collectif et le faire évoluer - Prendre des initiatives - Etre à l¿écoute  B4 : Faire preuve de créativité, innover, entreprendre Connaissances : - Les champs disciplinaires artistiques - Les lieux de diffusion et de création et les fréquenter Capacités : - Mobiliser ses acquis, ses ressources et puiser dans divers champs artistiques pour produire une création originale - Mobiliser son imaginaire, sa sensibilité et les rendre lisibles à travers le mouvement dansé - Accéder à la symbolique du corps   B5 : Agir de manière responsable dans un monde complexe Connaissances : - Les règles de sécurité et de fonctionnement Capacités : - Identifier les incertitudes et les risques et agir pour les réduire - Intégrer une dimension responsable dans ses actions - Faire preuve de respect, de fair play dans les rapports de force B7 : Travailler dans un contexte international Connaissances : - Les différences socio-culturelles Capacités : - Intégrer la diversité culturelle dans le travail en groupe - Agir dans le respect de soi et des autres",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -7813,7 +7790,7 @@
               "projet": "0.0 h",
               "perso": "30.0 h",
               "nom": "Projets : Calcul parallèle pour traitement de données et analyse d'images",
-              "competencesBrutes": "Trois projets de conceptions sur les systèmes Big Data répartis, parallèles sont proposés : - Les systèmes Big Data à grande échelle, d'un point de vue utilisateur. - Les systèmes parallèles de calcul/traitement de données, d'un point de vue concepteur. - L'évaluation de performance de ces systèmes.  Ce module est le deuxième volet de cet ensemble de projets. Ce projet a pour objectif de mettre en pratique les concepts des systèmes parallèles et du calcul GPU, à travers la construction et le déploiement d'une application de calcul parallèle pour l'analyse d'images.  Cet EC contribue aux :  *** Compétences écoles en sciences pour l'ingénieur ***  == A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2) == * Capacités : - Sélectionner et mettre en œuvre des outils de représentation et d'analyse de données adaptés (niveau 2) - Décomposer un système ou un problème en un ensemble de sous-parties en interactions (niveau 2) * Connaissances : - Quels outils de parallélisme et de gestion des données ainsi que les caractéristiques matérielles doivent être utilisées suivant le problème et son dimensionnement - Décomposition de demandes suivant contraintes du domaine, du logiciel, du modèle, des données et du matériel  == A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3) == * Capacités : - Déterminer par le calcul ou par résolution graphique une solution exacte ou approchée (niveau 3)  == A3 Mettre en oeuvre une démarche expérimentale (niveau 2) == * Capacités : - Concevoir un protocole ou une expérience permettant de tester une hypothèse, valider un modèle, préciser le comportement d'un système ou réaliser un produit (niveau 2) - Evaluer les performances d'un système distribué déployé sur une infrastructure réelle, avec des données réelles (niveau 2) - Observer et rendre compte des observations (niveau 2) - Acquérir des données expérimentales ou réaliser un produit en identifiant et évaluant les limites de l'acquisition ou de la réalisation (niveau 2) * Connaissances : - Les logiciels de profiling et d'analyse de données - Comment évaluer un logiciel parallèle - Comment mettre en place et conduire une campagne d'expérimentation - Comparer les résultats de profiling et d'analyse de données  http://if.insa-lyon.fr   - Adaptation de problèmes algorithmiques aux architectures spécifiques  - Développement d'un noyau de calcul CPU/GPU",
+              "competencesBrutes": "Trois projets de conceptions sur les systèmes Big Data répartis, parallèles sont proposés : - Les systèmes Big Data à grande échelle, d'un point de vue utilisateur. - Les systèmes parallèles de calcul/traitement de données, d'un point de vue concepteur. - L'évaluation de performance de ces systèmes.  Ce module est le deuxième volet de cet ensemble de projets. Ce projet a pour objectif de mettre en pratique les concepts des systèmes parallèles et du calcul GPU, à travers la construction et le déploiement d'une application de calcul parallèle pour l'analyse d'images.  Cet EC contribue aux :  *** Compétences écoles en sciences pour l'ingénieur ***  == A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2) == * Capacités : - Sélectionner et mettre en œuvre des outils de représentation et d'analyse de données adaptés (niveau 2) - Décomposer un système ou un problème en un ensemble de sous-parties en interactions (niveau 2) * Connaissances : - Quels outils de parallélisme et de gestion des données ainsi que les caractéristiques matérielles doivent être utilisées suivant le problème et son dimensionnement - Décomposition de demandes suivant contraintes du domaine, du logiciel, du modèle, des données et du matériel  == A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3) == * Capacités : - Déterminer par le calcul ou par résolution graphique une solution exacte ou approchée (niveau 3)  == A3 Mettre en oeuvre une démarche expérimentale (niveau 2) == * Capacités : - Concevoir un protocole ou une expérience permettant de tester une hypothèse, valider un modèle, préciser le comportement d'un système ou réaliser un produit (niveau 2) - Evaluer les performances d'un système distribué déployé sur une infrastructure réelle, avec des données réelles (niveau 2) - Observer et rendre compte des observations (niveau 2) - Acquérir des données expérimentales ou réaliser un produit en identifiant et évaluant les limites de l'acquisition ou de la réalisation (niveau 2) * Connaissances : - Les logiciels de profiling et d'analyse de données - Comment évaluer un logiciel parallèle - Comment mettre en place et conduire une campagne d'expérimentation - Comparer les résultats de profiling et d'analyse de données  http://if.insa-lyon.fr  == A5 Traiter des données (niveau 2) == * Capacités : - Construire un modèle prédictif puissant pour répondre à un problème précis (niveau 2) - Concevoir, mettre en oeuvre et déployer des systèmes distribués big data (niveau 2) - Concevoir l'architecture de systèmes distribués big data (niveau 2) * Connaissances : - Importance de l'architecture d'une machine distribuée et de la micro-architecture des noeuds - Comment prédire le temps d'exécution d'un programme paralléle - Comment fonctionne et est conçu une machine de calcul - Quels logiciels pour quel traitement et modèle de calcul  *** Compétences spécifiques IF ***  == C02 Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée (niveau 3) == * Capacités : - Concevoir et dimensionner une infrastructure distribuée (niveau 3) - Concevoir des systèmes distribués manipulant des données à grande échelle (niveau 3) - Concevoir des algorithmes et protocoles distribués (niveau 3) - Sélectionner, paramétrer et intégrer des composants matériels et logiciels (niveau 3) - Mettre en œuvre des architectures techniques et logicielles complexes et réparties (niveau 3) - Modéliser et évaluer le coût d'une infrastructure (niveau 3) * Connaissances : - Compromis entre les infrastructures et les différents matériels et logiciels ? - Modèles de programmation pour le calcul paralléle et distribué - Quelle infrastructure et pile logiciels pour quelle problème et dimensionnement ? - Les logiciels et les modèles de calcul pour les analyses de données - Adaptation des algrithmes aux différents contextes de parallélisme et distribution - Quel logiciel pour quelle machine et quel problème ?  == C04 Maîtriser l'organisation générale d'une machine à base de microprocesseur (niveau 3) == * Capacités : - Exploiter dans une application les caractéristiques de la machine (types natifs, hiérarchie mémoire, etc) (niveau 3) * Connaissances : - Caractéristique des différents matériels paralléles (GPU, CPU, Accelerateurs et réseaux)  == C05 Concevoir et développer une application multi-tâches (niveau 3) == * Capacités : - Synchroniser l'accès concurrent aux données partagées (niveau 3) - Créer, et détruire des processus lourds et des processus légers (niveau 3)  == C13 Implémenter de bons logiciels (niveau 3) == * Capacités : - Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3) - Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3) * Connaissances : - Quel langage pour quel problème et quel machine ?  En mobilisant les compétences suivantes - A1 Analyser un système (ou un problème) réel ou virtuel - A2 Exploiter un modèle d'un système réel ou virtuel - A3 Mettre en oeuvre une démarche expérimentale - A5 Traiter des données - C02 Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée - C04 Maîtriser l'organisation générale d'une machine à base de microprocesseur - C05 Concevoir et développer une application multi-tâches - C13 Implémenter de bons logiciels",
               "capacite": [
                 "capacite : Sélectionner et mettre en œuvre des outils de représentation et d'analyse de données adaptés (niveau 2)",
                 "capacite : Décomposer un système ou un problème en un ensemble de sous-parties en interactions (niveau 2)",
@@ -7821,7 +7798,21 @@
                 "capacite : Concevoir un protocole ou une expérience permettant de tester une hypothèse, valider un modèle, préciser le comportement d'un système ou réaliser un produit (niveau 2)",
                 "capacite : Evaluer les performances d'un système distribué déployé sur une infrastructure réelle, avec des données réelles (niveau 2)",
                 "capacite : Observer et rendre compte des observations (niveau 2)",
-                "capacite : Acquérir des données expérimentales ou réaliser un produit en identifiant et évaluant les limites de l'acquisition ou de la réalisation (niveau 2)"
+                "capacite : Acquérir des données expérimentales ou réaliser un produit en identifiant et évaluant les limites de l'acquisition ou de la réalisation (niveau 2)",
+                "capacite : Construire un modèle prédictif puissant pour répondre à un problème précis (niveau 2)",
+                "capacite : Concevoir, mettre en oeuvre et déployer des systèmes distribués big data (niveau 2)",
+                "capacite : Concevoir l'architecture de systèmes distribués big data (niveau 2)",
+                "capacite : Concevoir et dimensionner une infrastructure distribuée (niveau 3)",
+                "capacite : Concevoir des systèmes distribués manipulant des données à grande échelle (niveau 3)",
+                "capacite : Concevoir des algorithmes et protocoles distribués (niveau 3)",
+                "capacite : Sélectionner, paramétrer et intégrer des composants matériels et logiciels (niveau 3)",
+                "capacite : Mettre en œuvre des architectures techniques et logicielles complexes et réparties (niveau 3)",
+                "capacite : Modéliser et évaluer le coût d'une infrastructure (niveau 3)",
+                "capacite : Exploiter dans une application les caractéristiques de la machine (types natifs, hiérarchie mémoire, etc) (niveau 3)",
+                "capacite : Synchroniser l'accès concurrent aux données partagées (niveau 3)",
+                "capacite : Créer, et détruire des processus lourds et des processus légers (niveau 3)",
+                "capacite : Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3)",
+                "capacite : Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3)"
               ],
               "connaissance": [
                 "connaissance : Quels outils de parallélisme et de gestion des données ainsi que les caractéristiques matérielles doivent être utilisées suivant le problème et son dimensionnement",
@@ -7829,9 +7820,19 @@
                 "connaissance : Les logiciels de profiling et d'analyse de données",
                 "connaissance : Comment évaluer un logiciel parallèle",
                 "connaissance : Comment mettre en place et conduire une campagne d'expérimentation",
-                "connaissance : Comparer les résultats de profiling et d'analyse de données  http://if.insa-lyon.fr  ",
-                "connaissance : Adaptation de problèmes algorithmiques aux architectures spécifiques ",
-                "connaissance : Développement d'un noyau de calcul CPU/GPU"
+                "connaissance : Comparer les résultats de profiling et d'analyse de données  http://if.insa-lyon.fr",
+                "connaissance : Importance de l'architecture d'une machine distribuée et de la micro-architecture des noeuds",
+                "connaissance : Comment prédire le temps d'exécution d'un programme paralléle",
+                "connaissance : Comment fonctionne et est conçu une machine de calcul",
+                "connaissance : Quels logiciels pour quel traitement et modèle de calcul  *** Compétences spécifiques IF ***",
+                "connaissance : Compromis entre les infrastructures et les différents matériels et logiciels ?",
+                "connaissance : Modèles de programmation pour le calcul paralléle et distribué",
+                "connaissance : Quelle infrastructure et pile logiciels pour quelle problème et dimensionnement ?",
+                "connaissance : Les logiciels et les modèles de calcul pour les analyses de données",
+                "connaissance : Adaptation des algrithmes aux différents contextes de parallélisme et distribution",
+                "connaissance : Quel logiciel pour quelle machine et quel problème ?",
+                "connaissance : Caractéristique des différents matériels paralléles (GPU, CPU, Accelerateurs et réseaux)",
+                "connaissance : Quel langage pour quel problème et quel machine ?"
               ],
               "competenceToCapaciteEtConnaissance": {
                 "A1": [
@@ -7851,9 +7852,43 @@
                   "connaissance : Les logiciels de profiling et d'analyse de données",
                   "connaissance : Comment évaluer un logiciel parallèle",
                   "connaissance : Comment mettre en place et conduire une campagne d'expérimentation",
-                  "connaissance : Comparer les résultats de profiling et d'analyse de données  http://if.insa-lyon.fr  ",
-                  "connaissance : Adaptation de problèmes algorithmiques aux architectures spécifiques ",
-                  "connaissance : Développement d'un noyau de calcul CPU/GPU"
+                  "connaissance : Comparer les résultats de profiling et d'analyse de données  http://if.insa-lyon.fr"
+                ],
+                "A5": [
+                  "capacite : Construire un modèle prédictif puissant pour répondre à un problème précis (niveau 2)",
+                  "capacite : Concevoir, mettre en oeuvre et déployer des systèmes distribués big data (niveau 2)",
+                  "capacite : Concevoir l'architecture de systèmes distribués big data (niveau 2)",
+                  "connaissance : Importance de l'architecture d'une machine distribuée et de la micro-architecture des noeuds",
+                  "connaissance : Comment prédire le temps d'exécution d'un programme paralléle",
+                  "connaissance : Comment fonctionne et est conçu une machine de calcul",
+                  "connaissance : Quels logiciels pour quel traitement et modèle de calcul  *** Compétences spécifiques IF ***"
+                ],
+                "C2": [
+                  "capacite : Concevoir et dimensionner une infrastructure distribuée (niveau 3)",
+                  "capacite : Concevoir des systèmes distribués manipulant des données à grande échelle (niveau 3)",
+                  "capacite : Concevoir des algorithmes et protocoles distribués (niveau 3)",
+                  "capacite : Sélectionner, paramétrer et intégrer des composants matériels et logiciels (niveau 3)",
+                  "capacite : Mettre en œuvre des architectures techniques et logicielles complexes et réparties (niveau 3)",
+                  "capacite : Modéliser et évaluer le coût d'une infrastructure (niveau 3)",
+                  "connaissance : Compromis entre les infrastructures et les différents matériels et logiciels ?",
+                  "connaissance : Modèles de programmation pour le calcul paralléle et distribué",
+                  "connaissance : Quelle infrastructure et pile logiciels pour quelle problème et dimensionnement ?",
+                  "connaissance : Les logiciels et les modèles de calcul pour les analyses de données",
+                  "connaissance : Adaptation des algrithmes aux différents contextes de parallélisme et distribution",
+                  "connaissance : Quel logiciel pour quelle machine et quel problème ?"
+                ],
+                "C4": [
+                  "capacite : Exploiter dans une application les caractéristiques de la machine (types natifs, hiérarchie mémoire, etc) (niveau 3)",
+                  "connaissance : Caractéristique des différents matériels paralléles (GPU, CPU, Accelerateurs et réseaux)"
+                ],
+                "C5": [
+                  "capacite : Synchroniser l'accès concurrent aux données partagées (niveau 3)",
+                  "capacite : Créer, et détruire des processus lourds et des processus légers (niveau 3)"
+                ],
+                "C13": [
+                  "capacite : Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3)",
+                  "capacite : Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3)",
+                  "connaissance : Quel langage pour quel problème et quel machine ?"
                 ]
               },
               "listeComp": [
@@ -7877,6 +7912,75 @@
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
                   "niveau": "2"
+                },
+                {
+                  "code": "A5",
+                  "val": "Traiter des données",
+                  "valAnglais": "Process data",
+                  "bs": "5",
+                  "niveau": "2"
+                },
+                {
+                  "val": "Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée",
+                  "code": "C2",
+                  "niveau": "3"
+                },
+                {
+                  "val": "Maîtriser l¿organisation générale d¿une machine à base de microprocesseur",
+                  "code": "C4",
+                  "niveau": "3"
+                },
+                {
+                  "val": "Concevoir et développer une application multi-tâches",
+                  "code": "C5",
+                  "niveau": "3"
+                },
+                {
+                  "val": "Implémenter de bons logiciels",
+                  "code": "C13",
+                  "niveau": "3"
+                }
+              ],
+              "listeCompMobilise": [
+                {
+                  "code": "A1",
+                  "val": "Analyser un système (ou un problème) réel ou virtuel",
+                  "valAnglais": "Analyze a real or virtual system (or problem)",
+                  "bs": "1"
+                },
+                {
+                  "code": "A2",
+                  "val": "Exploiter un modèle d'un système réel ou virtuel",
+                  "valAnglais": "Exploit a model of a real or virtual system",
+                  "bs": "2"
+                },
+                {
+                  "code": "A3",
+                  "val": "Mettre en œuvre une démarche expérimentale",
+                  "valAnglais": "Implement an experimental approach",
+                  "bs": "3"
+                },
+                {
+                  "code": "A5",
+                  "val": "Traiter des données",
+                  "valAnglais": "Process data",
+                  "bs": "5"
+                },
+                {
+                  "val": "Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée",
+                  "code": "C2"
+                },
+                {
+                  "val": "Maîtriser l¿organisation générale d¿une machine à base de microprocesseur",
+                  "code": "C4"
+                },
+                {
+                  "val": "Concevoir et développer une application multi-tâches",
+                  "code": "C5"
+                },
+                {
+                  "val": "Implémenter de bons logiciels",
+                  "code": "C13"
                 }
               ]
             }
@@ -7961,7 +8065,7 @@
               "projet": "0.0 h",
               "perso": "30.0 h",
               "nom": "Projets : Evaluation de performance",
-              "competencesBrutes": "Trois projets de conceptions sur les systèmes Big Data répartis, parallèles sont proposés : - Les systèmes Big Data à grande échelle, d'un point de vue utilisateur. - Les systèmes parallèles de calcul/traitement de données, d'un point de vue concepteur. - L'évaluation de performance de ces systèmes.  Ce module est le troisième volet de cet ensemble de projets. Il a pour objectif de présenter les principes et méthodes d'évaluation de performance des systèmes répartis et parallèles.  Ceci inclut les techniques d'évaluation empirique, les méthodes d'analyses des observations et traces d'exécution dans ces systèmes, les modèles de prédiction de performance.  Cet EC contribue aux :  *** Compétences écoles en sciences pour l'ingénieur ***  == A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2) == * Capacités : - Sélectionner et mettre en œuvre des outils de représentation et d'analyse de données adaptés (niveau 2) - Décomposer un système ou un problème en un ensemble de sous-parties en interactions (niveau 2) * Connaissances : - Quels outils de parallélisme et de gestion des données ainsi que les caractéristiques matérielles doivent être utilisées suivant le problème et son dimensionnement - Décomposition de demandes suivant contraintes du domaine, du logiciel, du modèle, des données et du matériel  == A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3) == * Capacités : - Déterminer par le calcul ou par résolution graphique une solution exacte ou approchée (niveau 3)  == A3 Mettre en oeuvre une démarche expérimentale (niveau 2) == * Capacités : - Observer et rendre compte des observations (niveau 2) - Acquérir des données expérimentales ou réaliser un produit en identifiant et évaluant les limites de l'acquisition ou de la réalisation (niveau 2) - Concevoir un protocole ou une expérience permettant de tester une hypothèse, valider un modèle, préciser le comportement d'un système ou réaliser un produit (niveau 2) - Evaluer les performances d'un système distribué déployé sur une infrastructure réelle, avec des données réelles (niveau 2) * Connaissances : - Comparer les résultats de profiling et d'analyse de données - Les logiciels de profiling et d'analyse de données - Comment évaluer un logiciel parallèle - Comment mettre en place et conduire une campagne d'expérimentation  http://if.insa-lyon.fr   - Analyse des goulots d'étranglement  - Optimisation de programme, impact sur les performances  - Méthodologie de conduite d'expérience  - Méthode d'analyse statistique de traces d'exécution  - Modèle de prédiction de performance",
+              "competencesBrutes": "Trois projets de conceptions sur les systèmes Big Data répartis, parallèles sont proposés : - Les systèmes Big Data à grande échelle, d'un point de vue utilisateur. - Les systèmes parallèles de calcul/traitement de données, d'un point de vue concepteur. - L'évaluation de performance de ces systèmes.  Ce module est le troisième volet de cet ensemble de projets. Il a pour objectif de présenter les principes et méthodes d'évaluation de performance des systèmes répartis et parallèles.  Ceci inclut les techniques d'évaluation empirique, les méthodes d'analyses des observations et traces d'exécution dans ces systèmes, les modèles de prédiction de performance.  Cet EC contribue aux :  *** Compétences écoles en sciences pour l'ingénieur ***  == A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2) == * Capacités : - Sélectionner et mettre en œuvre des outils de représentation et d'analyse de données adaptés (niveau 2) - Décomposer un système ou un problème en un ensemble de sous-parties en interactions (niveau 2) * Connaissances : - Quels outils de parallélisme et de gestion des données ainsi que les caractéristiques matérielles doivent être utilisées suivant le problème et son dimensionnement - Décomposition de demandes suivant contraintes du domaine, du logiciel, du modèle, des données et du matériel  == A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3) == * Capacités : - Déterminer par le calcul ou par résolution graphique une solution exacte ou approchée (niveau 3)  == A3 Mettre en oeuvre une démarche expérimentale (niveau 2) == * Capacités : - Observer et rendre compte des observations (niveau 2) - Acquérir des données expérimentales ou réaliser un produit en identifiant et évaluant les limites de l'acquisition ou de la réalisation (niveau 2) - Concevoir un protocole ou une expérience permettant de tester une hypothèse, valider un modèle, préciser le comportement d'un système ou réaliser un produit (niveau 2) - Evaluer les performances d'un système distribué déployé sur une infrastructure réelle, avec des données réelles (niveau 2) * Connaissances : - Comparer les résultats de profiling et d'analyse de données - Les logiciels de profiling et d'analyse de données - Comment évaluer un logiciel parallèle - Comment mettre en place et conduire une campagne d'expérimentation  http://if.insa-lyon.fr  == A5 Traiter des données (niveau 2) == * Capacités : - Concevoir l'architecture de systèmes distribués big data (niveau 2) - Construire un modèle prédictif puissant pour répondre à un problème précis (niveau 2) - Concevoir, mettre en oeuvre et déployer des systèmes distribués big data (niveau 2) * Connaissances : - Quels logiciels pour quel traitement et modèle de calcul - Importance de l'architecture d'une machine distribuée et de la micro-architecture des noeuds - Comment prédire le temps d'exécution d'un programme paralléle - Comment fonctionne et est conçu une machine de calcul  *** Compétences spécifiques IF ***  == C02 Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée (niveau 3) == * Capacités : - Concevoir et dimensionner une infrastructure distribuée (niveau 3) - Concevoir des systèmes distribués manipulant des données à grande échelle (niveau 3) - Concevoir des algorithmes et protocoles distribués (niveau 3) - Sélectionner, paramétrer et intégrer des composants matériels et logiciels (niveau 3) - Mettre en œuvre des architectures techniques et logicielles complexes et réparties (niveau 3) - Modéliser et évaluer le coût d'une infrastructure (niveau 3) * Connaissances : - Quel logiciel pour quelle machine et quel problème ? - Compromis entre les infrastructures et les différents matériels et logiciels ? - Modèles de programmation pour le calcul paralléle et distribué - Quelle infrastructure et pile logiciels pour quelle problème et dimensionnement ? - Les logiciels et les modèles de calcul pour les analyses de données - Adaptation des algrithmes aux différents contextes de parallélisme et distribution  == C04 Maîtriser l'organisation générale d'une machine à base de microprocesseur (niveau 3) == * Capacités : - Exploiter dans une application les caractéristiques de la machine (types natifs, hiérarchie mémoire, etc) (niveau 3) * Connaissances : - Caractéristique des différents matériels paralléles (GPU, CPU, Accelerateurs et réseaux)  == C05 Concevoir et développer une application multi-tâches (niveau 3) == * Capacités : - Synchroniser l'accès concurrent aux données partagées (niveau 3) - Créer, et détruire des processus lourds et des processus légers (niveau 3)  == C13 Implémenter de bons logiciels (niveau 3) == * Capacités : - Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3) - Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3) * Connaissances : - Quel langage pour quel problème et quel machine ?  En mobilisant les compétences suivantes - A1 Analyser un système (ou un problème) réel ou virtuel - A2 Exploiter un modèle d'un système réel ou virtuel - A3 Mettre en oeuvre une démarche expérimentale - A5 Traiter des données - C02 Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée - C04 Maîtriser l'organisation générale d'une machine à base de microprocesseur - C05 Concevoir et développer une application multi-tâches - C13 Implémenter de bons logiciels",
               "capacite": [
                 "capacite : Sélectionner et mettre en œuvre des outils de représentation et d'analyse de données adaptés (niveau 2)",
                 "capacite : Décomposer un système ou un problème en un ensemble de sous-parties en interactions (niveau 2)",
@@ -7969,7 +8073,21 @@
                 "capacite : Observer et rendre compte des observations (niveau 2)",
                 "capacite : Acquérir des données expérimentales ou réaliser un produit en identifiant et évaluant les limites de l'acquisition ou de la réalisation (niveau 2)",
                 "capacite : Concevoir un protocole ou une expérience permettant de tester une hypothèse, valider un modèle, préciser le comportement d'un système ou réaliser un produit (niveau 2)",
-                "capacite : Evaluer les performances d'un système distribué déployé sur une infrastructure réelle, avec des données réelles (niveau 2)"
+                "capacite : Evaluer les performances d'un système distribué déployé sur une infrastructure réelle, avec des données réelles (niveau 2)",
+                "capacite : Concevoir l'architecture de systèmes distribués big data (niveau 2)",
+                "capacite : Construire un modèle prédictif puissant pour répondre à un problème précis (niveau 2)",
+                "capacite : Concevoir, mettre en oeuvre et déployer des systèmes distribués big data (niveau 2)",
+                "capacite : Concevoir et dimensionner une infrastructure distribuée (niveau 3)",
+                "capacite : Concevoir des systèmes distribués manipulant des données à grande échelle (niveau 3)",
+                "capacite : Concevoir des algorithmes et protocoles distribués (niveau 3)",
+                "capacite : Sélectionner, paramétrer et intégrer des composants matériels et logiciels (niveau 3)",
+                "capacite : Mettre en œuvre des architectures techniques et logicielles complexes et réparties (niveau 3)",
+                "capacite : Modéliser et évaluer le coût d'une infrastructure (niveau 3)",
+                "capacite : Exploiter dans une application les caractéristiques de la machine (types natifs, hiérarchie mémoire, etc) (niveau 3)",
+                "capacite : Synchroniser l'accès concurrent aux données partagées (niveau 3)",
+                "capacite : Créer, et détruire des processus lourds et des processus légers (niveau 3)",
+                "capacite : Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3)",
+                "capacite : Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3)"
               ],
               "connaissance": [
                 "connaissance : Quels outils de parallélisme et de gestion des données ainsi que les caractéristiques matérielles doivent être utilisées suivant le problème et son dimensionnement",
@@ -7977,12 +8095,19 @@
                 "connaissance : Comparer les résultats de profiling et d'analyse de données",
                 "connaissance : Les logiciels de profiling et d'analyse de données",
                 "connaissance : Comment évaluer un logiciel parallèle",
-                "connaissance : Comment mettre en place et conduire une campagne d'expérimentation  http://if.insa-lyon.fr  ",
-                "connaissance : Analyse des goulots d'étranglement ",
-                "connaissance : Optimisation de programme, impact sur les performances ",
-                "connaissance : Méthodologie de conduite d'expérience ",
-                "connaissance : Méthode d'analyse statistique de traces d'exécution ",
-                "connaissance : Modèle de prédiction de performance"
+                "connaissance : Comment mettre en place et conduire une campagne d'expérimentation  http://if.insa-lyon.fr",
+                "connaissance : Quels logiciels pour quel traitement et modèle de calcul",
+                "connaissance : Importance de l'architecture d'une machine distribuée et de la micro-architecture des noeuds",
+                "connaissance : Comment prédire le temps d'exécution d'un programme paralléle",
+                "connaissance : Comment fonctionne et est conçu une machine de calcul  *** Compétences spécifiques IF ***",
+                "connaissance : Quel logiciel pour quelle machine et quel problème ?",
+                "connaissance : Compromis entre les infrastructures et les différents matériels et logiciels ?",
+                "connaissance : Modèles de programmation pour le calcul paralléle et distribué",
+                "connaissance : Quelle infrastructure et pile logiciels pour quelle problème et dimensionnement ?",
+                "connaissance : Les logiciels et les modèles de calcul pour les analyses de données",
+                "connaissance : Adaptation des algrithmes aux différents contextes de parallélisme et distribution",
+                "connaissance : Caractéristique des différents matériels paralléles (GPU, CPU, Accelerateurs et réseaux)",
+                "connaissance : Quel langage pour quel problème et quel machine ?"
               ],
               "competenceToCapaciteEtConnaissance": {
                 "A1": [
@@ -8002,12 +8127,43 @@
                   "connaissance : Comparer les résultats de profiling et d'analyse de données",
                   "connaissance : Les logiciels de profiling et d'analyse de données",
                   "connaissance : Comment évaluer un logiciel parallèle",
-                  "connaissance : Comment mettre en place et conduire une campagne d'expérimentation  http://if.insa-lyon.fr  ",
-                  "connaissance : Analyse des goulots d'étranglement ",
-                  "connaissance : Optimisation de programme, impact sur les performances ",
-                  "connaissance : Méthodologie de conduite d'expérience ",
-                  "connaissance : Méthode d'analyse statistique de traces d'exécution ",
-                  "connaissance : Modèle de prédiction de performance"
+                  "connaissance : Comment mettre en place et conduire une campagne d'expérimentation  http://if.insa-lyon.fr"
+                ],
+                "A5": [
+                  "capacite : Concevoir l'architecture de systèmes distribués big data (niveau 2)",
+                  "capacite : Construire un modèle prédictif puissant pour répondre à un problème précis (niveau 2)",
+                  "capacite : Concevoir, mettre en oeuvre et déployer des systèmes distribués big data (niveau 2)",
+                  "connaissance : Quels logiciels pour quel traitement et modèle de calcul",
+                  "connaissance : Importance de l'architecture d'une machine distribuée et de la micro-architecture des noeuds",
+                  "connaissance : Comment prédire le temps d'exécution d'un programme paralléle",
+                  "connaissance : Comment fonctionne et est conçu une machine de calcul  *** Compétences spécifiques IF ***"
+                ],
+                "C2": [
+                  "capacite : Concevoir et dimensionner une infrastructure distribuée (niveau 3)",
+                  "capacite : Concevoir des systèmes distribués manipulant des données à grande échelle (niveau 3)",
+                  "capacite : Concevoir des algorithmes et protocoles distribués (niveau 3)",
+                  "capacite : Sélectionner, paramétrer et intégrer des composants matériels et logiciels (niveau 3)",
+                  "capacite : Mettre en œuvre des architectures techniques et logicielles complexes et réparties (niveau 3)",
+                  "capacite : Modéliser et évaluer le coût d'une infrastructure (niveau 3)",
+                  "connaissance : Quel logiciel pour quelle machine et quel problème ?",
+                  "connaissance : Compromis entre les infrastructures et les différents matériels et logiciels ?",
+                  "connaissance : Modèles de programmation pour le calcul paralléle et distribué",
+                  "connaissance : Quelle infrastructure et pile logiciels pour quelle problème et dimensionnement ?",
+                  "connaissance : Les logiciels et les modèles de calcul pour les analyses de données",
+                  "connaissance : Adaptation des algrithmes aux différents contextes de parallélisme et distribution"
+                ],
+                "C4": [
+                  "capacite : Exploiter dans une application les caractéristiques de la machine (types natifs, hiérarchie mémoire, etc) (niveau 3)",
+                  "connaissance : Caractéristique des différents matériels paralléles (GPU, CPU, Accelerateurs et réseaux)"
+                ],
+                "C5": [
+                  "capacite : Synchroniser l'accès concurrent aux données partagées (niveau 3)",
+                  "capacite : Créer, et détruire des processus lourds et des processus légers (niveau 3)"
+                ],
+                "C13": [
+                  "capacite : Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3)",
+                  "capacite : Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3)",
+                  "connaissance : Quel langage pour quel problème et quel machine ?"
                 ]
               },
               "listeComp": [
@@ -8031,6 +8187,75 @@
                   "valAnglais": "Implement an experimental approach",
                   "bs": "3",
                   "niveau": "2"
+                },
+                {
+                  "code": "A5",
+                  "val": "Traiter des données",
+                  "valAnglais": "Process data",
+                  "bs": "5",
+                  "niveau": "2"
+                },
+                {
+                  "val": "Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée",
+                  "code": "C2",
+                  "niveau": "3"
+                },
+                {
+                  "val": "Maîtriser l¿organisation générale d¿une machine à base de microprocesseur",
+                  "code": "C4",
+                  "niveau": "3"
+                },
+                {
+                  "val": "Concevoir et développer une application multi-tâches",
+                  "code": "C5",
+                  "niveau": "3"
+                },
+                {
+                  "val": "Implémenter de bons logiciels",
+                  "code": "C13",
+                  "niveau": "3"
+                }
+              ],
+              "listeCompMobilise": [
+                {
+                  "code": "A1",
+                  "val": "Analyser un système (ou un problème) réel ou virtuel",
+                  "valAnglais": "Analyze a real or virtual system (or problem)",
+                  "bs": "1"
+                },
+                {
+                  "code": "A2",
+                  "val": "Exploiter un modèle d'un système réel ou virtuel",
+                  "valAnglais": "Exploit a model of a real or virtual system",
+                  "bs": "2"
+                },
+                {
+                  "code": "A3",
+                  "val": "Mettre en œuvre une démarche expérimentale",
+                  "valAnglais": "Implement an experimental approach",
+                  "bs": "3"
+                },
+                {
+                  "code": "A5",
+                  "val": "Traiter des données",
+                  "valAnglais": "Process data",
+                  "bs": "5"
+                },
+                {
+                  "val": "Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée",
+                  "code": "C2"
+                },
+                {
+                  "val": "Maîtriser l¿organisation générale d¿une machine à base de microprocesseur",
+                  "code": "C4"
+                },
+                {
+                  "val": "Concevoir et développer une application multi-tâches",
+                  "code": "C5"
+                },
+                {
+                  "val": "Implémenter de bons logiciels",
+                  "code": "C13"
                 }
               ]
             }
@@ -8047,7 +8272,7 @@
               "projet": "0.0 h",
               "perso": "30.0 h",
               "nom": "Projets : Réseaux sociaux distribués et mobiles",
-              "competencesBrutes": "L'objectif du projet est de mettre en place une application répartie mobile, mettant en oeuvre un réseau social, et illustrant des problématiques de crowd sensing, géolocalisation et gestion de vie privée.  Cet EC contribue aux :  *** Compétences transversales ***  == B2 Travailler, apprendre, évoluer de façon autonome (niveau 3) == * Capacités : -  (niveau 3) * Connaissances : - recherche d'information, outils pour le travail autonome  == B3 Interagir avec les autres, travailler en équipe (niveau 3) == * Capacités : - S'intégrer dans un groupe, se positionner, construire une relation dynamique au groupe, intégrer de nouveaux membres (niveau 3) * Connaissances : - outils de travail collaboratif  *** Compétences spécifiques IF ***  == C02 Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée (niveau 2) == * Capacités : - Concevoir des algorithmes et protocoles distribués (niveau 2) * Connaissances : - connaissances de base en programmation répartie - algorithmes répartis de base  == C07 Concevoir, développer et tester une application répartie (niveau 2) == * Capacités : - Concevoir un protocole de niveau applicatif (niveau 2)  == C11 Mettre en oeuvre une méthodologie pour concevoir, réaliser et maintenir des logiciels de qualité (niveau 2) == * Capacités : - Mettre en oeuvre les principes du manifeste Agile (niveau 2) * Connaissances : - connaisances de base en gestion de projets agile  == C13 Implémenter de bons logiciels (niveau 3) == * Capacités : - Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3) * Connaissances : - connaissances de base en programmation  == C14 Mettre en oeuvre des outils génériques pour la qualité logicielle. (niveau 3) == * Capacités : - Mettre en place et utiliser des outils pour le travail collaboratif (gestion de versions, IDE) (niveau 3) * Connaissances : - outils de programmaton collaboratifs et outils de collaboration  http://if.insa-lyon.fr   == C15 Utiliser des diagrammes UML pour modéliser un objet d'étude (niveau 2) == * Capacités : - Concevoir un diagramme UML modélisant un objet d'étude (niveau 2)  == C18 Spécifier un algorithme et savoir évaluer sa compléxité  - prouver la correction d'un algorithme - C1 C11 C16 (niveau 3) == * Capacités : - Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3) * Connaissances : - connaissances de bases en algorithmique et complexité  En mobilisant les compétences suivantes - A1 Analyser un système (ou un problème) réel ou virtuel - A3 Mettre en oeuvre une démarche expérimentale - A5 Traiter des données - A6 Communiquer une analyse ou une démarche scientifique",
+              "competencesBrutes": "L'objectif du projet est de mettre en place une application répartie mobile, mettant en oeuvre un réseau social, et illustrant des problématiques de crowd sensing, géolocalisation et gestion de vie privée.  Cet EC contribue aux :  *** Compétences transversales ***  == B2 Travailler, apprendre, évoluer de façon autonome (niveau 3) == * Capacités : -  (niveau 3) * Connaissances : - recherche d'information, outils pour le travail autonome  == B3 Interagir avec les autres, travailler en équipe (niveau 3) == * Capacités : - S'intégrer dans un groupe, se positionner, construire une relation dynamique au groupe, intégrer de nouveaux membres (niveau 3) * Connaissances : - outils de travail collaboratif  *** Compétences spécifiques IF ***  == C02 Concevoir, mettre en œuvre et administrer une infrastructure matérielle et logicielle distribuée (niveau 2) == * Capacités : - Concevoir des algorithmes et protocoles distribués (niveau 2) * Connaissances : - connaissances de base en programmation répartie - algorithmes répartis de base  == C07 Concevoir, développer et tester une application répartie (niveau 2) == * Capacités : - Concevoir un protocole de niveau applicatif (niveau 2)  == C11 Mettre en oeuvre une méthodologie pour concevoir, réaliser et maintenir des logiciels de qualité (niveau 2) == * Capacités : - Mettre en oeuvre les principes du manifeste Agile (niveau 2) * Connaissances : - connaisances de base en gestion de projets agile  == C13 Implémenter de bons logiciels (niveau 3) == * Capacités : - Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3) * Connaissances : - connaissances de base en programmation  == C14 Mettre en oeuvre des outils génériques pour la qualité logicielle. (niveau 3) == * Capacités : - Mettre en place et utiliser des outils pour le travail collaboratif (gestion de versions, IDE) (niveau 3) * Connaissances : - outils de programmaton collaboratifs et outils de collaboration  http://if.insa-lyon.fr  == C15 Utiliser des diagrammes UML pour modéliser un objet d'étude (niveau 2) == * Capacités : - Concevoir un diagramme UML modélisant un objet d'étude (niveau 2)  == C18 Spécifier un algorithme et savoir évaluer sa compléxité  - prouver la correction d'un algorithme - C1 C11 C16 (niveau 3) == * Capacités : - Choisir les algorithmes et structures de données adaptés à la situation et évaluer leur complexité (niveau 3) * Connaissances : - connaissances de bases en algorithmique et complexité  En mobilisant les compétences suivantes - A1 Analyser un système (ou un problème) réel ou virtuel - A3 Mettre en oeuvre une démarche expérimentale - A5 Traiter des données - A6 Communiquer une analyse ou une démarche scientifique",
               "capacite": [
                 "capacite : (niveau 3)",
                 "capacite : S'intégrer dans un groupe, se positionner, construire une relation dynamique au groupe, intégrer de nouveaux membres (niveau 3)",
