@@ -3,6 +3,7 @@
 # TODO : fonction de liste de section
 # Extraire la section parmis cette liste
 DPTINSA = 'BS'
+SPECIALITE = 'BB'
 
 Promise = require 'bluebird'
 cheerio = require 'cheerio'
@@ -54,6 +55,8 @@ extractPdfStructure = (pdf) ->
   # console.warn "-->", pdf
   # console.warn "Recherche mat"
   matiere.code = extractRe(/CODE : .*ECTS/s, pdf).replace(/\n/g, '')
+  /test/.test()
+  # Bug fix for coffeescript linter
 
   matiere.code = matiere.code.substring(0, matiere.code.length-4)
 
@@ -93,19 +96,20 @@ extractPdfStructure = (pdf) ->
         console.log '-->', description
         # On place la compétence
         try
-          [, compet, niveau] = /([ABC]\d+).*\((.*)\)/.exec(description.shift())
+          tmp = description.shift()
+          [, compet, niveau] = /([ABC]\d+).*\((.*)\)/.exec(tmp)
           if compet.startsWith('C')
-            compet = "#{DPTINSA}-#{compet}"
+            compet = "#{SPECIALITE}-#{compet}"
           comp = _.clone(refCompetences[compet])
+
           unless comp?
-            throw Error("*#{x}* est inconnue, #{compet}")
+            throw Error("* Competence INCONNUE #{x}*, #{compet}")
           if niveau.startsWith('niveau')
             comp.niveau = niveau.replace(/niveau/,'').trim()
           else
             comp.niveau = 'M'
         catch error
-          console.error "Erreur sur la matière #{matiere.code},  #{description}, #{error}"
-          process.exit()
+          console.error "Erreur sur la matière #{matiere.code}, #{error}"
 
         addCapaOrConn = (compet, listName, field, motif) ->
           if listName
