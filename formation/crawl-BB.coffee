@@ -47,7 +47,8 @@ getCompetenceSection = (matiere, start) ->
       rech = buildCaptureMiddle(start, section).exec(matiere.competencesBrutes)
       if rech?
         return rech
-  console.error "#{matiere.code} section \"#{start}\" introuvable}."
+  unless /^HU-|^EPS-|^HUMA-/.test(matiere.code)
+    console.error "#{matiere.code} section \"#{start}\" introuvable}."
 
 extractPdfStructure = (pdf) ->
   # console.log '->', pdf
