@@ -47,7 +47,8 @@ getCompetenceSection = (matiere, start) ->
       rech = buildCaptureMiddle(start, section).exec(matiere.competencesBrutes)
       if rech?
         return rech
-  console.error "#{matiere.code} section \"#{start}\" introuvable}."
+  unless /^HU-|^EPS-|^HUMA-/.test(matiere.code)
+    console.error "#{matiere.code} section \"#{start}\" introuvable}."
 
 extractPdfStructure = (pdf) ->
   # console.log '->', pdf
@@ -109,7 +110,7 @@ extractPdfStructure = (pdf) ->
           else
             comp.niveau = 'M'
         catch error
-          console.error "Erreur sur la matière #{matiere.code}, #{error}"
+          console.error "Erreur sur la matière #{matiere.code}, #{error}, #{tmp}"
 
         addCapaOrConn = (compet, listName, field, motif) ->
           if listName
@@ -144,8 +145,8 @@ extractPdfStructure = (pdf) ->
     # try
     #   getCompetenceSection(matiere, "Les connaissances associées à ce cours sont :")[1]
     # catch
-    unless /^HU-|^EPS-/.test(matiere.code)
-      console.error "Erreur sur la connaissance #{matiere.code}"
+    # unless /^HU-|^EPS-/.test(matiere.code)
+    #   console.error "Erreur sur la connaissance #{matiere.code}"
 
   matiere
 
@@ -160,7 +161,7 @@ request()
     if departement is DPTINSA
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        # if $(@).attr('href') is '/fr/formation/parcours/1370/3/1'
+        # if $(@).attr('href') is '/fr/formation/parcours/1371/3/1'
           if $(@).text().trim() is "Parcours Standard #{SPECIALITE}"
             semestres.push
               url: $(@).attr('href')
@@ -183,7 +184,7 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34633&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36067&_lang=fr'
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')
