@@ -108,7 +108,6 @@ extractPdfStructure = (pdf) ->
   if matiere.listeComp
     matiere.listeComp = matiere.listeComp.filter((x) -> x)
 
-
   # Competences mobilisées
   lcompetences = getCompetenceSection(matiere, "[E\|3\]n \{0,2\}mobilisant les compétences\? suivantes\? :\{0,1\}")
   if lcompetences?
