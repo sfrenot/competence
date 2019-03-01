@@ -54,12 +54,12 @@ getCompetenceSection = (matiere, start) ->
 
 extractPdfStructure = (pdf) ->
   # console.log '->', pdf
-  # Suppression de l'addresse et du numéro de page sous toutes les pages
-  pdf = pdf.replace(/mailto:[\s\S]*Dernière modification le : [^\n]+/g,'')
   matiere = {}
   # console.warn "-->", pdf
   # console.warn "Recherche mat"
-  matiere.code = extractRe(/CODE : .*/, pdf)
+  matiere.code = extractRe(/CODE : .*ECTS/s, pdf).replace(/\n/g, '')
+  # //
+  # // Bug fix for coffeescript linter
   matiere.ects = extractRe(/ECTS : .*/, pdf)
   matiere.cours = extractRe(/Cours : .*/, pdf)
   matiere.td = extractRe(/TD : .*/, pdf)

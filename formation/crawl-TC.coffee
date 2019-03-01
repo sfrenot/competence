@@ -25,7 +25,10 @@ getCompetenceBruteSection = (pdf) ->
   for section in mainSections
     rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
     if rech?
-      return rech[1].trim().replace(/\n/g,' ')
+      solution = rech[1].trim()
+      solution = solution.replace(/mailto:[^\n]*\n/g, '')
+      solution = solution.replace(/http:\/\/www\.insa-lyon\.fr[\s\S]*?Dernière modification le : [^\n]*\n/g, '')
+      return solution.replace(/\n/g,' ')
   return null
 
 getCompetenceSection = (matiere, start) ->
@@ -45,16 +48,17 @@ getCompetenceSection = (matiere, start) ->
       rech = buildCaptureMiddle(start, section).exec(matiere.competencesBrutes)
       if rech?
         return rech
-  console.error "#{matiere.code} section \"#{start}\" introuvable}."
+  unless /^HU-|^EPS-|^HUMA-/.test(matiere.code)
+    console.error "#{matiere.code} section \"#{start}\" introuvable."
 
 extractPdfStructure = (pdf) ->
   # console.log '->', pdf
-  # Suppression de l'addresse et du numéro de page sous toutes les pages
-  pdf = pdf.replace(/mailto:[\s\S]*Dernière modification le : [^\n]+/g,'')
   matiere = {}
   # console.warn "-->", pdf
   # console.warn "Recherche mat"
-  matiere.code = extractRe(/CODE : .*/, pdf)
+  matiere.code = extractRe(/CODE : .*ECTS/s, pdf).replace(/\n/g, '')
+  # //
+  # // Bug fix for coffeescript linter
   matiere.ects = extractRe(/ECTS : .*/, pdf)
   matiere.cours = extractRe(/Cours : .*/, pdf)
   matiere.td = extractRe(/TD : .*/, pdf)
