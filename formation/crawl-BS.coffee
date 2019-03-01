@@ -25,7 +25,10 @@ getCompetenceBruteSection = (pdf) ->
   for section in mainSections
     rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
     if rech?
-      return rech[1].trim().replace(/\n/g,' ')
+      solution = rech[1].trim()
+      solution = solution.replace(/mailto:[^\n]*\n/g, '')
+      solution = solution.replace(/http:\/\/www\.insa-lyon\.fr[\s\S]*?Dernière modification le : [^\n]*\n/g, '')
+      return solution.replace(/\n/g,' ')
   return null
 
 getCompetenceSection = (matiere, start) ->
@@ -47,13 +50,11 @@ getCompetenceSection = (matiere, start) ->
 
 extractPdfStructure = (pdf) ->
   # console.log '->', pdf
-  # Suppression de l'addresse et du numéro de page sous toutes les pages
-  pdf = pdf.replace(/mailto:[\s\S]*Dernière modification le : [^\n]+/g,'')
   matiere = {}
   # console.warn "-->", pdf
   # console.warn "Recherche mat"
-
   matiere.code = extractRe(/CODE : .*ECTS/s, pdf).replace(/\n/g, '')
+
   matiere.code = matiere.code.substring(0, matiere.code.length-4)
 
   matiere.ects = extractRe(/ECTS : .*/, pdf)
@@ -83,12 +84,13 @@ extractPdfStructure = (pdf) ->
   if lcompetences?
     try
       matiere.listeComp = lcompetences[1].trim().split(/ (?=[ABC]\d+)/).map (x) ->
+        # console.log '--> *', x
         description = x.split(/ - ?/)
         if (description[0] is 'A6') ## TODO BIM : A6 - est compliqué
           description.shift()
           description[0] = "A6. #{description[0]}"
         #
-        # console.log '-->', description
+        console.log '-->', description
         # On place la compétence
         try
           [, compet, niveau] = /([ABC]\d+).*\((.*)\)/.exec(description.shift())
@@ -102,7 +104,8 @@ extractPdfStructure = (pdf) ->
           else
             comp.niveau = 'M'
         catch error
-          console.error "Erreur sur la matière #{matiere.code},  #{x}"
+          console.error "Erreur sur la matière #{matiere.code},  #{description}, #{error}"
+          process.exit()
 
         addCapaOrConn = (compet, listName, field, motif) ->
           if listName
@@ -153,7 +156,7 @@ request()
     if departement is DPTINSA
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        # if $(@).attr('href') is '/fr/formation/parcours/1371/4/2'
+        if $(@).attr('href') is '/fr/formation/parcours/1370/3/1'
           if $(@).text().trim() is 'Parcours Standard BB'
             semestres.push
               url: $(@).attr('href')
@@ -176,7 +179,7 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36921&_lang=fr'
+            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34633&_lang=fr'
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')
