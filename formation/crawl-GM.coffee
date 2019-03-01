@@ -26,7 +26,10 @@ getCompetenceBruteSection = (pdf) ->
   for section in mainSections
     rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
     if rech?
-      return rech[1].trim().replace(/\n/g,' ')
+      solution = rech[1].trim()
+      solution = solution.replace(/mailto:[^\n]*\n/g, '')
+      solution = solution.replace(/http:\/\/www\.insa-lyon\.fr[\s\S]*?Dernière modification le : [^\n]*\n/g, '')
+      return solution.replace(/\n/g,' ')
   return null
 
 getCompetenceSection = (matiere, start) ->
