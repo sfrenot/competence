@@ -26,13 +26,16 @@ getCompetenceBruteSection = (pdf) ->
   for section in mainSections
     rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
     if rech?
-      return rech[1].trim().replace(/\n/g,' ')
+      solution = rech[1].trim()
+      solution = solution.replace(/mailto:[^\n]*\n/g, '')
+      solution = solution.replace(/http:\/\/www\.insa-lyon\.fr[\s\S]*?Dernière modification le : [^\n]*\n/g, '')
+      return solution.replace(/\n/g,' ')
   return null
 
 getCompetenceSection = (matiere, start) ->
   compSections = [
     "Cet \.\*\? relève de \.\*\? et contribue aux : "
-    "En mobilisant les compétences\? suivantes\? :\{0,1\}"
+    "\[E\|3\]n \{0,2\}mobilisant les compétences\? suivantes\? :\{0,1\}"
     "\[E\|e\]n permettant à l'étudiant de travailler et d\['\|¿\]être évalué sur les connaissances \.\*\? :"
     "\[E\|e\]n permettant à l'étudiant de travailler et d'être évalué sur les capacités\{0,1\} suivantes :"
     ""
@@ -46,7 +49,8 @@ getCompetenceSection = (matiere, start) ->
       rech = buildCaptureMiddle(start, section).exec(matiere.competencesBrutes)
       if rech?
         return rech
-  console.error "#{matiere.code} section \"#{start}\" introuvable}."
+  unless /^HU-|^EPS-|^HUMA-/.test(matiere.code)
+    console.error "#{matiere.code} section \"#{start}\" introuvable."
 
 extractPdfStructure = (pdf) ->
   # console.log '->', pdf
@@ -106,7 +110,7 @@ extractPdfStructure = (pdf) ->
 
 
   # Competences mobilisées
-  lcompetences = getCompetenceSection(matiere, "En mobilisant les compétences\? suivantes\? :\{0,1\}")
+  lcompetences = getCompetenceSection(matiere, "[E\|3\]n \{0,2\}mobilisant les compétences\? suivantes\? :\{0,1\}")
   if lcompetences?
     try
       matiere.listeCompMobilise = lcompetences[1].trim().match(/[ABC]\d+/g).map (x) ->
@@ -158,7 +162,7 @@ extractPdfStructure = (pdf) ->
           #     matiere.competenceToCapaciteEtConnaissance[comp].push(capaDescription)
 
   injectCapacitesConnaissances("Connaissance", matiere, "\[E\|e\]n permettant à l'étudiant de travailler et d\['\|¿\]être évalué sur les connaissances \.\*\? :")
-  injectCapacitesConnaissances("Capacité", matiere, "\[E\|e\]n permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :")
+  injectCapacitesConnaissances("Capacité", matiere, "\[E\|e\]n permettant à l'étudiant de travailler et d'être évalué sur les capacités\{0,1\} suivantes :")
 
   # console.warn "-->", matiere
   matiere
@@ -174,7 +178,7 @@ request()
     if departement is DPTINSA
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        # if $(@).attr('href') is '/fr/formation/parcours/728/4/2'
+        # if $(@).attr('href') is '/fr/formation/parcours/728/5/1'
           semestres.push
             url: $(@).attr('href')
             ecs: []
@@ -196,7 +200,7 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34694&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=36222&_lang=fr'
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')
