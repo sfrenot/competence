@@ -659,7 +659,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 1 (GEN-3-ue-SHS1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36882&_lang=fr",
             "detail": {
-              "code": "HU-L-ANG-MOD-TRT-",
+              "code": "HU-L-ANG-MOD-TRT-S5",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -695,7 +695,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 1 (GEN-3-ue-SHS1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36893&_lang=fr",
             "detail": {
-              "code": "HU-L-ANG-MOD-",
+              "code": "HU-L-ANG-MOD-MUS-S5",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -793,7 +793,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : Module Professionnel Allemand S1",
-              "competencesBrutes": "COMPÉTENCES CIBLÉES ET MOBILISÉES Ciblées : a) Travailler dans un contexte international et interculturel b) Interagir avec les autres, travailler en équipe  Mobilisées : a) Se connaître, se gérer physiquement et mentalement b) Travailler, apprendre, évoluer de manière autonome",
+              "competencesBrutes": "COMP��TENCES CIBLÉES ET MOBILISÉES Ciblées : a) Travailler dans un contexte international et interculturel b) Interagir avec les autres, travailler en équipe  Mobilisées : a) Se connaître, se gérer physiquement et mentalement b) Travailler, apprendre, évoluer de manière autonome",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -893,7 +893,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 1 (GEN-3-ue-SHS1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36824&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S1-",
+              "code": "HU-L-ESP-S1-HUMOUR",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -929,7 +929,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 1 (GEN-3-ue-SHS1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36800&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S1-",
+              "code": "HU-L-ESP-S1-CATALAN",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -1001,7 +1001,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 1 (GEN-3-ue-SHS1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34927&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP/FLE-TAN-",
+              "code": "HU-L-ESP/FLE-TAN-S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -1199,7 +1199,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 1 (GEN-3-ue-SHS1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34807&_lang=fr",
             "detail": {
-              "code": "HU-L-",
+              "code": "HU-L-FLEDptTTCB1B2S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -1217,7 +1217,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 1 (GEN-3-ue-SHS1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34939&_lang=fr",
             "detail": {
-              "code": "HU-L-FLEDptCCB2C1-",
+              "code": "HU-L-FLEDptCCB2C1-S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "28.0 h",
@@ -1788,7 +1788,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 2 (GEN-3-ue-SHS2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36883&_lang=fr",
             "detail": {
-              "code": "HU-L-ANG-MOD-TRT-",
+              "code": "HU-L-ANG-MOD-TRT-S6",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -1842,7 +1842,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 2 (GEN-3-ue-SHS2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36894&_lang=fr",
             "detail": {
-              "code": "HU-L-ANG-MOD-",
+              "code": "HU-L-ANG-MOD-MUS-S6",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -1940,7 +1940,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : CHINOIS S2",
-              "competencesBrutes": "Cet EC relève de l'UE : HUMANITÉS  Il contribue aux compétences Ecole transversales suivantes : CT7: Travailler dans un contexte international et interculturel --CT7.1 : Communiquer en langues étrangères  en permettant �� l'élève ingénieur de travailler et d'être évalué sur les connaissances et les capacités suivantes :  Être capable de : -- comprendre et mettre en œuvre les codes sociaux propres aux diverses cultures --avoir une conversation adaptée au niveau ciblé --faire face à des situations de communication de difficulté croissante --produire divers types de textes --comprendre des documents (écrits, audio-visuels) authentiques --parler d'une société ou d'un phénomène de société --mettre en œuvre la grammaire et le vocabulaire présentés en cours  Le niveau d'acquisition attendu (A1-B2) est fixé en fonction du groupe.",
+              "competencesBrutes": "Cet EC relève de l'UE : HUMANITÉS  Il contribue aux compétences Ecole transversales suivantes : CT7: Travailler dans un contexte international et interculturel --CT7.1 : Communiquer en langues étrangères  en permettant à l'élève ingénieur de travailler et d'être évalué sur les connaissances et les capacités suivantes :  Être capable de : -- comprendre et mettre en œuvre les codes sociaux propres aux diverses cultures --avoir une conversation adaptée au niveau ciblé --faire face à des situations de communication de difficulté croissante --produire divers types de textes --comprendre des documents (écrits, audio-visuels) authentiques --parler d'une société ou d'un phénomène de société --mettre en œuvre la grammaire et le vocabulaire présentés en cours  Le niveau d'acquisition attendu (A1-B2) est fixé en fonction du groupe.",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -1968,7 +1968,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 2 (GEN-3-ue-SHS2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34930&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP/FLE-TAN-",
+              "code": "HU-L-ESP/FLE-TAN-S2",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2022,7 +2022,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 2 (GEN-3-ue-SHS2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36825&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S2-",
+              "code": "HU-L-ESP-S2-INTERCOM",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2148,7 +2148,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 2 (GEN-3-ue-SHS2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34806&_lang=fr",
             "detail": {
-              "code": "HU-L-FLE Dpt PEB2",
+              "code": "HU-L-FLE Dpt PEB2S2",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2184,7 +2184,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 2 (GEN-3-ue-SHS2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34425&_lang=fr",
             "detail": {
-              "code": "HU-L-",
+              "code": "HU-L-FLEDptTTCB1B2S2",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -2202,7 +2202,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 2 (GEN-3-ue-SHS2)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34482&_lang=fr",
             "detail": {
-              "code": "HU-L-FLEDptCCB2C1-",
+              "code": "HU-L-FLEDptCCB2C1-S2",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "28.0 h",
@@ -3311,7 +3311,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 1 (GEN-4-ue-SHS1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36824&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S1-",
+              "code": "HU-L-ESP-S1-HUMOUR",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -3329,7 +3329,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 1 (GEN-4-ue-SHS1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34927&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP/FLE-TAN-",
+              "code": "HU-L-ESP/FLE-TAN-S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -3419,7 +3419,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 1 (GEN-4-ue-SHS1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36800&_lang=fr",
             "detail": {
-              "code": "HU-L-ESP-S1-",
+              "code": "HU-L-ESP-S1-CATALAN",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -3617,7 +3617,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 1 (GEN-4-ue-SHS1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34939&_lang=fr",
             "detail": {
-              "code": "HU-L-FLEDptCCB2C1-",
+              "code": "HU-L-FLEDptCCB2C1-S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "28.0 h",
@@ -3635,7 +3635,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 1 (GEN-4-ue-SHS1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=34807&_lang=fr",
             "detail": {
-              "code": "HU-L-",
+              "code": "HU-L-FLEDptTTCB1B2S1",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "26.0 h",
@@ -3882,7 +3882,7 @@
             "UE": "Sciences Humaines et Sociales et Sport 1 (GEN-4-ue-SHS1)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=36944&_lang=fr",
             "detail": {
-              "code": "HU-SHS-OPTION04b-",
+              "code": "HU-SHS-OPTION04b-ii",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "24.0 h",
@@ -4998,7 +4998,30 @@
               "projet": "6.0 h",
               "perso": "20.0 h",
               "nom": "Thermodynamique : Combustion propre, sûre et efficace",
-              "competencesBrutes": "COMPÉTENCES : Cet EC relève de l'unit�� d'enseignement Option EASE (GEN-5-ue-EASE) et contribue aux compétences suivantes :  A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3) A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2) A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :  - Connaître les deux types principaux de flammes : flamme de diffusion et flamme prémélangée - Connaître les différents combustibles et leurs spécificités - Connaître la loi d'Arrhenius pour décrire la vitesse de réaction en fonction de la température - Connaître les différentes équations qui régissent les milieux réactifs - Connaître le diagramme de combustion turbulente - Connaître les voies de productions des principaux polluants - Connaître les différentes approches de simulation numérique de la combustion  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - Etre capable d'identifier le type de flamme dans une application industrielle - Etre capable d'utiliser la loi d'Arrhenius pour les réactions de combustion - Etre capable d'écrire les équations qui régissent les milieux réactifs - Etre capable d'utiliser le diagramme de combustion turbulente - Etre capable d'utiliser un logiciel de simulation de la combustion turbulente - Etre capable d'interprêter et analyser les résultats de la simulation de la combustion turbulente",
+              "competencesBrutes": "COMPÉTENCES : Cet EC relève de l'unité d'enseignement Option EASE (GEN-5-ue-EASE) et contribue aux compétences suivantes :  A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3) A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2) A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :  - Connaître les deux types principaux de flammes : flamme de diffusion et flamme prémélangée - Connaître les différents combustibles et leurs spécificités - Connaître la loi d'Arrhenius pour décrire la vitesse de réaction en fonction de la température - Connaître les différentes équations qui régissent les milieux réactifs - Connaître le diagramme de combustion turbulente - Connaître les voies de productions des principaux polluants - Connaître les différentes approches de simulation numérique de la combustion  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - Etre capable d'identifier le type de flamme dans une application industrielle - Etre capable d'utiliser la loi d'Arrhenius pour les réactions de combustion - Etre capable d'écrire les équations qui régissent les milieux réactifs - Etre capable d'utiliser le diagramme de combustion turbulente - Etre capable d'utiliser un logiciel de simulation de la combustion turbulente - Etre capable d'interprêter et analyser les résultats de la simulation de la combustion turbulente",
+              "listeComp": [
+                {
+                  "code": "A1",
+                  "val": "Analyser un système (ou un problème) réel ou virtuel",
+                  "valAnglais": "Analyze a real or virtual system (or problem)",
+                  "bs": "1",
+                  "niveau": "3"
+                },
+                {
+                  "code": "A2",
+                  "val": "Exploiter un modèle d'un système réel ou virtuel",
+                  "valAnglais": "Exploit a model of a real or virtual system",
+                  "bs": "2",
+                  "niveau": "2"
+                },
+                {
+                  "code": "A6",
+                  "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
+                  "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
+                  "bs": "6",
+                  "niveau": "2"
+                }
+              ],
               "capacite": [
                 "Capacité : Etre capable d'identifier le type de flamme dans une application industrielle",
                 "Capacité : Etre capable d'utiliser la loi d'Arrhenius pour les réactions de combustion",
