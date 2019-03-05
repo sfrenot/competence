@@ -8,15 +8,17 @@ cheerio = require 'cheerio'
 request = require('request-promise').defaults
   url: 'https://www.insa-lyon.fr/fr/formation/diplomes/ING'
 {spawn}  = require 'child_process'
+_ = require 'lodash'
 
 if process.argv.length < 3
   console.info("Usage : coffee ./crawl.coffee <DPT> [<SPECIALITE>]")
   process.exit()
 
 DPTINSA = process.argv[2]
-SPECIALITE = process.argv[3] || ''
 
+SPECIALITE = process.argv[3] ||  ""
 analyseurDpt = require "./extract-#{DPTINSA}-#{SPECIALITE}"
+unless _.isEmpty(SPECIALITE) then SPECIALITE = " #{SPECIALITE}"
 
 extractRe = (re, src) ->
   return re.exec(src)[0].split(' : ')[1]
@@ -98,7 +100,7 @@ request()
       semestres = []
       $('.contenu table tr td a', @).each () ->
         # if $(@).attr('href') is '/fr/formation/parcours/1371/3/2' # BIM
-          if $(@).text().trim() is "Parcours Standard #{SPECIALITE}"
+          if $(@).text().trim() is "Parcours Standard#{SPECIALITE}"
             semestres.push
               url: $(@).attr('href')
               ecs: []
