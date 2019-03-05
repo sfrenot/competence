@@ -3229,7 +3229,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : Module Professionnel Allemand S1",
-              "competencesBrutes": "COMP��TENCES CIBLÉES ET MOBILISÉES Ciblées : a) Travailler dans un contexte international et interculturel b) Interagir avec les autres, travailler en équipe  Mobilisées : a) Se connaître, se gérer physiquement et mentalement b) Travailler, apprendre, évoluer de manière autonome",
+              "competencesBrutes": "COMPÉTENCES CIBLÉES ET MOBILISÉES Ciblées : a) Travailler dans un contexte international et interculturel b) Interagir avec les autres, travailler en équipe  Mobilisées : a) Se connaître, se gérer physiquement et mentalement b) Travailler, apprendre, évoluer de manière autonome",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -4998,7 +4998,30 @@
               "projet": "6.0 h",
               "perso": "20.0 h",
               "nom": "Thermodynamique : Combustion propre, sûre et efficace",
-              "competencesBrutes": "COMPÉTENCES : Cet EC relève de l'unit�� d'enseignement Option EASE (GEN-5-ue-EASE) et contribue aux compétences suivantes :  A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3) A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2) A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :  - Connaître les deux types principaux de flammes : flamme de diffusion et flamme prémélangée - Connaître les différents combustibles et leurs spécificités - Connaître la loi d'Arrhenius pour décrire la vitesse de réaction en fonction de la température - Connaître les différentes équations qui régissent les milieux réactifs - Connaître le diagramme de combustion turbulente - Connaître les voies de productions des principaux polluants - Connaître les différentes approches de simulation numérique de la combustion  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - Etre capable d'identifier le type de flamme dans une application industrielle - Etre capable d'utiliser la loi d'Arrhenius pour les réactions de combustion - Etre capable d'écrire les équations qui régissent les milieux réactifs - Etre capable d'utiliser le diagramme de combustion turbulente - Etre capable d'utiliser un logiciel de simulation de la combustion turbulente - Etre capable d'interprêter et analyser les résultats de la simulation de la combustion turbulente",
+              "competencesBrutes": "COMPÉTENCES : Cet EC relève de l'unité d'enseignement Option EASE (GEN-5-ue-EASE) et contribue aux compétences suivantes :  A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3) A2 Exploiter un modèle d'un système réel ou virtuel (niveau 2) A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :  - Connaître les deux types principaux de flammes : flamme de diffusion et flamme prémélangée - Connaître les différents combustibles et leurs spécificités - Connaître la loi d'Arrhenius pour décrire la vitesse de réaction en fonction de la température - Connaître les différentes équations qui régissent les milieux réactifs - Connaître le diagramme de combustion turbulente - Connaître les voies de productions des principaux polluants - Connaître les différentes approches de simulation numérique de la combustion  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - Etre capable d'identifier le type de flamme dans une application industrielle - Etre capable d'utiliser la loi d'Arrhenius pour les réactions de combustion - Etre capable d'écrire les équations qui régissent les milieux réactifs - Etre capable d'utiliser le diagramme de combustion turbulente - Etre capable d'utiliser un logiciel de simulation de la combustion turbulente - Etre capable d'interprêter et analyser les résultats de la simulation de la combustion turbulente",
+              "listeComp": [
+                {
+                  "code": "A1",
+                  "val": "Analyser un système (ou un problème) réel ou virtuel",
+                  "valAnglais": "Analyze a real or virtual system (or problem)",
+                  "bs": "1",
+                  "niveau": "3"
+                },
+                {
+                  "code": "A2",
+                  "val": "Exploiter un modèle d'un système réel ou virtuel",
+                  "valAnglais": "Exploit a model of a real or virtual system",
+                  "bs": "2",
+                  "niveau": "2"
+                },
+                {
+                  "code": "A6",
+                  "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
+                  "valAnglais": "Communicate an analysis or a scientific approach with scenarios adapted to their specialty",
+                  "bs": "6",
+                  "niveau": "2"
+                }
+              ],
               "capacite": [
                 "Capacité : Etre capable d'identifier le type de flamme dans une application industrielle",
                 "Capacité : Etre capable d'utiliser la loi d'Arrhenius pour les réactions de combustion",
@@ -5577,7 +5600,7 @@
               "projet": "17.0 h",
               "perso": "85.0 h",
               "nom": "Energie : Stratégie énergétique territoriale",
-              "competencesBrutes": "COMPÉTENCES : Cet EC relève de l'unité d'enseignement SHS 5 (GEN-5-ue-SHS) et contribue aux compétences suivantes :  A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3) A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3) A4 Concevoir un système répondant à un cahier des charges (niveau 3) A5 Traiter des données (niveau 3) A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 3) C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 3) C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 3) C3 Maitrise des outils de calcul permettant d¿analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 3) C4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques (niveau 3) C6 Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux (niveau 3) C7 Concevoir et mettre en œuvre une démarche d'écologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux (niveau 3) B2 Travailler, apprendre, évoluer de manière autonome (niveau 3) B3 Interagir avec les autres, travailler en équipe (niveau 3) B5 Agir de manière responsable dans un monde complexe (niveau 3)  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - Être capable de collecter de l'information diffuse - Être capable de poser des hypothèse réalistes pour pallier l'absence de données - Être capable de mettre en œuvre des logiciels métiers pour justifier le choix de solutions technologiques - Être capable d'interagir avec des interlocuteurs divers : expert technique, responsable de service/politique, fournisseur, etc. - Être capable de travailler en groupe : planification, répartition des tâches, synthèse, etc. - Être capable de présenter de façon synthétiqueet argumentée, tant à l'oral qu'à l'écrit,  les enjeux,  méthodes employées, résultats et conclusions",
+              "competencesBrutes": "COMPÉTENCES : Cet EC relève de l'unité d'enseignement SHS 5 (GEN-5-ue-SHS) et contribue aux compétences suivantes :  A1 Analyser un système (ou un problème) réel ou virtuel (niveau 3) A2 Exploiter un modèle d'un système réel ou virtuel (niveau 3) A4 Concevoir un système répondant à un cahier des charges (niveau 3) A5 Traiter des données (niveau 3) A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 3) C1 Concevoir, dimensionner, gérer et optimiser des systèmes énergétiques dans des contextes complexes et variés (ville, industrie, transport) (niveau 3) C2 Concevoir, dimensionner, et optimiser des installations de génie des procédés (niveau 3) C3 Maitrise des outils de calcul permettant d¿analyser, de modéliser ou de contrôler un système énergétique ou un procédé (niveau 3) C4 Intégrer les grands enjeux environnementaux dans les stratégies de développement des systèmes anthropiques (niveau 3) C6 Intégrer les grands enjeux de la transition énergétique : aspects techniques, économiques, juridiques et environnementaux (niveau 3) C7 Concevoir et mettre en œuvre une démarche d'écologie industrielle et territoriale visant à optimiser la gestion des ressources et à limiter les impacts environnementaux (niveau 3) B2 Travailler, apprendre, évoluer de manière autonome (niveau 3) B3 Interagir avec les autres, travailler en équipe (niveau 3) B5 Agir de manière responsable dans un monde complexe (niveau 3)  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - Être capable de collecter de l'information diffuse - Être capable de poser des hypothèse réalistes pour pallier l'absence de données - Être capable de mettre en œuvre des logiciels métiers pour justifier le choix de solutions technologiques - Être capable d'interagir avec des interlocuteurs divers : expert technique, responsable de service/politique, fournisseur, etc. - Être capable de travailler en groupe : planification, répartition des tâches, synthèse, etc. - Être capable de présenter de façon synthétiqueet argumentée, tant à l'oral qu'à l'écrit,  les enjeux,  méthodes employ��es, résultats et conclusions",
               "listeComp": [
                 {
                   "code": "A1",
@@ -5678,7 +5701,7 @@
                 "Capacité : Être capable de mettre en œuvre des logiciels métiers pour justifier le choix de solutions technologiques",
                 "Capacité : Être capable d'interagir avec des interlocuteurs divers : expert technique, responsable de service/politique, fournisseur, etc.",
                 "Capacité : Être capable de travailler en groupe : planification, répartition des tâches, synthèse, etc.",
-                "Capacité : Être capable de présenter de façon synthétiqueet argumentée, tant à l'oral qu'à l'écrit,  les enjeux,  méthodes employées, résultats et conclusions"
+                "Capacité : Être capable de présenter de façon synthétiqueet argumentée, tant à l'oral qu'à l'écrit,  les enjeux,  méthodes employ��es, résultats et conclusions"
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
