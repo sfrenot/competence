@@ -1,4 +1,3 @@
-#TODO: remonter compétence brute
 _ = require 'lodash'
 refCompetences = require './refCompetences'
 
