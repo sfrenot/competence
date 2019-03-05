@@ -173,7 +173,7 @@ request()
     if departement is DPTINSA
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        # if $(@).attr('href') is '/fr/formation/parcours/720/3/1'
+        # if $(@).attr('href') is '/fr/formation/parcours/720/5/1'
           if $(@).text().trim() is 'Parcours Standard'
             semestres.push
               url: $(@).attr('href')
@@ -196,7 +196,7 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35554&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=39533&_lang=fr'
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=35555&_lang=fr'
               urls.push
                 UE: currentUE
