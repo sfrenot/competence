@@ -2,9 +2,6 @@
 _ = require 'lodash'
 refCompetences = require './refCompetences'
 
-extractRe = (re, src) ->
-  return re.exec(src)[0].split(' : ')[1]
-
 buildCaptureMiddle = (from, to) ->
   regle = new RegExp("#{from}([\\s\\S]*)#{to}", 'g')
   return regle
@@ -27,48 +24,9 @@ getCompetenceSection = (matiere, start) ->
   unless /^HU-|^EPS-|^HUMA-/.test(matiere.code)
     console.error "#{matiere.code} section \"#{start}\" introuvable}."
 
-getCompetenceBruteSection = (pdf) ->
-  mainSections = ["PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "\n\nmailto"]
-  for section in mainSections
-    rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
-    if rech?
-      solution = rech[1].trim()
-      solution = solution.replace(/mailto:[^\n]*\n/g, '')
-      solution = solution.replace(/http:\/\/www\.insa-lyon\.fr[\s\S]*?Dernière modification le : [^\n]*\n/g, '')
-      return solution.replace(/\n/g,' ')
-  return null
 
-module.exports = (pdf, DPTINSA) ->
+module.exports = (matiere, DPTINSA) ->
 
-  matiere = {}
-  # console.warn "-->", pdf
-  # console.warn "Recherche mat"
-  matiere.code = extractRe(/CODE : .*ECTS/s, pdf).replace(/\n/g, '')
-  matiere.code = matiere.code.substring(0, matiere.code.length-('ECTS'.length))
-  # //
-  # Bug fix for coffeescript linter
-
-  matiere.ects = extractRe(/ECTS : .*/, pdf)
-  matiere.cours = extractRe(/Cours : .*/, pdf)
-  matiere.td = extractRe(/TD : .*/, pdf)
-  matiere.tp = extractRe(/TP : .*/, pdf)
-  matiere.projet = extractRe(/Projet : .*/, pdf)
-  matiere.perso = extractRe(/Travail personnel : .*/, pdf)
-  try
-    [..., avant, dernier, blanc, blanc] = buildCaptureMiddle("CONTACT\n","OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT").exec(pdf)[1].split('\n')
-    matiere.nom = "#{avant} : #{dernier}"
-    matiere.competencesBrutes = getCompetenceBruteSection(pdf)
-  catch error
-    console.error("Warning matiere mal saisie #{matiere.code}")
-    # console.error(error)
-    return matiere
-
-  unless matiere.competencesBrutes
-    return matiere
-
-  matiere.capacite = []
-  matiere.connaissance = []
-  matiere.competenceToCapaciteEtConnaissance = {}
   # Compétences
   lcompetences = getCompetenceSection(matiere, "Cet EC contribue aux compétences ci-dessous \\(niveau\\) avec les capacités associées : ")
 

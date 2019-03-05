@@ -16,7 +16,59 @@ if process.argv.length < 3
 DPTINSA = process.argv[2]
 SPECIALITE = process.argv[3] || ''
 
-analyseur = require "./extract-#{DPTINSA}-#{SPECIALITE}"
+analyseurDpt = require "./extract-#{DPTINSA}-#{SPECIALITE}"
+
+extractRe = (re, src) ->
+  return re.exec(src)[0].split(' : ')[1]
+
+buildCaptureMiddle = (from, to) ->
+  regle = new RegExp("#{from}([\\s\\S]*)#{to}", 'g')
+  return regle
+
+getCompetenceBruteSection = (pdf) ->
+  mainSections = ["PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "\n\nmailto"]
+  for section in mainSections
+    rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
+    if rech?
+      solution = rech[1].trim()
+      solution = solution.replace(/mailto:[^\n]*\n/g, '')
+      solution = solution.replace(/http:\/\/www\.insa-lyon\.fr[\s\S]*?Dernière modification le : [^\n]*\n/g, '')
+      return solution.replace(/\n/g,' ')
+  return null
+
+analyseur = (pdf) ->
+
+  matiere = {}
+  # console.warn "-->", pdf
+  # console.warn "Recherche mat"
+  matiere.code = extractRe(/CODE : .*ECTS/s, pdf).replace(/\n/g, '')
+  matiere.code = matiere.code.substring(0, matiere.code.length-('ECTS'.length))
+  # //
+  # Bug fix for coffeescript linter
+
+  matiere.ects = extractRe(/ECTS : .*/, pdf)
+  matiere.cours = extractRe(/Cours : .*/, pdf)
+  matiere.td = extractRe(/TD : .*/, pdf)
+  matiere.tp = extractRe(/TP : .*/, pdf)
+  matiere.projet = extractRe(/Projet : .*/, pdf)
+  matiere.perso = extractRe(/Travail personnel : .*/, pdf)
+  try
+    [..., avant, dernier, blanc, blanc] = buildCaptureMiddle("CONTACT\n","OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT").exec(pdf)[1].split('\n')
+    matiere.nom = "#{avant} : #{dernier}"
+    matiere.competencesBrutes = getCompetenceBruteSection(pdf)
+  catch error
+    console.error("Warning matiere mal saisie #{matiere.code}")
+    # console.error(error)
+    return matiere
+
+  unless matiere.competencesBrutes
+    return matiere
+
+  matiere.capacite = []
+  matiere.connaissance = []
+  matiere.competenceToCapaciteEtConnaissance = {}
+
+  matiere = analyseurDpt(matiere, DPTINSA)
 
 extractRe = (re, src) ->
   return re.exec(src)[0].split(' : ')[1]
@@ -45,7 +97,7 @@ request()
     if departement is DPTINSA
       semestres = []
       $('.contenu table tr td a', @).each () ->
-        if $(@).attr('href') is '/fr/formation/parcours/1371/3/2' # BIM
+        # if $(@).attr('href') is '/fr/formation/parcours/1371/3/2' # BIM
           if $(@).text().trim() is "Parcours Standard #{SPECIALITE}"
             semestres.push
               url: $(@).attr('href')
@@ -68,7 +120,7 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
-            if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34600&_lang=fr' #BIM
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=37974&_lang=fr' #BIM
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')
