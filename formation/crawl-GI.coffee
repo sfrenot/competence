@@ -79,6 +79,10 @@ extractPdfStructure = (pdf) ->
     # console.error(error)
     return matiere
 
+  matiere.capacite = []
+  matiere.connaissance = []
+  matiere.competenceToCapaciteEtConnaissance = {}
+
   # Compétences
   lcompetences = getCompetenceSection(matiere, "Cet EC relève de l'unité d'enseignement\.\*et contribue aux compétences suivantes : ")
   # console.log "#{lcompetences[0]}"
@@ -116,11 +120,6 @@ extractPdfStructure = (pdf) ->
       console.error(lcompetences)
       console.error(error)
       throw error
-
-
-  matiere.capacite = []
-  matiere.connaissance = []
-  matiere.competenceToCapaciteEtConnaissance = {}
 
   injectCapacitesConnaissances = (name, matiere, sectionStartName) ->
     lcapacites = getCompetenceSection(matiere, sectionStartName)
