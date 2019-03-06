@@ -35,7 +35,8 @@ getCompetenceBruteSection = (pdf) ->
       solution = rech[1].trim()
       solution = solution.replace(/mailto:[^\n]*\n/g, '')
       solution = solution.replace(/http:\/\/www\.insa-lyon\.fr[\s\S]*?Dernière modification le : [^\n]*\n/g, '')
-      return solution.replace(/\n/g,' ')
+      tmp = solution.replace(/\n/g,' ').replace(/l¿/, 'l\'') # PB DE GI
+      return tmp
   return null
 
 analyseur = (pdf) ->
@@ -58,8 +59,6 @@ analyseur = (pdf) ->
     [..., avant, dernier, blanc, blanc] = buildCaptureMiddle("CONTACT\n","OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT").exec(pdf)[1].split('\n')
     matiere.nom = "#{avant} : #{dernier}"
     matiere.competencesBrutes = getCompetenceBruteSection(pdf)
-    # console.log '->', matiere.competencesBrutes
-    # process.exit()
   catch error
     console.error("Warning matiere mal saisie #{matiere.code}")
     # console.error(error)
@@ -74,6 +73,8 @@ analyseur = (pdf) ->
 
   matiere = analyseurDpt(matiere, DPTINSA)
 
+  matiere
+
 catalogue = []
 request()
 .then (body) ->
@@ -85,6 +86,7 @@ request()
       $('.contenu table tr td a', @).each () ->
         # if $(@).attr('href') is '/fr/formation/parcours/1371/3/2' # BIM
         # if $(@).attr('href') is '/fr/formation/parcours/721/3/1' # GEN
+        # if $(@).attr('href') is '/fr/formation/parcours/722/3/1' # GI
           if $(@).text().trim() is "Parcours Standard#{SPECIALITE}"
             semestres.push
               url: $(@).attr('href')
@@ -109,6 +111,7 @@ request()
           else if $('a', @).get().length is 1
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=37974&_lang=fr' #BIM
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=38623&_lang=fr' #GEN
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=38494&_lang=fr' #GI
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')
@@ -132,6 +135,7 @@ request()
               UE: url.UE
               url: url.url
               detail: analyseur(pdf, DPTINSA)
+
 .then () ->
   console.log "#{JSON.stringify catalogue, null, 2}"
 
