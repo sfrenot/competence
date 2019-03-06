@@ -199,23 +199,25 @@ request()
 
         Promise.each urls, (url) ->
           console.warn '-->', url.url # A laisser pour la progession du code
-          new Promise (resolve) ->
-            res=''
-            curl = spawn('curl', [url.url])
-            tika = spawn('nc', ['localhost', 1234])
-            curl.stdout.on 'data', (chunk) ->
-              tika.stdin.write(chunk)
-            curl.on 'close', (code) ->
-              tika.stdin.end()
-            tika.stdout.on 'data', (data) ->
-              res += data
-            tika.on 'close', (code) ->
-              resolve(res)
-          .then (pdf) ->
-            semestre.ecs.push
-              UE: url.UE
-              url: url.url
-              detail: extractPdfStructure(pdf)
+          Promise.delay(1000)
+          .then () ->
+            new Promise (resolve) ->
+              res=''
+              curl = spawn('curl', [url.url])
+              tika = spawn('nc', ['localhost', 1234])
+              curl.stdout.on 'data', (chunk) ->
+                tika.stdin.write(chunk)
+              curl.on 'close', (code) ->
+                tika.stdin.end()
+              tika.stdout.on 'data', (data) ->
+                res += data
+              tika.on 'close', (code) ->
+                resolve(res)
+            .then (pdf) ->
+              semestre.ecs.push
+                UE: url.UE
+                url: url.url
+                detail: extractPdfStructure(pdf)
 .then () ->
   console.log "#{JSON.stringify catalogue, null, 2}"
   # skilvioo.insert(catalogue)
