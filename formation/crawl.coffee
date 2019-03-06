@@ -28,14 +28,14 @@ buildCaptureMiddle = (from, to) ->
   return regle
 
 getCompetenceBruteSection = (pdf) ->
-  mainSections = ["OBJECTIFS", "PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "\n\nmailto"]
+  mainSections = ["OBJECTIFS", "PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "\n\n[http//if.insa-lyon.fr|mailto]"]
   for section in mainSections
     rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
     if rech?
       solution = rech[1].trim()
       solution = solution.replace(/mailto:[^\n]*\n/g, '')
       solution = solution.replace(/http:\/\/www\.insa-lyon\.fr[\s\S]*?Dernière modification le : [^\n]*\n/g, '')
-      tmp = solution.replace(/\n/g,' ').replace(/l¿/, 'l\'') # PB DE GI
+      tmp = solution.replace(/\n/g,' ').replace(/l¿/g, 'l\'') # PB DE GI
       return tmp
   return null
 
@@ -87,6 +87,7 @@ request()
         # if $(@).attr('href') is '/fr/formation/parcours/1371/3/2' # BIM
         # if $(@).attr('href') is '/fr/formation/parcours/721/3/1' # GEN
         # if $(@).attr('href') is '/fr/formation/parcours/722/3/1' # GI
+        # if $(@).attr('href') is '/fr/formation/parcours/726/4/1' # IF
           if $(@).text().trim() is "Parcours Standard#{SPECIALITE}"
             semestres.push
               url: $(@).attr('href')
@@ -112,6 +113,7 @@ request()
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=37974&_lang=fr' #BIM
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=38623&_lang=fr' #GEN
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=38494&_lang=fr' #GI
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=37673&_lang=fr' # IF
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')

@@ -28,7 +28,7 @@ getCompetenceBruteSection = (pdf) ->
       solution = rech[1].trim()
       solution = solution.replace(/mailto:[^\n]*\n/g, '')
       solution = solution.replace(/http:\/\/www\.insa-lyon\.fr[\s\S]*?Dernière modification le : [^\n]*\n/g, '')
-      return solution.replace(/\n/g,' ')
+      return solution.replace(/\n/g,' ').replace(/l¿/g, 'l\'')
   return null
 
 getCompetenceSection = (matiere, start) ->
@@ -192,7 +192,7 @@ request()
           if $('.thlike', @).get().length is 1
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=34465&_lang=fr'
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=37673&_lang=fr'
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')
