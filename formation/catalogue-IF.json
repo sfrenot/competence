@@ -1081,7 +1081,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : Module Professionnel Allemand S1",
-              "competencesBrutes": "COMP��TENCES CIBLÉES ET MOBILISÉES Ciblées : a) Travailler dans un contexte international et interculturel b) Interagir avec les autres, travailler en équipe  Mobilisées : a) Se connaître, se gérer physiquement et mentalement b) Travailler, apprendre, évoluer de manière autonome",
+              "competencesBrutes": "COMPÉTENCES CIBLÉES ET MOBILISÉES Ciblées : a) Travailler dans un contexte international et interculturel b) Interagir avec les autres, travailler en équipe  Mobilisées : a) Se connaître, se gérer physiquement et mentalement b) Travailler, apprendre, évoluer de manière autonome",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -1812,7 +1812,7 @@
               "projet": "0.0 h",
               "perso": "35.0 h",
               "nom": "Génie Logiciel : Génie logiciel et modélisation UML",
-              "competencesBrutes": "Ce cours aborde les principales notions de génie logiciel et approfondie des méthodes de conception de logiciel orienté objet avec UML. Ces notions sont ensuite mises en pratique au travers d'une application à développer dans le cadre d'un mini-projet.  Cet EC contribue aux :  *** Compétences spécifiques IF ***  == C09 Mettre en oeuvre un processus d'assurance et de contrôle qualité. (niveau 1) == * Capacités : - Mettre en oeuvre les différents types de tests (unitaires, d'intégration, de performance, d'acceptabilité, ...) (niveau 1)  == C11 Mettre en oeuvre une méthodologie pour concevoir, réaliser et maintenir des logiciels de qualité (niveau 1) == * Capacités : - Rédiger un cahier des charges logiciel (niveau 1) - Mettre en oeuvre un processus de développement itératif  (niveau 1) * Connaissances : - Connaître les différents types de processus de développement de logiciel  == C12 Concevoir l'architecture d'un logiciel orienté objet (niveau 1) == * Capacités : - Structurer un logiciel en paquetages et classes faiblement couplés et fortement cohésifs (niveau 1)  == C13 Implémenter de bons logiciels (niveau 1) == * Capacités : - Mettre en oeuvre à bon escient les mécanismes offerts par les langages de programmation orientés objet : héritage, généricité, surcharge, polymorphisme, ... (niveau 1)  == C14 Mettre en oeuvre des outils génériques pour la qualité logicielle. (niveau 1) == * Capacités : - Mettre en place et utiliser des outils pour le travail collaboratif (gestion de versions, IDE) (niveau 1) * Connaissances : - Connaître les différentes mesures de qualité d'un logiciel et comment elles peuvent être mises en oeuvre  == C15 Utiliser des diagrammes UML pour modéliser un objet d'étude (niveau 1) == * Capacités : - Vérifier la cohérence de différents diagrammes modélisant un même objet d'étude (niveau 1) - Concevoir un diagramme UML modélisant un objet d'étude (niveau 1) - Interpréter un diagramme UML donné (niveau 1) * Connaissances : - Connaître les différents diagrammes et formalismes UML pour la modélisation de logiciels orientés objets  == C22 Concevoir et développer une application pour les SI (niveau 3) == * Capacités : - Ecrire un document décrivant des spécifications techniques (niveau 3)",
+              "competencesBrutes": "Ce cours aborde les principales notions de génie logiciel et approfondie des méthodes de conception de logiciel orienté objet avec UML. Ces notions sont ensuite mises en pratique au travers d'une application à développer dans le cadre d'un mini-projet.  Cet EC contribue aux :  *** Compétences spécifiques IF ***  == C09 Mettre en oeuvre un processus d'assurance et de contrôle qualité. (niveau 1) == * Capacités : - Mettre en oeuvre les différents types de tests (unitaires, d'intégration, de performance, d'acceptabilité, ...) (niveau 1)  == C11 Mettre en oeuvre une méthodologie pour concevoir, réaliser et maintenir des logiciels de qualité (niveau 1) == * Capacités : - Rédiger un cahier des charges logiciel (niveau 1) - Mettre en oeuvre un processus de développement itératif  (niveau 1) * Connaissances : - Connaître les différents types de processus de développement de logiciel  == C12 Concevoir l'architecture d'un logiciel orienté objet (niveau 1) == * Capacités : - Structurer un logiciel en paquetages et classes faiblement couplés et fortement cohésifs (niveau 1)  == C13 Implémenter de bons logiciels (niveau 1) == * Capacités : - Mettre en oeuvre à bon escient les mécanismes offerts par les langages de programmation orientés objet : héritage, généricité, surcharge, polymorphisme, ... (niveau 1)  == C14 Mettre en oeuvre des outils génériques pour la qualité logicielle. (niveau 1) == * Capacités : - Mettre en place et utiliser des outils pour le travail collaboratif (gestion de versions, IDE) (niveau 1) * Connaissances : - Connaître les différentes mesures de qualité d'un logiciel et comment elles peuvent être mises en oeuvre  == C15 Utiliser des diagrammes UML pour modéliser un objet d'étude (niveau 1) == * Capacités : - Vérifier la cohérence de différents diagrammes modélisant un même objet d'étude (niveau 1) - Concevoir un diagramme UML modélisant un objet d'étude (niveau 1) - Interpréter un diagramme UML donné (niveau 1) * Connaissances : - Connaître les différents diagrammes et formalismes UML pour la modélisation de logiciels orientés objets  == C22 Concevoir et d��velopper une application pour les SI (niveau 3) == * Capacités : - Ecrire un document décrivant des spécifications techniques (niveau 3)",
               "capacite": [
                 "capacite : Mettre en oeuvre les différents types de tests (unitaires, d'intégration, de performance, d'acceptabilité, ...) (niveau 1)",
                 "capacite : Rédiger un cahier des charges logiciel (niveau 1)",
@@ -5045,24 +5045,6 @@
                   "niveau": "2"
                 }
               ]
-            }
-          }
-        ]
-      },
-      {
-        "url": "/fr/formation/parcours/1202/5/1",
-        "ecs": [
-          {
-            "UE": "5IF - Programme Académique d'Echange (S1) (IF-5-UE-ECH-S1)",
-            "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=37414&_lang=fr",
-            "detail": {
-              "code": "IF-5-ECH-S1",
-              "ects": "30.0",
-              "cours": "0.0 h",
-              "td": "0.0 h",
-              "tp": "0.0 h",
-              "projet": "0.0 h",
-              "perso": "400.0 h"
             }
           }
         ]
@@ -8483,100 +8465,6 @@
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
-            }
-          }
-        ]
-      },
-      {
-        "url": "/fr/formation/parcours/1202/5/2",
-        "ecs": [
-          {
-            "UE": "5IF - Programme Académique d'Echange (S2) (IF-5-UE-ECH-S2)",
-            "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38405&_lang=fr",
-            "detail": {
-              "code": "IF-5-PFE",
-              "ects": "30.0",
-              "cours": "0.0 h",
-              "td": "1.0 h",
-              "tp": "15.0 h",
-              "projet": "0.0 h",
-              "perso": "595.0 h",
-              "nom": "Projets de fin d'études : Projet de Fin d'Etudes",
-              "competencesBrutes": "Durant les deux premières années de spécialisation, une part importante de l'enseignement est consacrée à la maîtrise des méthodes et des outils de base, en particulier des techniques informatiques les plus récentes. Les élèves ingénieurs possèdent donc en dernière année une formation d'un niveau et d'une expérience de qualité. Pendant cette année, une partie de leur emploi du temps est consacrée au Projet de Fin d'Etudes (PFE). Il s'agit en général de la conduite et du développement d'un projet dans ses phases initiales d'analyse et conception (d'une architecture, d'un système d'information, d'un dispositif automatique, d'un réseau...). L'étude peut cependant déboucher sur une réalisation. Les objectifs sont de se confronter à un projet réel, savoir l'organiser et le gérer et mettre en œuvre différentes techniques et technologies pour le résoudre. Les sujets sont proposés par des entreprises ou des organismes publics (description de 1 à 2 pages mentionnant les coordonnées du tuteur entreprise) est aiguillée vers un enseignant spécialisé du domaine, qui décide de valider ou non la proposition. Les aspects contractuels et administratifs sont précisés par une convention signée par le Département, l'étudiant et l'Entreprise d'accueil.  Cet EC contribue aux :  *** Compétences transversales ***  == B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3) == * Capacités : - Savoir gérer un projet informatique long (niveau 3) - Repérer et analyser les principes d'organisation et le fonctionnement d'une entreprise ou d'une autre organisation socio-productive, notamment dans les secteurs de l'économie numérique (niveau 3) - Travailler dans une organisation socio-professionnelle (niveau 3) * Connaissances : - Structure et fonctionnement d'une organisation socio-professionnelle - Gestion de projet",
-              "capacite": [
-                "capacite : Savoir gérer un projet informatique long (niveau 3)",
-                "capacite : Repérer et analyser les principes d'organisation et le fonctionnement d'une entreprise ou d'une autre organisation socio-productive, notamment dans les secteurs de l'économie numérique (niveau 3)",
-                "capacite : Travailler dans une organisation socio-professionnelle (niveau 3)"
-              ],
-              "connaissance": [
-                "connaissance : Structure et fonctionnement d'une organisation socio-professionnelle",
-                "connaissance : Gestion de projet"
-              ],
-              "competenceToCapaciteEtConnaissance": {
-                "B6": [
-                  "capacite : Savoir gérer un projet informatique long (niveau 3)",
-                  "capacite : Repérer et analyser les principes d'organisation et le fonctionnement d'une entreprise ou d'une autre organisation socio-productive, notamment dans les secteurs de l'économie numérique (niveau 3)",
-                  "capacite : Travailler dans une organisation socio-professionnelle (niveau 3)",
-                  "connaissance : Structure et fonctionnement d'une organisation socio-professionnelle",
-                  "connaissance : Gestion de projet"
-                ]
-              },
-              "listeComp": [
-                {
-                  "code": "B6",
-                  "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
-                  "valAnglais": "Situate, work, evolve in a company, a socio-productive organization",
-                  "bs": "28",
-                  "niveau": "3"
-                }
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "url": "/fr/formation/parcours/1209/5/2",
-        "ecs": [
-          {
-            "UE": "5IF - Programme Académique du FEE-S2 (IF-5-UE-FEE)",
-            "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38405&_lang=fr",
-            "detail": {
-              "code": "IF-5-PFE",
-              "ects": "30.0",
-              "cours": "0.0 h",
-              "td": "1.0 h",
-              "tp": "15.0 h",
-              "projet": "0.0 h",
-              "perso": "595.0 h",
-              "nom": "Projets de fin d'études : Projet de Fin d'Etudes",
-              "competencesBrutes": "Durant les deux premières années de spécialisation, une part importante de l'enseignement est consacrée à la maîtrise des méthodes et des outils de base, en particulier des techniques informatiques les plus récentes. Les élèves ingénieurs possèdent donc en dernière année une formation d'un niveau et d'une expérience de qualité. Pendant cette année, une partie de leur emploi du temps est consacrée au Projet de Fin d'Etudes (PFE). Il s'agit en général de la conduite et du développement d'un projet dans ses phases initiales d'analyse et conception (d'une architecture, d'un système d'information, d'un dispositif automatique, d'un réseau...). L'étude peut cependant déboucher sur une réalisation. Les objectifs sont de se confronter à un projet réel, savoir l'organiser et le gérer et mettre en œuvre différentes techniques et technologies pour le résoudre. Les sujets sont proposés par des entreprises ou des organismes publics (description de 1 à 2 pages mentionnant les coordonnées du tuteur entreprise) est aiguillée vers un enseignant spécialisé du domaine, qui décide de valider ou non la proposition. Les aspects contractuels et administratifs sont précisés par une convention signée par le Département, l'étudiant et l'Entreprise d'accueil.  Cet EC contribue aux :  *** Compétences transversales ***  == B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 3) == * Capacités : - Savoir gérer un projet informatique long (niveau 3) - Repérer et analyser les principes d'organisation et le fonctionnement d'une entreprise ou d'une autre organisation socio-productive, notamment dans les secteurs de l'économie numérique (niveau 3) - Travailler dans une organisation socio-professionnelle (niveau 3) * Connaissances : - Structure et fonctionnement d'une organisation socio-professionnelle - Gestion de projet",
-              "capacite": [
-                "capacite : Savoir gérer un projet informatique long (niveau 3)",
-                "capacite : Repérer et analyser les principes d'organisation et le fonctionnement d'une entreprise ou d'une autre organisation socio-productive, notamment dans les secteurs de l'économie numérique (niveau 3)",
-                "capacite : Travailler dans une organisation socio-professionnelle (niveau 3)"
-              ],
-              "connaissance": [
-                "connaissance : Structure et fonctionnement d'une organisation socio-professionnelle",
-                "connaissance : Gestion de projet"
-              ],
-              "competenceToCapaciteEtConnaissance": {
-                "B6": [
-                  "capacite : Savoir gérer un projet informatique long (niveau 3)",
-                  "capacite : Repérer et analyser les principes d'organisation et le fonctionnement d'une entreprise ou d'une autre organisation socio-productive, notamment dans les secteurs de l'économie numérique (niveau 3)",
-                  "capacite : Travailler dans une organisation socio-professionnelle (niveau 3)",
-                  "connaissance : Structure et fonctionnement d'une organisation socio-professionnelle",
-                  "connaissance : Gestion de projet"
-                ]
-              },
-              "listeComp": [
-                {
-                  "code": "B6",
-                  "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
-                  "valAnglais": "Situate, work, evolve in a company, a socio-productive organization",
-                  "bs": "28",
-                  "niveau": "3"
-                }
-              ]
             }
           }
         ]
