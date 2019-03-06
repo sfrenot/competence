@@ -28,7 +28,7 @@ buildCaptureMiddle = (from, to) ->
   return regle
 
 getCompetenceBruteSection = (pdf) ->
-  mainSections = ["PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "\n\nmailto"]
+  mainSections = ["OBJECTIFS", "PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "\n\nmailto"]
   for section in mainSections
     rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
     if rech?
@@ -58,6 +58,8 @@ analyseur = (pdf) ->
     [..., avant, dernier, blanc, blanc] = buildCaptureMiddle("CONTACT\n","OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT").exec(pdf)[1].split('\n')
     matiere.nom = "#{avant} : #{dernier}"
     matiere.competencesBrutes = getCompetenceBruteSection(pdf)
+    # console.log '->', matiere.competencesBrutes
+    # process.exit()
   catch error
     console.error("Warning matiere mal saisie #{matiere.code}")
     # console.error(error)
@@ -72,24 +74,6 @@ analyseur = (pdf) ->
 
   matiere = analyseurDpt(matiere, DPTINSA)
 
-extractRe = (re, src) ->
-  return re.exec(src)[0].split(' : ')[1]
-
-buildCaptureMiddle = (from, to) ->
-  regle = new RegExp("#{from}([\\s\\S]*)#{to}", 'g')
-  return regle
-
-getCompetenceBruteSection = (pdf) ->
-  mainSections = ["PROGRAMME", "BIBLIOGRAPHIE", "PRÉ-REQUIS", "\n\nmailto"]
-  for section in mainSections
-    rech = buildCaptureMiddle("OBJECTIFS RECHERCHÉS PAR CET ENSEIGNEMENT\n", section).exec(pdf)
-    if rech?
-      solution = rech[1].trim()
-      solution = solution.replace(/mailto:[^\n]*\n/g, '')
-      solution = solution.replace(/http:\/\/www\.insa-lyon\.fr[\s\S]*?Dernière modification le : [^\n]*\n/g, '')
-      return solution.replace(/\n/g,' ')
-  return null
-
 catalogue = []
 request()
 .then (body) ->
@@ -100,6 +84,7 @@ request()
       semestres = []
       $('.contenu table tr td a', @).each () ->
         # if $(@).attr('href') is '/fr/formation/parcours/1371/3/2' # BIM
+        # if $(@).attr('href') is '/fr/formation/parcours/721/3/1' # GEN
           if $(@).text().trim() is "Parcours Standard#{SPECIALITE}"
             semestres.push
               url: $(@).attr('href')
@@ -123,6 +108,7 @@ request()
             currentUE = /Unité d'enseignement : (.*)/.exec($('.thlike', @).get(0).children[0].data)[1]
           else if $('a', @).get().length is 1
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=37974&_lang=fr' #BIM
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=38623&_lang=fr' #GEN
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')
