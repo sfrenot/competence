@@ -7,7 +7,7 @@ module.exports =
   'A2':
     code: 'A2'
     val: 'Exploiter un modèle d\'un système réel ou virtuel'
-    valAnglais: 'Exploit a model of a real or virtual system'
+    valAnglais: 'Operate a model of a real or virtual system'
     bs: '2'
   'A3':
     code: 'A3'
@@ -17,7 +17,7 @@ module.exports =
   'A4':
     code: 'A4'
     val: 'Concevoir un système répondant à un cahier des charges'
-    valAnglais: 'Design a system that meets a set of specifications'
+    valAnglais: 'Design a system meeting given specifications'
     bs: '4'
   'A5':
     code: 'A5'
@@ -27,7 +27,7 @@ module.exports =
   'A6':
     code: 'A6'
     val: 'Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité'
-    valAnglais: 'Communicate an analysis or a scientific approach with scenarios adapted to their specialty'
+    valAnglais: 'Report on an analysis or on a scientific approach, with use case scenarios appropriate to given specialities'
     bs: '6'
   'GE-A6':
     val: 'Communiquer une analyse ou une démarche scientifique'
@@ -40,12 +40,12 @@ module.exports =
   'B1':
     code: 'B1'
     val: 'Se connaître, se gérer physiquement et mentalement'
-    valAnglais: 'To know oneself, to manage oneself physically and mentally'
+    valAnglais: 'Know oneself; manage mental and physical fitness'
     bs: '23'
   'B2':
     code: 'B2'
     val: 'Travailler, apprendre, évoluer de manière autonome'
-    valAnglais: 'Work, learn, evolve autonomously'
+    valAnglais: 'Work, learn, progress autonomously'
     bs: '24'
   'B28': # Erreur GI http://planete.insa-lyon.fr/scolpeda/f/ects?id=35856&_lang=fr
     code: 'B2'
@@ -54,12 +54,12 @@ module.exports =
   'B3':
     code: 'B3'
     val: 'Interagir avec les autres, travailler en équipe'
-    valAnglais: 'Interact with others, work in a team'
+    valAnglais: 'Interact with people and work in a team'
     bs: '25'
   'B4':
     code: 'B4'
     val: 'Faire preuve de créativité, innover, entreprendre'
-    valAnglais: 'Show creativity, innovate, undertake'
+    valAnglais: 'Demonstrate creativity, innovation, entrepreneurship'
     bs: '26'
   'B5':
     code: 'B5'
@@ -69,12 +69,12 @@ module.exports =
   'B6':
     code: 'B6'
     val: 'Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive'
-    valAnglais: 'Situate, work, evolve in a company, a socio-productive organization'
+    valAnglais: 'Position oneself, work, and evolve within a company or a socio-productive organization'
     bs: '28'
   'B7':
     code: 'B7'
     val: 'Travailler dans un contexte international et interculturel'
-    valAnglais: 'Work in an international and intercultural context'
+    valAnglais: 'Work in an international, intercultural context'
     bs: '29'
   'E1':
     code: 'GCU-E1'
