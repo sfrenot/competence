@@ -76,14 +76,6 @@ module.exports =
     val: 'Travailler dans un contexte international et interculturel'
     valAnglais: 'Work in an international, intercultural context'
     bs: '29'
-  'E1':
-    code: 'GCU-E1'
-    val: 'Concevoir et dimensionner des réseaux et ouvrages en (hydrologie et) hydraulique pour les projets d\'aménagement urbain, de bâtiments et d\'ouvrage d\'art'
-    valAnglais: 'Design and size of (hydrology and) hydraulic networks and structures for urban development projects, buildings and structures'
-  'GCU-E1':
-    code: 'GCU-E1'
-    val: 'Concevoir et dimensionner des réseaux et ouvrages en (hydrologie et) hydraulique pour les projets d\'aménagement urbain, de bâtiments et d\'ouvrage d\'art'
-    valAnglais: 'Design and size of (hydrology and) hydraulic networks and structures for urban development projects, buildings and structures'
   'GCU-S2':
     code: 'GCU-S2'
     val: 'Évaluer un risque d\'instabilité hydraulique des sols'
@@ -92,58 +84,102 @@ module.exports =
     code: 'GCU-S3'
     val: 'Réaliser et/ou interpréter des essais géotechniques en laboratoire de classification et de comportement'
     valAnglais: 'Perform and / or interpret geotechnical laboratory tests for classification and behavior'
-  'GCU-S4':
-    code: 'GCU-S4'
-    val: 'Évaluer un risque de rupture de pente sous diverses sollicitations'
-    valAnglais: 'Evaluate a risk of slope failure under various stresses'
-  'GCU-S5':
-    code: 'GCU-S5'
-    val: 'Concevoir, dimensionner, modéliser ou vérifier des systèmes de fondations et de soutènements'
-    valAnglais: 'Design, dimension, model or verify foundation and support systems'
   'GCU-C1':
-    code: 'GCU-C1'
+    code: 'C1'
     val: 'concevoir et dimensionner / contrôler une structure de bâtiment'
     valAnglais: 'design and dimension / control a building structure'
   'GCU-C2':
-    code: 'GCU-C2'
+    code: 'C2'
     val: 'Concevoir et dimensionner / contrôler un ouvrage d\'art (pont)'
     valAnglais: 'Design and dimension / control an art work (bridge)'
   'GCU-C3':
-    code: 'GCU-C3'
+    code: 'C3'
     val: 'Concevoir et dimensionner / contrôler une infrastructure sur le plan structurel'
     valAnglais: 'Design and dimension / control infrastructure at the structural level'
+  'GCU-C4':
+    code: 'C4'
+    val: 'Évaluer un risque de rupture de pente sous diverses sollicitations'
+    valAnglais: 'Evaluate a risk of slope failure under various stresses'
+  'GCU-C5':
+    code: 'C5'
+    val: 'Concevoir, dimensionner, modéliser ou vérifier des systèmes de fondations et de soutènements'
+    valAnglais: 'Design, dimension, model or verify foundation and support systems'
   'GCU-C6':
-    code: 'GCU-C6'
+    code: 'C6'
     val: 'Evaluer les modes constructifs (critères techniques, sécurité, coûts, délais)'
     valAnglais: 'Evaluate construction methods (technical criteria, safety, costs, deadlines)'
-  'GCU-T1':
-    code: 'GCU-T1'
-    val: 'Contribuer à une conception pluridisciplinaire des bâtiments'
-    valAnglais: 'Contribute to a multidisciplinary conception of buildings'
-  'GCU-T2':
-    code: 'GCU-T2'
-    val: 'Contribuer à l\'organisation de chantiers de construction, au respect des règles de sécurité, à la maîtrise des délais, etc.'
-    valAnglais: 'Contribute to the organization of construction sites, compliance with safety rules, control of deadlines, etc.'
-  'GCU-T3':
-    code: 'GCU-T3'
-    val: 'Contribuer à des aménagements et constructions durables'
-    valAnglais: 'Contribute to sustainable development and construction'
-  'GCU-T4':
-    code: 'GCU-T4'
-    val: 'Gérer (évaluer, maintenir, réhabiliter) des ouvrages existants  Capacités visées : Mettre en œuvre des méthodes d\'optimisation'
-    valAnglais: 'Manage (evaluate, maintain, rehabilitate) existing structures Capabilities targeted: Implement optimization methods'
-  'GCU-U1':
-    code: 'GCU-U1'
+  'GCU-C7':
+    code: 'C7'
+    val: 'Structure bâtiment (concevoir, dimensionner ou contrôler une ...)'
+    valAnglais: 'Building structure (designing, dimensioning or controlling)'
+  'GCU-C8':
+    code: 'C8'
+    val: 'Ouvrage d\'art (concevoir, dimensionner ou contrôler un ...)'
+    valAnglais: 'Work of art (design, size or control)'
+  'GCU-C9':
+    code: 'C9'
+    val: 'Infrastructure routière ou ferroviaire (concevoir, dimensionner ou contrôler une ...)'
+    valAnglais: 'Road or rail infrastructure (designing, dimensioning or controlling a ...)'
+  'GCU-C12':
+    code: 'C12'
+    val: 'Evaluer différents modes constructifs'
+    valAnglais: 'Evaluate different construction modes'
+  'GCU-C13':
+    code: 'C13'
+    val: 'Évaluer l\'état de santé structurel, définir les actions nécessaires'
+    valAnglais: 'Assess the structural health status, define the necessary actions'
+  'GCU-C14':
+    code: 'C14'
+    val: 'Définir les actions de réhabilitation d\'un ouvrage d\'art'
+    valAnglais: 'Define the actions of rehabilitation of a work of art'
+  'GCU-C15':
+    code: 'C15'
+    val: 'Concevoir et dimensionner ou contrôler les solutions techniques pour la qualité thermique, aéraulique, acoustique d\'un bâtiment'
+    valAnglais: 'Design and dimension or control the technical solutions for the thermal, aeraulic and acoustic quality of a building'
+  'GCU-C16':
+    code: 'C16'
+    val: 'Evaluer l\'état de santé, les performances thermiques ou acoustiques d\'un bâtiment ou équipement, définir les actions nécessaires'
+    valAnglais: 'Evaluate the state of health, the thermal or acoustic performance of a building or equipment, define the necessary actions'
+  'GCU-C17':
+    code: 'C17'
+    val: 'Concevoir et dimensionner des réseaux et ouvrages en hydrologie et hydraulique pour les projets d\'aménagement urbain, de bâtiments et d\'ouvrage d\'art'
+    valAnglais: 'Design and size of (hydrology and) hydraulic networks and structures for urban development projects, buildings and structures'
+  'GCU-C18':
+    code: 'C18'
+    val: 'Réaliser un diagnostic d\'hydrologie quantitative et gérer des réseaux, ouvrages et aménagements urbains'
+    valAnglais: 'Conduct a diagnosis of quantitative hydrology and manage networks, structures and urban developments'
+  'GCU-C19':
+    code: 'C19'
+    val: 'Réaliser un diagnostic environnemental de systèmes de gestion des eaux'
+    valAnglais: 'Conduct an environmental diagnosis of water management systems'
+  'GCU-C20':
+    code: 'C20'
     val: 'Analyser une situation urbaine (technique, politique, sociale,...)'
     valAnglais: 'Analyze an urban situation (technical, political, social, ...)'
-  'GCU-U3':
-    code: 'GCU-U3'
+  'GCU-C21':
+    code: 'C21'
+    val: 'Réaliser un diagnostic urbain'
+    valAnglais: 'Perform an urban diagnosis'
+  'GCU-C22':
+    code: 'C22'
     val: 'Concevoir et conduire un projet d\'aménagement urbain'
     valAnglais: 'Design and lead an urban development project'
-  'GCU-P1':
-    code: 'GCU-P1'
-    val: 'Concevoir et dimensionner / contrôler les solutions techniques pour la qualité thermique, aéraulique, acoustique d\'un bâtiment'
-    valAnglais: 'Design and dimension / control the technical solutions for the thermal, aeraulic and acoustic quality of a building'
+  'GCU-C23':
+    code: 'C23'
+    val: 'Contribuer à une conception pluridisciplinaire des bâtiments'
+    valAnglais: 'Contribute to a multidisciplinary conception of buildings'
+  'GCU-C24':
+    code: 'C24'
+    val: 'Contribuer à l\'organisation de chantiers de construction, au respect des règles de sécurité, à la maîtrise des délais, etc.'
+    valAnglais: 'Contribute to the organization of construction sites, compliance with safety rules, control of deadlines, etc.'
+  'GCU-C25':
+    code: 'C25'
+    val: 'Contribuer à des aménagements et constructions durables'
+    valAnglais: 'Contribute to sustainable development and construction'
+  'GCU-C26':
+    code: 'C26'
+    val: 'Gérer (évaluer, maintenir, réhabiliter) des ouvrages existants  Capacités visées : Mettre en œuvre des méthodes d\'optimisation'
+    valAnglais: 'Manage (evaluate, maintain, rehabilitate) existing structures Capabilities targeted: Implement optimization methods'
   'GCU-P2':
     code: 'GCU-P2'
     val: 'Évaluer les performances thermiques d\'un bâtiment ou équipement, définir les actions nécessaires'
