@@ -120,6 +120,14 @@ module.exports =
     code: 'C9'
     val: 'Infrastructure routière ou ferroviaire (concevoir, dimensionner ou contrôler une ...)'
     valAnglais: 'Road or rail infrastructure (designing, dimensioning or controlling a ...)'
+  'GCU-C10':
+    code: 'C10'
+    val: 'Gérer un projet d\'infrastructure'
+    valAnglais: 'Manage an infrastructure project'
+  'GCU-C11':
+    code: 'C11'
+    val: 'Réaliser une étude d\'impacts d\'une infrastructure'
+    valAnglais: 'Conduct an impact study of an infrastructure'
   'GCU-C12':
     code: 'C12'
     val: 'Evaluer différents modes constructifs'

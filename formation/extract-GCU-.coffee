@@ -36,7 +36,7 @@ module.exports = (matiere, DPTINSA) ->
       matiere.listeComp = lcompetences[1].trim().split(/(?=[ABC]\d+)/).map (x) ->
         # console.log "**#{x}**"
         if /[ABC]\d+- /.test(x)
-          console.log "**#{x}**"
+          # console.log "**#{x}**"
           try
             [, compet, tmp, niveau] = /([ABC]\d+)-(.*)\(niveau ?(.*)\)/i.exec(x)
             # if niveau.endsWith(')') then niveau = niveau.substring(0, niveau.length()-1 )
@@ -61,7 +61,7 @@ module.exports = (matiere, DPTINSA) ->
     matiere.listeComp = matiere.listeComp.filter((x) -> x)
 
   # Competences mobilisées
-  lcompetences = getCompetenceSection(matiere, "En mobilisant les compétences :\?")
+  lcompetences = getCompetenceSection(matiere, "En mobilisant les compétences suivantes :\?")
   if lcompetences?
     try
       # console.log '->', lcompetences[1].trim()

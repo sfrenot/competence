@@ -115,7 +115,7 @@ request()
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=37974&_lang=fr' #BIM
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=38623&_lang=fr' #GEN
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=38494&_lang=fr' #GI
-            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=38434&_lang=fr' # GCU
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=38444&_lang=fr' # GCU
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')
