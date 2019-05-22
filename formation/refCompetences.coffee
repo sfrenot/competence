@@ -76,14 +76,6 @@ module.exports =
     val: 'Travailler dans un contexte international et interculturel'
     valAnglais: 'Work in an international, intercultural context'
     bs: '29'
-  'GCU-S2':
-    code: 'GCU-S2'
-    val: 'Évaluer un risque d\'instabilité hydraulique des sols'
-    valAnglais: 'Assess a risk of hydraulic instability of the soil'
-  'GCU-S3':
-    code: 'GCU-S3'
-    val: 'Réaliser et/ou interpréter des essais géotechniques en laboratoire de classification et de comportement'
-    valAnglais: 'Perform and / or interpret geotechnical laboratory tests for classification and behavior'
   'GCU-C1':
     code: 'C1'
     val: 'concevoir et dimensionner / contrôler une structure de bâtiment'
@@ -188,10 +180,6 @@ module.exports =
     code: 'C26'
     val: 'Gérer (évaluer, maintenir, réhabiliter) des ouvrages existants  Capacités visées : Mettre en œuvre des méthodes d\'optimisation'
     valAnglais: 'Manage (evaluate, maintain, rehabilitate) existing structures Capabilities targeted: Implement optimization methods'
-  'GCU-P2':
-    code: 'GCU-P2'
-    val: 'Évaluer les performances thermiques d\'un bâtiment ou équipement, définir les actions nécessaires'
-    valAnglais: 'Evaluate the thermal performance of a building or equipment, define the necessary actions'
   'TC-C1':
     code: 'C1'
     val: 'Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données'
