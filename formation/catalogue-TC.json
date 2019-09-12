@@ -174,7 +174,7 @@
               "projet": "0.0 h",
               "perso": "30.0 h",
               "nom": "Télécommunications : Codages et Modulations Numériques",
-              "competencesBrutes": "Donner une vue d'ensemble des techniques de codage issues de la théorie de l'information dont le codage de source et le codage de canal. Présenter les principales techniques de modulation numériques utilisées pour la transmission de signaux numériques en insistant sur leurs performances : rapport signal à bruit, taux d'erreur, occupation spectrale, structures des modulateurs, etc.  Cet EC relève de l'unité d'enseignement Systèmes de communication (TC-3-S1-SCM) et contribue aux compétences suivantes :  C5 Mettre en œuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données (niveau 2)  Capacité : Manipuler des codes numériques Capacité : Mettre en œuvre des codeurs source/canal  Connaissance : Codage de l'information, Algèbre de Boole, Logique combinatoire et logique séquentielle Connaissance : Codage de source : Théorème du codage de source, codage Shannon-Fano, codage de Huffman, codage Arithmétique, codage RLC et codage LZW Connaissance : Codage de canal  : Théorème du codage de canal, codes groupes (Hamming), codes cycliques (BCH), codes convolutifs.  C8 Opérer, analyser, améliorer des systèmes numériques (niveau 2)  Capacité : Analyser des systèmes logiques Capacité : Evaluer les performances d'une modulation numérique Capacité : Analyser la structure d'un modulateur numérique.  Connaissance : Principe des modulations numériques, critères d'évaluation Connaissance : Modulation des signaux numériques: par déplacement d'amplitude (MDA), de phase (MDP) et de fréquence (MDF) et modulation QAM. Connaissance : Structure des modulateurs et démodulateurs.  C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 1)  Capacité : Dimensionner et évaluer des codeurs (source/canal) Capacité : Réaliser une modélisation et une analyse fonctionnelles d'un système de transmission numérique  Connaissance : Codage de source, codage de canal Connaissance : Modulation des signaux numériques: par déplacement d'amplitude (MDA), de phase (MDP) et de fréquence (MDF) et modulation QAM.  De plus, elle nécessite de mobiliser les compétences suivantes :  A4 Concevoir un système répondant à un cahier des charges A2 Exploiter un modèle d¿un système réel ou virtuel B2 Travailler, apprendre, évoluer de manière autonome B3 Interagir avec les autres, travailler en équipe",
+              "competencesBrutes": "Donner une vue d'ensemble des techniques de codage issues de la théorie de l'information dont le codage de source et le codage de canal. Présenter les principales techniques de modulation numériques utilisées pour la transmission de signaux numériques en insistant sur leurs performances : rapport signal à bruit, taux d'erreur, occupation spectrale, structures des modulateurs, etc.  Cet EC relève de l'unité d'enseignement Systèmes de communication (TC-3-S1-SCM) et contribue aux compétences suivantes :  C5 Mettre en œuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données (niveau 2)  Capacité : Manipuler des codes numériques Capacité : Mettre en œuvre des codeurs source/canal  Connaissance : Codage de l'information, Algèbre de Boole, Logique combinatoire et logique séquentielle Connaissance : Codage de source : Théorème du codage de source, codage Shannon-Fano, codage de Huffman, codage Arithmétique, codage RLC et codage LZW Connaissance : Codage de canal  : Théorème du codage de canal, codes groupes (Hamming), codes cycliques (BCH), codes convolutifs.  C8 Opérer, analyser, améliorer des systèmes numériques (niveau 2)  Capacité : Analyser des systèmes logiques Capacité : Evaluer les performances d'une modulation numérique Capacité : Analyser la structure d'un modulateur numérique.  Connaissance : Principe des modulations numériques, critères d'évaluation Connaissance : Modulation des signaux numériques: par déplacement d'amplitude (MDA), de phase (MDP) et de fréquence (MDF) et modulation QAM. Connaissance : Structure des modulateurs et démodulateurs.  C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 1)  Capacité : Dimensionner et évaluer des codeurs (source/canal) Capacité : Réaliser une modélisation et une analyse fonctionnelles d'un système de transmission numérique  Connaissance : Caractéristiques des différentes technologies de modulation Connaissance : Modulation analogique Connaissance : Modulation d'amplitude Connaissance : Modulation de fréquence Connaissance : SNR Connaissance : Codage de source, codage de canal Connaissance : Modulation des signaux numériques: par déplacement d'amplitude (MDA), de phase (MDP) et de fréquence (MDF) et modulation QAM.  De plus, elle nécessite de mobiliser les compétences suivantes :  A4 Concevoir un système répondant à un cahier des charges A2 Exploiter un modèle d¿un système réel ou virtuel B2 Travailler, apprendre, évoluer de manière autonome B3 Interagir avec les autres, travailler en équipe",
               "capacite": [
                 "Capacité : Manipuler des codes numériques",
                 "Capacité : Mettre en œuvre des codeurs source/canal",
@@ -191,6 +191,11 @@
                 "Connaissance : Principe des modulations numériques, critères d'évaluation",
                 "Connaissance : Modulation des signaux numériques: par déplacement d'amplitude (MDA), de phase (MDP) et de fréquence (MDF) et modulation QAM.",
                 "Connaissance : Structure des modulateurs et démodulateurs.",
+                "Connaissance : Caractéristiques des différentes technologies de modulation",
+                "Connaissance : Modulation analogique",
+                "Connaissance : Modulation d'amplitude",
+                "Connaissance : Modulation de fréquence",
+                "Connaissance : SNR",
                 "Connaissance : Codage de source, codage de canal",
                 "Connaissance : Modulation des signaux numériques: par déplacement d'amplitude (MDA), de phase (MDP) et de fréquence (MDF) et modulation QAM."
               ],
@@ -213,6 +218,11 @@
                 "TC-C1": [
                   "Capacité : Dimensionner et évaluer des codeurs (source/canal)",
                   "Capacité : Réaliser une modélisation et une analyse fonctionnelles d'un système de transmission numérique",
+                  "Connaissance : Caractéristiques des différentes technologies de modulation",
+                  "Connaissance : Modulation analogique",
+                  "Connaissance : Modulation d'amplitude",
+                  "Connaissance : Modulation de fréquence",
+                  "Connaissance : SNR",
                   "Connaissance : Codage de source, codage de canal",
                   "Connaissance : Modulation des signaux numériques: par déplacement d'amplitude (MDA), de phase (MDP) et de fréquence (MDF) et modulation QAM."
                 ]
@@ -269,15 +279,15 @@
             "UE": "Systèmes de communication (TC-3-S1-SCM)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=39042&_lang=fr",
             "detail": {
-              "code": "TC-3-T-ACM",
+              "code": "TC-3-T-CAT",
               "ects": "2.0",
               "cours": "12.0 h",
               "td": "12.0 h",
               "tp": "0.0 h",
               "projet": "0.0 h",
               "perso": "30.0 h",
-              "nom": "Télécommunications : Antennes Canal et Modulation",
-              "competencesBrutes": "CAPACITES : Formaliser un problème, analyser de manière fonctionnelle un système de transmission, modéliser un système de transmission, maîtriser la théorie mathématique des techniques de modulation, faire le lien entre différentes techniques et les performances des systèmes, et intégrer les contraintes des systèmes et des applications, evaluer les performances d'une transmission  CONNAISSANCES : Formules de base pour l'établissement d'un bilan de liaison. Caractéristiques des antennes en fonction de la couverture souhaitée.  Cet EC relève de l'unité d'enseignement Systèmes de communication (TC-3-S1-SCM) et contribue aux compétences suivantes :  C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 2)  Capacité : Evaluer la qualité d'un signal reçu Capacité : Evaluer les principaux paramètres des différentes modulations analogiques  Connaissance : Diagramme de rayonnement Connaissance : Modèle d'un canal radio en espace libre et avec 1 réflexion Connaissance : Caractéristiques des antennes Connaissance : Caractéristiques des différentes techologies de modulation Connaissance : Fonctionnement d'une antenne Connaissance : Gain Connaissance : Propagation en espace libre Connaissance : Modèle à 2 raies Connaissance : Bilan de liaison Connaissance : Modulation analogique Connaissance : Modulation d'amplitude Connaissance : Modulation de fréquence Connaissance : SNR  De plus, elle nécessite de mobiliser les compétences suivantes :  A4 Concevoir un système répondant à un cahier des charges A2 Exploiter un modèle d¿un système réel ou virtuel A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité B3 Interagir avec les autres, travailler en équipe B2 Travailler, apprendre, évoluer de manière autonome",
+              "nom": "Télécommunications : Canaux de transmission",
+              "competencesBrutes": "CAPACITES : Formaliser un problème, analyser de manière fonctionnelle un système de transmission, modéliser un système de transmission, maîtriser la théorie mathématique des techniques de modulation, faire le lien entre différentes techniques et les performances des systèmes, et intégrer les contraintes des systèmes et des applications, evaluer les performances d'une transmission  CONNAISSANCES : Formules de base pour l'établissement d'un bilan de liaison. Caractéristiques des antennes en fonction de la couverture souhaitée. Caractéristiques des fibres optiques  Cet EC relève de l'unité d'enseignement Systèmes de communication (TC-3-S1-SCM) et contribue aux compétences suivantes :  C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 2)  Capacité : Evaluer la qualité d'un signal reçu Capacité : Evaluer les principaux paramètres des différentes modulations analogiques  Connaissance : Diagramme de rayonnement Connaissance : Modèle d'un canal radio en espace libre et avec 1 réflexion Connaissance : Caractéristiques des antennes Connaissance : Fonctionnement d'une antenne Connaissance : Gain Connaissance : Propagation en espace libre Connaissance : Modèle à 2 raies Connaissance : Bilan de liaison Connaissance : Fonctionnement d'une fibre optique Connaissance : Caractéristiques d'une fibre optique  Connaissance : Caractéristiques des différentes technologies de modulation Connaissance : Modulation analogique Connaissance : Modulation d'amplitude Connaissance : Modulation de fréquence Connaissance : SNR  De plus, elle nécessite de mobiliser les compétences suivantes :  A4 Concevoir un système répondant à un cahier des charges A2 Exploiter un modèle d¿un système réel ou virtuel A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité B3 Interagir avec les autres, travailler en équipe B2 Travailler, apprendre, évoluer de manière autonome",
               "capacite": [
                 "Capacité : Evaluer la qualité d'un signal reçu",
                 "Capacité : Evaluer les principaux paramètres des différentes modulations analogiques"
@@ -286,12 +296,14 @@
                 "Connaissance : Diagramme de rayonnement",
                 "Connaissance : Modèle d'un canal radio en espace libre et avec 1 réflexion",
                 "Connaissance : Caractéristiques des antennes",
-                "Connaissance : Caractéristiques des différentes techologies de modulation",
                 "Connaissance : Fonctionnement d'une antenne",
                 "Connaissance : Gain",
                 "Connaissance : Propagation en espace libre",
                 "Connaissance : Modèle à 2 raies",
                 "Connaissance : Bilan de liaison",
+                "Connaissance : Fonctionnement d'une fibre optique",
+                "Connaissance : Caractéristiques d'une fibre optique ",
+                "Connaissance : Caractéristiques des différentes technologies de modulation",
                 "Connaissance : Modulation analogique",
                 "Connaissance : Modulation d'amplitude",
                 "Connaissance : Modulation de fréquence",
@@ -304,12 +316,14 @@
                   "Connaissance : Diagramme de rayonnement",
                   "Connaissance : Modèle d'un canal radio en espace libre et avec 1 réflexion",
                   "Connaissance : Caractéristiques des antennes",
-                  "Connaissance : Caractéristiques des différentes techologies de modulation",
                   "Connaissance : Fonctionnement d'une antenne",
                   "Connaissance : Gain",
                   "Connaissance : Propagation en espace libre",
                   "Connaissance : Modèle à 2 raies",
                   "Connaissance : Bilan de liaison",
+                  "Connaissance : Fonctionnement d'une fibre optique",
+                  "Connaissance : Caractéristiques d'une fibre optique ",
+                  "Connaissance : Caractéristiques des différentes technologies de modulation",
                   "Connaissance : Modulation analogique",
                   "Connaissance : Modulation d'amplitude",
                   "Connaissance : Modulation de fréquence",
@@ -718,7 +732,7 @@
               "td": "24.0 h",
               "tp": "0.0 h",
               "projet": "1.0 h",
-              "perso": "28.0 h",
+              "perso": "30.0 h",
               "nom": "Outils & Méthodes : Probabilités et statistiques",
               "competencesBrutes": "Cet EC relève de l'unité d'enseignement Outils théoriques (TC-3-S1-OTE) et contribue aux compétences suivantes :  A2 Exploiter un modèle d¿un système réel ou virtuel (niveau 3)  Capacité : Modéliser une expérience aléatoire : univers, évènement, variables aléatoire, signal aléatoire Capacité : Exploiter la modélisation statistique d'un problème pour le résoudre en calculant une probablité, une espérance, la dsp d'un signal aléatoire, etc  Connaissance : Univers, expérience, évènement. Notion de probabilité (fréquentielle, axiomatique). Prob. élémentaires et conditionnelles, indépendance, théorème de Bayes Connaissance : Principales lois de probabilité des variables aléatoires discrètes et continues. Espérance, variance, fonction d'une variable aléatoire. Connaissance : Théorème de Bienaymé-Tchebycheff, Théorème de Bernouilli, Théorème central limite Connaissance : Couples de variables aléatoires : loi conjointe, lois marginales, conditionnelles. Covariance, cœf de corrélation. Fonction d'un couple de variables aléatoires Connaissance : Processus stochastique, stationnarité et ergodisme, dsp d'un signal aléatoire (théorème de Wiener Khintchine), filtrage d'un signal aléatoire. Connaissance : Variable aléatoire, loi de probabilité, loi normale, Théorème Central Limite, Modèle  A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 1)  Capacité : Modéliser une expérience aléatoire : univers, évènement, variables aléatoire, signal aléatoire  Connaissance : Principales lois de probabilité des variables aléatoires discrètes et continues. Espérance, variance, fonction d'une variable aléatoire. Connaissance : Théorème de Bienaymé-Tchebycheff, Théorème de Bernouilli, Théorème central limite Connaissance : Couples de variables aléatoires : loi conjointe, lois marginales, conditionnelles. Covariance, cœf de corrélation. Fonction d'un couple de variables aléatoires Connaissance : Loi d'erlang, canal de rayleigh, détection Connaissance : Principales lois de probabilité des variables aléatoires discrètes et continues. Espérance, variance, fonction d'une variable aléatoire. Connaissance : Matlab, histogramme, caal de rayleigh  De plus, elle nécessite de mobiliser les compétences suivantes :  A3 Mettre en œuvre une démarche expérimentale",
               "capacite": [
@@ -986,7 +1000,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : SOCIAL SKILLS at WORK S5",
-              "competencesBrutes": "Cet EC contribue au développement des compétences transversales suivantes:  CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle  CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances et capacités suivantes:  --Savoir communiquer face à face, par mail ou par téléphone sur des sujet factuels --Savoir donner des instructions, expliquer une procédure; réussir une présentation orale dynamique--maîtrise du vocabulaire et de la grammaire nécessaires pour les activités citées ci-dessus",
+              "competencesBrutes": "Cet EC contribue au développement des compétences transversales suivantes:  CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle  CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères  L'élève ingénieur va travailler et être évalué sur les connaissances et capacités suivantes:  --savoir communiquer face à face, par mail ou par téléphone sur des sujet factuels --savoir donner des instructions, expliquer une procédure; réussir une présentation orale dynamique --la maîtrise du vocabulaire et de la grammaire nécessaires pour les activités citées ci-dessus",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -1273,7 +1287,7 @@
               "tp": "0.0 h",
               "projet": "0.0 h",
               "perso": "14.0 h",
-              "nom": "Langues Étrangères : MODULE Porfessionnel",
+              "nom": "Langues Étrangères : MODULE Professionnel",
               "competencesBrutes": "COMPETENCES Ciblées - Lexique professionnel et technique - Consolider les 4 compétences linguistiques - Acquisition d¿outils nécessaires dans un contexte professionnel hispanophone et interculturel -  INSA, Référentiel de compétences en Humanités 2. Travailler, apprendre, évoluer de manière autonome  Mobilisées - Prise de parole et écoute - Savoir présenter et défendre un point de vue - Approfondir la capacité d¿analyse - INSA, Référentiel de compétences en Humanités 3. Interagir avec les autres, travailler en équipe. 7. Travailler dans un contexte international et interculturel.",
               "capacite": [],
               "connaissance": [],
@@ -1418,7 +1432,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : CINEMAS ET SOCIETES",
-              "competencesBrutes": "Compétences ciblées : - Réfléchir et agir de manière responsable dans un monde complexe - Evoluer dans un contexte international et interculturel  Compétences mobilisées : - S¿exprimer avec aisance, à l'écrit comme à l'oral - Argumenter, débattre - Travailler en autonomie et en équipe",
+              "competencesBrutes": "Compétences ciblées : - Réfléchir et agir de manière responsable dans un monde complexe - Evoluer dans un contexte international et interculturel  Compétences mobilisées : - S'exprimer avec aisance, à l'écrit comme à l'oral - Argumenter, débattre - Travailler en autonomie et en équipe",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -1538,11 +1552,11 @@
             "detail": {
               "code": "TC-3-H-CTC1",
               "ects": "2.0",
-              "cours": "10.0 h",
-              "td": "8.0 h",
+              "cours": "0.0 h",
+              "td": "7.0 h",
               "tp": "8.0 h",
               "projet": "0.0 h",
-              "perso": "6.0 h",
+              "perso": "19.0 h",
               "nom": "Sciences Humaines et Sociales : Culture Telecom et Communication (S1)",
               "competencesBrutes": "Donner aux futurs ingénieurs en Télécommunications une culture générale dans le domaine des Télécommunications (les services, les acteurs et leur stratégie, les éléments de vocabulaire commun), qui leur permette, dès le début du cursus de pouvoir lire la presse spécialisée et converser avec les professionnels du secteur, ainsi que leur présenter les grandes questions économiques et sociologiques liées à la dimension « services & usages » des télécommunications. Maîtrise de l'information : préciser le besoin, mener une recherche d'information, évaluer l'information, exploiter les documents retenus, citer ses sources, respecter le droit d'auteur. Pratique de la communication du vécu au conceptuel.  Cet EC relève de l'unité d'enseignement Humanités 1 (TC-3-S1-HUMA) et contribue aux compétences suivantes :  B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)  Capacité : Analyser les dimensions technique, sociologique et économique des télécommunications Capacité : Réaliser une recherche documentaire Capacité : Réaliser une présentation adaptée à la cible  Connaissance : Acquérir une culture générale du secteur des télécoms Connaissance : Culture générale, communication orale, recherche documentaire  De plus, elle nécessite de mobiliser les compétences suivantes :  B2 Travailler, apprendre, évoluer de manière autonome: rechercher l'information : sources, évaluation (pertinence et fiabilité), esprit critique B3 Interagir avec les autres, travailler en équipe: partager, gérer les informations en groupe (base de données partagée) ; communiquer sur sa démarche et ses résultats B5 : Agir de manière responsable dans un monde complexe : utiliser l'information sans plagier, en citant ses sources et en référençant B7 : Travailler dans un contexte international et interculturel : rechercher de l'information bilingue. A4 Concevoir un système répondant à un cahier des charges A2 Exploiter un modèle d¿un système réel ou virtuel A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
               "capacite": [
@@ -2248,6 +2262,76 @@
             }
           },
           {
+            "UE": "Pratique et projets (TC-3-S2-PRA)",
+            "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=39617&_lang=fr",
+            "detail": {
+              "code": "TC-3-P-PALE",
+              "ects": "1.0",
+              "cours": "0.0 h",
+              "td": "0.0 h",
+              "tp": "12.0 h",
+              "projet": "0.0 h",
+              "perso": "0.0 h",
+              "nom": "Projets : Gestion de projets",
+              "competencesBrutes": "Gérer un projet est une activité standard dans l'ingénérie. Cependant, la majorité des projets n'aboutissent pas à leur terme ni dans les objectifs visés, ni dans les délais, ni dans les coûts estimés. Cette matière couvre les enjeux liés à la notion de projet ; et porte un focus spécifique sur des outils agiles récents pour leur conduite.  Cet EC relève de l'unité d'enseignement Pratique et projets (TC-3-S2-PRA) et contribue aux compétences suivantes :  C9 Conduire des projets dans le domaine du numérique (niveau 2)  Capacité : Gérer un projet agile en mode iteratif Capacité : Gérer un projet en flux de fonctions Capacité : Estimer les tâches d'un projet Capacité : Accompagner un client dans un projet  Connaissance : Cycle agile Scrum Connaissance : Flux agile Kanban Connaissance : Gestion de projet, développement agile  B3 Interagir avec les autres, travailler en équipe (niveau 2)  Capacité : Prendre le lead d'un projet Capacité : Interagir avec une équipe, un client  Connaissance : Artistes et specifieurs Connaissance : Marshmallow Challenge  De plus, elle nécessite de mobiliser les compétences suivantes :  B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
+              "capacite": [
+                "Capacité : Gérer un projet agile en mode iteratif",
+                "Capacité : Gérer un projet en flux de fonctions",
+                "Capacité : Estimer les tâches d'un projet",
+                "Capacité : Accompagner un client dans un projet",
+                "Capacité : Prendre le lead d'un projet",
+                "Capacité : Interagir avec une équipe, un client"
+              ],
+              "connaissance": [
+                "Connaissance : Cycle agile Scrum",
+                "Connaissance : Flux agile Kanban",
+                "Connaissance : Gestion de projet, développement agile",
+                "Connaissance : Artistes et specifieurs",
+                "Connaissance : Marshmallow Challenge"
+              ],
+              "competenceToCapaciteEtConnaissance": {
+                "TC-C9": [
+                  "Capacité : Gérer un projet agile en mode iteratif",
+                  "Capacité : Gérer un projet en flux de fonctions",
+                  "Capacité : Estimer les tâches d'un projet",
+                  "Capacité : Accompagner un client dans un projet",
+                  "Connaissance : Cycle agile Scrum",
+                  "Connaissance : Flux agile Kanban",
+                  "Connaissance : Gestion de projet, développement agile"
+                ],
+                "B3": [
+                  "Capacité : Prendre le lead d'un projet",
+                  "Capacité : Interagir avec une équipe, un client",
+                  "Connaissance : Artistes et specifieurs",
+                  "Connaissance : Marshmallow Challenge"
+                ]
+              },
+              "listeComp": [
+                {
+                  "code": "C9",
+                  "val": "Conduire des projets dans le domaine du numérique",
+                  "valAnglais": "Conduct projects in the digital domain",
+                  "niveau": "2"
+                },
+                {
+                  "code": "B3",
+                  "val": "Interagir avec les autres, travailler en équipe",
+                  "valAnglais": "Interact with people and work in a team",
+                  "bs": "25",
+                  "niveau": "2"
+                }
+              ],
+              "listeCompMobilise": [
+                {
+                  "code": "B6",
+                  "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
+                  "valAnglais": "Position oneself, work, and evolve within a company or a socio-productive organization",
+                  "bs": "28"
+                }
+              ]
+            }
+          },
+          {
             "UE": "Projet de recherche et d'ingénierie (TC-3-S2-PRI)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=39561&_lang=fr",
             "detail": {
@@ -2513,76 +2597,6 @@
             }
           },
           {
-            "UE": "Projet de recherche et d'ingénierie (TC-3-S2-PRI)",
-            "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=39617&_lang=fr",
-            "detail": {
-              "code": "TC-3-P-PALE",
-              "ects": "1.0",
-              "cours": "0.0 h",
-              "td": "0.0 h",
-              "tp": "12.0 h",
-              "projet": "0.0 h",
-              "perso": "0.0 h",
-              "nom": "Projets : Gestion de projets",
-              "competencesBrutes": "Gérer un projet est une activité standard dans l'ingénérie. Cependant, la majorité des projets n'aboutissent pas à leur terme ni dans les objectifs visés, ni dans les délais, ni dans les coûts estimés. Cette matière couvre les enjeux liés à la notion de projet ; et porte un focus spécifique sur des outils agiles récents pour leur conduite.  Cet EC relève de l'unité d'enseignement Pratique et projets (TC-3-S2-PRA) et contribue aux compétences suivantes :  C9 Conduire des projets dans le domaine du numérique (niveau 2)  Capacité : Gérer un projet agile en mode iteratif Capacité : Gérer un projet en flux de fonctions Capacité : Estimer les tâches d'un projet Capacité : Accompagner un client dans un projet  Connaissance : Cycle agile Scrum Connaissance : Flux agile Kanban Connaissance : Gestion de projet, développement agile  B3 Interagir avec les autres, travailler en équipe (niveau 2)  Capacité : Prendre le lead d'un projet Capacité : Interagir avec une équipe, un client  Connaissance : Artistes et specifieurs Connaissance : Marshmallow Challenge  De plus, elle nécessite de mobiliser les compétences suivantes :  B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
-              "capacite": [
-                "Capacité : Gérer un projet agile en mode iteratif",
-                "Capacité : Gérer un projet en flux de fonctions",
-                "Capacité : Estimer les tâches d'un projet",
-                "Capacité : Accompagner un client dans un projet",
-                "Capacité : Prendre le lead d'un projet",
-                "Capacité : Interagir avec une équipe, un client"
-              ],
-              "connaissance": [
-                "Connaissance : Cycle agile Scrum",
-                "Connaissance : Flux agile Kanban",
-                "Connaissance : Gestion de projet, développement agile",
-                "Connaissance : Artistes et specifieurs",
-                "Connaissance : Marshmallow Challenge"
-              ],
-              "competenceToCapaciteEtConnaissance": {
-                "TC-C9": [
-                  "Capacité : Gérer un projet agile en mode iteratif",
-                  "Capacité : Gérer un projet en flux de fonctions",
-                  "Capacité : Estimer les tâches d'un projet",
-                  "Capacité : Accompagner un client dans un projet",
-                  "Connaissance : Cycle agile Scrum",
-                  "Connaissance : Flux agile Kanban",
-                  "Connaissance : Gestion de projet, développement agile"
-                ],
-                "B3": [
-                  "Capacité : Prendre le lead d'un projet",
-                  "Capacité : Interagir avec une équipe, un client",
-                  "Connaissance : Artistes et specifieurs",
-                  "Connaissance : Marshmallow Challenge"
-                ]
-              },
-              "listeComp": [
-                {
-                  "code": "C9",
-                  "val": "Conduire des projets dans le domaine du numérique",
-                  "valAnglais": "Conduct projects in the digital domain",
-                  "niveau": "2"
-                },
-                {
-                  "code": "B3",
-                  "val": "Interagir avec les autres, travailler en équipe",
-                  "valAnglais": "Interact with people and work in a team",
-                  "bs": "25",
-                  "niveau": "2"
-                }
-              ],
-              "listeCompMobilise": [
-                {
-                  "code": "B6",
-                  "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
-                  "valAnglais": "Position oneself, work, and evolve within a company or a socio-productive organization",
-                  "bs": "28"
-                }
-              ]
-            }
-          },
-          {
             "UE": "Humanités 2 (TC-3-S2-HUMA)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38346&_lang=fr",
             "detail": {
@@ -2594,7 +2608,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : MEETINGS and DECISIONS S6",
-              "competencesBrutes": "Cet EC contribue au développement des compétences transversales suivantes:  CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.1 Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée 3.3 Communiquer de manière non verbale: posturale et gestuelle 3.4 S'intégrer dans un groupe, se positionner, construire une relation dynamique au groupe, intégrer de nouveaux membres  CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1 Communiquer et interagir en langues étrangères 7.2 Décoder des références culturelles dans des discours, attitudes et comportements  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances et capacités suivantes:  --savoir communiquer face à face, par mail ou par téléphone sur des sujets complexes avec plusieurs interlocuteurs --savoir réussir une présentation orale persuasive --maîtrise du vocabulaire et de la grammaire nécessaires pour les activités citées ci-dessus",
+              "competencesBrutes": "Cet EC contribue au développement des compétences transversales suivantes:  CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.1 Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée 3.3 Communiquer de manière non verbale: posturale et gestuelle 3.4 S'intégrer dans un groupe, se positionner, construire une relation dynamique au groupe, intégrer de nouveaux membres  CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1 Communiquer et interagir en langues étrangères 7.2 Décoder des références culturelles dans des discours, attitudes et comportements  L'élève ingénieur va travailler et être évalué sur les connaissances et capacités suivantes:  --savoir communiquer face à face, par mail ou par téléphone sur des sujets complexes avec plusieurs interlocuteurs --savoir réussir une présentation orale persuasive --la maîtrise du vocabulaire et de la grammaire nécessaires pour les activités citées ci-dessus",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -2918,7 +2932,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : CINEMAS ET SOCIETES",
-              "competencesBrutes": "Compétences ciblées : - Réfléchir et agir de manière responsable dans un monde complexe - Evoluer dans un contexte international et interculturel  Compétences mobilisées : - S¿exprimer avec aisance, à l'écrit comme à l'oral - Argumenter, débattre - Travailler en autonomie et en équipe",
+              "competencesBrutes": "Compétences ciblées : - Réfléchir et agir de manière responsable dans un monde complexe - Evoluer dans un contexte international et interculturel  Compétences mobilisées : - S¿exprimer avec aisance, à l'écrit comme à l'ral - Argumenter, débattre - Travailler en autonomie et en équipe",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -3075,10 +3089,10 @@
               "code": "TC-3-H-CTC2",
               "ects": "2.0",
               "cours": "6.0 h",
-              "td": "31.0 h",
+              "td": "7.0 h",
               "tp": "12.0 h",
               "projet": "0.0 h",
-              "perso": "6.0 h",
+              "perso": "10.0 h",
               "nom": "Sciences Humaines et Sociales : Culture Telecom et Communication (S2)",
               "competencesBrutes": "Donner aux futurs ingénieurs en Télécommunications une culture générale dans le domaine des Télécommunications (les services, les acteurs et leur stratégie, les éléments de vocabulaire commun), qui leur permette, dès le début du cursus de pouvoir lire la presse spécialisée et converser avec les professionnels du secteur, ainsi que leur présenter les grandes questions économiques et sociologiques liées à la dimension « services & usages » des télécommunications. Maîtrise de l'information : préciser le besoin, mener une recherche d'information, évaluer l'information, exploiter les documents retenus, citer ses sources, respecter le droit d'auteur. Pratique de la communication du vécu au conceptuel.  Cet EC relève de l'unité d'enseignement Humanités 1 (TC-3-S1-HUMA) et contribue aux compétences suivantes :  B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)  Capacité : Analyser les dimensions technique, sociologique et économique des télécommunications Capacité : Réaliser une recherche documentaire Capacité : Réaliser une présentation adaptée à la cible  Connaissance : Acquérir une culture générale du secteur des télécoms Connaissance : Culture générale, communication orale, recherche documentaire  De plus, elle nécessite de mobiliser les compétences suivantes :  B2 Travailler, apprendre, évoluer de manière autonome: rechercher l'information : sources, évaluation (pertinence et fiabilité), esprit critique B3 Interagir avec les autres, travailler en équipe: partager, gérer les informations en groupe (base de données partagée) ; communiquer sur sa démarche et ses résultats B5 : Agir de manière responsable dans un monde complexe : utiliser l'information sans plagier, en citant ses sources et en référençant B7 : Travailler dans un contexte international et interculturel : rechercher de l'information bilingue. A4 Concevoir un système répondant à un cahier des charges A2 Exploiter un modèle d¿un système réel ou virtuel A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
               "capacite": [
@@ -3271,7 +3285,7 @@
               "projet": "0.0 h",
               "perso": "20.0 h",
               "nom": "Réseaux & Services : Performances de Réseaux",
-              "competencesBrutes": "Acquérir les bases nécessaires à la modélisation, l'évaluation de performances et le dimensionnement des réseaux informatiques  Cet EC relève de l'unité d'enseignement Modélisation et Architectures Réseaux (TC-4-S1-MAR) et contribue aux compétences suivantes :  C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 3)  Capacité : Savoir modéliser un système de réseau en utilisant des outils analytiques Capacité : Savoir simuler un système en utilisant un simulateur à événements discrets Capacité : Savoir évaluer les performances en régime transitoire et stationnaire d'un système en utilisant des outils analytiques ou de simulation. Capacité : Savoir dimensionner un réseau en menant une évaluation de performances adéquate  Connaissance : Connaître les outils analytiques de modélisation: Chaîne de Markov à temps discret, Chaîne de Markov à temps continu, Files d'attente, Réseaux de file d'attente. Connaissance : Connaître les différentes équations caractérisant les régimes transitoires et permanents des modèles analytiques. Connaissance : Connaître le principe de la génération de nombres aléatoires Connaissance : Connaître les fondements théoriques de la simulation à évènements discrets et les base du simulateur NS2  C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 1)  Capacité : Savoir modéliser et évaluer quelques systèmes simples de trasmission (approches d'accès au canal, des codes correcteurs, retransmissions, etc.) en utilisant des outils analytiques  Connaissance : Connaître les outils analytiques de modélisation: Chaîne de Markov à temps discret, Chaîne de Markov à temps continu, Files d'attente, Réseaux de file d'attente.  C8 Opérer, analyser, améliorer des systèmes numériques (niveau 1)  Connaissance : Connaître des outils analytiques et de simulations utiles pour l'évaluations de performances de systèmes numériques déjà déployés ( capacités, limites, fiabilité, goulots d'étranglement, etc.)  A2 Exploiter un modèle d¿un système réel ou virtuel (niveau 1)  Capacité : Savoir mettre en place une approche scientifique permettant l'analyse des performances d'un système en modélisant correctement le système et les entrées et en calculant et analysant des métriques de performance en sortie  A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 1)  Capacité : Savoir modéliser quelques problèmes d'ingénieirie en utilisant des outils analytiques (Chaine de Markov) ayant un inéteret dans différents domaines de l'ingénierie  Connaissance : Connaître quelques outils analytiques et de simulation utiles pour la forumation de différents problèmes d'ingénierie  De plus, elle nécessite de mobiliser les compétences suivantes :   C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques B2 Travailler, apprendre, évoluer de manière autonome B3 Interagir avec les autres, travailler en équipe",
+              "competencesBrutes": "Acquérir les bases nécessaires à la modélisation, l'évaluation de performances et le dimensionnement des réseaux informatiques  Cet EC relève de l'unité d'enseignement��Modélisation et Architectures Réseaux (TC-4-S1-MAR) et contribue aux compétences suivantes :  C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 3)  Capacité : Savoir modéliser un système de réseau en utilisant des outils analytiques Capacité : Savoir simuler un système en utilisant un simulateur à événements discrets Capacité : Savoir évaluer les performances en régime transitoire et stationnaire d'un système en utilisant des outils analytiques ou de simulation. Capacité : Savoir dimensionner un réseau en menant une évaluation de performances adéquate  Connaissance : Connaître les outils analytiques de modélisation: Chaîne de Markov à temps discret, Chaîne de Markov à temps continu, Files d'attente, Réseaux de file d'attente. Connaissance : Connaître les différentes équations caractérisant les régimes transitoires et permanents des modèles analytiques. Connaissance : Connaître le principe de la génération de nombres aléatoires Connaissance : Connaître les fondements théoriques de la simulation à évènements discrets et les base du simulateur NS2  C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 1)  Capacité : Savoir modéliser et évaluer quelques systèmes simples de trasmission (approches d'accès au canal, des codes correcteurs, retransmissions, etc.) en utilisant des outils analytiques  Connaissance : Connaître les outils analytiques de modélisation: Chaîne de Markov à temps discret, Chaîne de Markov à temps continu, Files d'attente, Réseaux de file d'attente.  C8 Opérer, analyser, améliorer des systèmes numériques (niveau 1)  Connaissance : Connaître des outils analytiques et de simulations utiles pour l'évaluations de performances de systèmes numériques déjà déployés ( capacités, limites, fiabilité, goulots d'étranglement, etc.)  A2 Exploiter un modèle d¿un système réel ou virtuel (niveau 1)  Capacité : Savoir mettre en place une approche scientifique permettant l'analyse des performances d'un système en modélisant correctement le système et les entrées et en calculant et analysant des métriques de performance en sortie  A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 1)  Capacité : Savoir modéliser quelques problèmes d'ingénieirie en utilisant des outils analytiques (Chaine de Markov) ayant un inéteret dans différents domaines de l'ingénierie  Connaissance : Connaître quelques outils analytiques et de simulation utiles pour la forumation de différents problèmes d'ingénierie  De plus, elle nécessite de mobiliser les compétences suivantes :   C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques B2 Travailler, apprendre, évoluer de manière autonome B3 Interagir avec les autres, travailler en équipe",
               "capacite": [
                 "Capacité : Savoir modéliser un système de réseau en utilisant des outils analytiques",
                 "Capacité : Savoir simuler un système en utilisant un simulateur à événements discrets",
@@ -3909,7 +3923,7 @@
               "code": "TC-4-P-PRE1",
               "ects": "3.0",
               "cours": "0.0 h",
-              "td": "20.0 h",
+              "td": "8.0 h",
               "tp": "0.0 h",
               "projet": "0.0 h",
               "perso": "100.0 h",
@@ -3927,10 +3941,10 @@
               "code": "TC-4-P-SOA",
               "ects": "2.0",
               "cours": "0.0 h",
-              "td": "20.0 h",
+              "td": "0.0 h",
               "tp": "0.0 h",
               "projet": "0.0 h",
-              "perso": "100.0 h",
+              "perso": "20.0 h",
               "nom": "Projets : Etat de l'art du parcours recherche",
               "competencesBrutes": "Réaliser un état de l'art scientifique, de la définition du sujet jusqu'à la communication des résultats.  CONNAISSANCES * Outils bibliographiques * Outils pour la rédactions des papiers scientifiques * Fonctionnement d'une équipe de recherche  CAPACITÉS * Lire et résumer un article scientifique * Lire et analyser des standards et brevets * Ressortir les défis scientifiques d'un sujet donné * Présenter l'état de l'art d'un sujet de recherche * Rédiger un document scientifique",
               "capacite": [],
@@ -4004,7 +4018,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : JOB HUNTING in English S7",
-              "competencesBrutes": "Cet EC contribue au développement des compétences transversales suivantes:  CT1: SE CONNAÎTRE, SE GÉRER PHYSIQUEMENT ET MENTALEMENT 1.1- Se situer, s'auto évaluer  CT2: TRAVAILLER, APPRENDRE, ÉVOLUER DE MANIÈRE AUTONOME 2.1- Mobiliser ses ressources 2.2- Élaborer, mettre en oeuvre, réguler une stratégie d'action pertinente dans un but défini  CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.1- Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle  CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères 7.2- Décoder des références culturelles dans des discours, attitudes et comportements  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances et capacités suivantes:  --savoir relater des éléments de son expérience personnelle et professionnelle à l'oral --savoir relater des éléments de son expérience personnelle et professionnelle à l'écrit --savoir rédiger de manière appropriée au monde professionnel --maîtrise du vocabulaire et de la grammaire nécessaires pour les activités citées ci-dessus",
+              "competencesBrutes": "Cet EC contribue au développement des compétences transversales suivantes:  CT1: SE CONNAÎTRE, SE GÉRER PHYSIQUEMENT ET MENTALEMENT 1.1- Se situer, s'auto évaluer  CT2: TRAVAILLER, APPRENDRE, ÉVOLUER DE MANIÈRE AUTONOME 2.1- Mobiliser ses ressources 2.2- Élaborer, mettre en oeuvre, réguler une stratégie d'action pertinente dans un but défini  CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.1- Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle  CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères 7.2- Décoder des références culturelles dans des discours, attitudes et comportements  L'élève ingénieur va travailler et être évalué sur les connaissances et capacités suivantes:  --savoir relater des éléments de son expérience personnelle et professionnelle à l'oral --savoir relater des éléments de son expérience personnelle et professionnelle à l'écrit --savoir rédiger de manière appropriée au monde professionnel --la maîtrise du vocabulaire et de la grammaire nécessaires pour les activités citées ci-dessus",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -4219,7 +4233,7 @@
               "tp": "0.0 h",
               "projet": "0.0 h",
               "perso": "14.0 h",
-              "nom": "Langues Étrangères : MODULE Porfessionnel",
+              "nom": "Langues Étrangères : MODULE Professionnel",
               "competencesBrutes": "COMPETENCES Ciblées - Lexique professionnel et technique - Consolider les 4 compétences linguistiques - Acquisition d¿outils nécessaires dans un contexte professionnel hispanophone et interculturel -  INSA, Référentiel de compétences en Humanités 2. Travailler, apprendre, évoluer de manière autonome  Mobilisées - Prise de parole et écoute - Savoir présenter et défendre un point de vue - Approfondir la capacité d¿analyse - INSA, Référentiel de compétences en Humanités 3. Interagir avec les autres, travailler en équipe. 7. Travailler dans un contexte international et interculturel.",
               "capacite": [],
               "connaissance": [],
@@ -4346,7 +4360,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : CINEMAS ET SOCIETES",
-              "competencesBrutes": "Compétences ciblées : - Réfléchir et agir de manière responsable dans un monde complexe - Evoluer dans un contexte international et interculturel  Compétences mobilisées : - S¿exprimer avec aisance, à l'écrit comme à l'oral - Argumenter, débattre - Travailler en autonomie et en équipe",
+              "competencesBrutes": "Compétences ciblées : - Réfléchir et agir de manière responsable dans un monde complexe - Evoluer dans un contexte international et interculturel  Compétences mobilisées : - S'exprimer avec aisance, à l'écrit comme à l'oral - Argumenter, débattre - Travailler en autonomie et en équipe",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -4652,14 +4666,14 @@
             "UE": "Développement et sécurité (TC-4-S2-DEV)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38730&_lang=fr",
             "detail": {
-              "code": "TC-4-I-ASY",
+              "code": "TC-4-I-IAT",
               "ects": "2.0",
               "cours": "6.0 h",
-              "td": "16.0 h",
-              "tp": "12.0 h",
+              "td": "8.0 h",
+              "tp": "8.0 h",
               "projet": "0.0 h",
-              "perso": "8.0 h",
-              "nom": "Informatique : Architecture des Systemes",
+              "perso": "10.0 h",
+              "nom": "Informatique : Intelligence Artificielle pour les Télécommunications",
               "competencesBrutes": "Ce cours s'intéresse à la conception de familles classiques d'infrastructures numériques large échelle.  Les étudiants acquièrent des connaissances utiles à l'heure où le cloud computing est la cible privilégiée pour construire des solutions innovantes. Ils comprendront les éléments clés des frameworks populaires, et ils s'imprègneront des problèmes classiques que posent les systèmes distribués.  Cet EC relève de l'unité d'enseignement Réseaux et Systèmes distribués (TC-4-S1-RSD) et contribue aux compétences suivantes :  C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 3)  Capacité : Savoir comparer différentes architectures distribuées  Connaissance : Base de Docker Connaissance : Base de Spring Connaissance : Vocabulaire lié à l'architecture des systèmes informatiques Connaissance : Problématiques liés aux grands systèmes Connaissance : Sun RPC, RMI, DCOM  C8 Opérer, analyser, améliorer des systèmes numériques (niveau 2)  De plus, elle nécessite de mobiliser les compétences suivantes :  A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
               "capacite": [
                 "Capacité : Savoir comparer différentes architectures distribuées"
@@ -4709,14 +4723,14 @@
             "UE": "Développement et sécurité (TC-4-S2-DEV)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38409&_lang=fr",
             "detail": {
-              "code": "TC-4-I-MGL",
+              "code": "TC-4-I-INR",
               "ects": "2.0",
               "cours": "10.0 h",
               "td": "10.0 h",
               "tp": "12.0 h",
               "projet": "0.0 h",
               "perso": "10.0 h",
-              "nom": "Informatique : Modélisation et génie logiciel",
+              "nom": "Informatique : Ingénierie numérique responsable",
               "competencesBrutes": "Comprendre le génie logiciel : organisation d'équipes de développement, structuration globale de code, principes d'écriture correcte de programmes informatiques.  Cet EC relève de l'unité d'enseignement Développement et sécurité (TC-4-S2-DEV) et contribue aux compétences suivantes :  C9 Conduire des projets dans le domaine du numérique (niveau 3)  Capacité : Savoir présenter et communiquer sur un système informatique complexe avec les outils du génie logiciel Capacité : Comprendre les enjeux liés à la vérification de programmes informatiques. Principalement liés à l'opposition entre un code prouvé formellement et un code testé Capacité : Comprendre les grandes lignes de la gestion de projet informatique. Capacité : Comprendre les cycles de vie du produit logiciel  Connaissance : Représentation et utilisation des Schemas UML pour représenter une architecture IT Connaissance : Approches formelles. Langage B Connaissance : Utilisation des Designs patterns logiciels pour décrire un programme Connaissance : Développement Agile et méthode SCRUM Connaissance : Objets Calistenics  C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2)  Capacité : Développement par les tests Capacité : Abstraction formelle d'un système  Connaissance : Programmation Junit, TDD Connaissance : Langage B  De plus, elle nécessite de mobiliser les compétences suivantes :  C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques",
               "capacite": [
                 "Capacité : Savoir présenter et communiquer sur un système informatique complexe avec les outils du génie logiciel",
@@ -6442,7 +6456,7 @@
               "projet": "0.0 h",
               "perso": "8.0 h",
               "nom": "Informatique : Interface matériel/logiciel dans les systèmes embarqués",
-              "competencesBrutes": "Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :  A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)  Capacité : Programmer un micro-contrôleur: Capacité : Configurer un chip radio  Connaissance : Configuration réseau Connaissance : Protocole de communication numérique sans fil Connaissance : Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet Connaissance : Programmation C embarqués Connaissance : Gestionnaire d'interruption, pilotes de périphériques, OS léger Connaissance : Administration linux  A2 Exploiter un modèle d¿un système réel ou virtuel (niveau 2)  Capacité : Programmer un micro-contrôleur: Capacité : Construire une distribution linux pour un système embarqué  Connaissance : Programmation C embarqués Connaissance : Gestionnaire d'interruption, pilotes de périphériques, OS léger  C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 1)  Capacité : Construire une chaîne de compilation croisée  Connaissance : Configuration réseau Connaissance : Protocole de communication numérique sans fil Connaissance : Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet Connaissance : Programmation C embarqués Connaissance : Gestionnaire d'interruption, pilotes de périphériques, OS léger Connaissance : Administration linux  C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2)  Capacité : Programmer un micro-contrôleur Capacité : Configurer un chip radio Capacité : Construire une chaîne de compilation croisée  Connaissance : Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet Connaissance : Programmation C embarqués  C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 1)  Capacité : Configurer un chip radio  De plus, elle nécessite de mobiliser les compétences suivantes :   B2 Travailler, apprendre, évoluer de manière autonome B3 Interagir avec les autres, travailler en équipe A3 Mettre en œuvre une démarche expérimentale A1 Analyser un système (ou un problème) réel ou virtuel C5 Mettre en œuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données",
+              "competencesBrutes": "Cet EC relève de l'unité d'enseignement Options de 5TC (TC-5-OPT) et contribue aux compétences suivantes :  A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité (niveau 2)  Capacité : Programmer un micro-contrôleur: Capacité : Configurer un chip radio  Connaissance : Configuration réseau Connaissance : Protocole de communication numérique sans fil Connaissance : Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet Connaissance : Programmation C embarqués Connaissance : Gestionnaire d'interruption, pilotes de périphériques, OS léger Connaissance : Administration linux  A2 Exploiter un modèle d¿un système réel ou virtuel (niveau 2)  Capacité : Programmer un micro-contrôleur: Capacité : Construire une distribution linux pour un système embarqué  Connaissance : Programmation C embarqués Connaissance : Gestionnaire d'interruption, pilotes de périphériques, OS léger  C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 1)  Capacité : Construire une chaîne de compilation croisée  Connaissance : Configuration réseau Connaissance : Protocole de communication numérique sans fil Connaissance : Ma��triser les outils de programmation embarqué: JTAG, UART, ethernet Connaissance : Programmation C embarqués Connaissance : Gestionnaire d'interruption, pilotes de périphériques, OS léger Connaissance : Administration linux  C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2)  Capacité : Programmer un micro-contrôleur Capacité : Configurer un chip radio Capacité : Construire une chaîne de compilation croisée  Connaissance : Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet Connaissance : Programmation C embarqués  C1 Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données (niveau 1)  Capacité : Configurer un chip radio  De plus, elle nécessite de mobiliser les compétences suivantes :   B2 Travailler, apprendre, évoluer de manière autonome B3 Interagir avec les autres, travailler en équipe A3 Mettre en œuvre une démarche expérimentale A1 Analyser un système (ou un problème) réel ou virtuel C5 Mettre en œuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données",
               "capacite": [
                 "Capacité : Programmer un micro-contrôleur:",
                 "Capacité : Configurer un chip radio",
@@ -6465,7 +6479,7 @@
                 "Connaissance : Gestionnaire d'interruption, pilotes de périphériques, OS léger",
                 "Connaissance : Configuration réseau",
                 "Connaissance : Protocole de communication numérique sans fil",
-                "Connaissance : Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet",
+                "Connaissance : Ma��triser les outils de programmation embarqué: JTAG, UART, ethernet",
                 "Connaissance : Programmation C embarqués",
                 "Connaissance : Gestionnaire d'interruption, pilotes de périphériques, OS léger",
                 "Connaissance : Administration linux",
@@ -6493,7 +6507,7 @@
                   "Capacité : Construire une chaîne de compilation croisée",
                   "Connaissance : Configuration réseau",
                   "Connaissance : Protocole de communication numérique sans fil",
-                  "Connaissance : Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet",
+                  "Connaissance : Ma��triser les outils de programmation embarqué: JTAG, UART, ethernet",
                   "Connaissance : Programmation C embarqués",
                   "Connaissance : Gestionnaire d'interruption, pilotes de périphériques, OS léger",
                   "Connaissance : Administration linux"
@@ -7545,13 +7559,13 @@
             "UE": "Entreprise et Sport (TC-5-SHES)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38078&_lang=fr",
             "detail": {
-              "code": "HU-SHS-OPTION08",
+              "code": "HU-SHS-OPTION08-S1",
               "ects": "2.0",
               "cours": "0.0 h",
-              "td": "24.0 h",
+              "td": "20.0 h",
               "tp": "0.0 h",
               "projet": "0.0 h",
-              "perso": "24.0 h",
+              "perso": "20.0 h",
               "nom": "Sciences Humaines et Sociales : AGES - Âges, générations, expérience et sociétés",
               "competencesBrutes": "Compétences ciblées : - Se connaître, se gérer physiquement et mentalement - Agir de manière responsable dans un monde complexe  Compétences mobilisées : - Travailler, apprendre, évoluer de manière autonome - Interagir avec les autres, travailler en équipe",
               "capacite": [],
@@ -7566,10 +7580,10 @@
               "code": "HU-SHS-OPTION09-ii",
               "ects": "2.0",
               "cours": "0.0 h",
-              "td": "24.0 h",
+              "td": "20.0 h",
               "tp": "0.0 h",
               "projet": "0.0 h",
-              "perso": "24.0 h",
+              "perso": "20.0 h",
               "nom": "Sciences Humaines et Sociales : Coopérer dans un contexte interculturel",
               "competencesBrutes": "Compétences ciblées : CT7 Travailler en contexte international 7.1 Communiquer et interagir en langues étrangères 7.2 Décoder des références culturelles dans des discours, attitudes et comportements 7.3 Relativiser ses valeurs, croyances et comportements 7.4 Intégrer la diversité culturelle dans un travail en groupe  Compétences mobilisées : CT2 Travailler, apprendre, évoluer de manière autonome 2.4 Exercer son esprit critique, penser par soi-même CT3 Interagir avec les autres, travailler en équipe 3.6 S¿engager dans un projet collectif: construire et conduire un projet, le faire évoluer; prendre conscience de son rôle et de sa responsabilité CT5 Agir de manière responsable dans un monde complexe 5.1 Appréhender les enjeux complexes (dans l'entreprise et dans la société) qui se présentent à l'ingénieur: en saisir les dimensions sociales, sociétales, politiques, économiques, éthiques, philosophiques¿",
               "capacite": [],
@@ -7584,10 +7598,10 @@
               "code": "HU-SHS-OPTION10",
               "ects": "2.0",
               "cours": "0.0 h",
-              "td": "24.0 h",
+              "td": "20.0 h",
               "tp": "0.0 h",
               "projet": "0.0 h",
-              "perso": "24.0 h"
+              "perso": "20.0 h"
             }
           },
           {
@@ -7597,10 +7611,10 @@
               "code": "HU-SHS-OPTION11",
               "ects": "2.0",
               "cours": "0.0 h",
-              "td": "24.0 h",
+              "td": "20.0 h",
               "tp": "0.0 h",
               "projet": "0.0 h",
-              "perso": "24.0 h",
+              "perso": "20.0 h",
               "nom": "Sciences Humaines et Sociales : Technique en séries",
               "competencesBrutes": "Compétences ciblées :  - Agir de manière responsable dans un monde complexe (en particulier : Appréhender les enjeux complexes (dans l'entreprise et dans la société) qui se présentent à l'ingénieur : en saisir les dimensions sociales, sociétales, politiques, économiques, environnementales, éthiques, philosophiques... Il s¿agit de saisir la dimension culturelle et médiatique de l'imaginaire technologique grâce à la fiction et de comprendre en quoi elle alimente cette complexité.  - Travailler dans un contexte interculturel. En particulier : Décoder des références culturelles dans des discours, attitudes et comportements ; Relativiser ses valeurs, croyances et comportements. En effet, cette option permet d¿analyser la place de la pop culture dans la construction des représentations de la technique et des métiers qui lui sont liés.  Compétences mobilisées :  - Se connaître, se gérer physiquement et mentalement - Travailler, apprendre, évoluer de manière autonome",
               "capacite": [],
@@ -7614,11 +7628,11 @@
             "detail": {
               "code": "HU-SHS-OPTION12",
               "ects": "2.0",
-              "cours": "20.0 h",
-              "td": "24.0 h",
+              "cours": "0.0 h",
+              "td": "20.0 h",
               "tp": "0.0 h",
               "projet": "0.0 h",
-              "perso": "24.0 h",
+              "perso": "20.0 h",
               "nom": "Sciences Humaines et Sociales : ESS pour ingénieur.e.s",
               "competencesBrutes": "Compétences ciblées : - Se connaître, se gérer physiquement et mentalement - Travailler, apprendre, évoluer de manière autonome  Compétence mobilisée : - Agir de manière responsable dans un monde complexe",
               "capacite": [],
@@ -7630,13 +7644,13 @@
             "UE": "Entreprise et Sport (TC-5-SHES)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38079&_lang=fr",
             "detail": {
-              "code": "HU-SHS-OPTION04b-ii",
+              "code": "HU-SHS-OPTION04S1-ii",
               "ects": "2.0",
               "cours": "0.0 h",
-              "td": "24.0 h",
+              "td": "20.0 h",
               "tp": "0.0 h",
               "projet": "0.0 h",
-              "perso": "24.0 h",
+              "perso": "20.0 h",
               "nom": "Sciences Humaines et Sociales : Economie de la mondialisation",
               "competencesBrutes": "Compétences ciblées : - Appréhender les enjeux complexes (dans l'entreprise et dans la société) qui se présentent à l'ingénieur - Analyser le contexte économique de l'organisation pour prendre des décisions professionnelles adaptées - Travailler dans un contexte international et interculturel  Compétences mobilisées : - Travailler, apprendre, évoluer de manière autonome - Interagir avec les autres, travailler en équipe",
               "capacite": [],
@@ -7646,88 +7660,16 @@
           },
           {
             "UE": "Entreprise et Sport (TC-5-SHES)",
-            "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38080&_lang=fr",
-            "detail": {
-              "code": "HU-SHS-OPTION13",
-              "ects": "2.0",
-              "cours": "0.0 h",
-              "td": "24.0 h",
-              "tp": "0.0 h",
-              "projet": "0.0 h",
-              "perso": "24.0 h",
-              "nom": "Sciences Humaines et Sociales : Digitalisation du travail",
-              "competencesBrutes": "Compétences ciblées : a) Utiliser avec pertinence les outils numériques en usage dans les organisations socio- productives (6.3) b) Prévenir les risques individuels et sociaux propres à l'organisation du travail, au milieu professionnel (6.5) c) Élaborer, mettre en œuvre, réguler une stratégie d¿action pertinente dans un but défini (2.2) d) Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée (3.1) e) Gérer des conflits, l'équilibre entre les intérêts individuels et collectifs (3.5) f) Repérer et analyser les principes d'organisation et le fonctionnement d'une entreprise, d¿une organisation socio-productive (6.1)  Compétences mobilisées : a) Mobiliser ses ressources en s¿adaptant à différentes situations (2.1) b) S¿engager dans un projet collectif (3.6) c) S¿intégrer dans un groupe, se positionner, construire une relation dynamique au groupe, intégrer de nouveaux membres (3.4) d) Acquérir par soi-même de nouvelles compétences en allant rechercher les ressources nécessaires (2.3) e) Exercer son esprit critique, penser par soi-même (2.4)",
-              "capacite": [],
-              "connaissance": [],
-              "competenceToCapaciteEtConnaissance": {}
-            }
-          },
-          {
-            "UE": "Entreprise et Sport (TC-5-SHES)",
-            "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=39779&_lang=fr",
-            "detail": {
-              "code": "HU-SHS-OPTION14b",
-              "ects": "2.0",
-              "cours": "0.0 h",
-              "td": "24.0 h",
-              "tp": "0.0 h",
-              "projet": "0.0 h",
-              "perso": "24.0 h",
-              "nom": "Sciences Humaines et Sociales : La ville, ses objets, leurs usages",
-              "competencesBrutes": "Compétences ciblées : - Agir de manière responsable dans un monde complexe - Faire preuve de créativité, innover, entreprendre",
-              "capacite": [],
-              "connaissance": [],
-              "competenceToCapaciteEtConnaissance": {}
-            }
-          },
-          {
-            "UE": "Entreprise et Sport (TC-5-SHES)",
-            "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38081&_lang=fr",
-            "detail": {
-              "code": "HU-SHS-OPTION15",
-              "ects": "2.0",
-              "cours": "0.0 h",
-              "td": "24.0 h",
-              "tp": "0.0 h",
-              "projet": "0.0 h",
-              "perso": "24.0 h",
-              "nom": "Sciences Humaines et Sociales : Co-design : L'innovation par les usages",
-              "competencesBrutes": "Compétences ciblées : - Faire preuve de créativité, innover, entreprendre - Se situer, travailler, évoluer dans une entreprise, une organisation socioproductive  Compétences mobilisées : - Travailler, apprendre, évoluer de manière autonome - Interagir avec les autres, travailler en équipe",
-              "capacite": [],
-              "connaissance": [],
-              "competenceToCapaciteEtConnaissance": {}
-            }
-          },
-          {
-            "UE": "Entreprise et Sport (TC-5-SHES)",
-            "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38354&_lang=fr",
-            "detail": {
-              "code": "HU-SHS-OPTION16",
-              "ects": "2.0",
-              "cours": "0.0 h",
-              "td": "24.0 h",
-              "tp": "0.0 h",
-              "projet": "0.0 h",
-              "perso": "24.0 h",
-              "nom": "Sciences Humaines et Sociales : Remettre en cause...",
-              "competencesBrutes": "Compétences ciblées : - Agir de manière responsable dans un monde complexe - Interagir avec les autres, travailler en équipe - Travailler dans un contexte international et interculturel  Mobilisées : - Se connaître, se gérer physiquement et mentalement - Travailler, apprendre, évoluer de manière autonome",
-              "capacite": [],
-              "connaissance": [],
-              "competenceToCapaciteEtConnaissance": {}
-            }
-          },
-          {
-            "UE": "Entreprise et Sport (TC-5-SHES)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38355&_lang=fr",
             "detail": {
-              "code": "HU-SHS-OPTION17b-ii",
+              "code": "HU-SHS-OPTION17S1-ii",
               "ects": "2.0",
               "cours": "0.0 h",
-              "td": "24.0 h",
+              "td": "20.0 h",
               "tp": "0.0 h",
               "projet": "0.0 h",
-              "perso": "24.0 h",
-              "nom": "Sciences Humaines et Sociales : L'Europe dans tous ses états",
+              "perso": "20.0 h",
+              "nom": "Sciences Humaines et Sociales : L'Europe dans tous ses Etats",
               "competencesBrutes": "Compétence ciblée : Travailler dans un contexte international et interculturel  Compétences mobilisées : a) Se situer, s¿auto-évaluer b) Prendre conscience de ses biais (cognitifs, socio-culturels...) c) Donner du sens à ses apprentissages, sources de progrès et d¿enrichissement personnel d) Construire un parcours personnel cohérent e) Acquérir par soi-même de nouvelles compétences en allant rechercher les ressources nécessaires f) Exercer son esprit critique, penser par soi-même g) Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée h) Situer son discours, original, par des références explicitées",
               "capacite": [],
               "connaissance": [],
@@ -7738,18 +7680,62 @@
             "UE": "Entreprise et Sport (TC-5-SHES)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38083&_lang=fr",
             "detail": {
-              "code": "HU-SHS-OPTION18b",
+              "code": "HU-SHS-OPTION18-S1",
               "ects": "2.0",
               "cours": "0.0 h",
-              "td": "24.0 h",
+              "td": "20.0 h",
               "tp": "0.0 h",
               "projet": "0.0 h",
-              "perso": "24.0 h",
+              "perso": "20.0 h",
               "nom": "Sciences Humaines et Sociales : Influences et manipulations",
               "competencesBrutes": "Compétences ciblées : a) Identifier ses modes de fonctionnement (cognitif, physique, relationnel, affectif, informationnel, émotionnel...), ses sources de motivation, de stress et d'émotions... (1.2) b) Prendre conscience de ses biais (cognitifs, socio-culturels¿) (1.3) c) Élaborer, mettre en œuvre, réguler une stratégie d¿action pertinente dans un but défini (2.2) d) Exercer son esprit critique, penser par soi-même (2.4)  Mobilisées : Toute expérience de rapports sociaux sous « contraintes » a) Interagir avec les autres, travailler en équipe b) Se situer, travailler, évoluer dans une entreprise, une organisation socioproductive c) Travailler dans un contexte international et interculturel",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
+            }
+          },
+          {
+            "UE": "Entreprise et Sport (TC-5-SHES)",
+            "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=40068&_lang=fr",
+            "detail": {
+              "code": "HU-SHS-OPTION19-S1",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "20.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "20.0 h",
+              "nom": "Sciences Humaines et Sociales : # VALEUR! Parce que notre avenir le vaut bien...",
+              "competencesBrutes": "Ciblées : - 4.4 Innover, créer de la valeur, y compris [surtout] dans un cadre non marchand - 5.1 Appréhender les enjeux complexes (dans l'entreprise et dans la société) qui se présentent à l'ingénieur : en saisir les dimensions sociales, sociétales, politiques, économiques, environnementales, éthiques, philosophiques... - 5.2 Intégrer une dimension responsable (déontologie, éthique) dans ses actions ; identifier, évaluer et anticiper les conséquences de ses actions et décisions à différents niveaux d'échelle - 7.3 Relativiser ses valeurs, croyances et comportements  Mobilisées : - 2.4 Exercer son esprit critique, penser par soi-même - 3.1 Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée - 7.2 Décoder des références culturelles dans des discours, attitudes et comportements",
+              "capacite": [],
+              "connaissance": [],
+              "competenceToCapaciteEtConnaissance": {}
+            }
+          },
+          {
+            "UE": "Entreprise et Sport (TC-5-SHES)",
+            "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=40070&_lang=fr",
+            "detail": {
+              "code": "HU-SHS-OPTION20S1-ii",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "20.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "20.0 h"
+            }
+          },
+          {
+            "UE": "Entreprise et Sport (TC-5-SHES)",
+            "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=40073&_lang=fr",
+            "detail": {
+              "code": "HU-SHS-OPTION24",
+              "ects": "2.0",
+              "cours": "0.0 h",
+              "td": "20.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "20.0 h"
             }
           }
         ]
