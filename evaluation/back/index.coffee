@@ -1,6 +1,9 @@
 express = require 'express'
 mongoClient = require('mongodb').MongoClient
 graphqlHTTP = require('express-graphql')
+cors = require('cors')
+_ = require('lodash')
+
 { buildSchema } = require('graphql')
 
 schema = buildSchema "
@@ -8,13 +11,26 @@ schema = buildSchema "
     name: String
   }
 
-  type Query {
-    listeEtudiants: [Etudiant]
+  type Matiere {
+    code: String
   }
+
+  type Query {
+    listeEtudiants: [Etudiant],
+    listeMatieres: [Matiere]
+  }
+
 "
 
+db = ''
+
 queryMap =
-  listeEtudiants: () -> [{name:'hello World'}]
+  listeEtudiants: () ->
+    etudiants = db.collection('etudiants')
+    etudiants.find({}).toArray()
+  listeMatieres: () ->
+    catalogue = require('../../formation/catalogue-TC')
+    _.map(_.flatten(_.flatten(catalogue[0].semestres)[0].ecs), "detail")
 
 mongoClient.connect 'mongodb://localhost:27017',
   useUnifiedTopology: true
@@ -25,18 +41,13 @@ mongoClient.connect 'mongodb://localhost:27017',
   app = express()
   app.use express.static '/opt/competence/formation'
 
-  app.use '/graphql', graphqlHTTP(
+  app.use '/graphql', cors(), graphqlHTTP(
     schema: schema
     rootValue: queryMap
     graphiql: true
   )
 
   app.listen(80)
-
-  # etudiants = db.collection('etudiants')
-  # etudiants.find({}).toArray()
-  # .then (docs) ->
-  #   console.log('->', docs)
 
 .catch (err) ->
   console.error('SFR MONGO: ', err)
