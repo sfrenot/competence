@@ -7,6 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'evaluation';
+  constructor(){}
+
   ngOnInit() {
     console.log('toto')
   }
