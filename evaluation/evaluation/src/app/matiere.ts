@@ -1,3 +1,3 @@
 export class Matiere {
-  name: string;
+  code: string;
 }

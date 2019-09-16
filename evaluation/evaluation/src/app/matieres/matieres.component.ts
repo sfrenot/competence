@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
-import { Matiere } from './matiere';
+import { Matiere } from '../matiere';
+import { MatiereService } from '../matiere.service';
 
 @Component({
   selector: 'app-matieres',
@@ -10,17 +10,17 @@ import { Matiere } from './matiere';
 
 export class MatieresComponent implements OnInit {
 
-  matieres: Matiere[] = [
-    { name: 'ELP' },
-    { name: 'TRI' }
-  ]
+  matieres: Matiere[];
 
-  constructor(private http: HttpClient) { }
+  constructor(private matiereService: MatiereService) { }
 
   ngOnInit() {
-    this.http.get('http://localhost/graphql?query={listeEtudiants{name}}')
-    .toPromise()
-    .then( (res) => {console.log(res)} )
+    this.getMatieres();
+  }
+
+  getMatieres(): void {
+    this.matiereService.getMatieres()
+      .subscribe(matieres => this.matieres = matieres);
   }
 
 }
