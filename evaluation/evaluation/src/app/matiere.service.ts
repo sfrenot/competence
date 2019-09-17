@@ -11,14 +11,7 @@ export class MatiereService {
 
   constructor(private http: HttpClient) { }
 
-  getMatieres(): Observable<Matiere []> {
-    // this.http.get('http://localhost/graphql?query={listeMatieres{code}}')
-    // .toPromise()
-    // .then( (res) => {
-    //     return res.data.listeMatieres
-    //   }
-    // )
-    return of([{code: 'ELPii'}, {code: 'MGL'}]);
-
+  getMatieres(): Observable<any> {
+    return this.http.get<any>('http://localhost/graphql?query={listeMatieres{code}}')
   }
 }

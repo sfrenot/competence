@@ -30,7 +30,7 @@ queryMap =
     etudiants.find({}).toArray()
   listeMatieres: () ->
     catalogue = require('../../formation/catalogue-TC')
-    _.map(_.flatten(_.flatten(catalogue[0].semestres)[0].ecs), "detail")
+    _.map(_.flatten(_.map(_.flatten(catalogue[0].semestres), "ecs")), "detail")
 
 mongoClient.connect 'mongodb://localhost:27017',
   useUnifiedTopology: true
