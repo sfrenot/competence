@@ -3,8 +3,15 @@ mongoClient = require('mongodb').MongoClient
 graphqlHTTP = require('express-graphql')
 cors = require('cors')
 _ = require('lodash')
+session = require('express-session')
+CASAuthentication = require 'cas-authentication'
 
 { buildSchema } = require('graphql')
+
+corsOptions =
+  origin: 'http://localhost:4200'
+  credentials: true
+
 
 schema = buildSchema "
   type Etudiant {
@@ -28,7 +35,9 @@ queryMap =
   listeEtudiants: () ->
     etudiants = db.collection('etudiants')
     etudiants.find({}).toArray()
-  listeMatieres: () ->
+  listeMatieres: (express, req) ->
+    console.log '->', req.session
+
     catalogue = require('../../formation/catalogue-TC')
     _.map(_.flatten(_.map(_.flatten(catalogue[0].semestres), "ecs")), "detail")
 
@@ -39,13 +48,27 @@ mongoClient.connect 'mongodb://localhost:27017',
   db = client.db('etudiants')
 
   app = express()
-  app.use express.static '/opt/competence/formation'
+  app.use(session(
+    secret: '120873qsdsqdsq71912'
+    resave: false
+    saveUninitialized : true
+  ))
 
-  app.use '/graphql', cors(), graphqlHTTP(
+  cas = new CASAuthentication
+    cas_url: 'https://login.insa-lyon.fr/cas'
+    service_url: 'http://tc405-r004.insa-lyon.fr'
+
+
+  # app.use cas.block, express.static '/opt/competence/formation'
+
+  app.use '/graphql', cors(corsOptions), cas.block, graphqlHTTP(
     schema: schema
     rootValue: queryMap
     graphiql: true
   )
+
+  app.use '/', cas.bounce, (req, res) -> res.redirect('http://localhost:4200')
+
 
   app.listen(80)
 
