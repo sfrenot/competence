@@ -11,6 +11,7 @@ import { MatiereService } from '../matiere.service';
 export class MatieresComponent implements OnInit {
 
   matieres: Matiere[];
+  selectedMatiere: Matiere;
 
   constructor(private matiereService: MatiereService) { }
 
@@ -21,6 +22,10 @@ export class MatieresComponent implements OnInit {
   getMatieres(): void {
     this.matiereService.getMatieres()
       .subscribe(res => this.matieres = res.data.listeMatieres);
+  }
+
+  onSelect(matiere: Matiere): void {
+    this.selectedMatiere = matiere;
   }
 
 }

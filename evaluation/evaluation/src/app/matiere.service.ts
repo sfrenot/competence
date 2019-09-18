@@ -12,6 +12,6 @@ export class MatiereService {
   constructor(private http: HttpClient) { }
 
   getMatieres(): Observable<any> {
-    return this.http.get<any>('http://localhost/graphql?query={listeMatieres{code}}')
+    return this.http.get<any>('http://tc405-r004.insa-lyon.fr/graphql?query={listeMatieres{code}}', {withCredentials: true})
   }
 }
