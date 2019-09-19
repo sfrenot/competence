@@ -21,7 +21,7 @@ export class MatieresComponent implements OnInit {
 
   getMatieres(): void {
     this.matiereService.getMatieres()
-      .subscribe(res => this.matieres = res.data.listeMatieres);
+      .subscribe(res => this.matieres = res.data.evalsMatieres.matieres);
   }
 
   onSelect(matiere: Matiere): void {

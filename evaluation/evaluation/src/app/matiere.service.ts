@@ -11,7 +11,33 @@ export class MatiereService {
 
   constructor(private http: HttpClient) { }
 
+
+
   getMatieres(): Observable<any> {
-    return this.http.get<any>('http://tc405-r004.insa-lyon.fr/graphql?query={listeMatieres{code}}', {withCredentials: true})
+    var query = `{
+      evalsMatieres {
+        login
+        matieres {
+          code
+          competenceToCapaciteEtConnaissance {
+            code
+            connaissances {
+              nom
+              eval
+            }
+            capacites {
+              nom
+              eval
+            }
+          }
+          listeComp {
+            code
+            val
+            niveau
+          }
+        }
+      }
+    }`;
+    return this.http.get<any>(`http://tc405-r004.insa-lyon.fr/graphql?query=${query}` , {withCredentials: true})
   }
 }
