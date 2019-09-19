@@ -12,6 +12,7 @@ departements = [
   "BB"
   "BIM"
   "IF"
+  "GCU"
 ]
 
 refCompetences = require("../formation/refCompetences")
@@ -148,6 +149,7 @@ loadDepartement = (departement, res) ->
            <th><a href="BB">BB</a></th>
            <th><a href="BIM">BIM</a></th>
            <th><a href="IF">IF</a></th>
+           <th><a href="GCU">GCU</a></th>
          </tr>
        </thead>
       </table>
@@ -191,6 +193,7 @@ app.get "/", (req, res) ->
          <th><a href="/matrice/BB">BB</a></th>
          <th><a href="/matrice/BIM">BIM</a></th>
          <th><a href="/matrice/IF">IF</a></th>
+         <th><a href="/matrice/GCU">GCU</a></th>
        </tr>
      </thead>
     </table>
