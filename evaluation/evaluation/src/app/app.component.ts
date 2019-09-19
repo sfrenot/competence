@@ -10,6 +10,5 @@ export class AppComponent {
   constructor(){}
 
   ngOnInit() {
-    console.log('toto')
   }
 }

@@ -11,7 +11,6 @@ export class EvalMatiereComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
-  }
+  ngOnInit() { }
 
 }

@@ -11,8 +11,6 @@ export class MatiereService {
 
   constructor(private http: HttpClient) { }
 
-
-
   getMatieres(): Observable<any> {
     var query = `{
       evalsMatieres {
