@@ -674,7 +674,7 @@
                   "code": "C8",
                   "val": "Ouvrage d'art (concevoir, dimensionner ou contrôler un ...)",
                   "valAnglais": "Work of art (design, size or control)",
-                  "niveau": "1"
+                  "niveau": "1) ;  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - calculer les efforts internes dans des structures isostatiques (type poutres"
                 }
               ]
             }
@@ -777,7 +777,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : SOCIAL SKILLS at WORK S5",
-              "competencesBrutes": "Cet EC contribue au développement des compétences transversales suivantes:  CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle  CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances et capacités suivantes :  --maîtrise du vocabulaire et de la grammaire nécessaires pour les activités citées ci-dessous --Savoir communiquer face à face, par mail ou par téléphone sur des sujet factuels --Savoir donner des instructions, expliquer une procédure; réussir une présentation orale dynamique",
+              "competencesBrutes": "Cet EC contribue au développement des compétences transversales suivantes:  CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle  CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances et capacités suivantes:  --Savoir communiquer face à face, par mail ou par téléphone sur des sujet factuels --Savoir donner des instructions, expliquer une procédure; réussir une présentation orale dynamique--maîtrise du vocabulaire et de la grammaire nécessaires pour les activités citées ci-dessus",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -1448,7 +1448,7 @@
               "projet": "0.0 h",
               "perso": "30.0 h",
               "nom": "Géotechnique : Géotechnique 2 : Mécanique des sols",
-              "competencesBrutes": "Cet EC relève de l'Unité d'Enseignement : GCU-S6-GEO-2 et contribue aux :  Compétences écoles en sciences pour l'ingénieur : A2- Exploiter un modèle d'un système réel ou virtuel (niveau 2) ; A3- Mettre en œuvre une démarche expérimentale (niveau 2) ; A5- Traiter des données (niveau 2) ;  Compétences écoles en humanité, documentation et éducation physique et sportive : B2- Travailler, apprendre, évoluer de manière autonome (niveau 2) ; B3- Interagir avec les autres, travailler en équipe (niveau 2) ;  Compétences écoles spécifiques à la spécialité : C2- Réaliser et/ou  interpréter des essais géotechniques en laboratoire de classification et de comportement (niveau 2) ; C3- Evaluer un risque de rupture de pente sous diverses sollicitations (niveau 2) ;  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : - aspects fondamentaux et théoriques de la compressibilité et de la rupture des sols ; - expérimentations de laboratoire qui permettent d'avoir accès aux paramètres de compressibilité et de rupture ; - mécanismes et théories de glissement des sols et de stabilité des pentes ; - méthodes de calcul de la recherche du mécanisme de rupture des fondations superficielles ;  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - calculer les contraintes initiales, l'effet de surcharge, les déformations et tassements ; - maîtriser les mécanismes de compressibilité et de cisaillement des différents types de sols ; - reproduire les états de contraintes dans le plan de Mohr ; - mener à bien des essais en laboratoire (oedométriques, triaxiaux et de cisaillement) et in situ, et interpréter les résultats pour évaluer le comportement des sols ; - traiter les mécanismes du calcul à la rupture critère Mohr-Coulomb, stabilité des pentes, fondations.",
+              "competencesBrutes": "Cet EC relève de l'Unité d'Enseignement : GCU-S6-GEO-2 et contribue aux :  Compétences écoles en sciences pour l'ingénieur : A2- Exploiter un modèle d'un système r��el ou virtuel (niveau 2) ; A3- Mettre en œuvre une démarche expérimentale (niveau 2) ; A5- Traiter des données (niveau 2) ;  Compétences écoles en humanité, documentation et éducation physique et sportive : B2- Travailler, apprendre, évoluer de manière autonome (niveau 2) ; B3- Interagir avec les autres, travailler en équipe (niveau 2) ;  Compétences écoles spécifiques à la spécialité : C2- Réaliser et/ou  interpréter des essais géotechniques en laboratoire de classification et de comportement (niveau 2) ; C3- Evaluer un risque de rupture de pente sous diverses sollicitations (niveau 2) ;  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : - aspects fondamentaux et théoriques de la compressibilité et de la rupture des sols ; - expérimentations de laboratoire qui permettent d'avoir accès aux paramètres de compressibilité et de rupture ; - mécanismes et théories de glissement des sols et de stabilité des pentes ; - méthodes de calcul de la recherche du mécanisme de rupture des fondations superficielles ;  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - calculer les contraintes initiales, l'effet de surcharge, les déformations et tassements ; - maîtriser les mécanismes de compressibilité et de cisaillement des différents types de sols ; - reproduire les états de contraintes dans le plan de Mohr ; - mener à bien des essais en laboratoire (oedométriques, triaxiaux et de cisaillement) et in situ, et interpréter les résultats pour évaluer le comportement des sols ; - traiter les mécanismes du calcul à la rupture critère Mohr-Coulomb, stabilité des pentes, fondations.",
               "capacite": [
                 "Capacité : calculer les contraintes initiales, l'effet de surcharge, les déformations et tassements ;",
                 "Capacité : maîtriser les mécanismes de compressibilité et de cisaillement des différents types de sols ;",
@@ -2271,7 +2271,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : MEETINGS and DECISIONS S6",
-              "competencesBrutes": "Cet EC contribue au développement des compétences transversales suivantes:  CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.1 Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée 3.3 Communiquer de manière non verbale: posturale et gestuelle 3.4 S'intégrer dans un groupe, se positionner, construire une relation dynamique au groupe, intégrer de nouveaux membres  CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1 Communiquer et interagir en langues étrangères 7.2 Décoder des références culturelles dans des discours, attitudes et comportements  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances et capacités suivantes :  --maîtrise du vocabulaire et de la grammaire nécessaires pour les activités citées ci-dessous --savoir communiquer face à face, par mail ou par téléphone sur des sujets complexes avec plusieurs interlocuteurs --savoir réussir une présentation orale persuasive",
+              "competencesBrutes": "Cet EC contribue au développement des compétences transversales suivantes:  CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.1 Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée 3.3 Communiquer de manière non verbale: posturale et gestuelle 3.4 S'intégrer dans un groupe, se positionner, construire une relation dynamique au groupe, intégrer de nouveaux membres  CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1 Communiquer et interagir en langues étrangères 7.2 Décoder des références culturelles dans des discours, attitudes et comportements  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances et capacités suivantes:  --savoir communiquer face à face, par mail ou par téléphone sur des sujets complexes avec plusieurs interlocuteurs --savoir réussir une présentation orale persuasive --maîtrise du vocabulaire et de la grammaire nécessaires pour les activités citées ci-dessus",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -3616,7 +3616,7 @@
               "projet": "0.0 h",
               "perso": "14.0 h",
               "nom": "Langues Étrangères : JOB HUNTING in English S7",
-              "competencesBrutes": "Cet EC contribue au développement des compétences transversales suivantes:  CT1: SE CONNAÎTRE, SE GÉRER PHYSIQUEMENT ET MENTALEMENT 1.1- Se situer, s'auto évaluer  CT2: TRAVAILLER, APPRENDRE, ÉVOLUER DE MANIÈRE AUTONOME 2.1- Mobiliser ses ressources 2.2- Élaborer, mettre en oeuvre, réguler une stratégie d'action pertinente dans un but défini  CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.1- Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle  CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères 7.2- Décoder des références culturelles dans des discours, attitudes et comportements  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances et capacités suivantes :  --maîtrise du vocabulaire et de la grammaire nécessaires pour les activités citées ci-dessous --savoir relater des éléments de son expérience personnelle et professionnelle à l'oral --savoir relater des éléments de son expérience personnelle et professionnelle à l'oral --savoir rédiger de manière appropriée au monde professionnel",
+              "competencesBrutes": "Cet EC contribue au développement des compétences transversales suivantes:  CT1: SE CONNAÎTRE, SE GÉRER PHYSIQUEMENT ET MENTALEMENT 1.1- Se situer, s'auto évaluer  CT2: TRAVAILLER, APPRENDRE, ÉVOLUER DE MANIÈRE AUTONOME 2.1- Mobiliser ses ressources 2.2- Élaborer, mettre en oeuvre, réguler une stratégie d'action pertinente dans un but défini  CT3: INTERAGIR AVEC LES AUTRES, TRAVAILLER EN ÉQUIPE 3.1- Communiquer de manière appropriée : transmettre un message, écouter, faire preuve d'empathie, affirmer son point de vue, débattre de façon argumentée 3.2- Situer son discours, original, par des références explicitées 3.3- Communiquer de manière non verbale: posturale et gestuelle  CT7: TRAVAILLER DANS UN CONTEXTE INTERNATIONAL ET CULTUREL 7.1- Communiquer et interagir en langues étrangères 7.2- Décoder des références culturelles dans des discours, attitudes et comportements  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances et capacités suivantes:  --savoir relater des éléments de son expérience personnelle et professionnelle à l'oral --savoir relater des éléments de son expérience personnelle et professionnelle à l'écrit --savoir rédiger de manière appropriée au monde professionnel --maîtrise du vocabulaire et de la grammaire nécessaires pour les activités citées ci-dessus",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {}
@@ -4228,7 +4228,7 @@
               "code": "HUMA-PPH",
               "ects": "1.0",
               "cours": "0.0 h",
-              "td": "0.0 h",
+              "td": "2.0 h",
               "tp": "0.0 h",
               "projet": "2.0 h",
               "perso": "28.0 h",
@@ -4401,7 +4401,7 @@
               "tp": "0.0 h",
               "projet": "10.0 h",
               "perso": "55.0 h",
-              "nom": "Etudes Urbaines : Etudes urbaines",
+              "nom": "Etudes Urbaines : Projets urbains",
               "competencesBrutes": "Cet EC relève de l'unité d'enseignement GCU-S8-Mod-Opt et contribue aux :  Compétences écoles en sciences pour l'ingénieur : A1- Analyser un système (ou un problème) réel ou virtuel [niveau 3] A3- Mettre en œuvre une démarche expérimentale [niveau 3] A5- Traiter des données [niveau 3] A6- Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à la spécialité [niveau 3]  Compétences écoles en humanité, documentation et éducation physique et sportive : B2- Travailler, apprendre, évoluer de manière autonome [niveau 3] B3- Interagir avec les autres, travailler en équipe [niveau 3] B4- Faire preuve de créativité, innover entreprendre [niveau 3] B5- Agir de manière responsable dans un monde complexe [niveau 3]  Compétences écoles spécifiques à la spécialité : C20- Analyser une situation urbaine (technique, politique, sociale, ¿ à toutes les échelles) [niveau 3] C21- Réaliser un diagnostic urbain [niveau 3] C22- Concevoir et conduire un projet d'aménagement urbain [niveau 3] C25- Contribuer à des aménagements et constructions durables [niveau 3]  Autre compétence mobilisée Lecture critique de textes d'urbanisme & animation de débats contradictoires sur des sujets urbains.  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : Connaissance de méthodes de diagnostic urbain Connaissances relatives aux méthodes d'enquête en science sociales Connaissances dans le domaine du logement et de l'urbanisme, notamment en France  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - Capacité à agencer des connaissances théoriques sur l'urbain, et des connaissances pratiques - Capacité à travailler en groupe et autonomie - Développement d'une culture générale de l'urbain - Capacité à se situer dans un débat sur des questions urbaines",
               "capacite": [
                 "Capacité : Capacité à agencer des connaissances théoriques sur l'urbain, et des connaissances pratiques",
@@ -4525,7 +4525,7 @@
               "projet": "20.0 h",
               "perso": "40.0 h",
               "nom": "Projets : Matériaux : Expérimentation et Modélisation",
-              "competencesBrutes": "Cet EC relève de l'Unité d'Enseignement GCU-S8-Mod-Opt et contribue aux :  Compétences écoles en sciences pour l'ingénieur : A1- Analyser un système (ou un problème) réel ou virtuel (niveau 1) A2- Exploiter un modèle d'un système réel ou virtuel (niveau 1) A3- Mettre en œuvre une démarche expérimentale (niveau 2) A4- Concevoir un système répondant à un cahier des charges (niveau 2) A5- Traiter des données (niveau 1)  Compétences écoles en humanité, documentation et éducation physique et sportive : B2- Travailler, apprendre, évoluer de manière autonome (niveau 1) B3- Interagir avec les autres, travailler en équipe (niveau 2) B4- Faire preuve de créativité, innover, entreprendre (niveau 2)  Compétences écoles spécifiques à la spécialité : C7- Structure bâtiment (concevoir, dimensionner ou contrôler une ...) (niveau 2) C8- Ouvrage d'art (concevoir, dimensionner ou contrôler un ...) (niveau 2) C12- Évaluer différents modes constructifs (niveau 2) C15- Concevoir et dimensionner ou contrôler les solutions techniques pour la qualité thermique, aéraulique, acoustique d'un bâtiment (niveau 2) C25- Contribuer à des aménagements et constructions durables (niveau 2)  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : - Phénomène d¿hydratation des matériaux cimentaires - Modélisation du comportement à jeune âge des matériaux à matrice cimentaire - Techniques de caractérisation des matériaux cimentaires à jeune âge - Techniques de caractérisation sur matériaux durcis - Comportement dynamique des matériaux homogènes et hétérogènes - Milieux dispersifs et non-dispersifs - Réflection et transmission à l'interface entre deux matériaux - Matériaux comme pièges d'onde  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - Proposer un schéma réactionnel d'hydratation - Identifier les phénomènes intervenants à jeune âge - Intégrer les données dans un modèle - Utiliser des logiciels de modélisation (Comsol) - Exploiter des données - Proposer des lois de comportement - Concevoir des nouveaux matériaux pour l'absorption des vibrations et du bruit",
+              "competencesBrutes": "Cet EC relève de l'Unité d'Enseignement GCU-S8-Mod-Opt et contribue aux :  Compétences écoles en sciences pour l'ingénieur : A1- Analyser un système (ou un problème) réel ou virtuel (niveau 1) A2- Exploiter un modèle d'un système réel ou virtuel (niveau 1) A3- Mettre en œuvre une démarche expérimentale (niveau 2) A4- Concevoir un système répondant à un cahier des charges (niveau 2) A5- Traiter des données (niveau 1)  Compétences écoles en humanité, documentation et éducation physique et sportive : B2- Travailler, apprendre, évoluer de manière autonome (niveau 1) B3- Interagir avec les autres, travailler en équipe (niveau 2) B4- Faire preuve de créativité, innover, entreprendre (niveau 2)  Compétences écoles spécifiques à la spécialité : C7- Structure bâtiment (concevoir, dimensionner ou contrôler une ...) (niveau 2) C8- Ouvrage d'art (concevoir, dimensionner ou contrôler un ...) (niveau 2) C12- Évaluer différents modes constructifs (niveau 2) C15- Concevoir et dimensionner ou contrôler les solutions techniques pour la qualité thermique, aéraulique, acoustique d'un bâtiment (niveau 2) C25- Contribuer à des aménagements et constructions durables (niveau 2)  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : - Phénomène d'hydratation des matériaux cimentaires - Modélisation du comportement à jeune âge des matériaux à matrice cimentaire - Techniques de caractérisation des matériaux cimentaires à jeune âge - Techniques de caractérisation sur matériaux durcis - Comportement dynamique des matériaux homogènes et hétérogènes - Milieux dispersifs et non-dispersifs - Réflection et transmission à l'interface entre deux matériaux - Matériaux comme pièges d'onde  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - Proposer un schéma réactionnel d'hydratation - Identifier les phénomènes intervenants à jeune âge - Intégrer les données dans un modèle - Utiliser des logiciels de modélisation (Comsol) - Exploiter des données - Proposer des lois de comportement - Concevoir des nouveaux matériaux pour l'absorption des vibrations et du bruit",
               "capacite": [
                 "Capacité : Proposer un schéma réactionnel d'hydratation",
                 "Capacité : Identifier les phénomènes intervenants à jeune âge",
@@ -4536,7 +4536,7 @@
                 "Capacité : Concevoir des nouveaux matériaux pour l'absorption des vibrations et du bruit"
               ],
               "connaissance": [
-                "Connaissance : Phénomène d¿hydratation des matériaux cimentaires",
+                "Connaissance : Phénomène d'hydratation des matériaux cimentaires",
                 "Connaissance : Modélisation du comportement à jeune âge des matériaux à matrice cimentaire",
                 "Connaissance : Techniques de caractérisation des matériaux cimentaires à jeune âge",
                 "Connaissance : Techniques de caractérisation sur matériaux durcis",
@@ -4691,9 +4691,9 @@
               "code": "GCU-S8-M10",
               "ects": "5.0",
               "cours": "0.0 h",
-              "td": "70.0 h",
+              "td": "30.0 h",
               "tp": "0.0 h",
-              "projet": "0.0 h",
+              "projet": "40.0 h",
               "perso": "55.0 h",
               "nom": "Adapting cities for climate change: Understanding to enable sustainable : designs",
               "competencesBrutes": "Cet EC relève de l'unité d'enseignement \"Modules Optionnels\" : GCU-S8-Mod-Opt, et contribue aux :  Compétences écoles en sciences pour l'ingénieur : A1- Analyser un système (ou un problème) réel ou virtuel (niveau 2) ; A2- Exploiter un modèle d'un système réel ou virtuel (niveau 2) ; A4- Concevoir un système répondant à un cahier des charges (niveau 3) ; A6- Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à la spécialité (niveau 2) ;  Compétences écoles spécifiques à la spécialité : C15- Concevoir et dimensionner ou contrôler les solutions techniques pour la qualité thermique, aéraulique, acoustique d'un bâtiment (niveau 3) ; C16- Évaluer l'état de santé, les performances thermiques ou acoustiques d'un bâtiment ou équipement, définir les actions nécessaires (niveau 2) ; C25- Contribuer à des aménagements et constructions durables (niveau 2) ;  En mobilisant les compétences suivantes : B3- Interagir avec les autres, travailler en équipe ; B4- Faire preuve de créativité, innover entreprendre ; B5- Agir de manière responsable dans un monde complexe ;  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes: - connaissances développées dans le cours de transferts de masse et de chaleur (GCU-S5-TC) - connaissances développées dans le cours de thermique du bâtiment (GCU-S5-THB) - connaissances développées dans le cours d'acoustique (GCU-S6-AC) - connaissances développées dans le cours de climatisation (GCU-S6-CLI) - connaissances concernant les domaines suivants : éclairage, acoustique, thermique, qualité de l'air, l'approvisionnement énergétique et les installations techniques, la régulation, la gestion, l'exploitation et l'entretien ...  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - proposer des solutions avec une vision holistique et multidisciplinaire ; - Microclimat et physique du bâtiment : Interaction du microclimat extérieur avec climat intérieur, Échange d'énergie avec l'environnement extérieur ; - Vents dans des environnements complexes, dispersion de polluants, confort et vent - Analyse solaire : Soleil et ombre, Analyse des vitrage, Gain d'énergie solaire - avantages de la façade et des toitures végétalisées, Impact des espaces verts et de l'eau.  L'objet est l'Adaptation des villes au changement climatique : Comprendre la dynamique de l'environnement local pour permettre des conceptions durables. Mesurer et évaluer les effets des actions durables en utilisant un logiciel de simulation microclimatique (ENVI_ MET) basé sur des méthodes scientifiques objectives.",
@@ -5180,9 +5180,9 @@
               "code": "GCU-S8-M9",
               "ects": "5.0",
               "cours": "0.0 h",
-              "td": "70.0 h",
+              "td": "30.0 h",
               "tp": "0.0 h",
-              "projet": "0.0 h",
+              "projet": "40.0 h",
               "perso": "55.0 h",
               "nom": "Projets : Energy management in Buildings",
               "competencesBrutes": "Cet EC relève de l'unité d'enseignement \"Modules Optionnels\" : GCU-S8-Mod-Opt, et contribue aux :  Compétences écoles en sciences pour l'ingénieur : A1- Analyser un système (ou un problème) réel ou virtuel (niveau 2) ; A2- Exploiter un modèle d'un système réel ou virtuel (niveau 2) ; A4- Concevoir un système répondant à un cahier des charges (niveau 3) ; A6- Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à la spécialité (niveau 2) ;  Compétences écoles spécifiques à la spécialité : C15- Concevoir et dimensionner ou contrôler les solutions techniques pour la qualité thermique, aéraulique, acoustique d'un bâtiment (niveau 3) ; C16- Évaluer l'état de santé, les performances thermiques ou acoustiques d'un bâtiment ou équipement, définir les actions nécessaires (niveau 2) ; C25- Contribuer à des aménagements et constructions durables (niveau 2) ;  En mobilisant les compétences suivantes B3- Interagir avec les autres, travailler en équipe B4- Faire preuve de créativité, innover entreprendre B5- Agir de manière responsable dans un monde complexe  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes: - connaissances développées dans le cours d'acoustique (GCU-S5-TC) - connaissances développées dans le cours de climatisation (GCU-S5-THB) - connaissances développées dans le cours d'acoustique (GCU-S6-AC) - connaissances développées dans le cours de climatisation (GCU-S6-CLI) - connaissances concernant les domaines suivants :éclairage, acoustique, thermique, qualité de l'air, l'approvisionnement énergétique et les installations techniques, la régulation, la gestion, l'exploitation et l'entretien ...  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - proposer des solutions avec une vision holistique et multidisciplinaire qui offrent une ambiance intérieure confortable (éclairage, acoustique, thermique, qualité de l'air, l'approvisionnement énergétique et les installations techniques, la régulation, la gestion, l'exploitation et l'entretien ...) tout en étant rationnel sur le plan économique, - mettre en œuvre des méthodes de conception en utilisant des outils de simulation , - avoir un regard critique sur les méthodes de dimensionnement, les outils de simulation, les réglementations et les normes, - analyser les résultats de simulation et restituer des résultats avec un recul critique, - proposer des solutions innovantes et durables  L'objectif principal du cours est de développer les bons réflexes et la bonne attitude à l'égard de l'utilisation de l'énergie dans les bâtiments, en particulier en se préoccupant de toutes les conséquences environnementales induites par les choix faits. En outre, l'intention est de développer une vision multidisciplinaire l'utilisation énergétiques dans les bâtiments neufs et existants.",
@@ -5344,9 +5344,9 @@
               "code": "GCU-S8-M15",
               "ects": "5.0",
               "cours": "0.0 h",
-              "td": "70.0 h",
+              "td": "30.0 h",
               "tp": "0.0 h",
-              "projet": "0.0 h",
+              "projet": "40.0 h",
               "perso": "55.0 h",
               "nom": "Projets : BIM : Outils et méthodes de travail",
               "competencesBrutes": "\"Il est difficile de trouver une définition du BIM acceptée par tous. Le BIM, c'est surtout des méthodes de travail et une maquette numérique paramétrique 3D qui contient des données intelligentes et structurées. Le BIM est le partage d'informations fiables tout au long de la durée de vie d'un bâtiment ou d'infrastructures, de leur conception jusqu'à leur démolition. La maquette numérique quant à elle est une représentation digitale des caractéristiques physiques et fonctionnelles de ce bâtiment ou de ces infrastructures (http://www.objectif- bim.com/index.php/bim-maquette-numerique/le-bim-en-bref/la-definition-du-bim).\"  L'objectif de ce module est donc de se familiariser avec le BIM et l'expérimenter sur un exemple concret de rénovation d'un bâtiment du campus.  Cet EC relève de l'unité d'enseignement \"Modules Optionnels\" : GCU-S8-Mod-Opt, et contribue aux :  Compétences écoles en sciences pour l'ingénieur : A1- Analyser un système (ou un problème) réel ou virtuel (niveau 2) A2- Exploiter un modèle d'un système réel ou virtuel (niveau 2) A4- Concevoir un système répondant à un cahier des charges (niveau 3) A5- Traiter des données (niveau 2)  Compétences écoles spécifiques à la spécialité : C15- Concevoir et dimensionner ou contrôler les solutions techniques pour la qualité thermique, aéraulique, acoustique d'un bâtiment (niveau 3); C16- Évaluer l'état de santé, les performances thermiques ou acoustiques d'un bâtiment ou équipement, définir les actions nécessaires (niveau 2) C23- Contribuer à une conception pluridisciplinaire des bâtiments : interactions architecture - sol - structure - physique du bâtiment - économie - ...(niveau 2) C25- Contribuer à des aménagements et constructions durables (niveau 2)  En mobilisant les compétences suivantes B3- Interagir avec les autres, travailler en équipe B4- Faire preuve de créativité, innover entreprendre B5- Agir de manière responsable dans un monde complexe B6- Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes:  - connaissances concernant les domaines suivants : éclairage, acoustique, thermique, qualité de l'air, l'approvisionnement énergétique et les installations techniques, la régulation, la gestion, l'exploitation et l'entretien, la structure des bâtiments...  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - proposer des solutions avec une vision holistique et multidisciplinaire  tout en étant rationnel sur le plan économique, - mettre en œuvre des méthodes de conception en utilisant les outils, les méthodes de management de projet que permet le BIM - proposer des solutions innovantes et durables",
@@ -5435,6 +5435,58 @@
                   "val": "Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive",
                   "valAnglais": "Position oneself, work, and evolve within a company or a socio-productive organization",
                   "bs": "28"
+                }
+              ]
+            }
+          },
+          {
+            "UE": "Modules optionnels (GCU-S8-Mod-Opt)",
+            "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=39961&_lang=fr",
+            "detail": {
+              "code": "GCU-S8-M16",
+              "ects": "5.0",
+              "cours": "30.0 h",
+              "td": "0.0 h",
+              "tp": "0.0 h",
+              "projet": "40.0 h",
+              "perso": "20.0 h",
+              "nom": "Projets : Matériaux Innovants pour la Construction Durable",
+              "competencesBrutes": "Cet EC relève de l'unité d'enseignement CGU-S8-mod-opt (modules optionnels) et contribue aux :  Compétences école en sciences pour l'ingénieur : A1- Analyser un système (ou un problème) réel ou virtuel (niveau 2) A3- Mettre en œuvre une démarche expérimentale (niveau 1) A4- Concevoir un système répondant à un cahier des charges (niveau 2) A5- Traiter des données (niveau 1)  Compétences école en humanités, documentation et éducation physique et sportive : B2- Travailler, apprendre, évoluer de manière autonome B3- Interagir avec les autres, travailler en équipe B4- Faire preuve de créativité, innover entreprendre B5- Agir de manière responsable dans un monde complexe  Compétences école spécifiques à la spécialité : C8- Structure bâtiment (concevoir, dimensionner ou contrôler une ¿) C12- Evaluer différents modes constructifs C25- Contribuer à des aménagements et constructions durables  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes :  _ Principe d'une ACV : Analyse du cycle de vie _ Propriétés mécaniques, hydriques, thermique des matériaux alternatifs _ Principe de stabilisation / consolidation de liant alternatif _ Mécanisme de pathologie des construction en terre _ Réglementation pour l'utilisation de nouveaux matériaux  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes :  _ Répondre à un cahier des charges _ Développer des matériaux à faible impact environnemental _ Sélectionner des matériaux vis-à-vis d'un cahier des charges environnemental _ Mettre en oeuvre une ACV _ S'intégrer dans une démarche environnemental",
+              "capacite": [
+                "Capacité : _ Répondre à un cahier des charges _ Développer des matériaux à faible impact environnemental _ Sélectionner des matériaux vis-à-vis d'un cahier des charges environnemental _ Mettre en oeuvre une ACV _ S'intégrer dans une démarche environnemental"
+              ],
+              "connaissance": [
+                "Connaissance : _ Principe d'une ACV : Analyse du cycle de vie _ Propriétés mécaniques, hydriques, thermique des matériaux alternatifs _ Principe de stabilisation / consolidation de liant alternatif _ Mécanisme de pathologie des construction en terre _ Réglementation pour l'utilisation de nouveaux matériaux"
+              ],
+              "competenceToCapaciteEtConnaissance": {},
+              "listeComp": [
+                {
+                  "code": "A1",
+                  "val": "Analyser un système (ou un problème) réel ou virtuel",
+                  "valAnglais": "Analyze a real or virtual system (or problem)",
+                  "bs": "1",
+                  "niveau": "2"
+                },
+                {
+                  "code": "A3",
+                  "val": "Mettre en œuvre une démarche expérimentale",
+                  "valAnglais": "Implement an experimental approach",
+                  "bs": "3",
+                  "niveau": "1"
+                },
+                {
+                  "code": "A4",
+                  "val": "Concevoir un système répondant à un cahier des charges",
+                  "valAnglais": "Design a system meeting given specifications",
+                  "bs": "4",
+                  "niveau": "2"
+                },
+                {
+                  "code": "A5",
+                  "val": "Traiter des données",
+                  "valAnglais": "Process data",
+                  "bs": "5",
+                  "niveau": "1"
                 }
               ]
             }
@@ -5630,7 +5682,7 @@
               "projet": "0.0 h",
               "perso": "215.0 h",
               "nom": "Projets : Projet Métier : Bâtiment",
-              "competencesBrutes": "Cet EC relève de l'unité d'enseignement GCU-S9-PM et contribue aux :  Comp��tences écoles en sciences pour l'ingénieur : A1- Analyser un système (ou un problème) réel ou virtuel (Niveau 3) A4- Concevoir un système répondant à un cahier des charges (Niveau 3) A6- Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à la spécialité (Niveau 3)  Compétences écoles en humanité, documentation et éducation physique et sportive : B1- Se connaître, se gérer physiquement et mentalement (Niveau 2) B2- Travailler, apprendre, évoluer de manière autonome (Niveau 3) B3- Interagir avec les autres, travailler en équipe (Niveau 3) B4- Faire preuve de créativité, innover entreprendre (Niveau 3) B5- Agir de manière responsable dans un monde complexe (Niveau 2)  Compétences écoles spécifiques à la spécialité : C1- Effectuer, interpréter une coupe géologique, interpréter une carte ou un résultat de télédétection, identifier un horizon géologique  (Niveau 3) C2- Réaliser et/ou  interpréter des essais géotechniques en laboratoire de classification et de comportement (Niveau 3) C6- Concevoir, dimensionner, modéliser ou vérifier des systèmes de fondations et de soutènements (Niveau 3) C7- Structure bâtiment (concevoir, dimensionner ou contrôler une ..) (Niveau 3) C12- Evaluer différents modes constructifs (Niveau 3) C15- Concevoir et dimensionner ou contrôler les solutions techniques pour la qualité thermique, aéraulique, acoustique d'un bâtiment (Niveau 3) C16- Evaluer l'état de santé, les performances thermiques ou acoustiques d'un bâtiment ou équipement, définir les actions nécessaires (Niveau 3) C17- Concevoir et dimensionner des réseaux hydrauliques pour les projets de bâtiments (Niveau 3) C23- Contribuer à une conception pluridisciplinaire des bâtiments (interactions architecture - sol - structure - physique du bâtiment - économie - ...) (Niveau 3)",
+              "competencesBrutes": "Cet EC relève de l'unité d'enseignement GCU-S9-PM et contribue aux :  Compétences écoles en sciences pour l'ingénieur : A1- Analyser un système (ou un problème) réel ou virtuel (Niveau 3) A4- Concevoir un système répondant à un cahier des charges (Niveau 3) A6- Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à la spécialité (Niveau 3)  Compétences écoles en humanité, documentation et éducation physique et sportive : B1- Se connaître, se gérer physiquement et mentalement (Niveau 2) B2- Travailler, apprendre, évoluer de manière autonome (Niveau 3) B3- Interagir avec les autres, travailler en équipe (Niveau 3) B4- Faire preuve de créativité, innover entreprendre (Niveau 3) B5- Agir de manière responsable dans un monde complexe (Niveau 2)  Compétences écoles spécifiques à la spécialité : C1- Effectuer, interpréter une coupe géologique, interpréter une carte ou un résultat de télédétection, identifier un horizon géologique  (Niveau 3) C2- Réaliser et/ou  interpréter des essais géotechniques en laboratoire de classification et de comportement (Niveau 3) C6- Concevoir, dimensionner, modéliser ou vérifier des systèmes de fondations et de soutènements (Niveau 3) C7- Structure bâtiment (concevoir, dimensionner ou contrôler une ..) (Niveau 3) C12- Evaluer différents modes constructifs (Niveau 3) C15- Concevoir et dimensionner ou contrôler les solutions techniques pour la qualité thermique, aéraulique, acoustique d'un bâtiment (Niveau 3) C16- Evaluer l'état de santé, les performances thermiques ou acoustiques d'un bâtiment ou équipement, définir les actions nécessaires (Niveau 3) C17- Concevoir et dimensionner des réseaux hydrauliques pour les projets de bâtiments (Niveau 3) C23- Contribuer à une conception pluridisciplinaire des bâtiments (interactions architecture - sol - structure - physique du bâtiment - économie - ...) (Niveau 3)",
               "capacite": [],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {},
@@ -5892,6 +5944,94 @@
               "perso": "315.0 h",
               "nom": "Projets : Projet d'Initiation à la Recherche et Développement",
               "competencesBrutes": "Cet EC relève de l'unité d'enseignement  GCU-S9-PIRD  et contribue aux :  Compétences école en sciences pour l'ingénieur : A1- Analyser un système (ou un problème) réel ou virtuel (niveau 3) ; A2- Exploiter un modèle d'un système réel ou virtuel (niveau 3) ; A3- Mettre en œuvre une démarche expérimentale (niveau 3) ; A5- Traiter des données (niveau 3) ; A6- Communiquer une analyse ou une démarche scientifique (niveau 3) ;  Compétences école en humanités, documentation et éducation physique et sportive : B2- Travailler, apprendre, évoluer de manière autonome (niveau 3) ; B3- Interagir avec les autres, travailler en équipe (niveau 3) ;  Compétences école spécifiques à la spécialité : Selon le sujet du PIRD et le laboratoire d'accueil.  En mobilisant les compétences suivantes : B4- Faire preuve de créativité, innover, entreprendre ;  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : - connaissances spécifiques à la thématique particulière du PIRD ; - éventuellement, connaissances dans des domaines connexes du génie civil et de l'urbanisme ;  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - contribuer efficacement à l'organisation de l'étude de R&D, c'est-à-dire : faire preuve d'initiative, travailler en autonomie, travailler en équipe, contribuer à la conduite du projet (organisation et animation de réunions, comptes rendus, ...) s'assurer de la pertinence du travail auprès du tuteur ; - contribuer efficacement à la démarche scientifique de l'étude, c'est-à-dire : reformuler des questions, traduire des questions d'ingénierie en questions et hypothèses de recherche, co- construire une démarche de travail ; - conduire et exploiter une recherche documentaire, appuyer sa recherche sur des sources suffisamment nombreuses et pertinentes et correctement citées dans le texte et dans la liste des références, évaluer ces sources, les comparer ; - produire des résultats originaux (méthode, modèle, dispositif expérimental, résultats d'expériences, ...) et savoir les exploiter, les évaluer, définir des perspectives ; - communiquer efficacement et rigoureusement à l'oral ; - communiquer efficacement et rigoureusement à l'écrit ;",
+              "capacite": [
+                "Capacité : contribuer efficacement à l'organisation de l'étude de R&D, c'est-à-dire : faire preuve d'initiative, travailler en autonomie, travailler en équipe, contribuer à la conduite du projet (organisation et animation de réunions, comptes rendus, ...) s'assurer de la pertinence du travail auprès du tuteur ;",
+                "Capacité : contribuer efficacement à la démarche scientifique de l'étude, c'est-à-dire : reformuler des questions, traduire des questions d'ingénierie en questions et hypothèses de recherche, co",
+                "Capacité : construire une démarche de travail ;",
+                "Capacité : conduire et exploiter une recherche documentaire, appuyer sa recherche sur des sources suffisamment nombreuses et pertinentes et correctement citées dans le texte et dans la liste des références, évaluer ces sources, les comparer ;",
+                "Capacité : produire des résultats originaux (méthode, modèle, dispositif expérimental, résultats d'expériences, ...) et savoir les exploiter, les évaluer, définir des perspectives ;",
+                "Capacité : communiquer efficacement et rigoureusement à l'oral ;",
+                "Capacité : communiquer efficacement et rigoureusement à l'écrit ;"
+              ],
+              "connaissance": [
+                "Connaissance : connaissances spécifiques à la thématique particulière du PIRD ;",
+                "Connaissance : éventuellement, connaissances dans des domaines connexes du génie civil et de l'urbanisme ;"
+              ],
+              "competenceToCapaciteEtConnaissance": {},
+              "listeComp": [
+                {
+                  "code": "A1",
+                  "val": "Analyser un système (ou un problème) réel ou virtuel",
+                  "valAnglais": "Analyze a real or virtual system (or problem)",
+                  "bs": "1",
+                  "niveau": "3"
+                },
+                {
+                  "code": "A2",
+                  "val": "Exploiter un modèle d'un système réel ou virtuel",
+                  "valAnglais": "Operate a model of a real or virtual system",
+                  "bs": "2",
+                  "niveau": "3"
+                },
+                {
+                  "code": "A3",
+                  "val": "Mettre en œuvre une démarche expérimentale",
+                  "valAnglais": "Implement an experimental approach",
+                  "bs": "3",
+                  "niveau": "3"
+                },
+                {
+                  "code": "A5",
+                  "val": "Traiter des données",
+                  "valAnglais": "Process data",
+                  "bs": "5",
+                  "niveau": "3"
+                },
+                {
+                  "code": "A6",
+                  "val": "Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité",
+                  "valAnglais": "Report on an analysis or on a scientific approach, with use case scenarios appropriate to given specialities",
+                  "bs": "6",
+                  "niveau": "3"
+                },
+                {
+                  "code": "B2",
+                  "val": "Travailler, apprendre, évoluer de manière autonome",
+                  "valAnglais": "Work, learn, progress autonomously",
+                  "bs": "24",
+                  "niveau": "3"
+                },
+                {
+                  "code": "B3",
+                  "val": "Interagir avec les autres, travailler en équipe",
+                  "valAnglais": "Interact with people and work in a team",
+                  "bs": "25",
+                  "niveau": "3"
+                }
+              ],
+              "listeCompMobilise": [
+                {
+                  "code": "B4",
+                  "val": "Faire preuve de créativité, innover, entreprendre",
+                  "valAnglais": "Demonstrate creativity, innovation, entrepreneurship",
+                  "bs": "26"
+                }
+              ]
+            }
+          },
+          {
+            "UE": "Projet d'initiation à la recherche / Semestre 1 / Temps plein (GCU-S9-PIRD-30)",
+            "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38520&_lang=fr",
+            "detail": {
+              "code": "GCU-S9-PIRD-30",
+              "ects": "30.0",
+              "cours": "0.0 h",
+              "td": "10.0 h",
+              "tp": "0.0 h",
+              "projet": "0.0 h",
+              "perso": "740.0 h",
+              "nom": "Génie civil : Projet d'initiation à la recherche / Semestre 1 / Temps plein",
+              "competencesBrutes": "Cet EC relève de l'unité d'enseignement  GCU-S9-PIRD-30  et contribue aux :  Compétences école en sciences pour l'ingénieur : A1- Analyser un système (ou un problème) réel ou virtuel (niveau 3) ; A2- Exploiter un modèle d'un système réel ou virtuel (niveau 3) ; A3- Mettre en œuvre une démarche expérimentale (niveau 3) ; A5- Traiter des données (niveau 3) ; A6- Communiquer une analyse ou une démarche scientifique (niveau 3) ;  Compétences école en humanités, documentation et éducation physique et sportive : B2- Travailler, apprendre, évoluer de manière autonome (niveau 3) ; B3- Interagir avec les autres, travailler en équipe (niveau 3) ;  Compétences école spécifiques à la spécialité : Selon le sujet du PIRD et le laboratoire d'accueil.  En mobilisant les compétences suivantes : B4- Faire preuve de créativité, innover, entreprendre ;  En permettant à l'étudiant de travailler et d'être évalué sur les connaissances suivantes : - connaissances spécifiques à la thématique particulière du PIRD ; - éventuellement, connaissances dans des domaines connexes du génie civil et de l'urbanisme ;  En permettant à l'étudiant de travailler et d'être évalué sur les capacités suivantes : - contribuer efficacement à l'organisation de l'étude de R&D, c'est-à-dire : faire preuve d'initiative, travailler en autonomie, travailler en équipe, contribuer à la conduite du projet (organisation et animation de réunions, comptes rendus, ...) s'assurer de la pertinence du travail auprès du tuteur ; - contribuer efficacement à la démarche scientifique de l'étude, c'est-à-dire : reformuler des questions, traduire des questions d'ingénierie en questions et hypothèses de recherche, co- construire une démarche de travail ; - conduire et exploiter une recherche documentaire, appuyer sa recherche sur des sources suffisamment nombreuses et pertinentes et correctement citées dans le texte et dans la liste des références, évaluer ces sources, les comparer ; - produire des résultats originaux (méthode, modèle, dispositif expérimental, résultats d'expériences, ...) et savoir les exploiter, les évaluer, définir des perspectives ; - communiquer efficacement et rigoureusement à l'oral ; - communiquer efficacement et rigoureusement à l'écrit ;",
               "capacite": [
                 "Capacité : contribuer efficacement à l'organisation de l'étude de R&D, c'est-à-dire : faire preuve d'initiative, travailler en autonomie, travailler en équipe, contribuer à la conduite du projet (organisation et animation de réunions, comptes rendus, ...) s'assurer de la pertinence du travail auprès du tuteur ;",
                 "Capacité : contribuer efficacement à la démarche scientifique de l'étude, c'est-à-dire : reformuler des questions, traduire des questions d'ingénierie en questions et hypothèses de recherche, co",

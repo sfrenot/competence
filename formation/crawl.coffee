@@ -90,7 +90,8 @@ request()
         # if $(@).attr('href') is '/fr/formation/parcours/726/4/1' # IF
         # if $(@).attr('href') is '/fr/formation/parcours/719/4/2' #GCU
           if $(@).text().trim() is "Parcours Standard#{SPECIALITE}" or
-             $(@).text().trim().startsWith("Parcours 5IF")
+             $(@).text().trim().startsWith("Parcours 5IF") or
+             departement is 'GM'
             semestres.push
               url: $(@).attr('href')
               ecs: []

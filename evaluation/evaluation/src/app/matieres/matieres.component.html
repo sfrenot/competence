@@ -1,0 +1,10 @@
+<p>matieres works!</p>
+<!-- {{matiere.name}} -->
+<ul>
+  <li *ngFor="let matiere of matieres"
+      (click) = 'onSelect(matiere)'>
+    <span>{{matiere.code}}</span>
+  </li>
+</ul>
+
+<app-eval-matiere [evalMatiere]="selectedMatiere"></app-eval-matiere>
