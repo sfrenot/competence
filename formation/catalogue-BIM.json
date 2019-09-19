@@ -27,7 +27,7 @@
                 "A3": [
                   "Comprendre la structure de la cellule pour développer des protocoles de marquage"
                 ],
-                "BS-C7": [
+                "BIM-C7": [
                   "Intégrer des connaissance en biologie cellulaire pour formuler des hypothèses"
                 ]
               },
@@ -74,10 +74,10 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BS-C1": [
+                "BIM-C1": [
                   "Intégrer des connaissance en biologie générale pour formuler des hypothèses"
                 ],
-                "BS-C15": [
+                "BIM-C15": [
                   "Comprendre la diversité des organismes et leur complexités pour participer à des études environnementales"
                 ]
               },
@@ -133,7 +133,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BS-C7": [
+                "BIM-C7": [
                   "Réaliser un protocole de transgénèse végétale",
                   "Manipuler des microorganismes",
                   "Déterminer les besoins physiologiques de microorganismes",
@@ -223,13 +223,13 @@
                   "Utiliser les compétences validées en 3BB-ORGCH pour maîtriser l'application de ces concepts sur les grandes fonctions de la chimie organique",
                   "Communiquer des résultats expérimentaux sous formes synthétiques orale et écrite                                     "
                 ],
-                "BS-C5": [
+                "BIM-C5": [
                   "Comprendre l'enchaînement théorique de synthèse multi-étapes",
                   "Proposer un réactif pour une transformation donnée",
                   "Adapter les outils à la synthèse / biosynthèse de molécules d'intérêt",
                   "Conduire de manière autonome la réalisation pratique d'un projet de synthèse"
                 ],
-                "BS-C13": [
+                "BIM-C13": [
                   "Comprendre et appliquer les impératifs de sécurités"
                 ],
                 "B1": [
@@ -327,7 +327,7 @@
                 "A4": [
                   "Concevoir un algorithme pour résoudre un problème et l'implémenter en Python"
                 ],
-                "BS-C12": [
+                "BIM-C12": [
                   "Implémenter un algorithme en Python dans le style impératif",
                   "Passer un programme du style impératif au style orienté-objet",
                   "Choisir judicieusement les structures de données et les algorithmes pour minimiser la complexité algorithmique et donc maximiser la performance  Cet EC mobilise de plus les compétences suivantes :"
@@ -398,10 +398,10 @@
                 "A2": [
                   "comprendre comment l'information est codée dans un ordinateur"
                 ],
-                "BS-C3": [
+                "BIM-C3": [
                   "comprendre le fonctionnement général d'un système d'exploitation et notamment le système de fichiers et les processus"
                 ],
-                "BS-C12": [
+                "BIM-C12": [
                   "comprendre l'organisation générale des différents composants d'un ordinateur",
                   "utiliser Linux en ligne de commande",
                   "écrire des scripts shell simples",
@@ -474,10 +474,10 @@
                   "Choisir entre un modèle relationnel et un modèle non relationnel pour une base de données",
                   "Concevoir une base de données selon un modèle relationnel"
                 ],
-                "BS-C3": [
+                "BIM-C3": [
                   "Mettre en oeuvre et administrer un Système de Gestion de Bases de Données comme MySQL"
                 ],
-                "BS-C12": [
+                "BIM-C12": [
                   "Ecrire des requêtes SQL pour exploiter une base de données relationnelle",
                   "Effectuer les opérations de base sur une base de données non relationnelle"
                 ]
@@ -1477,10 +1477,10 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BS-C1": [
+                "BIM-C1": [
                   "Mettre en équation un phénomène biologique"
                 ],
-                "BS-C11": [
+                "BIM-C11": [
                   "Caractériser analytiquement et résoudre numériquement des problèmes en bio- mathématiques"
                 ]
               },
@@ -1566,10 +1566,10 @@
                 "B2": [
                   "Savoir résoudre des exercices en classe et chez soi"
                 ],
-                "BS-C1": [
+                "BIM-C1": [
                   "Savoir identifier, choisir et utiliser des modèles mathématiques classiques en fonction d'un problème biologique"
                 ],
-                "BS-C11": [
+                "BIM-C11": [
                   "Confronter des résultats théoriques avec des données expérimentales",
                   "Utiliser des outils informatiques et mathématiques",
                   "Caractériser les équilibres d'un système dynamique",
@@ -1789,7 +1789,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BS-C5": [
+                "BIM-C5": [
                   "Analyser des données spectrométriques et déduire la structure de composés",
                   "Développer des études en modélisation moléculaire"
                 ]
@@ -1858,7 +1858,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BS-C5": [
+                "BIM-C5": [
                   "Analyser des molécules du vivant (y compris les approches métabolomiques)",
                   "Maîtriser les relations structure-activité des molécules du vivant (lipides, sucres, acides nucléiques, acides aminés, protéines)"
                 ]
@@ -1899,10 +1899,10 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BS-C7": [
+                "BIM-C7": [
                   "Expérimenter sur des modèles cellulaires"
                 ],
-                "BS-C8": [
+                "BIM-C8": [
                   "Réaliser des marquage et observer au microscope"
                 ]
               },
@@ -1951,7 +1951,7 @@
                 "A1": [
                   "Définir une unité transcriptionnelle, traductionnelle"
                 ],
-                "BS-C5": [
+                "BIM-C5": [
                   "Amplifier, Extraire et analyser des molécules d'ADN"
                 ]
               },
@@ -2029,13 +2029,13 @@
                 "A3": [
                   "S'adapter à son environnement de travail, choisir son matériel, ses outils analytiques adéquats réaliser ses montages et faire des choix expérimentaux"
                 ],
-                "BS-C3": [
+                "BIM-C3": [
                   "Interpréter des réactions de catalyse enzymatique, effectuer des mesure de cinétiques, identifier des mécanismes d'inhibition, déterminer les paramètres enzymatiques"
                 ],
-                "BS-C7": [
+                "BIM-C7": [
                   "Disséquer un organe ou un tissu animal et préserver l'intégrité de l'échantillon"
                 ],
-                "BS-C11": [
+                "BIM-C11": [
                   "Analyser des données, les représenter (graphiques, schémas), modéliser et interpréter des phénomènes physico-chimiques",
                   "Mettre en relation le phénomène observé avec les structures moléculaires"
                 ],
@@ -2149,22 +2149,22 @@
                 "A5": [
                   "Mise en place de protocoles d'analyses bioinformatiques (contrôle qualité, assemblage de novo d'un génome, détection de mutations, RNA-seq, ChIP-seq, étude de diversité 16S)"
                 ],
-                "BS-C1": [
+                "BIM-C1": [
                   "Analyser des données de séquençage à haut-débit"
                 ],
-                "BS-C3": [
+                "BIM-C3": [
                   "Manipulation de données de séquençage haut-débit"
                 ],
-                "BS-C4": [
+                "BIM-C4": [
                   "Mise en place de protocoles d'analyses bioinformatiques (contrôle qualité, assemblage de novo d'un génome, détection de mutations, RNA-seq, ChIP-seq, étude de diversité 16S)"
                 ],
-                "BS-C9": [
+                "BIM-C9": [
                   "Significativité, faux-positifs, faux-négatifs, problème des tests multiples, normalisation statistique"
                 ],
-                "BS-C11": [
+                "BIM-C11": [
                   "Analyser des données de séquençage à haut-débit"
                 ],
-                "BS-C12": [
+                "BIM-C12": [
                   "Mise en place de protocoles d'analyses bioinformatiques (contrôle qualité, assemblage de novo d'un génome, détection de mutations, RNA-seq, ChIP-seq, étude de diversité 16S)"
                 ]
               },
@@ -2285,10 +2285,10 @@
                 "B3": [
                   "Présenter en public un projet inédit préparé en équipe"
                 ],
-                "BS-C1": [
+                "BIM-C1": [
                   "Savoir identifier, choisir et utiliser des modèles mathématiques classiques en fonction d'un problème biologique donné"
                 ],
-                "BS-C11": [
+                "BIM-C11": [
                   "Confronter des résultats théoriques avec des données expérimentales",
                   "Utiliser des outils informatiques et mathématiques"
                 ]
@@ -2401,7 +2401,7 @@
                   "Comparer des données expérimentales et théoriques sur la base de critères adaptés au contexte",
                   "Interpréter des données dans le cadre d'un modèle"
                 ],
-                "BS-C9": [
+                "BIM-C9": [
                   "Développer et utiliser les tests standards de comparaisons d'échantillons",
                   "Calculer la puissance d'une expérience et contrôler les différents risques d'erreurs",
                   "Ajuster un modèle linéaire et non linéaire et valider la qualité de l'ajustement"
@@ -3166,7 +3166,7 @@
                 "A1": [
                   "Organiser un programme selon le paradigme de la programmation orientée-objet"
                 ],
-                "BS-C12": [
+                "BIM-C12": [
                   "Implémenter un algorithme en C++",
                   "Comprendre et automatiser la chaîne de compilation (Makefile)",
                   "Maîtriser la gestion manuelle de la mémoire et les différents modes de passage de paramètres",
@@ -3333,7 +3333,7 @@
                 "B3": [
                   "Savoir restituer un projet de modélisation élaboré en équipe"
                 ],
-                "BS-C11": [
+                "BIM-C11": [
                   "Confronter des résultats théoriques avec  des données expérimentales",
                   "Savoir identifier, choisir et utiliser des modèles mathématiques classiques",
                   "Utiliser des outils informatique et mathématiques",
@@ -3699,18 +3699,18 @@
                 "A6": [
                   "Rédaction de compte-rendus"
                 ],
-                "BS-C1": [
+                "BIM-C1": [
                   "Analyse de données génomiques"
                 ],
-                "BS-C3": [
+                "BIM-C3": [
                   "Bases de données de séquences, données de séquençage à haut-débit"
                 ],
-                "BS-C11": [
+                "BIM-C11": [
                   "Recherche de similarités de séquences",
                   "Annotation de séquences génomiques",
                   "Mettre en œuvre des outils de mapping"
                 ],
-                "BS-C12": [
+                "BIM-C12": [
                   "Mise en place de protocoles d'analyses bioinformatiques pour l'analyse de données de séquençage à haut-débit",
                   "Annotation de séquences génomiques"
                 ],
@@ -3814,7 +3814,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BS-C15": [
+                "BIM-C15": [
                   "Comprendre et analyser les modèles de génétique de populations."
                 ]
               },
@@ -4671,7 +4671,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BS-C12": [
+                "BIM-C12": [
                   "programmer en Python une application client-serveur simple basée sur les sockets et capable de répondre à plusieurs requêtes en parallèle",
                   "programmer en Python un service web REST simple",
                   "programmer en Javascript une application web côté client, avec interrogation d'un serveur en Ajax  Cet EC mobilise de plus les compétences suivantes :"
@@ -4727,12 +4727,12 @@
                 "A4": [
                   "choisir l'architecture parallèle la plus appropriée pour paralléliser l'exécution d'un programme"
                 ],
-                "BS-C12": [
+                "BIM-C12": [
                   "mettre en oeuvre les principales familles d'algorithmes utilisées dans les programmes de calcul scientifique dans le cadre de la programmation parallèle",
                   "déployer un logiciel (notamment Python et R), à travers un gestionnaire de paquets (package manager system)",
                   "déployer un logiciel dans des conteneurs logiciels, à travers le logiciel Docker"
                 ],
-                "BS-C13": [
+                "BIM-C13": [
                   "choisir une licence appropriée pour la diffusion d'un logiciel  Cet EC mobilise de plus les compétences suivantes :"
                 ]
               },
@@ -4816,11 +4816,11 @@
                   "Structurer son discours autour d'un raisonnement logique et argumenté, visant des objectifs clairement identifiés",
                   "S'exprimer avec un niveau de langue satisfaisant en recherchant un équilibre entre langage usuel et langage symbolique"
                 ],
-                "BS-C9": [
+                "BIM-C9": [
                   "Calculer la puissance d'une expérience et contrôler les différents risques d'erreurs",
                   "Ajuster un modèle linéaire et non linéaire et valider la qualité de l'ajustement"
                 ],
-                "BS-C11": [
+                "BIM-C11": [
                   "Proposer, évaluer et implémenter des solutions de modélisations appropriées (logiciels de calculs formel et de statistiques, languages de programmation)"
                 ]
               },
@@ -4919,13 +4919,13 @@
                 "B2": [
                   "Apprendre des notions et résoudre des exercises en autonomie"
                 ],
-                "BS-C1": [
+                "BIM-C1": [
                   "Confronter des résultats théoriques à une situation biologique"
                 ],
-                "BS-C10": [
+                "BIM-C10": [
                   "Savoir identifier les limites et contraintes d'un modèle, savoir proposer des améliorations pour plus de réalisme"
                 ],
-                "BS-C11": [
+                "BIM-C11": [
                   "Mettre en œuvre un système dynamique pour modéliser des interactions entre individus (applications en économie et en écologie)"
                 ]
               },
@@ -5306,23 +5306,23 @@
                 "A6": [
                   "Rédaction de compte-rendus"
                 ],
-                "BS-C1": [
+                "BIM-C1": [
                   "Analyser des données de séquençage haut-débit"
                 ],
-                "BS-C3": [
+                "BIM-C3": [
                   "Analyser des données de séquençage haut-débit"
                 ],
-                "BS-C4": [
+                "BIM-C4": [
                   "Comparer des génomes",
                   "Assembler des lectures de séquençage à haut-débit",
                   "Etudier la diversité bactérienne d'un environnement par analyse de données de séquençage d'ARNr 16S"
                 ],
-                "BS-C11": [
+                "BIM-C11": [
                   "Modéliser des processus génomiques",
                   "Assembler des séquences",
                   "Etudier la diversité bactérienne d'un environnement par analyse de données de séquençage d'ARNr 16S"
                 ],
-                "BS-C12": [
+                "BIM-C12": [
                   "Mise en place de protocoles d'analyses bioinformatiques (assemblage, métagénomique)"
                 ],
                 "B2": [
@@ -5458,24 +5458,24 @@
                 "A6": [
                   "Réalisation d'un poster"
                 ],
-                "BS-C1": [
+                "BIM-C1": [
                   "Analyser des données de séquençage haut-débit"
                 ],
-                "BS-C3": [
+                "BIM-C3": [
                   "Manipulation de données de séquençage haut-débit"
                 ],
-                "BS-C4": [
+                "BIM-C4": [
                   "Utiliser les outils adaptés pour l'analyse de données RNA-seq",
                   "Utiliser les méthodes de reconstruction de réseaux de régulation",
                   "Utiliser les méthodes d'identification de variants d'épissage"
                 ],
-                "BS-C9": [
+                "BIM-C9": [
                   "Mettre en œuvre des outils statistiques adaptés pour l'analyse des données transcriptomiques"
                 ],
-                "BS-C11": [
+                "BIM-C11": [
                   "Analyser des données de séquençage haut-débit"
                 ],
-                "BS-C12": [
+                "BIM-C12": [
                   "Mise en place de protocoles d'analyses bioinformatiques pour l'analyse de données transcriptomiques"
                 ],
                 "B2": [
@@ -5585,7 +5585,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BS-C5": [
+                "BIM-C5": [
                   "RMN biomoléculaire et ses applications en sciences génomiques et protéomiques (structures 3D, études d'interactions et de mécanisme réactionnels enzymatiques),",
                   "sensibilité aux mouvements dynamiques dans les liquides."
                 ]
@@ -5749,7 +5749,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BS-C11": [
+                "BIM-C11": [
                   "Exploiter les ressources issues des grandes bases de données génomiques et protéiques",
                   "y compris structurale"
                 ]
@@ -5839,10 +5839,10 @@
                   "Comparer des données expérimentales et théoriques sur la base de critères adaptés au contexte",
                   "Interpréter des données dans le cadre d'un modèle"
                 ],
-                "BS-C9": [
+                "BIM-C9": [
                   "Ajuster un modèle linéaire et non linéaire et valider la qualité de l'ajustement"
                 ],
-                "BS-C11": [
+                "BIM-C11": [
                   "Proposer, évaluer et implémenter des solutions de modélisations appropriées (logiciels de calculs formel et de statistiques, languages de programmation)"
                 ]
               },
@@ -5914,7 +5914,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BS-C1": [
+                "BIM-C1": [
                   "Formuler des hypothèses"
                 ]
               },
@@ -6001,7 +6001,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BS-C11": [
+                "BIM-C11": [
                   "Appliquer des chaînes de Markov cachées pour la comparaison, l'identification, l'alignement et la prédiction de séquences.",
                   "Utiliser des processus de Moran pour inferrer les étapes de développement de cancer.",
                   "Construire et simuler des réseaux biochimiques à l'aide de l'algorithme de simulation stochastique.",
@@ -6084,7 +6084,7 @@
                   "extraire l'information utile d'un signal bidimensionnel de type image,",
                   "décrire les objets détectés dans un signal bidimensionnel de type image."
                 ],
-                "BS-C3": [
+                "BIM-C3": [
                   "réaliser l'acquisition d'un signal (échantillonnage, théorème de Shannon)"
                 ]
               },
@@ -7028,7 +7028,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BS-C3": [
+                "BIM-C3": [
                   "Construire des modèles de réseaux génétiques ou métaboliques prédictifs à partir d'information génomiques, transcriptomiques et/ou protéomiques"
                 ]
               },
@@ -7140,7 +7140,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BS-C11": [
+                "BIM-C11": [
                   "Utiliser des logiciels d'alignement, de comparaisons de séquences et de phylogénie"
                 ]
               },
@@ -7212,7 +7212,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BS-C11": [
+                "BIM-C11": [
                   "Exploiter les ressources issues des grandes bases de données génomiques et protéiques",
                   "y compris structurale"
                 ]
@@ -7441,7 +7441,7 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "BS-C14": [
+                "BIM-C14": [
                   "Comprendre les phénomènes biologiques et physicochimiques induisant la modification souhaitée ou non d'un aliment",
                   "Connaître les diagrammes de fabrication et les opérations unitaires dédiées"
                 ]
