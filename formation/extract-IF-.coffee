@@ -90,7 +90,7 @@ module.exports = (matiere, DPTINSA) ->
 
   if lcompetences?
     try
-      matiere.listeCompMobilise = lcompetences[1].trim().match(/ [ABC]\d+/g).map (x) ->
+      matiere.listeCompMobilise = lcompetences[1].trim().match(/ [ABC]\d+/g)?.map (x) ->
         # console.log "**#{x}**"
         x = x.trim()
         if x.startsWith('C')
