@@ -1,0 +1,11 @@
+.active {
+  background-color: green;
+}
+
+mat-sidenav-container {
+  height: 100%;
+}
+
+mat-sidenav {
+  width: 130px;
+}

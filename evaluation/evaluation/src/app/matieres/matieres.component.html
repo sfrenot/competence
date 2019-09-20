@@ -1,10 +1,22 @@
-<p>matieres works!</p>
-<!-- {{matiere.name}} -->
-<ul>
-  <li *ngFor="let matiere of matieres"
-      (click) = 'onSelect(matiere)'>
-    <span>{{matiere.code}}</span>
-  </li>
-</ul>
 
-<app-eval-matiere [evalMatiere]="selectedMatiere"></app-eval-matiere>
+<mat-toolbar>
+  <span>Application d'évaluation</span>
+</mat-toolbar>
+
+
+<mat-sidenav-container>
+  <mat-sidenav opened mode="side">
+    <mat-list dense>
+      <mat-list-item
+          *ngFor="let matiere of matieres"
+          (click) = 'onSelect(matiere)'
+          [ngClass]="{'active': selectedMatiere === matiere}">
+        {{matiere.code}}
+      </mat-list-item>
+    </mat-list>
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+    <app-eval-matiere [evalMatiere]="selectedMatiere"></app-eval-matiere>
+  </mat-sidenav-content>
+</mat-sidenav-container>

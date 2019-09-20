@@ -8,6 +8,13 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatieresComponent } from './matieres/matieres.component';
 import { EvalMatiereComponent } from './eval-matiere/eval-matiere.component';
 
+import {MatListModule} from '@angular/material/list';
+import {MatSidenavModule} from '@angular/material/sidenav';
+import {MatToolbarModule} from '@angular/material/toolbar';
+
+
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -18,7 +25,10 @@ import { EvalMatiereComponent } from './eval-matiere/eval-matiere.component';
     BrowserModule,
     HttpClientModule,
     AppRoutingModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    MatListModule,
+    MatSidenavModule,
+    MatToolbarModule
   ],
   providers: [],
   bootstrap: [AppComponent]
