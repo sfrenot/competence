@@ -8,8 +8,10 @@ CASAuthentication = require 'cas-authentication'
 
 { buildSchema } = require('graphql')
 
+SERVER_URL = require('./config.json').SERVER_URL
+
 corsOptions =
-  origin: 'http://localhost:4200'
+  origin: "http://#{SERVER_URL}:4200"
   credentials: true
 
 
@@ -136,7 +138,7 @@ mongoClient.connect 'mongodb://localhost:27017',
 
   cas = new CASAuthentication
     cas_url: 'https://login.insa-lyon.fr/cas'
-    service_url: 'http://tc405-r004.insa-lyon.fr'
+    service_url: "http://#{SERVER_URL}:8080"
 
   app.use '/graphql', cors(corsOptions), cas.block, graphqlHTTP(
   #app.use '/graphql', graphqlHTTP( # TESTING
@@ -145,10 +147,10 @@ mongoClient.connect 'mongodb://localhost:27017',
     graphiql: true
   )
 
-  app.use '/', cas.bounce, (req, res) -> res.redirect('http://localhost:4200')
+  app.use '/', cas.bounce, (req, res) -> res.redirect("http://#{SERVER_URL}:4200")
 
 
-  app.listen(80)
+  app.listen(8080)
 
 .catch (err) ->
   console.error('SFR MONGO: ', err)

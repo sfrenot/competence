@@ -2,6 +2,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable, of } from 'rxjs'
 import { Matiere } from './matiere'
+import { SERVER_URL } from "../../../back/config.json";
 
 @Injectable({
   providedIn: 'root'
@@ -36,6 +37,6 @@ export class MatiereService {
         }
       }
     }`;
-    return this.http.get<any>(`http://tc405-r004.insa-lyon.fr/graphql?query=${query}` , {withCredentials: true})
+    return this.http.get<any>(`http://${SERVER_URL}:8080/graphql?query=${query}` , {withCredentials: true})
   }
 }
