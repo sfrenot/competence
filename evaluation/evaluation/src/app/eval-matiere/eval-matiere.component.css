@@ -1,3 +1,21 @@
 eval-matiere {
   display: block;
 }
+
+ul {
+  list-style-type: none;
+}
+
+mat-card {
+  margin: 10px;
+}
+
+.competence {
+  padding: 5px;
+}
+
+.evals {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

@@ -8,10 +8,11 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatieresComponent } from './matieres/matieres.component';
 import { EvalMatiereComponent } from './eval-matiere/eval-matiere.component';
 
-import {MatListModule} from '@angular/material/list';
-import {MatSidenavModule} from '@angular/material/sidenav';
 import {MatToolbarModule} from '@angular/material/toolbar';
-
+import {MatExpansionModule} from '@angular/material/expansion';
+import {MatCardModule} from '@angular/material/card';
+import {MatSliderModule} from '@angular/material/slider';
+import { FormsModule } from '@angular/forms';
 
 
 
@@ -26,9 +27,11 @@ import {MatToolbarModule} from '@angular/material/toolbar';
     HttpClientModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    MatListModule,
-    MatSidenavModule,
-    MatToolbarModule
+    MatExpansionModule,
+    MatToolbarModule,
+    MatCardModule,
+    MatSliderModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

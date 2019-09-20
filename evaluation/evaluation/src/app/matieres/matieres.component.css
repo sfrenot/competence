@@ -2,10 +2,10 @@
   background-color: green;
 }
 
-mat-sidenav-container {
-  height: 100%;
+mat-card {
+  padding: 60px;
 }
 
-mat-sidenav {
-  width: 130px;
+mat-expansion-panel {
+  margin: 5px;
 }

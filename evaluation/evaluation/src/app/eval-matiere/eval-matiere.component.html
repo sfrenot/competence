@@ -1,5 +1,43 @@
-<p>eval-matiere works!</p>
-<div *ngIf='evalMatiere'>
-  <h2> {{evalMatiere.code | uppercase}} </h2>
-  <div>{{evalMatiere.nom}}</div>
-</div>
+
+Indiquez ci-dessous vos niveaux d'acquisition des compétences suivantes :
+
+<ul class="competence">
+  <li *ngFor="let competence of evalMatiere.listeComp">{{competence.code}} {{competence.val}}
+    <mat-card>
+      <div *ngIf="getConnaissances(competence.code)">
+        <div class="comptxt">Connaissances associées</div>
+        <ul>
+          <li *ngFor="let connaissance of getConnaissances(competence.code)">
+            <div class="evals">
+              {{connaissance.nom}}
+              <mat-slider
+                max="5"
+                min="0"
+                step="1"
+                thumbLabel="true"
+                tickInterval="1"
+                [(ngModel)]="connaissance.eval">
+              </mat-slider>
+            </div>
+        </ul>
+      </div>
+
+      <div *ngIf="getCapacites(competence.code)">
+        <div class="comptxt">Capacités associées</div>
+        <ul>
+          <li *ngFor="let capacite of getCapacites(competence.code)">
+            <div class="evals">
+              {{capacite.nom}}
+              <mat-slider
+                max="5"
+                min="0"
+                step="1"
+                thumbLabel="true"
+                tickInterval="1"
+                [(ngModel)]="capacite.eval">
+              </mat-slider>
+            </div>
+        </ul>
+      </div>
+    </mat-card>
+</ul>

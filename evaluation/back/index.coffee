@@ -62,7 +62,7 @@ getMatieres = (login) ->
           rep.connaissances = _.map(_.filter(value, (elem) -> elem.startsWith('Connaissance : ')), (el) ->
             "nom": el.substring('Connaissance : '.length)
           )
-          rep.capacite = _.map(_.filter(value, (elem) -> elem.startsWith('Capacité : ')), (el) ->
+          rep.capacites = _.map(_.filter(value, (elem) -> elem.startsWith('Capacité : ')), (el) ->
             "nom": el.substring('Capacité : '.length)
           )
           rep
