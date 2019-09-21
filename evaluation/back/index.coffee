@@ -21,21 +21,16 @@ schema = buildSchema "
     eval: Int
   }
 
-  type CompetenceEvaluee {
-    code: String,
-    connaissances: [ Eval ],
-    capacites: [ Eval ]
-  }
-
   type DescriptionCompetence {
     code: String,
     val: String,
-    niveau: Int
+    niveau: Int,
+    connaissances: [Eval],
+    capacites: [Eval]
   }
 
   type MatiereEvaluee {
     code: String,
-    competenceToCapaciteEtConnaissance: [CompetenceEvaluee]
     listeComp: [DescriptionCompetence]
   }
 
@@ -54,60 +49,36 @@ db = ''
 
 getMatieres = (login) ->
   catalogue = require('../../formation/catalogue-TC')
+  dpt = catalogue[0].departement
+
+  matieres = _.map(_.map(_.flatten(_.map(_.flatten(catalogue[0].semestres), "ecs")), "detail"), (matiere) ->
+    matiere.listeComp = _.map matiere.listeComp, (comp) ->
+      comp.connaissances = []
+      comp.capacites = []
+      code = if comp.code.startsWith('C') then "#{dpt}-#{comp.code}" else comp.code
+      matiere.competenceToCapaciteEtConnaissance[code]?.forEach (elem) ->
+        if elem.startsWith('Connaissance : ')
+          comp.connaissances.push
+            nom: elem.substring('Connaissance : '.length)
+        if elem.startsWith('Capacité : ')
+          comp.capacites.push
+            nom: elem.substring('Capacité : '.length)
+      if comp.connaissances.length is 0 then delete comp.connaissances
+      if not comp.capacites then delete comp.capacites
+      comp
+    delete matiere.competencesBrutes
+    delete matiere.capacite
+    delete matiere.connaissance
+    delete matiere.competenceToCapaciteEtConnaissance
+    delete matiere.listeCompMobilise
+    matiere
+  )
+
+  matieres = _.filter matieres, (mat) -> mat.listeComp.length > 0
 
   return
     login: login
-    matieres: _.filter(_.map(_.map(_.flatten(_.map(_.flatten(catalogue[0].semestres), "ecs")), "detail"), (matiere) ->
-        matiere.competenceToCapaciteEtConnaissance = _.map(matiere.competenceToCapaciteEtConnaissance, (value, key) ->
-          rep = {}
-          rep.code = key
-          rep.connaissances = _.map(_.filter(value, (elem) -> elem.startsWith('Connaissance : ')), (el) ->
-            "nom": el.substring('Connaissance : '.length)
-          )
-          rep.capacites = _.map(_.filter(value, (elem) -> elem.startsWith('Capacité : ')), (el) ->
-            "nom": el.substring('Capacité : '.length)
-          )
-          rep
-        )
-        matiere
-      )
-      , (mat) -> mat.competenceToCapaciteEtConnaissance.length > 0
-    )
-
-getMatieresTest = (login) -> #TODO: A supprimer un jour
-  login: login
-  matieres: [
-    code: "TSA"
-    competenceToCapaciteEtConnaissance: [
-      {
-        code: 'TC-C1'
-        connaissances: [
-          nom : "tcp"
-        ]
-        capacites: [
-          nom: "etre"
-        ]
-      },
-      {
-        code: 'TC-C6'
-        connaissances: [
-          nom : "udp"
-        ]
-      }
-    ]
-    listeComp: [
-      {
-       code: "C2",
-       val: "Spécifier, concevoir et modéliser des réseaux de communication et des protocoles",
-       niveau: 3
-      },
-      {
-        code: "C6",
-        val: "Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles",
-        niveau: 2
-      }
-    ]
-  ]
+    matieres: matieres
 
 queryMap =
   evalsMatieres: (express, req) ->
@@ -140,15 +111,14 @@ mongoClient.connect 'mongodb://localhost:27017',
     cas_url: 'https://login.insa-lyon.fr/cas'
     service_url: "http://#{SERVER_URL}:8080"
 
-  app.use '/graphql', cors(corsOptions), cas.block, graphqlHTTP(
-  #app.use '/graphql', graphqlHTTP( # TESTING
+  # app.use '/graphql', cors(corsOptions), cas.block, graphqlHTTP(
+  app.use '/graphql', graphqlHTTP( # TESTING
     schema: schema
     rootValue: queryMap
     graphiql: true
   )
 
   app.use '/', cas.bounce, (req, res) -> res.redirect("http://#{SERVER_URL}:4200")
-
 
   app.listen(8080)
 
