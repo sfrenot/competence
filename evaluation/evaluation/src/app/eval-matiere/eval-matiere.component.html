@@ -3,11 +3,11 @@ Indiquez ci-dessous vos niveaux d'acquisition des compétences suivantes :
 
 <ul class="competence">
   <li *ngFor="let competence of evalMatiere.listeComp">{{competence.code}} {{competence.val}}
-    <mat-card *ngIf="getConnaissances(competence.code) || getCapacites(competence.code)">
-      <div *ngIf="getConnaissances(competence.code)">
+    <mat-card *ngIf="competence.connaissances || competence.capacites">
+      <div *ngIf="competence.connaissances">
         <div class="comptxt">Connaissances associées</div>
         <ul>
-          <li *ngFor="let connaissance of getConnaissances(competence.code)">
+          <li *ngFor="let connaissance of competence.connaissances">
             <div class="evals">
               {{connaissance.nom}}
               <mat-slider
@@ -22,10 +22,10 @@ Indiquez ci-dessous vos niveaux d'acquisition des compétences suivantes :
         </ul>
       </div>
 
-      <div *ngIf="getCapacites(competence.code)">
+      <div *ngIf="competence.capacites">
         <div class="comptxt">Capacités associées</div>
         <ul>
-          <li *ngFor="let capacite of getCapacites(competence.code)">
+          <li *ngFor="let capacite of competence.capacites">
             <div class="evals">
               {{capacite.nom}}
               <mat-slider

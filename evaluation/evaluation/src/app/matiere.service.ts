@@ -14,25 +14,22 @@ export class MatiereService {
 
   getMatieres(): Observable<any> {
     var query = `{
-      evalsMatieres {
+      evalsMatieres{
         login
-        matieres {
+        matieres{
           code
-          competenceToCapaciteEtConnaissance {
-            code
-            connaissances {
-              nom
-              eval
-            }
-            capacites {
-              nom
-              eval
-            }
-          }
-          listeComp {
+          listeComp{
             code
             val
             niveau
+            connaissances{
+              nom
+              eval
+            }
+            capacites{
+              nom
+              eval
+            }
           }
         }
       }
