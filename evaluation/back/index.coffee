@@ -111,8 +111,8 @@ mongoClient.connect 'mongodb://localhost:27017',
     cas_url: 'https://login.insa-lyon.fr/cas'
     service_url: "http://#{SERVER_URL}:8080"
 
-  # app.use '/graphql', cors(corsOptions), cas.block, graphqlHTTP(
-  app.use '/graphql', cors(corsOptions), graphqlHTTP( # TESTING
+  app.use '/graphql', cors(corsOptions), cas.block, graphqlHTTP(
+  # app.use '/graphql', cors(corsOptions), graphqlHTTP( # TESTING
     schema: schema
     rootValue: queryMap
     graphiql: true
