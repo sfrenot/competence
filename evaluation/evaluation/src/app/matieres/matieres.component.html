@@ -10,5 +10,8 @@
       </mat-panel-title>
     </mat-expansion-panel-header>
     <app-eval-matiere [evalMatiere]="matiere"></app-eval-matiere>
+    <mat-action-row>
+      <button mat-button (click)="validerMatiere(matiere)">Valider</button>
+    </mat-action-row>
   </mat-expansion-panel>
 </mat-card>

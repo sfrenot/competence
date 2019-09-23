@@ -12,6 +12,6 @@ export class EvalMatiereComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    console.log(this.evalMatiere);
+    // console.log(this.evalMatiere);
   }
 }

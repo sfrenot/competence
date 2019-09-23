@@ -28,4 +28,8 @@ export class MatieresComponent implements OnInit {
     this.selectedMatiere = matiere;
   }
 
+  validerMatiere(matiere: Matiere): void {
+    console.log(matiere);
+  }
+
 }

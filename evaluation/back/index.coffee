@@ -16,6 +16,24 @@ corsOptions =
 
 
 schema = buildSchema "
+  input EvalInput {
+    nom: String,
+    eval: Int
+  }
+
+  input DescriptionCompetenceInput {
+    code: String,
+    val: String,
+    niveau: Int,
+    connaissances: [EvalInput],
+    capacites: [EvalInput]
+  }
+
+  input MatiereEvalueeInput {
+    code: String,
+    listeComp: [DescriptionCompetenceInput]
+  }
+
   type Eval {
     nom: String,
     eval: Int
@@ -43,11 +61,16 @@ schema = buildSchema "
     evalsMatieres: EvalEnseignant
   }
 
+  type Mutation {
+    updateMatiere(matiere: MatiereEvalueeInput!): Boolean
+  }
+
 "
 
-db = ''
+evaluations = ''
 
 getMatieres = (login) ->
+  console.log "--> getMatieres"
   catalogue = require('../../formation/catalogue-TC')
   dpt = catalogue[0].departement
 
@@ -84,7 +107,6 @@ queryMap =
   evalsMatieres: (express, req) ->
     console.log '-> TEST', req.session  # When CAS is available
     login = 'sfrenot'
-    evaluations = db.collection('evaluations')
     evaluations.findOne({"login": login})
     .then (res) ->
       if res is null # Nouvel utilisateur
@@ -94,11 +116,22 @@ queryMap =
       else
         res
 
+  updateMatiere: (args, req) ->
+    console.log '-> TEST', req.session  # When CAS is available
+    login = 'sfrenot'
+
+    evaluations.updateOne(
+      {"login": login, "matieres.code": args.matiere.code},
+      {$set: {"matieres.$.listeComp" :  args.matiere.listeComp}}
+    )
+
+    return true
+
 mongoClient.connect 'mongodb://localhost:27017',
   useUnifiedTopology: true
   useNewUrlParser: true
 .then (client) ->
-  db = client.db('etudiants')
+  evaluations = client.db('etudiants').collection('evaluations')
 
   app = express()
   app.use(session(
@@ -111,8 +144,8 @@ mongoClient.connect 'mongodb://localhost:27017',
     cas_url: 'https://login.insa-lyon.fr/cas'
     service_url: "http://#{SERVER_URL}:8080"
 
-  app.use '/graphql', cors(corsOptions), cas.block, graphqlHTTP(
-  # app.use '/graphql', cors(corsOptions), graphqlHTTP( # TESTING
+  # app.use '/graphql', cors(corsOptions), cas.block, graphqlHTTP(
+  app.use '/graphql', cors(corsOptions), graphqlHTTP( # TESTING
     schema: schema
     rootValue: queryMap
     graphiql: true
