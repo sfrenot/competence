@@ -70,7 +70,7 @@ schema = buildSchema "
 evaluations = ''
 
 getMatieres = (login) ->
-  console.log "--> getMatieres"
+  console.log "--> getMatieres #{login}"
   catalogue = require('../../formation/catalogue-TC')
   dpt = catalogue[0].departement
 
