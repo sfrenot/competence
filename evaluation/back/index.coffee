@@ -105,8 +105,10 @@ getMatieres = (login) ->
 
 queryMap =
   evalsMatieres: (express, req) ->
-    console.log '-> TEST', req.session  # When CAS is available
-    login = 'sfrenot'
+    # console.log '-> TEST', req.session  # When CAS is available
+    # console.log req.session.cas_user
+
+    login = req.session.cas_user
     evaluations.findOne({"login": login})
     .then (res) ->
       if res is null # Nouvel utilisateur
@@ -117,8 +119,8 @@ queryMap =
         res
 
   updateMatiere: (args, req) ->
-    console.log '-> TEST', req.session  # When CAS is available
-    login = 'sfrenot'
+    # console.log '-> TEST', req.session  # When CAS is available
+    login = req.session.cas_user
 
     evaluations.updateOne(
       {"login": login, "matieres.code": args.matiere.code},
@@ -144,8 +146,8 @@ mongoClient.connect 'mongodb://localhost:27017',
     cas_url: 'https://login.insa-lyon.fr/cas'
     service_url: "http://#{SERVER_URL}:8080"
 
-  # app.use '/graphql', cors(corsOptions), cas.block, graphqlHTTP(
-  app.use '/graphql', cors(corsOptions), graphqlHTTP( # TESTING
+  app.use '/graphql', cors(corsOptions), cas.block, graphqlHTTP(
+  # app.use '/graphql', cors(corsOptions), graphqlHTTP( # TESTING
     schema: schema
     rootValue: queryMap
     graphiql: true

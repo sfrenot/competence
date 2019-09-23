@@ -9,7 +9,7 @@ import { MatiereService } from '../matiere.service';
 })
 
 export class MatieresComponent implements OnInit {
-
+  login: String;
   matieres: Matiere[];
   selectedMatiere: Matiere;
 
@@ -21,7 +21,10 @@ export class MatieresComponent implements OnInit {
 
   getMatieres(): void {
     this.matiereService.getMatieres()
-      .subscribe(res => this.matieres = res.data.evalsMatieres.matieres);
+      .subscribe(res => {
+        this.matieres = res.data.evalsMatieres.matieres
+        this.login = res.data.evalsMatieres.login
+      });
   }
 
   onSelect(matiere: Matiere): void {
@@ -30,6 +33,8 @@ export class MatieresComponent implements OnInit {
 
   validerMatiere(matiere: Matiere): void {
     console.log(matiere);
+    this.matiereService.setMatiere(matiere)
+      .subscribe( res => console.log(res))
   }
 
 }

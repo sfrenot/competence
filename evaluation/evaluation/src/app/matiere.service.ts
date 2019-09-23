@@ -36,4 +36,15 @@ export class MatiereService {
     }`;
     return this.http.get<any>(`http://${SERVER_URL}:8080/graphql?query=${query}` , {withCredentials: true})
   }
+
+  setMatiere(matiere: Matiere): any {
+    // console.log("--> SET MATIERE", matiere)
+    var query = `
+      mutation($matiere: MatiereEvalueeInput!) {
+        updateMatiere(matiere: $matiere)
+      }
+    `
+    return this.http.post(`http://${SERVER_URL}:8080/graphql`, {query: query, variables: {matiere: matiere}} , {withCredentials: true})
+
+  }
 }
