@@ -23,7 +23,6 @@ cas = new CASAuthentication
   #is_dev_mode: true
   returnTo: '/matrice'
 
-app.use '/ects', cas.block, require('./ects')
+# app.use '/ects', cas.block, require('./ects')
 app.use '/matrice', cas.bounce, require('./matrice')
 app.use '/', cas.bounce, (req, res) -> res.redirect('/matrice')
-

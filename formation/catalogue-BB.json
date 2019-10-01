@@ -4038,7 +4038,6 @@
               "competencesBrutes": "COMPETENCES : Cet EC contribue aux comp��tences ci-dessous (niveau) avec les capacités associées : C1. Appliquer une démarche scientifique (hypothético-déductive) pour traduire et résoudre une problématique biologique (niveau 1) C8. Utiliser les principales techniques d'exploration des fonctions biologiques (niveau 1) C14. Développer et valider des procédés de fabrication en biotechnologies (niveau 1) - Comprendre le fonctionnement du système immunitaire pour développer des protocoles de recherche en santé et développer des techniques d'immunomarquages en exploration fonctionnelle  Les connaissances associées à cet EC sont : Organisation du système immunitaire et applications industrielles (notamment les vaccins)",
               "capacite": [],
               "connaissance": [],
-<<<<<<< HEAD
               "competenceToCapaciteEtConnaissance": {
                 "BB-C14": [
                   "Comprendre le fonctionnement du système immunitaire pour développer des protocoles de recherche en santé et développer des techniques d'immunomarquages en exploration fonctionnelle"
@@ -4065,10 +4064,6 @@
                 }
               ],
               "connaissances": "Ce cours présente les éléments modernes de base - cellulaires et moléculaires- de l'immunologie, permettant aux étudiants de comprendre l'organisation et le fonctionnement du système immunitaire. Un chapitre spécial est attribué aux concepts et techniques immunologiques et leurs applications dans la recherche et l'industrie."
-=======
-              "competenceToCapaciteEtConnaissance": {},
-              "connaissances": "Organisation du système immunitaire et applications industrielles (notamment les vaccins)"
->>>>>>> f31e4b6f5a0f882b43582050ea781bfc1a225dcf
             }
           },
           {

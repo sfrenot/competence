@@ -176,8 +176,12 @@ app.param 'departement', (req, res, next, departement) ->
   next()
 
 app.get '/:departement', (req, res) ->
-  # console.log('->', req.departement)
-  loadDepartement(req.departement, res)
+  console.log('->', req.departement)
+  if req.departement isnt 'undefined'
+    loadDepartement(req.departement, res)
+  else
+    console.log('->')
+    res.redirect('/matrice')
 
 app.get "/", (req, res) ->
   res.send """

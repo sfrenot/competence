@@ -144,18 +144,23 @@ mongoClient.connect 'mongodb://localhost:27017',
 
   cas = new CASAuthentication
     cas_url: 'https://login.insa-lyon.fr/cas'
-    service_url: "http://#{SERVER_URL}:8080"
+    service_url: "http://#{SERVER_URL}:80"
 
+  cas2 = new CASAuthentication
+    cas_url: 'https://login.insa-lyon.fr/cas'
+    service_url: "http://#{SERVER_URL}:80/matrice"
+    
   app.use '/graphql', cors(corsOptions), cas.block, graphqlHTTP(
   # app.use '/graphql', cors(corsOptions), graphqlHTTP( # TESTING
     schema: schema
     rootValue: queryMap
     graphiql: true
   )
+  app.use '/matrice', cas2.bounce, require('../../serveur/matrice')
 
-  app.use '/', cas.bounce, (req, res) -> res.redirect("http://#{SERVER_URL}:4200")
+  app.use '/', cas.bounce, (req, res) ->  res.redirect("http://#{SERVER_URL}:4200")
 
-  app.listen(8080)
+  app.listen(80)
 
 .catch (err) ->
   console.error('SFR MONGO: ', err)
