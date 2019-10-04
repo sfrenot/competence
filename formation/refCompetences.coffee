@@ -248,6 +248,10 @@ module.exports =
     code: 'C8'
     val: 'Mettre en œuvre des principes et stratégies d\'ordonnancements des tâches et de gestion'
     valAnglais: 'Implement principles and strategies for scheduling tasks and managing'
+  'GE-C9':
+    code: 'C9'
+    val: 'Mettre en œuvre ses compétences scientifiques et technologiques dans le domaine de l\'EEAIIT dans un cadre industriel et appliqué à des problématiques réelles en conduisant les étapes du cycle de conception'
+    valAnglais: 'Apply scientific and technological competences in the field of the EEAIIT in an industrial framework and to real problems by leading the stages of the cycle of conception'
   'GI-C7':
     val: 'Observer, mesurer, analyser et interpréter une activité ou un système à partir de données'
     code: 'C7'

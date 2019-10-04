@@ -1,0 +1,628 @@
+Automatique SED ****************************
+Cet EC relève de l'unité d'enseignement  (UE46) et contribue aux compétences suivantes :            
+
+C4 Spécifier, modéliser et concevoir les méthodes et algorithmes pour le traitement et la gestion de l'information véhiculée par les signaux et les images (niveau 3)
+
+ Sous compétence : Spécifier, modéliser et concevoir les méthodes et algorithmes pour le traitement et la gestion de des flux de production
+
+  Capacité : Appréhender la lecture et l'écriture d'un cahier des charges
+  Capacité : Modéliser un système de production en vue de son analyse de performances et /ou son dimensionnement
+  Capacité : Analyser les propriétés du modèle liées au marquage initial : vivacité, bornage et réinitialisation
+  Capacité : Analyser les performances d'un système et le dimensionner
+  Capacité : Transférer ses connaissances à d'autres types de systèmes qui ne concernent pas la production
+
+  Connaissance : Connaître l'outil Réseau de Petri
+  Connaissance : Méthodologie pour modéliser un système de Production via les réseaux de Petri
+  Connaissance : Méthodologie pour analyser les perfromances et/ou le dimensionnement d'un système de production
+
+C6 Mettre en œuvre les étapes permettant le contrôle du fonctionnement d'un système discret ou continu (niveau 3)
+
+ Sous compétence : Développer la communication dans un système automatisé
+
+  Capacité : Implémenter la commande d'équipements industriels communicant en Modbus/TCP
+  Capacité : Conception d'Interface Homme Machine accessible via le Web
+
+ Sous compétence : Développer la commande d’un système discret
+
+  Capacité : Modéliser la facette commande d'un système du point de vue fonctionnel
+  Capacité : Encapsuler le savoir-faire dans un composant logiciel
+  Capacité : Capitaliser les savoir-faire et les rendre réutilisables
+  Capacité : Mise en œuvre dans un atelier logiciel industriel de programmation d'API
+
+  Connaissance : Initiation aux réseaux de terrain industriels
+  Connaissance : Sensibilisation à la cyber-sécurité
+  Connaissance : Appréhender les concepts de l'ingénierie système
+  Connaissance : Appréhender le cycle de vie d'un système
+  Connaissance : Modélisation SysML
+
+C7 Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l'information) (niveau 2)
+
+  Capacité : Simuler un système de production et le modéliser par un réseau de Petri
+  Capacité : Analyser, via un logiciel de simulation, les propriétés structurelles d'un système de production complexe
+  Capacité : Analyser, via un logiciel de simulation, les propriétés liées au marquage initial d'un système de production complexe
+
+  Connaissance : Mise en œuvre du savoir-faire en Réseau de Petri sur un logiciel de simulation
+  Connaissance : Analyser les résultats issus de la simulation et les critiquer
+
+C8 Mettre en œuvre des principes et stratégies d'ordonnancements des tâches et de gestion (niveau 2)
+
+  Capacité : Spécifier des contraintes d'ordonnancement dans un cahier des charges
+  Capacité : Modéliser des contraintes d'ordonnancement via les réseaux de Petri
+  Capacité : Calculer les invariants issus de l'ordonnancement
+  Capacité : Comprendre l'influence de l'ordonnancement sur les propriétés structurelles d'un réseau de Petri
+
+  Connaissance : Notion de base d'ordonnancement dans un système de production
+  Connaissance : Connaître l'influence de l'ordonnancement sur les propriétés du système de production
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B5 Agir de manière responsable dans un monde complexe
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+Automatique Avancé ****************************
+Cet EC relève de l'unité d'enseignement  (UE46) et contribue aux compétences suivantes :            
+
+C3 Mettre en œuvre les différents éléments de production d'énergie, de transport d'énergie électrique et de conversion d'énergie (niveau 2)
+
+  Capacité : Extraire une vue d'ensemble schématique du transfert d'énergie dans un système pluridisciplinaire
+  Capacité : Avoir une vue système des interconnexions entre éléments de stockage, de conversion et de transformation de l'énérgie
+  Capacité : Transférer une partie de ces connaissances sur les systèmes électriques à des systèmes hydrauliques, pneumatiques, mécaniques
+
+  Connaissance : Appréhender le principe de la causalité dans l'étude des systèmes avec une approche énergétique (Bond-Graph)
+  Connaissance : Connaissance sur les composants d'un système pluridisciplinaire
+  Connaissance : Connaissance transversale : Electricité et Fluid Power et Mécatronique
+
+C4 Spécifier, modéliser et concevoir les méthodes et algorithmes pour le traitement et la gestion de l'information véhiculée par les signaux et les images (niveau 3)
+
+  Capacité : Modéliser d'un système pluridisciplinaire
+  Capacité : Obtenir un modèle linéaire autour d'un point de fonctionnment
+  Capacité : Analyser le modèle linéaire en terme de stabilité, commandabilité et observabilité
+
+  Connaissance : Connaître la modélisation système
+  Connaissance : Connaître les notions de stabilité, commandabilité et observabilité
+
+C6 Mettre en œuvre les étapes permettant le contrôle du fonctionnement d'un système discret ou continu (niveau 3)
+
+ Sous compétence : Mettre en oeuvre expérimentalement le contrôle d’un système continu
+
+  Capacité : Mettre en œuvre des stratégies de commande sur des cartes de prototypage rapide de lois de commande
+  Capacité : Mettre en œuvre des capteurs logiciels (observateurs) sur des cartes de prototypage rapide de lois de commande
+  Capacité : Identifier des systèmes physiques à partir de mesures expérimentales
+
+ Sous compétence : Mettre en oeuvre les étapes permettant le contrôle du fonctionnement d’un système continu
+
+  Capacité : Calculer les pôles d'un système continu et effectuer du placement de pôles
+  Capacité : Synthèser une commande par retour d'état
+
+ Sous compétence : Mettre en oeuvre les étapes permettant la conception d’un système pluridisciplinaire
+
+  Connaissance : Savoir utiliser des cartes de protypage rapide de lois de commande
+  Connaissance : Avoir des notions sur différents algorithmes d'identification et leur mise en œuvre
+  Connaissance : Limites des régulateurs PID
+  Connaissance : Connaître l'approche par variables d'état et savoir la comparer à une approche entrée/sortie
+  Connaissance : Connaître la commande par retour d'état
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+Education Physique et Sportive 3 ****************************
+Cet EC relève de l'unité d'enseignement  (UE43) et contribue aux compétences suivantes :            
+
+Education Physique et Sportive 4 ****************************
+Cet EC relève de l'unité d'enseignement  (UE47) et contribue aux compétences suivantes :            
+
+Electronique de puissance et Electrotechnique 3 ****************************
+Cet EC relève de l'unité d'enseignement  (UE46) et contribue aux compétences suivantes :            
+
+C1 Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage (niveau 3)
+
+ Sous compétence : Mettre en oeuvre des composants électroniques de puissance et identifier leur fonction au sein d'un montage
+
+  Capacité : Savoir calculer des caractéristiques liées à des performances sur les convertisseurs classiques et les associer à des valeurs de composants
+  Capacité : Etre capable d'analyser pour comprendre le fonctionnement d'un convertisseur
+
+  Connaissance : Connaître les particularités de l'utilisation des composants passifs pour la conversion statique d'énergie électrique
+  Connaissance : Connaître les notions de base sur les composants semi-conducteurs de puissance en commutation
+  Connaissance : Connaître les règles d'association des sources
+
+C2 Mettre en œuvre les propriétés physiques des matériaux pour le domaine du génie électrique (niveau 2)
+
+ Sous compétence : Mettre en oeuvre les propriétés magnétiques et semi-conductrices pour la conversion statique d'énergie
+
+  Capacité : Etre capable d'analyser le fonctionnement d'un composant magnétique dans le cas de la conversion continu/continu
+  Capacité : Etre capable de dimensionner des éléments composant une cellule de commutation
+
+  Connaissance : Connaître les règles de dimensionnement de circuit magnétique et électronique appliquées au convertisseur de puissance
+  Connaissance : Connaître les notions de transfert d'énergie et leur implication sur le rendement du dispositif
+
+C3 Mettre en œuvre les différents éléments de production d'énergie, de transport d'énergie électrique et de conversion d'énergie (niveau 3)
+
+ Sous compétence : Mettre en œuvre les architectures de conversion statique d'énergie
+
+  Capacité : Etre capable de proposer des pistes de solutions  pour les principaux problèmes rencontrés dans le domaine de la conversion statique d'énergie
+  Capacité : Etre capable d'identifier les paramètres d'une machine alternative expérimentalement
+  Capacité : Savoir analyser un système constitué d'une machine électrique et de son alimentation
+
+  Connaissance : Connaître les architectures des convertisseurs DC-DC classiques (Buck, Boost, Buck-Boost, Flyback, Forward, bras de pont, pont complet)
+  Connaissance : Connaître les architectures des onduleurs classiques
+  Connaissance : Sélection d'une architecture en fonction d'un cahier des charges défini
+
+C6 Mettre en œuvre les étapes permettant le contrôle du fonctionnement d'un système discret ou continu (niveau 1)
+
+ Sous compétence : Mettre en oeuvre les étapes permettant le contrôle d'un convertisseur de puissance
+
+  Capacité : Analyser des systèmes de variation de vitesse
+  Capacité : Sélection de bloc fonctionnel pour la commande d'actionneur
+
+  Connaissance : Connaître certaines modulations pour la commande des onduleurs monophasés et triphasés
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+B5 Agir de manière responsable dans un monde complexe
+Informatique 4 ****************************
+Cet EC relève de l'unité d'enseignement  (UE45) et contribue aux compétences suivantes :            
+
+C7 Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l'information) (niveau 2)
+
+  Capacité : Etre capable de mettre en œuvre des principes et stratégies d'ordonnancement
+  Capacité : Etre capable de mettre en œuvre des principes et stratégies de gestion des utilisateurs
+  Capacité : Etre capable de mettre en œuvre des principes et stratégies de gestion des tâches
+
+  Connaissance : Base des systèmes multi-tâches (POSIX) et multi utilisateurs (UNIX)
+  Connaissance : Echange de données entre tâches (PIPE),Gestion des signaux, Gestion des ressources (verrous et sémaphores)
+  Connaissance : Principes d'ordonnancement
+
+C8 Mettre en œuvre des principes et stratégies d'ordonnancements des tâches et de gestion (niveau 3)
+
+  Capacité : Etre capable de réaliser un ordonnancement de tâches
+  Capacité : Etre capable de mettre en œuvre des logiciels temps réel
+
+  Connaissance : Bases et stratégies des systèmes temps-réel
+  Connaissance : Ordonnancement statique et dynamique
+  Connaissance : Stratégies des serveurs de tâches apériodiques
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+Langue vivante ****************************
+Cet EC relève de l'unité d'enseignement  (UE43) et contribue aux compétences suivantes :            
+
+B7 Travailler dans un contexte international et interculturel (niveau 2)
+
+  Capacité : Obtenir le score minimum de 785 au TOEIC
+  Capacité : Comprendre le contenu essentiel de sujets concrets ou abstraits dans un texte complexe, y compris une discussion technique dans votre spécialité
+  Capacité : Etre capable d'interagir efficacement lors d'un entretien d'embauche.
+
+  Connaissance : Lexique, syntaxe, grammaire
+  Connaissance : Expression orale
+  Connaissance : compréhension orale et écrite
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A6 Communiquer une analyse ou une démarche scientifique
+Langue vivante ****************************
+Cet EC relève de l'unité d'enseignement  (UE47) et contribue aux compétences suivantes :            
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+  Capacité : S'exprimer de façon claire et détaillée sur une grande quantité de sujets, d’émettre un avis sur un sujet d’actualité et exposer les avantages et les inconvénients de différentes solutions
+  Capacité : Savoir animer une réunion avec prose de décision.
+
+  Connaissance : Lexique, syntaxe, grammaire
+  Connaissance : Expression orale
+  Connaissance : compréhension orale et écrite
+
+B7 Travailler dans un contexte international et interculturel (niveau 3)
+
+  Capacité : S'exprimer de façon claire et détaillée sur une grande quantité de sujets, d’émettre un avis sur un sujet d’actualité et exposer les avantages et les inconvénients de différentes solutions.
+  Capacité : S'exprimer de façon claire et détaillée sur une grande quantité de sujets, d’émettre un avis sur un sujet d’actualité et exposer les avantages et les inconvénients de différentes solutions
+  Capacité : Communiquer avec un degré de spontanéité et d'aisance tel qu'une conversation avec un interlocuteur natif
+  Capacité : Obtenir le score minimum de 785 au TOEIC
+  Capacité : Communiquer avec un degré de spontanéité et d'aisance tel qu'une conversation avec un interlocuteur natif
+  Capacité : S'adapter rapidement à un environnement de travail international.
+
+  Connaissance : Lexique, syntaxe, grammaire
+  Connaissance : Expression orale
+  Connaissance : compréhension orale et écrite
+  Connaissance : Les différences culturelles et organisationnelles impactant les relations professionnelles.
+  Connaissance : Rédaction CV et lettre de motivation (ceux partant entre la la 2 et 3ème année)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A6 Communiquer une analyse ou une démarche scientifique
+B2 Travailler, apprendre, évoluer de manière autonome
+Langue vivante ****************************
+Cet EC relève de l'unité d'enseignement  (UE52) et contribue aux compétences suivantes :            
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+  Capacité : S'exprimer de façon claire et détaillée sur une grande quantité de sujets, d’émettre un avis sur un sujet d’actualité et exposer les avantages et les inconvénients de différentes solutions
+
+B7 Travailler dans un contexte international et interculturel (niveau 2)
+
+  Capacité : S'exprimer de façon claire et détaillée sur une grande quantité de sujets, d’émettre un avis sur un sujet d’actualité et exposer les avantages et les inconvénients de différentes solutions.
+  Capacité : S'exprimer de façon claire et détaillée sur une grande quantité de sujets, d’émettre un avis sur un sujet d’actualité et exposer les avantages et les inconvénients de différentes solutions
+  Capacité : Communiquer avec un degré de spontanéité et d'aisance tel qu'une conversation avec un interlocuteur natif
+  Capacité : Obtenir le score minimum de 785 au TOEIC
+  Capacité : S'exprimer sur des sujets complexes de façon claire et bien structurée et de manifester votre contrôle des outils d'organisation, d'articulation et de cohésion du discours
+  Capacité : Utiliser la langue de façon efficace et souple dans sa vie sociale, professionnelle ou académique
+
+  Connaissance : Lexique, syntaxe, grammaire
+  Connaissance : Expression orale
+  Connaissance : compréhension orale et écrite
+  Connaissance : Les différences culturelles et organisationnelles impactant les relations professionnelles.
+  Connaissance : Rédaction CV et lettre de motivation
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A6 Communiquer une analyse ou une démarche scientifique
+B2 Travailler, apprendre, évoluer de manière autonome
+Mission à l'étranger ****************************
+Cet EC relève de l'unité d'enseignement  (UE54) et contribue aux compétences suivantes :            
+
+B7 Travailler dans un contexte international et interculturel (niveau 2)
+
+  Capacité : S'intégrer dans un environnement socio-économique nouveau
+  Capacité : S'approprier les enjeux économiques internationaux
+  Capacité : Communiquer dans une langue étrangère
+
+  Connaissance : Organisation d'un milieu professionnel étranger
+  Connaissance : Contexte économique mondial
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+  Capacité : Gérer son temps et son projet
+  Capacité : Analyser et rédiger des documents professionnels
+  Capacité : Construire et argumenter une candidature
+  Capacité : S'intégrer dans une équipe, contribuer à l'animer, à l'organiser et à la faire évoluer
+  Capacité : Utiliser les différents moyens de communication au sein de l'entreprise en s'adaptant à son interlocuteur
+  Capacité : Exposer efficacement un travail à l'écrit et à l'oral dans une langue étrangère ; s'adapter à l'auditoire
+
+  Connaissance : Recherche de stage
+  Connaissance : Démarche projet
+  Connaissance : Compétences métier
+  Connaissance : Relations humaines, communication
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B3 Interagir avec les autres, travailler en équipe
+PERIODE EN ENTREPRISE 3 ****************************
+Cet EC relève de l'unité d'enseignement  (UE44) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  Capacité : Prendre en compte les enjeux économiques d'un projet.
+  Capacité : Participer à l'élaboration d'd'un budget et/ou au suivi des coûts.
+  Capacité : Contacter des clients ou des fournisseurs pour établir des devis ou répondre à des offres.
+
+  Connaissance : Enjeux économiques
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+  Capacité : Respecter les objectifs et le planning prévisionnel fixé par le projet.
+  Capacité : Formaliser avec le Maitre d'Apprentissage les objectifs du projet avec des indicateurs de résultats et un planning prévisionnel pour son travail personnel
+  Capacité : Etre force de proposition de solution technique
+
+  Connaissance : Gestion du temps
+  Connaissance : Démarche projet
+
+B3 Interagir avec les autres, travailler en équipe (niveau )
+
+  Capacité : Etre capable de présenter un projet dans sa globalité à l'écrit ou devant un public
+  Capacité : Savoir chercher l'information auprès des bonnes personnes.
+
+  Connaissance : communication, esprit de synthèse
+
+C9 Mettre en œuvre ses compétences scientifiques et technologiques dans le domaine de l'EEAIIT dans un cadre industriel et appliqué à des problématiques réelles en conduisant les étapes du cycle de conception (niveau )
+
+  Capacité : Etre associé à plusieurs étapes du cycle en V
+  Capacité : mettre en œuvre des sous ensembles multi domaines de l'EEAIIT et/ou multiphysique.
+  Capacité : Outils de modélisations et simulation multidomaines
+  Capacité : Ecriture de spécifications fonctionnelles et techniques
+
+  Connaissance : Mise en œuvre de composants ou sous ensemble fonctionnels, Prototypage
+  Connaissance : utilisation CAO / DAO, simulation performance.
+
+PERIODE EN ENTREPRISE 4 ****************************
+Cet EC relève de l'unité d'enseignement  (UE48) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  Capacité : Prendre en compte les enjeux économiques d'un projet.
+  Capacité : Participer à l'élaboration d'd'un budget et/ou au suivi des coûts.
+  Capacité : Contacter des clients ou des fournisseurs pour établir des devis ou répondre à des offres.
+
+  Connaissance : Enjeux économiques
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+  Capacité : Respecter les objectifs et le planning prévisionnel fixé par le projet.
+  Capacité : Formaliser avec le Maitre d'Apprentissage les objectifs du projet avec des indicateurs de résultats et un planning prévisionnel pour son travail personnel
+  Capacité : Etre force de proposition de solution technique
+
+  Connaissance : Gestion du temps
+  Connaissance : Démarche projet
+
+B3 Interagir avec les autres, travailler en équipe (niveau )
+
+  Capacité : Etre capable de présenter un projet dans sa globalité à l'écrit ou devant un public
+  Capacité : Savoir chercher l'information auprès des bonnes personnes.
+
+  Connaissance : communication, esprit de synthèse
+
+C9 Mettre en œuvre ses compétences scientifiques et technologiques dans le domaine de l'EEAIIT dans un cadre industriel et appliqué à des problématiques réelles en conduisant les étapes du cycle de conception (niveau )
+
+  Capacité : Etre associé à plusieurs étapes du cycle en V
+  Capacité : mettre en œuvre des sous ensembles multi domaines de l'EEAIIT et/ou multiphysique.
+  Capacité : Outils de modélisations et simulation multidomaines
+  Capacité : Ecriture de spécifications fonctionnelles et techniques
+
+  Connaissance : Mise en œuvre de composants ou sous ensemble fonctionnels, Prototypage
+  Connaissance : utilisation CAO / DAO, simulation performance.
+
+PROJET DE FIN D'ETUDE 1 ****************************
+Cet EC relève de l'unité d'enseignement  (UE53) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  Capacité : Etre capable de travailler avec différents services ou sur plusieurs affaires en respectant l'organisation, les délais et les contraintes de chacun.
+  Capacité : Etre capable de chiffrer /budgeter/estimer les coûts en autonomie
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+  Capacité : Pilotage d'un projet en autonomie avec réalisation du découpage en sous tâche et élaboration d'un Gantt.
+
+B3 Interagir avec les autres, travailler en équipe (niveau )
+
+  Capacité : Etre capable d'animer une réunion en autonomie
+  Capacité : Savoir mobiliser les acteurs pour faire aboutir son projet
+
+C9 Mettre en œuvre ses compétences scientifiques et technologiques dans le domaine de l'EEAIIT dans un cadre industriel et appliqué à des problématiques réelles en conduisant les étapes du cycle de conception (niveau )
+
+  Capacité : Etre capable de concevoir ou mettre en oeuvre un système électrique en comprenant les enjeux de l'installation complète.
+  Capacité : Intégrer les besoins des autres corps d'ingéniérie.
+  Capacité : Participer à la mise en œuvre complète du cycle en V
+
+PROJET DE FIN D'ETUDE 2 ****************************
+Cet EC relève de l'unité d'enseignement  (UE55) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  Capacité : Etre capable de travailler avec différents services ou sur plusieurs affaires en respectant l'organisation, les délais et les contraintes de chacun.
+  Capacité : Etre capable de chiffrer /budgeter/estimer les coûts en autonomie
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+  Capacité : Pilotage d'un projet en autonomie avec réalisation du découpage en sous tâche et élaboration d'un Gantt.
+
+B3 Interagir avec les autres, travailler en équipe (niveau )
+
+  Capacité : Etre capable d'animer une réunion en autonomie
+  Capacité : Savoir mobiliser les acteurs pour faire aboutir son projet
+
+C9 Mettre en œuvre ses compétences scientifiques et technologiques dans le domaine de l'EEAIIT dans un cadre industriel et appliqué à des problématiques réelles en conduisant les étapes du cycle de conception (niveau )
+
+  Capacité : Etre capable de concevoir ou mettre en oeuvre un système électrique en comprenant les enjeux de l'installation complète.
+  Capacité : Intégrer les besoins des autres corps d'ingéniérie.
+  Capacité : Participer à la mise en œuvre complète du cycle en V
+
+Sciences Humaines et Sociales : management ****************************
+Cet EC relève de l'unité d'enseignement  (UE43) et contribue aux compétences suivantes :            
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+  Capacité : Gérer ses activités
+  Capacité : Manager les problèmes
+
+  Connaissance : Management : la gestion du temps, des priorités
+  Connaissance : Le rendre compte
+  Connaissance : Les instances : facteur clé d'une autonomie résussie
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+  Capacité : Comprendre la structure, l’organisation et la culture de son environnement de travail
+  Capacité : Animer, motiver une équipe
+
+  Connaissance : Management : Sociologie des organisations
+  Connaissance : Le rôle du manager, la notion d'quipe, la place de chacun au sein de l'organisation
+  Connaissance : Comprendre  les leviers de la motivation
+
+B4 Faire preuve de créativité, innover, entreprendre (niveau 1)
+
+  Capacité : Manager des activités novatrices en intégrant les paramètres de réussite des différentes composantes.
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+  Capacité : Parfaire sa compréhension de la structure, l’organisation et la culture de son environnement de travail
+  Capacité : Gérer les situations conflictuelles adaptée
+  Capacité : Repérer les facteurs de motivation et de démotivation
+  Capacité : Comprendre la structure, l’organisation et la culture de son environnement de travail
+  Capacité : Appréhender son envrionnement de travail
+  Capacité : Manager des collaborateurs d'horizons divers.
+
+  Connaissance : Management: Les différents styles de management selon le degré d’autonomie des collaborateurs
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B1 Se connaître, se gérer physiquement et mentalement
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+B7 Travailler dans un contexte international et interculturel
+Sciences Humaines et Sociales ****************************
+Cet EC relève de l'unité d'enseignement  (UE47) et contribue aux compétences suivantes :            
+
+A5 Traiter des données (niveau 2)
+
+  Capacité : Intégrer le décalage de règlement ou d’encaissement dans le quotidien de l’entreprise
+  Capacité : Appréhender la rentabilité et l’équilibre financier
+
+  Connaissance : Inition à la gestion
+
+A6 Communiquer une analyse ou une démarche scientifique (niveau 2)
+
+  Capacité : Etablir le budget d’un projet et d’en assurer le suivi (contrôle budgétaire et reporting)
+  Capacité : Lire et de comprendre les états prévisionnels d’une entreprise (plans, budgets
+
+  Connaissance : Initiation à la gestion
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+  Capacité : Comprendre les grands principes du droit du travail
+  Capacité : Comprendre la logique juridique pour pouvoir gérer du personnel
+  Capacité : Savoir choisir un investissement, être capable d’établir son budget, justifier de sa rentabilité et savoir choisir son financement
+
+  Connaissance : Droit : principes du droit, textes de bases….les représetants du personnel, les sanctions
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  Capacité : Comprendre l’intérêt de la comptabilité générale et acquérir les principes de base (bilan, compte de résultat
+  Capacité : Comprendre les notions essentielles de rentabilité et d’équilibre financier
+  Capacité : Connaître les principales notions et outils d’analyse financière
+  Capacité : Apréhender les différents cadres législatifs et réglementaires du droit travail selon le contexte.
+  Capacité : Appréhender  les principales notions et outils d’analyse financière, en lien avec le contexte. (approche internationael et interculturelel)
+
+  Connaissance : Initiation à la gestion: l’entreprise et ses comptes, le bilan et le compte de résultat,
+  Connaissance : Gestion budgétaire:  l'entreprise et la gestion, la gestion prévisionnelle : budgets, plans, comptes prévisionnel
+  Connaissance : Suivi des réalisations : contrôle budgétaire, tableaux de bord, reporting
+  Connaissance : Droit: mener une vielle liée au droit du travail  adaptée à la situation.
+  Connaissance : les bases de la gestion
+  Connaissance : Les bases de la gestion Financière
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B7 Travailler dans un contexte international et interculturel
+Environnement /Qualité - Sécurité ****************************
+Cet EC relève de l'unité d'enseignement  (UE52) et contribue aux compétences suivantes :            
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+  Capacité : Savoir maîtriser les risques liés à l’environnement
+  Capacité : Mettre en évidence les contraintes réglementaires liées à la Sécurité au Travail et leurs conséquences pour l’employeur
+
+  Connaissance : Le rôle des Managers dans le déploiement et l’animation des référentiels
+  Connaissance : Les grands principes liés à la qualité / les riques / la préventionprévention
+  Connaissance : Méthodologie et déploiement de l’analyse des risques
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 1)
+
+  Capacité : Être informé sur la législation environnementale
+  Capacité : Etre en mesure d’être un relai et pilote efficace pour le SMQSEEn de l’entreprise.
+  Capacité : Acquérir des réflexes pour intégrer l’Analyse de Risque au quotidien dans l’entreprise.
+  Capacité : Mettre en évidence ce qui est attendu des managers dans le cadre du pilotage des Systèmes de management d’Entreprise QSE
+  Capacité : Acquérir des réflexes pour intégrer l’Analyse de Risque au quotidien dans l’entreprise.
+  Capacité : Acquérir des réflexes pour intégrer l’Analyse de Risque au quotidien dans l’entreprise.
+  Capacité : Acquérir des réflexes pour intégrer l’Analyse de Risque au quotidien dans l’entreprise.
+  Capacité : Comprendre les enjeux et impératifs du développement durable :
+  Capacité : Identifier l’impact d’une démarche de développement durable sur le fonctionnement de l’entreprise et intégrer les problématiques environnementales dans la conception de produits
+  Capacité : Mettre en évidence les contraintes réglementaires liées à la Sécurité au Travail et leurs conséquences
+  Capacité : Être informé sur la législation environnementale, apprendre à maîtriser les risques liés à l’environnement.
+  Capacité : Acquérir des réflexes pour intégrer l’Analyse de Risque au quotidien dans l’entreprise.
+  Capacité : Acquérir des réflexes pour intégrer l’Analyse de Risque au quotidien dans l’entreprise.
+
+  Connaissance : Le SMQSEEn (Système de Management Qualité Sécurité Environnement Energie)
+  Connaissance : Le Système de Management de l’Entreprise et les référentiels associés
+  Connaissance : Socle réglementaire et légal SST, responsabilité de l’employeur, les acteurs SST
+  Connaissance : Le rôle des Managers dans le déploiement es différentes démarches,  et leurs animations
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B3 Interagir avec les autres, travailler en équipe
+B4 Faire preuve de créativité, innover, entreprendre
+B7 Travailler dans un contexte international et interculturel
+Télécommunications 2 ****************************
+Cet EC relève de l'unité d'enseignement  (UE45) et contribue aux compétences suivantes :            
+
+C1 Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage (niveau 3)
+
+ Sous compétence : Mettre en œuvre des antennes filaires et patch
+
+  Capacité : Décrire le fonctionnement physique d'une antenne (domaine RF)
+  Capacité : calculer le diagramme de rayonnement d'une antenne
+  Capacité : Simuler et analyser le fonctionnement électromagnétique et électrique d'une antenne patch
+  Capacité : Ecrire et analyser un bilan de liaison hertzienne
+
+  Connaissance : Types d'antennes, caractéristiques physiques et électriques
+  Connaissance : Identifier la structure d'un bilan de liaison hertzienne
+  Connaissance : Fonctionnement physique d'une antenne filaire
+
+ Sous compétence : Mettre en œuvre des circuits radiofréquences
+
+  Capacité : Caractériser et simuler un amplificateur radiofréquence faible bruit (LNA)
+  Capacité : Caractériser et simuler un oscillateur radiofréquence (VCO)
+  Capacité : Caractériser et simuler un amplificateur de puissance radiofréquence (PA) à partir d'un cahier des charges
+  Capacité : Caractériser et simuler un mélangeur radiofréquence (MIXER) à partir d'un cahier des charges
+  Capacité : Etudier et modéliser des circuits radiofréquences non linéaires via le simulateur ADS d'Agilent Technologies
+
+  Connaissance : Dispostifs d'adaptation en puissance RF (types, caractéristiques, techniques d'optimisation)
+  Connaissance : Simulations DC, S parameters, Harmonic Balance, LF et Phase Noise
+  Connaissance : Caractéristiques électriques des circuits actifs  (DC, petit-signal, bruit, fort-signal)
+
+C5 Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données (niveau 3)
+
+  Capacité : Concevoir un amplificateur radiofréquence faible bruit (LNA) à partir d'un cahier des charges
+  Capacité : Concevoir un oscillateur radiofréquence (VCO) à partir d'un cahier des charges
+  Capacité : Concevoir un amplificateur de puissance radiofréquence (PA) à partir d'un cahier des charges
+  Capacité : Concevoir un mélangeur radiofréquence (MIXER) à partir d'un cahier des charges
+  Capacité : Concevoir une antenne (filaire, patch) à partir d'un cahier des charges
+
+  Connaissance : Couverture et planification radio
+  Connaissance : Sensibilité, dynamique et sélectivité d'un système d'émission-réception RF
+  Connaissance : Architecture des circuits radiofréquences d'émission et de réception
+
+C8 Mettre en œuvre des principes et stratégies d'ordonnancements des tâches et de gestion (niveau 2)
+
+  Capacité : Organiser et partitioner un travail de recherche et de conception CAO entre 6 et 10 personnes
+  Capacité : Planifier les différentes taches de conception CAO à partir de cahier de charge
+  Capacité : Respecter les délais et les objectifs du maitre d'ouvrage
+
+  Connaissance : Apprentissage par projets - Etude de cas
+  Connaissance : Gestion de projet de recherche documentaire et de création d'entreprise
+  Connaissance : Lecture et analyse d'un cahier des charges
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+A4 Concevoir un système répondant à un cahier des charges (niveau 3)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A2 Exploiter un modèle d'un système réel ou virtuel
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
