@@ -1,0 +1,280 @@
+Electronique de puissance et Electrotechnique 3 ****************************
+Cet EC relève de l'unité d'enseignement  (UE46) et contribue aux compétences suivantes :            
+
+C1 Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage (niveau 3)
+
+ Sous compétence : Mettre en oeuvre des composants électroniques de puissance et identifier leur fonction au sein d'un montage
+
+  Capacité : Savoir calculer des caractéristiques liées à des performances sur les convertisseurs classiques et les associer à des valeurs de composants
+  Capacité : Etre capable d'analyser pour comprendre le fonctionnement d'un convertisseur
+
+  Connaissance : Connaître les particularités de l'utilisation des composants passifs pour la conversion statique d'énergie électrique
+  Connaissance : Connaître les notions de base sur les composants semi-conducteurs de puissance en commutation
+  Connaissance : Connaître les règles d'association des sources
+
+C2 Mettre en œuvre les propriétés physiques des matériaux pour le domaine du génie électrique (niveau 2)
+
+ Sous compétence : Mettre en oeuvre les propriétés magnétiques et semi-conductrices pour la conversion statique d'énergie
+
+  Capacité : Etre capable d'analyser le fonctionnement d'un composant magnétique dans le cas de la conversion continu/continu
+  Capacité : Etre capable de dimensionner des éléments composant une cellule de commutation
+
+  Connaissance : Connaître les règles de dimensionnement de circuit magnétique et électronique appliquées au convertisseur de puissance
+  Connaissance : Connaître les notions de transfert d'énergie et leur implication sur le rendement du dispositif
+
+C3 Mettre en œuvre les différents éléments de production d'énergie, de transport d'énergie électrique et de conversion d'énergie (niveau 3)
+
+ Sous compétence : Mettre en œuvre les architectures de conversion statique d'énergie
+
+  Capacité : Etre capable de proposer des pistes de solutions  pour les principaux problèmes rencontrés dans le domaine de la conversion statique d'énergie
+  Capacité : Etre capable d'identifier les paramètres d'une machine alternative expérimentalement
+  Capacité : Savoir analyser un système constitué d'une machine électrique et de son alimentation
+
+  Connaissance : Connaître les architectures des convertisseurs DC-DC classiques (Buck, Boost, Buck-Boost, Flyback, Forward, bras de pont, pont complet)
+  Connaissance : Connaître les architectures des onduleurs classiques
+  Connaissance : Sélection d'une architecture en fonction d'un cahier des charges défini
+
+C6 Mettre en œuvre les étapes permettant le contrôle du fonctionnement d'un système discret ou continu (niveau 1)
+
+ Sous compétence : Mettre en oeuvre les étapes permettant le contrôle d'un convertisseur de puissance
+
+  Capacité : Analyser des systèmes de variation de vitesse
+  Capacité : Sélection de bloc fonctionnel pour la commande d'actionneur
+
+  Connaissance : Connaître certaines modulations pour la commande des onduleurs monophasés et triphasés
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+B5 Agir de manière responsable dans un monde complexe
+Langue vivante ****************************
+Cet EC relève de l'unité d'enseignement  (UE47) et contribue aux compétences suivantes :            
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+  Capacité : S'exprimer de façon claire et détaillée sur une grande quantité de sujets, d’émettre un avis sur un sujet d’actualité et exposer les avantages et les inconvénients de différentes solutions
+  Capacité : Savoir animer une réunion avec prose de décision.
+
+  Connaissance : Lexique, syntaxe, grammaire
+  Connaissance : Expression orale
+  Connaissance : compréhension orale et écrite
+
+B7 Travailler dans un contexte international et interculturel (niveau 3)
+
+  Capacité : Obtenir le score minimum de 785 au TOEIC
+  Capacité : Communiquer avec un degré de spontanéité et d'aisance tel qu'une conversation avec un interlocuteur natif
+  Capacité : S'adapter rapidement à un environnement de travail international.
+
+  Connaissance : Lexique, syntaxe, grammaire
+  Connaissance : Expression orale
+  Connaissance : compréhension orale et écrite
+  Connaissance : Les différences culturelles et organisationnelles impactant les relations professionnelles.
+  Connaissance : Rédaction CV et lettre de motivation (ceux partant entre la la 2 et 3ème année)
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A6 Communiquer une analyse ou une démarche scientifique
+B2 Travailler, apprendre, évoluer de manière autonome
+Langue vivante ****************************
+Cet EC relève de l'unité d'enseignement  (UE52) et contribue aux compétences suivantes :            
+
+B3 Interagir avec les autres, travailler en équipe (niveau 2)
+
+  Capacité : S'exprimer de façon claire et détaillée sur une grande quantité de sujets, d’émettre un avis sur un sujet d’actualité et exposer les avantages et les inconvénients de différentes solutions
+
+B7 Travailler dans un contexte international et interculturel (niveau 2)
+
+  Capacité : S'exprimer de façon claire et détaillée sur une grande quantité de sujets, d’émettre un avis sur un sujet d’actualité et exposer les avantages et les inconvénients de différentes solutions.
+  Capacité : S'exprimer de façon claire et détaillée sur une grande quantité de sujets, d’émettre un avis sur un sujet d’actualité et exposer les avantages et les inconvénients de différentes solutions
+  Capacité : Communiquer avec un degré de spontanéité et d'aisance tel qu'une conversation avec un interlocuteur natif
+  Capacité : Obtenir le score minimum de 785 au TOEIC
+  Capacité : S'exprimer sur des sujets complexes de façon claire et bien structurée et de manifester votre contrôle des outils d'organisation, d'articulation et de cohésion du discours
+  Capacité : Utiliser la langue de façon efficace et souple dans sa vie sociale, professionnelle ou académique
+
+  Connaissance : Lexique, syntaxe, grammaire
+  Connaissance : Expression orale
+  Connaissance : compréhension orale et écrite
+  Connaissance : Les différences culturelles et organisationnelles impactant les relations professionnelles.
+  Connaissance : Rédaction CV et lettre de motivation
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A6 Communiquer une analyse ou une démarche scientifique
+B2 Travailler, apprendre, évoluer de manière autonome
+PERIODE EN ENTREPRISE 4 ****************************
+Cet EC relève de l'unité d'enseignement  (UE48) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  Capacité : Prendre en compte les enjeux économiques d'un projet.
+  Capacité : Participer à l'élaboration d'd'un budget et/ou au suivi des coûts.
+  Capacité : Contacter des clients ou des fournisseurs pour établir des devis ou répondre à des offres.
+
+  Connaissance : Enjeux économiques
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+  Capacité : Respecter les objectifs et le planning prévisionnel fixé par le projet.
+  Capacité : Formaliser avec le Maitre d'Apprentissage les objectifs du projet avec des indicateurs de résultats et un planning prévisionnel pour son travail personnel
+  Capacité : Etre force de proposition de solution technique
+
+  Connaissance : Gestion du temps
+  Connaissance : Démarche projet
+
+B3 Interagir avec les autres, travailler en équipe (niveau )
+
+  Capacité : Etre capable de présenter un projet dans sa globalité à l'écrit ou devant un public
+  Capacité : Savoir chercher l'information auprès des bonnes personnes.
+
+  Connaissance : communication, esprit de synthèse
+
+C9 Mettre en œuvre ses compétences scientifiques et technologiques dans le domaine de l'EEAIIT dans un cadre industriel et appliqué à des problématiques réelles en conduisant les étapes du cycle de conception (niveau )
+
+  Capacité : Etre associé à plusieurs étapes du cycle en V
+  Capacité : mettre en œuvre des sous ensembles multi domaines de l'EEAIIT et/ou multiphysique.
+  Capacité : Outils de modélisations et simulation multidomaines
+  Capacité : Ecriture de spécifications fonctionnelles et techniques
+
+  Connaissance : Mise en œuvre de composants ou sous ensemble fonctionnels, Prototypage
+  Connaissance : utilisation CAO / DAO, simulation performance.
+
+PROJET DE FIN D'ETUDE 1 ****************************
+Cet EC relève de l'unité d'enseignement  (UE53) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  Capacité : Etre capable de travailler avec différents services ou sur plusieurs affaires en respectant l'organisation, les délais et les contraintes de chacun.
+  Capacité : Etre capable de chiffrer /budgeter/estimer les coûts en autonomie
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+  Capacité : Pilotage d'un projet en autonomie avec réalisation du découpage en sous tâche et élaboration d'un Gantt.
+
+B3 Interagir avec les autres, travailler en équipe (niveau )
+
+  Capacité : Etre capable d'animer une réunion en autonomie
+  Capacité : Savoir mobiliser les acteurs pour faire aboutir son projet
+
+C9 Mettre en œuvre ses compétences scientifiques et technologiques dans le domaine de l'EEAIIT dans un cadre industriel et appliqué à des problématiques réelles en conduisant les étapes du cycle de conception (niveau )
+
+  Capacité : Etre capable de concevoir ou mettre en oeuvre un système électrique en comprenant les enjeux de l'installation complète.
+  Capacité : Intégrer les besoins des autres corps d'ingéniérie.
+  Capacité : Participer à la mise en œuvre complète du cycle en V
+
+PROJET DE FIN D'ETUDE 2 ****************************
+Cet EC relève de l'unité d'enseignement  (UE55) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  Capacité : Etre capable de travailler avec différents services ou sur plusieurs affaires en respectant l'organisation, les délais et les contraintes de chacun.
+  Capacité : Etre capable de chiffrer /budgeter/estimer les coûts en autonomie
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+  Capacité : Pilotage d'un projet en autonomie avec réalisation du découpage en sous tâche et élaboration d'un Gantt.
+
+B3 Interagir avec les autres, travailler en équipe (niveau )
+
+  Capacité : Etre capable d'animer une réunion en autonomie
+  Capacité : Savoir mobiliser les acteurs pour faire aboutir son projet
+
+C9 Mettre en œuvre ses compétences scientifiques et technologiques dans le domaine de l'EEAIIT dans un cadre industriel et appliqué à des problématiques réelles en conduisant les étapes du cycle de conception (niveau )
+
+  Capacité : Etre capable de concevoir ou mettre en oeuvre un système électrique en comprenant les enjeux de l'installation complète.
+  Capacité : Intégrer les besoins des autres corps d'ingéniérie.
+  Capacité : Participer à la mise en œuvre complète du cycle en V
+
+Sciences Humaines et Sociales ****************************
+Cet EC relève de l'unité d'enseignement  (UE47) et contribue aux compétences suivantes :            
+
+A5 Traiter des données (niveau 2)
+
+  Capacité : Intégrer le décalage de règlement ou d’encaissement dans le quotidien de l’entreprise
+  Capacité : Appréhender la rentabilité et l’équilibre financier
+
+  Connaissance : Inition à la gestion
+
+A6 Communiquer une analyse ou une démarche scientifique (niveau 2)
+
+  Capacité : Etablir le budget d’un projet et d’en assurer le suivi (contrôle budgétaire et reporting)
+  Capacité : Lire et de comprendre les états prévisionnels d’une entreprise (plans, budgets
+
+  Connaissance : Initiation à la gestion
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+  Capacité : Comprendre les grands principes du droit du travail
+  Capacité : Comprendre la logique juridique pour pouvoir gérer du personnel
+  Capacité : Savoir choisir un investissement, être capable d’établir son budget, justifier de sa rentabilité et savoir choisir son financement
+
+  Connaissance : Droit : principes du droit, textes de bases….les représetants du personnel, les sanctions
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  Capacité : Comprendre l’intérêt de la comptabilité générale et acquérir les principes de base (bilan, compte de résultat
+  Capacité : Comprendre les notions essentielles de rentabilité et d’équilibre financier
+  Capacité : Connaître les principales notions et outils d’analyse financière
+  Capacité : Apréhender les différents cadres législatifs et réglementaires du droit travail selon le contexte.
+  Capacité : Appréhender  les principales notions et outils d’analyse financière, en lien avec le contexte. (approche internationael et interculturelel)
+
+  Connaissance : Initiation à la gestion: l’entreprise et ses comptes, le bilan et le compte de résultat,
+  Connaissance : Gestion budgétaire:  l'entreprise et la gestion, la gestion prévisionnelle : budgets, plans, comptes prévisionnel
+  Connaissance : Suivi des réalisations : contrôle budgétaire, tableaux de bord, reporting
+  Connaissance : Droit: mener une vielle liée au droit du travail  adaptée à la situation.
+  Connaissance : les bases de la gestion
+  Connaissance : Les bases de la gestion Financière
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B7 Travailler dans un contexte international et interculturel
+Environnement /  Qualité - Sécurité ****************************
+Cet EC relève de l'unité d'enseignement  (UE52) et contribue aux compétences suivantes :            
+
+B5 Agir de manière responsable dans un monde complexe (niveau 2)
+
+  Capacité : Savoir maîtriser les risques liés à l’environnement
+  Capacité : Mettre en évidence les contraintes réglementaires liées à la Sécurité au Travail et leurs conséquences pour l’employeur
+
+  Connaissance : Le rôle des Managers dans le déploiement et l’animation des référentiels
+  Connaissance : Les grands principes liés à la qualité / les riques / la préventionprévention
+  Connaissance : Méthodologie et déploiement de l’analyse des risques
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 1)
+
+  Capacité : Être informé sur la législation environnementale
+  Capacité : Etre en mesure d’être un relai et pilote efficace pour le SMQSEEn de l’entreprise.
+  Capacité : Acquérir des réflexes pour intégrer l’Analyse de Risque au quotidien dans l’entreprise.
+  Capacité : Mettre en évidence ce qui est attendu des managers dans le cadre du pilotage des Systèmes de management d’Entreprise QSE
+  Capacité : Acquérir des réflexes pour intégrer l’Analyse de Risque au quotidien dans l’entreprise.
+  Capacité : Acquérir des réflexes pour intégrer l’Analyse de Risque au quotidien dans l’entreprise.
+  Capacité : Acquérir des réflexes pour intégrer l’Analyse de Risque au quotidien dans l’entreprise.
+  Capacité : Comprendre les enjeux et impératifs du développement durable :
+  Capacité : Identifier l’impact d’une démarche de développement durable sur le fonctionnement de l’entreprise et intégrer les problématiques environnementales dans la conception de produits
+  Capacité : Mettre en évidence les contraintes réglementaires liées à la Sécurité au Travail et leurs conséquences
+  Capacité : Être informé sur la législation environnementale, apprendre à maîtriser les risques liés à l’environnement.
+  Capacité : Acquérir des réflexes pour intégrer l’Analyse de Risque au quotidien dans l’entreprise.
+  Capacité : Acquérir des réflexes pour intégrer l’Analyse de Risque au quotidien dans l’entreprise.
+
+  Connaissance : Le SMQSEEn (Système de Management Qualité Sécurité Environnement Energie)
+  Connaissance : Le Système de Management de l’Entreprise et les référentiels associés
+  Connaissance : Socle réglementaire et légal SST, responsabilité de l’employeur, les acteurs SST
+  Connaissance : Le rôle des Managers dans le déploiement es différentes démarches,  et leurs animations
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+B3 Interagir avec les autres, travailler en équipe
+B4 Faire preuve de créativité, innover, entreprendre
+B7 Travailler dans un contexte international et interculturel

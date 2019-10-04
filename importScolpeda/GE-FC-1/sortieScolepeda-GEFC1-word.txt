@@ -1,0 +1,545 @@
+Automatique 1 ****************************
+Cet EC relève de l'unité d'enseignement  (UE35) et contribue aux compétences suivantes :            
+
+C5 Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données (niveau 2)
+
+  Capacité : Etre capable de mettre en place un régulateur PI ou PID à partir d'un système électronique analogique ou numérique
+
+  Connaissance : Connaître le comportement d'éléments de base utilisés pour la commande (mécanique, électrique et pneumatique)
+
+C6 Mettre en œuvre les étapes permettant le contrôle du fonctionnement d'un système discret ou continu (niveau 2)
+
+  Capacité : Etre capable de rédiger un GRAFCET et un cahier des charges sous forme d'analyse fonctionnelle (GEMMA)
+  Capacité : Etre capable de modéliser des systèmes physiques par Bond-Graph, équations différentielles, fonctions de transfert et représentations d'état
+  Capacité : Etre capable d'analyser des systèmes linéaires, schémas blocs, en boucle ouverte / boucle fermée
+  Capacité : Etre capable d'analyser la stabilité : carte des pôles et zéros, Critère algébrique (Routh), Lieu d'Evans
+  Capacité : Etre capable de régler les paramètres d'un correcteur par calcul ou éxpérimentalement
+
+  Connaissance : Connaître des généralités sur l'Automatique et les technologies mécatroniques
+  Connaissance : Connaître les modes de représentations et d'analyses temporelle et fréquentielle de systèmes du premier et du second ordres
+  Connaissance : Connaître les critères de stabilité des systèmes bouclés : Critère de Nyquist, Critère du revers
+  Connaissance : Connaître les structures élémentaires des correcteurs : P, PI, PD, avance de phase, retard de phase, PID, PID filtré
+
+C7 Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l'information) (niveau 1)
+
+  Capacité : Etre capable d'utiliser les fonctions de base du logiciel Unity pour mettre en place une commande dans un automate programmable industriel
+  Capacité : Etre capable d'utiliser Matlab et Simulink pour faire des simulations temporelles simples et des analyses fréquentielles
+
+  Connaissance : Connaître les bases de certains outils logiciels industriels d'Automatique : Matlab-Simulink, Unity Pro
+  Connaissance : Connaître les notions de base de la norme IEC 61131-3
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B5 Agir de manière responsable dans un monde complexe
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+Electronique et capteurs_Remise à niveau ****************************
+Cet EC relève de l'unité d'enseignement  (UE32) et contribue aux compétences suivantes :            
+
+C1 Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage (niveau 2)
+
+  Capacité : Appliquer les lois fondamentales de l'électricité
+  Capacité : Représenter sous la forme de quadripôle
+  Capacité : Simuler des circuits électroniques
+  Capacité : Mesurer des quantités électriques au sein des circuits électroniques
+  Capacité : Analyser et concevoir des montages amplificateurs avec AOP
+  Capacité : Appréhender l'adaptation en impédance des circuits électroniques
+  Capacité : Analyser des filtres
+  Capacité : Concevoir des filtres
+  Capacité : Représenter sous la forme d'un diagramme de Bode
+
+  Connaissance : Identifier la structure fonctionnelle d'une chaîne électronique
+  Connaissance : Types de filtre
+
+Electronique et Capteurs 1 ****************************
+Cet EC relève de l'unité d'enseignement  (UE32) et contribue aux compétences suivantes :            
+
+C1 Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage (niveau 2)
+
+ Sous compétence : Mettre en œuvre des circuits électroniques
+
+  Capacité : Appliquer les lois fondamentales de l'électricité
+  Capacité : Représenter sous la forme de quadripôle
+  Capacité : Simuler des circuits électroniques
+  Capacité : Mesurer des quantités électriques au sein des circuits électroniques
+
+  Connaissance : Identifier la structure fonctionnelle d'une chaîne électronique
+
+ Sous compétence : Mettre en œuvre des filtres passifs
+
+  Capacité : Analyser des filtres
+  Capacité : Représenter sous la forme d'un diagramme de Bode
+
+  Connaissance : Types de filtre
+
+ Sous compétence : Mettre en œuvre les transistors bipolaires
+
+  Capacité : Sélectionner, dimensionner et interfacer des montages à transistors pour répondre à un cahier des charges
+  Capacité : Identifier les blocs constitutifs dans un circuit complexe à transistors et quantifier leurs performances
+
+  Connaissance : Circuits fondamentaux à base de transistors
+
+C2 Mettre en œuvre les propriétés physiques des matériaux pour le domaine du génie électrique (niveau 1)
+
+ Sous compétence : Mettre en œuvre le transistor bipolaire
+
+  Capacité : Etablir la loi de comportement d'un composant
+  Capacité : Etablir le point de fonctionnemenbt d'un composant
+  Capacité : Etablir un modèle linéarisé d'un composant
+
+  Connaissance : Fonctionnement d'une diode et du transitor bipolaire
+  Connaissance : Polarisation et régimes dynamique et petits signaux
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B5 Agir de manière responsable dans un monde complexe
+Electronique et Capteurs 2 ****************************
+Cet EC relève de l'unité d'enseignement  (UE36) et contribue aux compétences suivantes :            
+
+C1 Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage (niveau 2)
+
+ Sous compétence : Mettre en oeuvre des amplificateurs opérationnels et identifier leur fonction au sein d'un montage
+
+  Capacité : Sélectionner, dimensionner et interfacer des montages à amplificateurs opérationnels pour répondre à un cahier des charges
+  Capacité : Identifier les blocs constitutifs dans un circuit complexe à amplificateurs opérationnels et quantifier leurs performances
+  Capacité : Analyser et appliquer une documentation technique
+
+  Connaissance : Architecture et principe de fonctionnement d’amplificateurs opérationnels
+  Connaissance : Approximations courantes du fonctionnement d'un amplificateur opérationnel
+  Connaissance : Circuits fondamentaux à base d'AOPs
+  Connaissance : Limites et défauts de l'amplificateur opérationnel réel
+
+C5 Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données (niveau 2)
+
+ Sous compétence : Sélectionner, concevoir et réaliser des capteurs et leur interfaçage
+
+  Capacité : Choisir un capteur adapté à une application
+  Capacité : Dimensionner un capteur et/ou son interface pour une application
+  Capacité : Evaluer les incertitudes de mesure et le bruit dans une chaîne électronique
+
+  Connaissance : Types de capteurs, leurs principes physiques et leurs caractéristiques statiques et dynamiques
+  Connaissance : Topologie élémentaire d'une interface d'acquisition et les éléments la constituant
+  Connaissance : Paramètres de base de l’acquisition d’un signal
+
+C6 Mettre en œuvre les étapes permettant le contrôle du fonctionnement d'un système discret ou continu (niveau 1)
+
+ Sous compétence : Mettre en oeuvre l'amplificateur opérationnel en fonctionnement linéaire
+
+  Capacité : Définir le type de contre-réaction
+  Capacité : Quantifier l'impact d'un type de contre-réaction sur les caractéristiques d'un bloc électronique
+
+  Connaissance : Types de contre-réaction et leurs conséquences
+  Connaissance : Application des principes de contre-réaction aux amplificateurs opérationnels
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+B4 Faire preuve de créativité, innover, entreprendre
+Electrotechnique et Electronique de puissance_Remise à niveau ****************************
+Cet EC relève de l'unité d'enseignement  (UE32) et contribue aux compétences suivantes :            
+
+C2 Mettre en œuvre les propriétés physiques des matériaux pour le domaine du génie électrique (niveau 2)
+
+  Capacité : Mettre en œuvre des matériaux ferromagnétiques en régime continu
+  Capacité : Modéliser un circuit magnétique en régime continu
+  Capacité : Mettre en œuvre des aimants permanents dans des circuits magnétiques
+  Capacité : Mettre en œuvre et dimensionner une inductance
+
+  Connaissance : Relations qui couplent l'électrocinétique et le magnétisme
+  Connaissance : Relations qui expliquent les forces d'interaction
+
+C3 Mettre en œuvre les différents éléments de production d'énergie, de transport d'énergie électrique et de conversion d'énergie (niveau 1)
+
+  Capacité : Mettre en œuvre différents dipôles linéaires dans un circuit en monophasé et triphasé
+  Capacité : Mettre en œuvre des circuits à une ou plusieurs mailles en monophasé et triphasé
+  Capacité : Mettre en œuvre des circuits à une ou plusieurs mailles en monophasé et triphasé
+  Capacité : Identifier les schémas de mise à la terre (SLT)
+
+  Connaissance : Calculs des courants de ligne, des puissances apparentes, actives et réactives en monophasé et triphasé
+  Connaissance : Caractérisation et classification des schémas de mise à la terre
+
+Electrotechnique et Electronique de puissance_Niveau 1 ****************************
+Cet EC relève de l'unité d'enseignement  (UE32) et contribue aux compétences suivantes :            
+
+C1 Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage (niveau 2)
+
+  Capacité : Mettre en œuvre un redresseur fonctionnant en quatre quadrants
+  Capacité : Caractériser les séquences de fonctionnement en conduction continue ou discontinue
+  Capacité : Choisir les composants de puissance à mettre en œuvre dans un redresseur
+
+  Connaissance : Topologie des montages redresseur à diode ou thyristor
+  Connaissance : Perturbations harmoniques induites par un redresseur
+  Connaissance : Principales méthodes de commande d'un redresseur à thyristors.
+
+C3 Mettre en œuvre les différents éléments de production d'énergie, de transport d'énergie électrique et de conversion d'énergie (niveau 2)
+
+ Sous compétence : Mettre en œuvre les machines à courant continu : Machines à excitation shunt et série
+
+  Capacité : Modéliser le fonctionnement en régime permanent d'un système entrainé par une machine électrique
+  Capacité : Calculer les grandeurs électriques dans les  enroulements d'une machine
+  Capacité : Câbler, démarrer, contôler la vitesse d'une machine électrique
+
+  Connaissance : Connaitre  la constitution et le principe de fonctionnement
+  Connaissance : Comprendre les interaction entre la machine tournante et le système mécanique associé dans les quatre quadrants
+  Connaissance : Connaitre les schémas équivalents en régime permanent
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+B4 Faire preuve de créativité, innover, entreprendre
+B7 Travailler dans un contexte international et interculturel
+Electronique de puissance et Electrotechnique 2 ****************************
+Cet EC relève de l'unité d'enseignement  (UE36) et contribue aux compétences suivantes :            
+
+C2 Mettre en œuvre les propriétés physiques des matériaux pour le domaine du génie électrique (niveau 2)
+
+ Sous compétence : Mettre en œuvre les matériaux magnétiques dans les transformateurs et machines électriques tournantes
+
+  Capacité : Modéliser le circuit magnétique d’un transformateur ou d'une machine électrique
+  Capacité : Mettre en œuvre et modéliser le couplage magnétique entre deux circuits électriques.
+
+  Connaissance : Pertes magnétiques dans un transformateur
+  Connaissance : Relations entre grandeurs électriques et grandeurs magnétiques au sein d'un transformateur
+
+C3 Mettre en œuvre les différents éléments de production d'énergie, de transport d'énergie électrique et de conversion d'énergie (niveau 2)
+
+ Sous compétence : Mettre en œuvre les machines à courant alternatif : Machine Synchrone et  Asynchrone triphasée
+
+  Capacité : Modéliser le fonctionnement en régime permanent d'un système entrainé par une machine électrique
+  Capacité : Calculer les grandeurs électriques dans les  enroulements d'une machine
+  Capacité : Câbler, démarrer, contôler la vitesse d'une machine électrique
+
+  Connaissance : Connaitre  la constitution et le principe de fonctionnement
+  Connaissance : Comprendre les interactions entre la machine tournante et le système mécanique associé dans les quatre quadrants
+  Connaissance : Connaitre les schémas équivalents en régime permanent et les diagrammes vectoriels associés
+
+ Sous compétence : Mettre en œuvre les transformateurs électriques à couplage magnétique monophasé et triphasé
+
+  Capacité : Modéliser le fonctionnement en régime permanent
+  Capacité : Calculer les grandeurs électriques dans les différnets enroulements
+  Capacité : Schématiser, Caractériser le fonctionnement en régime permanent
+
+  Connaissance : Connaitre  la constitution et le principe de fonctionnement
+  Connaissance : Connaissance du schéma équivalent d'un transformateur
+
+ Sous compétence : Mettre en œuvre la méthode des composantes symétriques pour étudier le fonctionnement d'un réseau triphasé déséquilibré
+
+  Capacité : Utiliser les composantes symétriques pour modéliser un système triphasé déséquilibré
+  Capacité : Calculer et mesurer les impédances cycliques d'un système triphasé simple
+  Capacité : Calculer les courants de court-circuit aux bornes d'un système triphasé simple
+
+  Connaissance : Connaissance des transformations de Fortescue
+  Connaissance : Connaissance des impédances cycliques d'un système triphasé
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+B2 Travailler, apprendre, évoluer de manière autonome
+B5 Agir de manière responsable dans un monde complexe
+Informatique industrielle_Remise à niveau ****************************
+Cet EC relève de l'unité d'enseignement  (UE31) et contribue aux compétences suivantes :            
+
+C1 Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage (niveau 1)
+
+  Capacité : Etre capable de concevoir et d'analyser des systèmes en logique combinatoire
+  Capacité : Etre capable de réaliser des fonctions de multiplexage et démultiplexage
+
+  Connaissance : Algèbre booléenne, Opérateurs et fonctions logiques de base, leurs propriétés
+  Connaissance : Fonctions séquentielles et leurs synthèses
+  Connaissance : Technologie des composants
+
+C5 Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données (niveau 2)
+
+  Capacité : Etre capable de formaliser et simplifier des systèmes en logique combinatoire
+  Capacité : Etre capable de concevoir et d'analyser des systèmes en logique combinatoire
+  Capacité : Etre capable de réaliser des fonctions en logique combinatoire avec des composants standards
+  Capacité : Etre capable de réaliser des fonctions de multiplexage et démultiplexage
+  Capacité : Etre capable de formaliser et simplifier des systèmes en logique séquentielle
+  Capacité : Etre capable de concevoir et analyser des systèmes en logique séquentielle
+
+  Connaissance : Algèbre booléenne, Opérateurs et fonctions logiques de base, leurs propriétés
+  Connaissance : Systèmes de numérations, bases
+  Connaissance : Fonctions séquentielles et leurs synthèses
+  Connaissance : Eléments constitutifs des systèmes logiques séquentiels
+
+C7 Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l'information) (niveau 1)
+
+  Capacité : Etre capable d'appréhender les outils informatiques de l'ingénieur
+  Capacité : Etre capable de développer des logiciels de haut niveau
+
+  Connaissance : Syntaxe élémentaire du langage C/C++
+  Connaissance : Algorithmes standards  (tri, manipulation de tableaux et matrices)
+
+Informatique industrielle 1 ****************************
+Cet EC relève de l'unité d'enseignement  (UE36) et contribue aux compétences suivantes :            
+
+C1 Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage (niveau 2)
+
+  Capacité : Etre capable de concevoir et d'analyser des systèmes en logique combinatoire
+  Capacité : Etre capable de réaliser des fonctions de multiplexage et démultiplexage
+
+  Connaissance : Algèbre booléenne, Opérateurs et fonctions logiques de base, leurs propriétés
+  Connaissance : Fonctions séquentielles et leurs synthèses
+  Connaissance : Technologie des composants
+
+C5 Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données (niveau 2)
+
+  Capacité : Etre capable de formaliser et simplifier des systèmes en logique combinatoire
+  Capacité : Etre capable de concevoir et d'analyser des systèmes en logique combinatoire
+  Capacité : Etre capable de réaliser des fonctions en logique combinatoire avec des composants standards
+  Capacité : Etre capable de réaliser des fonctions de multiplexage et démultiplexage
+  Capacité : Etre capable de formaliser et simplifier des systèmes en logique séquentielle
+  Capacité : Etre capable de concevoir et analyser des systèmes en logique séquentielle
+
+  Connaissance : Algèbre booléenne, Opérateurs et fonctions logiques de base, leurs propriétés
+  Connaissance : Systèmes de numérations, bases
+  Connaissance : Fonctions séquentielles et leurs synthèses
+  Connaissance : Eléments constitutifs des systèmes logiques séquentiels
+
+C7 Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l'information) (niveau 2)
+
+  Capacité : Etre capable d'appréhender les outils informatiques de l'ingénieur
+  Capacité : Etre capable de développer des logiciels de haut niveau sur des systèmes informatiques à ressources contraintes
+  Capacité : Etre capable d'analyser et concevoir un projet informatique
+
+  Connaissance : Syntaxe élémentaire du langage C/C++
+  Connaissance : Algorithmes standards  (tri, manipulation de tableaux et matrices)
+  Connaissance : Notions fondamentales des Systèmes d'Exploitation et de la compilation
+  Connaissance : Notions fondamentales de la compilation
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B3 Interagir avec les autres, travailler en équipe
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive
+Langue vivante ****************************
+Cet EC relève de l'unité d'enseignement  (UE37) et contribue aux compétences suivantes :            
+
+B7 Travailler dans un contexte international et interculturel (niveau 2)
+
+  Capacité : Maitriser les fondamentaux de la langue
+  Capacité : Se débrouiller dans la plupart des situations rencontrées en voyage dans une région où l’anglais est parlé
+  Capacité : Produire des discours simples et cohérents sur des sujets familiers et dans vos domaines d'intérêt
+
+  Connaissance : Lexique, syntaxe, grammaire
+  Connaissance : Experession orale
+  Connaissance : Expression écrite
+
+Mathématiques_Remise à niveau ****************************
+Cet EC relève de l'unité d'enseignement  (UE31) et contribue aux compétences suivantes :            
+
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 2)
+
+  Capacité : Utiliser et mettre en oeuvre outils mathématiques fondamentaux
+  Capacité : Maitriser les outils mathématiques fondamentaux liés au Génie Electrique
+
+  Connaissance : Complexes, Etudes de fonctions
+  Connaissance : Polynomes, Fonctions rationnelles, Développement limités
+  Connaissance : Matrices, Résolution de systèmes
+
+A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+
+  Capacité : Analyser un problème, le formaliser  et savoir le mettre en équation
+  Capacité : Maitriser des méthodes de calcul mathématique
+
+  Connaissance : Complexes, Etudes de fonctions
+  Connaissance : Polynomes, Fonctions rationnelles, Développement limités
+  Connaissance : Matrices, Résolution de systèmes
+
+PERIODE EN ENTREPRISE 1 ****************************
+Cet EC relève de l'unité d'enseignement  (UE34) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  Capacité : Comprendre le fonctionnement global de l'entreprise et du service d'accueil. Etre capable de la représenter à l'extérieur.
+  Capacité : Présenter à l'écrit comme à l'oral l'entreprise, et les spécificités de son service
+  Capacité : Respecter les règles de  fonctionnement du service.
+
+  Connaissance : Organisation d'un milieu professionnel
+
+B3 Interagir avec les autres, travailler en équipe (niveau )
+
+  Capacité : Etre capable de communiquer avec des spécialistes et des non spécialistes et différents niveaux de hiérarchie.
+  Capacité : Etre capable de reformuler son problème de manière claire à l'écrit comme à l'oral. Faire un reporting efficient.
+  Capacité : mettre en œuvre des composants et fonctions unitaires connus ou existants.
+
+  Connaissance : communication, reporting
+  Connaissance : Relations humaines, intégration dans équipe
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+C9 Mettre en œuvre ses compétences scientifiques et technologiques dans le domaine de l'EEAIIT dans un cadre industriel et appliqué à des problématiques réelles en conduisant les étapes du cycle de conception
+PERIODE EN ENTREPRISE 2 ****************************
+Cet EC relève de l'unité d'enseignement  (UE38) et contribue aux compétences suivantes :            
+
+B6 Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive (niveau 2)
+
+  Capacité : Comprendre le fonctionnement global de l'entreprise et du service d'accueil. Etre capable de la représenter à l'extérieur. Respecter les règles de fonctionnement du service.
+  Capacité : Produire le travail dans le temps imparti. Savoir chercher l'information auprès des bonnes personnes.
+  Capacité : Comprendre la stratégie commerciale de l'entreprise. Participer à des rencontres avec les clients et/ou les fournisseurs
+
+  Connaissance : Organisation d'un milieu professionnel
+
+B2 Travailler, apprendre, évoluer de manière autonome (niveau 2)
+
+  Capacité : Respecter les objectifs et le planning prévisionnel fixé par le projet.
+  Capacité : Formaliser avec le Maitre d'Apprentissageles objectifs avec des indicateurs de résultats et un planning prévisionnel pour son travail personnel
+
+  Connaissance : Gestion du temps
+  Connaissance : Démarche projet
+
+B3 Interagir avec les autres, travailler en équipe (niveau )
+
+  Capacité : Etre capable de communiquer avec des spécialistes et des non spécialistes et différents niveaux de hiérarchie.
+  Capacité : Etre capable de reformuler son problème de manière claire à l'écrit comme à l'oral. Faire un reporting efficient.
+  Capacité : Faire preuve d'esprit d'équipe et de proactivité.
+
+  Connaissance : communication, reporting
+  Connaissance : Relations humaines, intégration dans équipe
+
+C9 Mettre en œuvre ses compétences scientifiques et technologiques dans le domaine de l'EEAIIT dans un cadre industriel et appliqué à des problématiques réelles en conduisant les étapes du cycle de conception (niveau )
+
+  Capacité : Etre associé à une étape du cycle en V
+  Capacité : mettre en œuvre des composants et fonctions unitaires connus ou existants.
+  Capacité : Utiliser des outils de CAO et DAO élémentaires
+  Capacité : Réaliser un prototype
+  Capacité : Simuler les performances attendues
+
+  Connaissance : Mise en œuvre de composants ou sous ensemble fonctionnels, Prototypage
+  Connaissance : utilisation CAO / DAO, simulation performance.
+
+Signaux, Systèmes et Mathématique des Transformées ****************************
+Cet EC relève de l'unité d'enseignement  (UE31) et contribue aux compétences suivantes :            
+
+C4 Spécifier, modéliser et concevoir les méthodes et algorithmes pour le traitement et la gestion de l'information véhiculée par les signaux et les images (niveau 2)
+
+  Capacité : Etre capable de comprendre et d'appliquer les transformées de Fourier, Laplace et z
+
+  Connaissance : Savoir manipuler les signaux et calculer les grandeurs caractéristiques de ces signaux
+  Connaissance : Savoir calculer les transformées de signaux usuels
+  Connaissance : Savoir appliquer les transformées de Laplace et z à la résolution des équations différentielles et aux différences
+
+C6 Mettre en œuvre les étapes permettant le contrôle du fonctionnement d'un système discret ou continu (niveau 2)
+
+  Capacité : Etre capable de déterminer les propriétés d'un système discret ou continu
+  Capacité : Etre capable d'analyser le comportement interne du système en temps et en fréquence
+
+  Connaissance : Comprendre l'interaction entrée sortie du système
+  Connaissance : Savoir mettre en équation un système continu ou discret
+  Connaissance : Savoir déterminer la réponse impulsionnelle d'un système et sa réponse harmonique
+  Connaissance : Savoir déterminer le régime forcé, le régime libre, la fonction de transfert, la stabilité d'un système
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A3 Mettre en œuvre une démarche expérimentale
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+A6 Communiquer une analyse ou une démarche scientifique
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
+Télécommunications et réseaux_Remise à niveau ****************************
+Cet EC relève de l'unité d'enseignement  (UE31) et contribue aux compétences suivantes :            
+
+C5 Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données (niveau 2)
+
+  Capacité : Mettre en œuvre une liaison série asynchrone
+  Capacité : Appréhender les appects physiques des transmissions numériques
+  Capacité : Appréhender le rôle des différentes couches du modèle réseau TCP/IP
+  Capacité : Analyser un plan d'adressage IP
+
+  Connaissance : Caractéristiques du format asynchrone de transmission
+  Connaissance : Aspects physique, contrôle de flux
+  Connaissance : Caractéristiques d'une trame Ethernet
+  Connaissance : Modèles OSI et TCP/IP, Encapsulation des données, Principaux protocoles réseaux
+  Connaissance : Adressage IP, masques, classes réseau, …
+
+Télécommunications 1 ****************************
+Cet EC relève de l'unité d'enseignement  (UE35) et contribue aux compétences suivantes :            
+
+C1 Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d'un montage (niveau 2)
+
+  Capacité : Conception et analyse de lignes de transmission
+  Capacité : Conception de dispositifs d'adaptation
+
+  Connaissance : Différents types de lignes de transmission
+  Connaissance : Différents régimes: sinuisoidal, impulsionnel
+  Connaissance : Différents régimes d'ondes: progressive, stationnaire, etc.
+  Connaissance : Abaque de Smith
+
+C2 Mettre en œuvre les propriétés physiques des matériaux pour le domaine du génie électrique (niveau 2)
+
+  Capacité : Déterminer les caractéristiques électriques d'une ligne de transmission à partir de ses paramètres physiques
+
+  Connaissance : Différents types de lignes de transmission
+  Connaissance : Calculs des paramètres primaires et secondaires d'une ligne de transmission
+  Connaissance : Equations des télégraphistes
+
+C3 Mettre en œuvre les différents éléments de production d'énergie, de transport d'énergie électrique et de conversion d'énergie (niveau 1)
+
+  Capacité : Savoir évaluer le transfert de puissance sur une ligne et entre des composants hautes fréquences
+
+  Connaissance : Ondes de puissance, coefficients de réflexion/transmission
+
+C5 Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données (niveau 2)
+
+  Capacité : Utilisation d'outils de simulation radio-fréquences
+  Capacité : Manipulation des échelles décibels
+
+  Connaissance : Formalisme des paramètres S d'un système
+  Connaissance : Outils de mesure hautes fréquences
+  Connaissance : Différents types de lignes de transmission
+
+
+De plus, elle nécessite de mobiliser les compétences suivantes :
+
+A1 Analyser un système (ou un problème) réel ou virtuel
+A2 Exploiter un modèle d'un système réel ou virtuel
+A4 Concevoir un système répondant à un cahier des charges
+A5 Traiter des données
+B1 Se connaître, se gérer physiquement et mentalement
+B2 Travailler, apprendre, évoluer de manière autonome
+B3 Interagir avec les autres, travailler en équipe
