@@ -26,15 +26,21 @@ insertDetail = () ->
     if _.isEmpty(currentMat.competencesM)
       currentMat.competencesM = []
 
-    competence = data.field6.replace(/"/g,'').replace('oe', 'œ').trim()
+    competence = data.field6.replace(/"/g,'').replace(/’/g, '\'').replace('oe', 'œ').trim()
 
-    # console.log '->', competence
+    #console.log '->', competence, data
 
     [,ref,detail] = /(\w\d) (.*)/.exec(competence)
     if ref > 'B99'
       ref = "TC-#{ref}"
     if not refCompetences[ref] or refCompetences[ref].val isnt detail
       console.error("COMPETENCE ERREUR", currentMat, ref, JSON.stringify competence,null, 2)
+      console.error(ref)
+      console.error(detail)
+      console.error(refCompetences[ref])
+      console.error(refCompetences[ref].val)
+
+
       process.exit()
     else
       if data.field7 is 'M'
@@ -86,6 +92,7 @@ insertDetail = () ->
 insertDetail()
 .then () ->
   # console.log(matieres)
+  matieres.push(currentMat)
   matieres.forEach (matiere) ->
     console.log("#{matiere.nom} ****************************")
     console.log("Cet EC relève de l'unité d'enseignement #{matiere.ueName} (#{matiere.ueCode}) et
