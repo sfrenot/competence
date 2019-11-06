@@ -15,7 +15,7 @@
     "express-session": "^1.15.6",
     "json2xls": "^0.1.2",
     "lodash": "^4.17.4",
-    "mongoose": "^4.13.6",
+    "mongoose": "^5.7.5",
     "request-promise": "^4.2.2",
     "xlsx": "^0.15.1"
   },
