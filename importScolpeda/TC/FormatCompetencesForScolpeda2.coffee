@@ -28,7 +28,7 @@ insertDetail = () ->
 
     competence = data.field6.replace(/"/g,'').replace(/’/g, '\'').replace('oe', 'œ').trim()
 
-    #console.log '->', competence, data
+    # console.log '->', competence, data
 
     [,ref,detail] = /(\w\d) (.*)/.exec(competence)
     if ref > 'B99'

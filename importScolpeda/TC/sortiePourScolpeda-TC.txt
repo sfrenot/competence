@@ -872,59 +872,38 @@ C9 Conduire des projets dans le domaine du numérique (niveau 2)
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
 B2 Travailler, apprendre, évoluer de manière autonome
-PRS ****************************
+SYD ****************************
 Cet EC relève de l'unité d'enseignement Réseaux et Systèmes distribués (TC-4-S1-RSD) et contribue aux compétences suivantes :            
 
-A3 Mettre en œuvre une démarche expérimentale (niveau 2)
+C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 3)
 
-  Capacité : Adapter les parametres d'une couche transport à des scénarios donnés
-  Capacité : Mesure du debit d'une connexion TCP
+  Capacité : Concevoir un système distribué sans mémoire centrale de type RPC
+  Capacité : Implanter une chaîne de transaction prouvée à concensus dynamique type Bitcoin
+  Capacité : Implémenter un réseau P2P de gestion de tables de hash type Chord
+  Capacité : Analyser les biais de sécurité d’un système distribué
 
-  Connaissance : Evaluation de performances, tests, mesures
+  Connaissance : Principes définissant les systèmes distribués concernant la mémoire globale et le temps
+  Connaissance : Vocabulaire associé aux grands algorithmes distribués et à la tolérance de panne
+  Connaissance : Algorithmes et résultats de référence en distribué : FLP, Paxos, Bitcoin, 2PC
+  Connaissance : Mécanisme de synchronisation temporel associé aux horloges de Lamport et vectorielles
+  Connaissance : Protocoles distribués, Transactions, Consensus, Délais
 
-C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles (niveau 3)
+A2 Exploiter un modèle d'un système réel ou virtuel (niveau 1)
 
-  Capacité : Concevoir et développer une couche réseau transport adaptée à des scénarios donnés
+  Capacité : Conception de mécanismes d'invocations de procédures distantes
 
-  Connaissance : Couche transport: rôle, mécanismes de base, services offerts
-  Connaissance : Les protocoles TCP et UDP
-  Connaissance : Les notions de contrôle de flux et contrôle de congestion
-  Connaissance : Principe de contrôle de bout en bout
+  Connaissance : Réseau P2P : chord, bittorrent
+  Connaissance : Raft, Bitcoin
 
-C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 3)
+C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2)
 
-  Capacité : Implanter des architectures réseau en utilisant l'API Sockets
-
-  Connaissance : Concept de socket
-  Connaissance : Appels système
-  Connaissance : Architecture client-serveur
+  Connaissance : RPC
+  Connaissance : PageRank
 
 
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
-A1 Analyser un système (ou un problème) réel ou virtuel
-A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
-B2 Travailler, apprendre, évoluer de manière autonome
-B3 Interagir avec les autres, travailler en équipe
-ASY ****************************
-Cet EC relève de l'unité d'enseignement Réseaux et Systèmes distribués (TC-4-S1-RSD) et contribue aux compétences suivantes :            
-
-C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques (niveau 3)
-
-  Capacité : Savoir comparer différentes architectures distribuées
-
-  Connaissance : Base de Docker
-  Connaissance : Base de Spring
-  Connaissance : Vocabulaire lié à l'architecture des systèmes informatiques
-  Connaissance : Problématiques liés aux grands systèmes
-  Connaissance : Sun RPC, RMI, DCOM
-
-C8 Opérer, analyser, améliorer des systèmes numériques (niveau 2)
-
-
-De plus, elle nécessite de mobiliser les compétences suivantes :
-
-A6 Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité
+A4 Concevoir un système répondant à un cahier des charges
 GES1 ****************************
 Cet EC relève de l'unité d'enseignement Gestion de projet entrepreneurial responsable (TC-4-S1-GESPER) et contribue aux compétences suivantes :            
 
@@ -1004,64 +983,39 @@ B5 Agir de manière responsable dans un monde complexe (niveau 1)
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
 B2 Travailler, apprendre, évoluer de manière autonome
-SYD ****************************
+INR ****************************
 Cet EC relève de l'unité d'enseignement Développement et sécurité (TC-4-S2-DEV) et contribue aux compétences suivantes :            
 
-C2 Spécifier, concevoir et modéliser des réseaux de communication et des protocoles (niveau 3)
+A1 Analyser un système (ou un problème) réel ou virtuel (niveau 1)
 
-  Capacité : Concevoir un système distribué sans mémoire centrale de type RPC
-  Capacité : Implanter une chaîne de transaction prouvée à concensus dynamique type Bitcoin
-  Capacité : Implémenter un réseau P2P de gestion de tables de hash type Chord
-  Capacité : Analyser les biais de sécurité d’un système distribué
+  Capacité : Enjeux de la consommation numérique
 
-  Connaissance : Principes définissant les systèmes distribués concernant la mémoire globale et le temps
-  Connaissance : Vocabulaire associé aux grands algorithmes distribués et à la tolérance de panne
-  Connaissance : Algorithmes et résultats de référence en distribué : FLP, Paxos, Bitcoin, 2PC
-  Connaissance : Mécanisme de synchronisation temporel associé aux horloges de Lamport et vectorielles
-  Connaissance : Protocoles distribués, Transactions, Consensus, Délais
+  Connaissance : Consommation Energétique
+  Connaissance : Mesure consommation machine
+  Connaissance : Mesure consommation réseau
+  Connaissance : Plugin de mesure Web
+  Connaissance : Compression numérique
 
-A2 Exploiter un modèle d'un système réel ou virtuel (niveau 1)
+A4 Concevoir un système répondant à un cahier des charges (niveau 3)
 
-  Capacité : Conception de mécanismes d'invocations de procédures distantes
+  Capacité : EcoConception
 
-  Connaissance : Thrift
-  Connaissance : Réseau P2P : chord, bittorrent
-  Connaissance : Raft, Bitcoin
-
-
-De plus, elle nécessite de mobiliser les compétences suivantes :
-
-C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques
-C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques
-C6 Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles
-MGL ****************************
-Cet EC relève de l'unité d'enseignement Développement et sécurité (TC-4-S2-DEV) et contribue aux compétences suivantes :            
+  Connaissance : Normes et labels
 
 C9 Conduire des projets dans le domaine du numérique (niveau 3)
 
-  Capacité : Savoir présenter et communiquer sur un système informatique complexe avec les outils du génie logiciel
-  Capacité : Comprendre les enjeux liés à la vérification de programmes informatiques. Principalement liés à l'opposition entre un code prouvé formellement et un code testé
-  Capacité : Comprendre les grandes lignes de la gestion de projet informatique.
-  Capacité : Comprendre les cycles de vie du produit logiciel
+  Connaissance : Analyse du cycle de vie des systèmes numériques
 
-  Connaissance : Représentation et utilisation des Schemas UML pour représenter une architecture IT
-  Connaissance : Approches formelles. Langage B
-  Connaissance : Utilisation des Designs patterns logiciels pour décrire un programme
-  Connaissance : Développement Agile et méthode SCRUM
-  Connaissance : Objets Calistenics
+B5 Agir de manière responsable dans un monde complexe (niveau 1)
 
-C7 Mettre en œuvre, réaliser, développer, déployer des programmes informatiques (niveau 2)
-
-  Capacité : Développement par les tests
-  Capacité : Abstraction formelle d'un système
-
-  Connaissance : Programmation Junit, TDD
-  Connaissance : Langage B
+  Capacité : Enjeux éthiques et IA
+  Capacité : Enquête territoire sur la consommation
 
 
 De plus, elle nécessite de mobiliser les compétences suivantes :
 
-C3 Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques
+A5 Traiter des données
+C8 Opérer, analyser, améliorer des systèmes numériques
 ARM ****************************
 Cet EC relève de l'unité d'enseignement Réseau Avancé (TC-4-S2-RA) et contribue aux compétences suivantes :            
 
