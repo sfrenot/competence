@@ -28,10 +28,17 @@ courses.forEach (departement) ->
             process.exit(1)
 
 _.forEach refs, (value, key) ->
-  delete refs.valAnglais
-  delete refs.bs
-  if value.connaissances? or value.capacites?
+  delete value.valAnglais
+  delete value.bs
+  delete value.code
+  if _.isEmpty(value.connaissances)
+    delete value.connaissances
+  if _.isEmpty(value.capacites)
+    delete value.capacites
+    
+  if value.connaissances?
     value.connaissances = _.uniq(value.connaissances)
+  else if value.capacites?
     value.capacites = _.uniq(value.capacites)
   else
     delete refs[key]
