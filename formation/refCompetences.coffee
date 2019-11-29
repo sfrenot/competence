@@ -252,6 +252,43 @@ module.exports =
     code: 'C9'
     val: 'Mettre en œuvre ses compétences scientifiques et technologiques dans le domaine de l\'EEAIIT dans un cadre industriel et appliqué à des problématiques réelles en conduisant les étapes du cycle de conception'
     valAnglais: 'Apply scientific and technological competences in the field of the EEAIIT in an industrial framework and to real problems by leading the stages of the cycle of conception'
+  'GEA-C1':
+    code: 'C1'
+    val: 'Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d\'un montage'
+    valAnglais: 'Implement analog and / or digital electronic components and identify their function within an assembly'
+  'GEA-C2':
+    code: 'C2'
+    val: 'Mettre en œuvre les propriétés physiques des matériaux pour le domaine du génie électrique'
+    valAnglais: 'Implement the physical properties of materials for the field of electrical engineering'
+  'GEA-C3':
+    code: 'C3'
+    val: 'Mettre en œuvre les différents éléments de production d\'énergie, de transport d\'énergie électrique et de conversion d\'énergie'
+    valAnglais: 'Implement the various elements of energy production, transport of electrical energy and energy conversion'
+  'GEA-C4':
+    code: 'C4'
+    val: 'Spécifier, modéliser et concevoir les méthodes et algorithmes pour le traitement et la gestion de l\'information véhiculée par les signaux et les images'
+    valAnglais: 'Specify, model and design methods and algorithms for the processing and management of information conveyed by signals and images'
+  'GEA-C5':
+    code: 'C5'
+    val: "Concevoir et réaliser des systèmes électroniques pour l'acquisition, le traitement, la commande et la communication de données"
+    valAnglais: 'Design and build electronic systems for data acquisition, processing, control and communication'
+  'GEA-C6':
+    code: 'C6'
+    val: 'Mettre en œuvre les étapes permettant le contrôle du fonctionnement d\'un système discret ou continu'
+    valAnglais: 'Implement steps to control the operation of a discrete or continuous system'
+  'GEA-C7':
+    code: 'C7'
+    val: 'Concevoir et développer des logiciels haut et bas niveau pour des systèmes (traitement et gestion de l\'information)'
+    valAnglais: 'Design and develop high and low level software for systems (information processing and management)'
+  'GEA-C8':
+    code: 'C8'
+    val: 'Mettre en œuvre des principes et stratégies d\'ordonnancements des tâches et de gestion'
+    valAnglais: 'Implement principles and strategies for scheduling tasks and managing'
+  'GEA-C9':
+    code: 'C9'
+    val: 'Mettre en œuvre ses compétences scientifiques et technologiques dans le domaine de l\'EEAIIT dans un cadre industriel et appliqué à des problématiques réelles en conduisant les étapes du cycle de conception'
+    valAnglais: 'Apply scientific and technological competences in the field of the EEAIIT in an industrial framework and to real problems by leading the stages of the cycle of conception'
+
   'GI-C7':
     val: 'Observer, mesurer, analyser et interpréter une activité ou un système à partir de données'
     code: 'C7'
