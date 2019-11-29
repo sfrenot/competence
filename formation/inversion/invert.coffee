@@ -20,9 +20,9 @@ courses.forEach (departement) ->
           refComp.connaissances = []
         list.forEach (elem) ->
           if elem.startsWith('Capacité : ')
-            refComp.capacites.push("#{elem.substring('Capacité : '.length)} (#{ec.detail.code})")
+            refComp.capacites.push(["#{elem.substring('Capacité : '.length)}", "#{ec.detail.code}"])
           else if elem.startsWith('Connaissance : ')
-            refComp.connaissances.push("#{elem.substring('Connaissance : '.length)} (#{ec.detail.code})")
+            refComp.connaissances.push(["#{elem.substring('Connaissance : '.length)}", "#{ec.detail.code}"])
           else
             console.error("Connaissance ou capacité mal exprimée #{elem}")
             process.exit(1)
@@ -35,7 +35,7 @@ _.forEach refs, (value, key) ->
     delete value.connaissances
   if _.isEmpty(value.capacites)
     delete value.capacites
-    
+
   if value.connaissances?
     value.connaissances = _.uniq(value.connaissances)
   else if value.capacites?
@@ -43,4 +43,10 @@ _.forEach refs, (value, key) ->
   else
     delete refs[key]
 
-console.log JSON.stringify refs
+# console.log JSON.stringify refs
+_.forEach refs, (value, key) ->
+  console.log("#{key} : #{value.val}\t\t")
+  value.capacites?.forEach (val) ->
+    console.log("Capacité\t#{val[0]}\t#{val[1]}")
+  value.connaissances?.forEach (val) ->
+    console.log("Connaissance\t#{val[0]}\t#{val[1]}")
