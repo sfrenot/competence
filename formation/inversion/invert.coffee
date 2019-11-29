@@ -14,6 +14,8 @@ courses.forEach (departement) ->
         unless refComp
           console.error("Compétence introuvable #{competence}")
           process.exit(1)
+        unless refComp.niveau?
+          refComp.niveau = 0
         unless refComp.capacites?
           refComp.capacites = []
         unless refComp.connaissances?
@@ -26,6 +28,9 @@ courses.forEach (departement) ->
           else
             console.error("Connaissance ou capacité mal exprimée #{elem}")
             process.exit(1)
+        #Ajout niveaux
+        refComp.niveau += Number((_.find ec.detail.listeComp, {"code": refComp.code}).niveau)
+
 
 _.forEach refs, (value, key) ->
   delete value.valAnglais
@@ -45,7 +50,7 @@ _.forEach refs, (value, key) ->
 
 # console.log JSON.stringify refs
 _.forEach refs, (value, key) ->
-  console.log("#{key} : #{value.val}\t\t")
+  console.log("#{key} : #{value.val}\t #{value.niveau}\t")
   value.capacites?.forEach (val) ->
     console.log("Capacité\t#{val[0]}\t#{val[1]}")
   value.connaissances?.forEach (val) ->

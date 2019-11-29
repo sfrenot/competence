@@ -1,4 +1,4 @@
-A1 : Analyser un système (ou un problème) réel ou virtuel		
+A1 : Analyser un système (ou un problème) réel ou virtuel	 9	
 Capacité	Analyser un standard : identifier les différentes fonctions et leurs rôles	TC-4-T-CNA
 Capacité	Comprendre les nouvelles technologies	TC-4-T-CNA
 Capacité	Anticiper sur les évolutions technologiques à venir pour les systèmes radio	TC-4-T-CNA
@@ -13,7 +13,7 @@ Connaissance	Perspective historique sur l'évolution du RTC et des technologies 
 Connaissance	Générations de technologies xDSL	TC-4-T-BLF
 Connaissance	Rentabiliser, convergence	TC-4-T-BLF
 Connaissance	Usage et mise en œuvre d'un IDS	TCA-5-OP4-SRS
-A2 : Exploiter un modèle d'un système réel ou virtuel		
+A2 : Exploiter un modèle d'un système réel ou virtuel	 8	
 Capacité	Modéliser une expérience aléatoire : univers, évènement, variables aléatoire, signal aléatoire	TC-3-R-PBS
 Capacité	Exploiter la modélisation statistique d'un problème pour le résoudre en calculant une probablité, une espérance, la dsp d'un signal aléatoire, etc	TC-3-R-PBS
 Capacité	Savoir mettre en place une approche scientifique permettant l'analyse des performances d'un système en modélisant correctement le système et les entrées et en calculant et analysant des métriques de performance en sortie	TC-4-R-PRF
@@ -32,14 +32,14 @@ Connaissance	Paxos	TC-4-I-SYD
 Connaissance	Raft	TC-4-I-SYD
 Connaissance	Programmation C embarqués	TC-5-OP3-BED
 Connaissance	Gestionnaire d'interruption, pilotes de périphériques, OS léger	TC-5-OP3-BED
-A3 : Mettre en œuvre une démarche expérimentale		
+A3 : Mettre en œuvre une démarche expérimentale	 5	
 Capacité	Déployer et configurer un réseau local	TC-3-R-IP
 Capacité	Câbler, manipuler une baie de brassage	TC-3-R-IP
 Capacité	Utiliser le logiciel Wireshark pour collecter et analyser des traces	TC-3-R-IP
 Capacité	Mesurer les performances d'un réseau local	TC-3-R-IP
 Capacité	Concevoir un banc de test permettant de mettre en évidence expérimentalement un aspect connu de façon théorique	TC-4-T-PSC
 Capacité	Concevoir une procédure de test et d'évaluation du système complet en fonction de critères pertinents. Par exemple, évaluer : le taux d'erreur binaire, le débit atteint, le nombre d'utilisateurs, etc;  en fonction de : la longueur d'une ligne ADSL, la charge d'une zone donnée desservie par un AP wifi, la norme de référence utilisée, etc etc	TC-4-T-PSC
-A4 : Concevoir un système répondant à un cahier des charges		
+A4 : Concevoir un système répondant à un cahier des charges	 8	
 Capacité	Savoir manipuler la plateforme IoT-lab	TC-5-OP2-SCP
 Capacité	Programmer des capteurs communicants	TC-5-OP2-SCP
 Capacité	Collecter des données de capteurs et d'usage du réseau	TC-5-OP2-SCP
@@ -79,7 +79,7 @@ Connaissance	Mode d'exécutions et privilèges CPU	TC-5-OP3-OSA
 Connaissance	Appels système	TC-5-OP3-OSA
 Connaissance	Isolation noyau/application	TC-5-OP3-OSA
 Connaissance	Changement de contexte	TC-5-OP3-OSA
-A5 : Traiter des données		
+A5 : Traiter des données	 15	
 Capacité	Prototyper un flot de traitements de données en python.	TC-3-I-ELP
 Capacité	Choisir une structure de données pour implémenter un algorithme	TC-3-I-CRO
 Capacité	Modéliser, concevoir et interroger un système d'information	TC-3-I-WEB
@@ -103,7 +103,7 @@ Connaissance	Comprendre l'écosystème de calcul scientifique en Python	TC-5-TR-
 Connaissance	Comprendre les principes algorithmiques de l'apprentissage statistique et neuronal	TC-5-TR-CSAD
 Connaissance	Comprendre les infrastructures de calcul distribué (Data_Form et cloud) et leurs usages	TC-5-TR-CSAD
 Connaissance	Comprendre les algorithmes de détection de communautés appliqués aux graphes aléatoires, temporels, small world et "scale-free".	TC-5-TR-CSAD
-A6 : Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité		
+A6 : Communiquer une analyse ou une démarche scientifique avec des mises en situation adaptées à leur spécialité	 9	
 Capacité	Modéliser une expérience aléatoire : univers, évènement, variables aléatoire, signal aléatoire	TC-3-R-PBS
 Capacité	S'insérer dans une équipe de recherche	TC-3-P-PTIR
 Capacité	Travailler en groupe (avec 4 autres étudiants)	TC-3-P-PTIR
@@ -134,9 +134,9 @@ Connaissance	Maîtriser les outils de programmation embarqué: JTAG, UART, ether
 Connaissance	Programmation C embarqués	TC-5-OP3-BED
 Connaissance	Gestionnaire d'interruption, pilotes de périphériques, OS léger	TC-5-OP3-BED
 Connaissance	Administration linux	TC-5-OP3-BED
-B1 : Se connaître, se gérer physiquement et mentalement		
+B1 : Se connaître, se gérer physiquement et mentalement	 2	
 Capacité	Présenter des résultats scientifiques à l'écrit, à l'oral et sous forme de poster	TC-3-P-ASDS
-B2 : Travailler, apprendre, évoluer de manière autonome		
+B2 : Travailler, apprendre, évoluer de manière autonome	 6	
 Capacité	Savoir trouver des documents pertinents et fiables par rapport à un problème posé	TC-3-P-ASDS
 Capacité	Analyser la structure et le contenu des différents documents scientifiques	TC-3-P-ASDS
 Capacité	Savoir situer un résultat dans un état de l'art	TC-3-P-ASDS
@@ -146,7 +146,7 @@ Connaissance	Connaitre des différents types de documents scientifiques, savoir 
 Connaissance	Connaitre la structure des différents documents scientifiques	TC-3-P-ASDS
 Connaissance	Savoir où et comment chercher un document pertinent sur un sujet donné	TC-3-P-ASDS
 Connaissance	Connaitre des règles de présentation de résultats scientifiques	TC-3-P-ASDS
-B3 : Interagir avec les autres, travailler en équipe		
+B3 : Interagir avec les autres, travailler en équipe	 6	
 Capacité	Effectuer une veille technologique sur les frameworks web	TC-3-I-PWEB
 Capacité	Mode¿liser, concevoir un syste¿me d'information	TC-3-I-PWEB
 Capacité	Intégrer différents outils/frameworks web de programmation front/back-end	TC-3-I-PWEB
@@ -160,7 +160,7 @@ Connaissance	Modèles de structuration d'application Web (MVC, MVT, Microservice
 Connaissance	Artistes et specifieurs	TC-3-P-PALE
 Connaissance	Marshmallow Challenge	TC-3-P-PALE
 Connaissance	timeline, communicaton, organisation, suivi	TC-4-T-PSC
-B5 : Agir de manière responsable dans un monde complexe		
+B5 : Agir de manière responsable dans un monde complexe	 4	
 Capacité	Enjeux éthiques de la cryptographie	TC-4-I-CSC
 Capacité	Evaluer les apports et limites d'un enjeu socio-technique	TC-5-TR-HOPE
 Capacité	Transmettre les résultats d'une étude sous forme de partage collectif	TC-5-TR-HOPE
@@ -169,7 +169,7 @@ Connaissance	Architectures de gestion de clé (CA, DANE/TLSA, PGP)	TC-4-I-CSC
 Connaissance	Coûts de chiffrement/déchiffrement/attaque	TC-4-I-CSC
 Connaissance	Éthique, cryptographie, vie privée	TC-4-I-CSC
 Connaissance	Etude sociologique de terrain	TC-5-TR-HOPE
-B6 : Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive		
+B6 : Se situer, travailler, évoluer dans une entreprise, une organisation socio-productive	 9	
 Capacité	Analyser les dimensions technique, sociologique et économique des télécommunications	TC-3-H-CTC1
 Capacité	Réaliser une recherche documentaire	TC-3-H-CTC1
 Capacité	Réaliser une présentation adaptée à la cible	TC-3-H-CTC1
@@ -194,7 +194,7 @@ Connaissance	Connaissance du secteur et des métiers des Technologies de l'Infor
 Connaissance	Notions de savoir être, code en entreprise	TC-4-S-ENT
 Connaissance	Notions de relations manager, équipe, collaborateur	TC-4-S-ENT
 Connaissance	Management de projet, méthodologie Agile	TC-4-S-ENT
-TC-C1 : Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données		
+TC-C1 : Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données	 32	
 Capacité	Dimensionner et évaluer des codeurs (source/canal)	TC-3-T-CMN
 Capacité	Réaliser une modélisation et une analyse fonctionnelles d'un système de transmission numérique	TC-3-T-CMN
 Capacité	Evaluer la qualité d'un signal reçu	TC-3-T-CAT
@@ -317,7 +317,7 @@ Connaissance	Fonctionnement approfondi des chaines radio pour les systèmes de c
 Connaissance	Techniques de traitement de signal pour la mise en forme d'un signal radio réel (filtrage, synchronisation, demodulation, etc...).	TC-5-OP2-RLO
 Connaissance	GNU Radio et les systèmes de traitement de signal orienté à data-flow.	TC-5-OP2-RLO
 Connaissance	Techniques d'implementation de radio logicielle.	TC-5-OP2-RLO
-TC-C2 : Spécifier, concevoir et modéliser des réseaux de communication et des protocoles		
+TC-C2 : Spécifier, concevoir et modéliser des réseaux de communication et des protocoles	 20	
 Capacité	Choisir la meilleure stratégie de reprise sur erreur dans un réseau	TC-3-R-MAC
 Capacité	Décrire le rôle et les fonctionnalités de la couche réseau.	TC-3-R-IP
 Capacité	Décrire le rôle et les fonctionnalités de la couche transport	TC-3-R-IP
@@ -366,7 +366,7 @@ Connaissance	Protocoles du plan données et du plan contrôle	TC-4-R-ARM
 Connaissance	Plan contrôle, plan donnees, reseau d'acces, reseau cœur	TC-4-R-ARM
 Connaissance	Les phases d'un appel d'offres	TC-4-P-PAO
 Connaissance	Architecture et services dans un réseau de communication	TC-4-P-PAO
-TC-C3 : Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques		
+TC-C3 : Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques	 11	
 Capacité	Traduire l'énoncé mathématique d'un problème en un programme fonctionnel	TC-3-I-ELP
 Capacité	Structurer des programmes java et python	TC-3-I-ELP
 Capacité	Choisir de coder pour des comportements plutôt que pour des objets particuliers	TC-3-I-ELP
@@ -404,7 +404,7 @@ Connaissance	Ma��triser les outils de programmation embarqué: JTAG, UART, e
 Connaissance	Programmation C embarqués	TC-5-OP3-BED
 Connaissance	Gestionnaire d'interruption, pilotes de périphériques, OS léger	TC-5-OP3-BED
 Connaissance	Administration linux	TC-5-OP3-BED
-TC-C5 : Mettre en œuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données		
+TC-C5 : Mettre en œuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données	 14	
 Capacité	Manipuler des codes numériques	TC-3-T-CMN
 Capacité	Mettre en œuvre des codeurs source/canal	TC-3-T-CMN
 Capacité	Détecter un signal par filtrage adapté	TC-3-T-SIS
@@ -449,7 +449,7 @@ Connaissance	Méthodologies d'analyse de masse de données ("Machine Learning" e
 Connaissance	Caractéristiques principales des couches 1&2 des systèmes cellulaires	TC-4-T-RAN
 Connaissance	Caractéristiques principale des couches 1&2 du Wifi	TC-4-T-RAN
 Connaissance	Dimensionnement, planification cellulaire, gestion des interférences	TC-4-T-RAN
-TC-C6 : Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles		
+TC-C6 : Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles	 20	
 Capacité	Identifier les méthodes de partage de canal utilisables dans un réseau.	TC-3-R-MAC
 Capacité	Concevoir un plan d'adressage pour un réseau local	TC-3-R-IP
 Capacité	Configurer des éléments actifs (switch, routeur) d'un réseau dans des architectures élémentaires LOAN et WAN	TC-3-R-NRP
@@ -509,7 +509,7 @@ Connaissance	Technologie CDN, Akamai, Netflix, AnyCast BGP	TC-5-OP1-PRJRES
 Connaissance	Usage et mise en œuvre d'un IDS	TCA-5-OP4-SRS
 Connaissance	Mécanismes de sécurité du WiFi	TCA-5-OP4-SRS
 Connaissance	IDS, Sécurité wifi	TCA-5-OP4-SRS
-TC-C7 : Mettre en œuvre, réaliser, développer, déployer des programmes informatiques		
+TC-C7 : Mettre en œuvre, réaliser, développer, déployer des programmes informatiques	 26	
 Capacité	Manipuler des variables sous Bash et Python	TC-3-I-PIT
 Capacité	Traduire un énoncé simple en un programme fonctionnel  Bash ou Python	TC-3-I-PIT
 Capacité	Suivre un tutoriel en autonomie	TC-3-I-PIT
@@ -584,7 +584,7 @@ Connaissance	Kibana	TCA-5-OP4-ELK
 Connaissance	LogStash	TCA-5-OP4-ELK
 Connaissance	Beats	TCA-5-OP4-ELK
 Connaissance	Codes du bitcoin et des crypto-monnaies à preuve de travail	TC-5-TR-BTC
-TC-C8 : Opérer, analyser, améliorer des systèmes numériques		
+TC-C8 : Opérer, analyser, améliorer des systèmes numériques	 19	
 Capacité	Analyser des systèmes logiques	TC-3-T-CMN
 Capacité	Evaluer les performances d'une modulation numérique	TC-3-T-CMN
 Capacité	Analyser la structure d'un modulateur numérique.	TC-3-T-CMN
@@ -644,7 +644,7 @@ Connaissance	Histoire et évolution des technologies blockchain/crypto-monnaies/
 Connaissance	Logiciels et services participant à l'écosystème des réseaux crypto- monétaires	TC-5-TR-BTC
 Connaissance	Tokens ERC20 et smart contracts Ethereum	TC-5-TR-BTC
 Connaissance	Habitat numérique des projets blockchain/crypto-monnaies	TC-5-TR-BTC
-TC-C9 : Conduire des projets dans le domaine du numérique		
+TC-C9 : Conduire des projets dans le domaine du numérique	 12	
 Capacité	Gérer un projet agile en mode iteratif	TC-3-P-PALE
 Capacité	Gérer un projet en flux de fonctions	TC-3-P-PALE
 Capacité	Estimer les tâches d'un projet	TC-3-P-PALE
