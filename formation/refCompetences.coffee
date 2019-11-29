@@ -216,6 +216,42 @@ module.exports =
     code: 'C9'
     val: 'Conduire des projets dans le domaine du numérique'
     valAnglais: 'Conduct projects in the digital domain'
+  'TCA-C1':
+    code: 'C1'
+    val: 'Spécifier, concevoir et modéliser des systèmes de transmission et de traitement des signaux/images/données'
+    valAnglais: 'Specify, design and model transmission and signal / image / data processing systems'
+  'TCA-C2':
+    code: 'C2'
+    val: 'Spécifier, concevoir et modéliser des réseaux de communication et des protocoles'
+    valAnglais: 'Specify, design and model computer networks and protocols'
+  'TCA-C3':
+    code: 'C3'
+    val: 'Spécifier, concevoir et modéliser des algorithmes et des programmes informatiques'
+    valAnglais: 'Specify, design and model algorithms and computer programs'
+  'TCA-C4':
+    code: 'C4'
+    val: 'Spécifier et dimensionner des systèmes numériques en réponse au besoin clients'
+    valAnglais: 'Specify and scale digital systems in response to customer needs'
+  'TCA-C5':
+    code: 'C5'
+    val: 'Mettre en œuvre, réaliser, développer, déployer des systèmes de transmission et de traitement des signaux/images/données'
+    valAnglais: 'Implement, implement, develop, deploy systems for transmission and processing of signals / images / data'
+  'TCA-C6':
+    code: 'C6'
+    val: 'Mettre en œuvre, réaliser, développer, déployer des réseaux et des protocoles'
+    valAnglais: 'Design, implement, develop, deploy networks and protocols'
+  'TCA-C7':
+    code: 'C7'
+    val: 'Mettre en œuvre, réaliser, développer, déployer des programmes informatiques'
+    valAnglais: 'Design, implement, develop, deploy computer programs'
+  'TCA-C8':
+    code: 'C8'
+    val: 'Opérer, analyser, améliorer des systèmes numériques'
+    valAnglais: 'Operate, analyze, improve digital systems'
+  'TCA-C9':
+    code: 'C9'
+    val: 'Conduire des projets dans le domaine du numérique'
+    valAnglais: 'Conduct projects in the digital domain'
   'GE-C1':
     code: 'C1'
     val: 'Mettre en œuvre des composants électroniques analogiques et/ou numériques et identifier leur fonction au sein d\'un montage'
