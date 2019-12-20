@@ -1,0 +1,4209 @@
+{
+  "domaines": [
+    "Syscom",
+    "Réseaux",
+    "Info",
+    "Huma",
+    "Projet"
+  ],
+  "matieres": [
+    {
+      "code": "TC-3-R-MAC",
+      "nom": "Réseaux : Mécanismes d'Accès au Canal",
+      "domaine": "Réseaux"
+    },
+    {
+      "code": "TC-3-R-IP",
+      "nom": "Réseaux : Protocoles TCP/IP",
+      "domaine": "Réseaux"
+    },
+    {
+      "code": "TC-3-T-CMN",
+      "nom": "Télécommunications : Codages et Modulations Numériques",
+      "domaine": "Syscom"
+    },
+    {
+      "code": "TC-3-T-CAT",
+      "nom": "Télécommunications : Canaux de transmission",
+      "domaine": "Syscom"
+    },
+    {
+      "code": "TC-3-I-PIT",
+      "nom": "Informatique : Passeport Informatique Telecoms",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-3-I-ARC",
+      "nom": "Informatique : Architecture",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-3-I-PPC",
+      "nom": "Informatique : Programmation Parallèle et Concurrente",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-3-I-ELP",
+      "nom": "Informatique : Ecosystème des langages de programmation",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-3-I-ALG",
+      "nom": "Informatique : Algorithmique",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-3-R-PBS",
+      "nom": "Outils & Méthodes : Probabilités et statistiques",
+      "domaine": "Réseaux"
+    },
+    {
+      "code": "TC-3-T-SIS",
+      "nom": "Télécommunications : Signaux et Systèmes",
+      "domaine": "Syscom"
+    },
+    {
+      "code": "HU-L-ANG-FLE-TAN-A",
+      "nom": "Langues Étrangères : TANDEM franco-anglais",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ANG-MOD-PUB",
+      "nom": "Langues Étrangères : PUBLIC SPEAKING",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ANG-MOD-MUS-S5",
+      "nom": "Langues Étrangères : SONGS from the ENGLISH SPEAKING WORLD S5",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ANG-B1-S5",
+      "nom": "Langues Étrangères : SOCIAL SKILLS at WORK S5",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-LANG/FLE-TAN",
+      "nom": "Langues Étrangères : TANDEM INTERNATIONAL",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP/FLE-TAN-S1",
+      "nom": "Langues Étrangères : Tandem Franco-espagnol",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ANG-MOD-TRT-S5",
+      "nom": "Langues Étrangères : THEATRE in ENGLISH S5",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ALL-S1-THE",
+      "nom": "Langues Étrangères : Le théâtre allemand contemporain sur les scènes lyonnaises",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ALL-S1",
+      "nom": "Langues Étrangères : ALLEMAND S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ALL-S1-PRO",
+      "nom": "Langues Étrangères : Module Professionnel Allemand S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ALL/FLE-TAN-S1",
+      "nom": "Langues Étrangères : Module Tandem Allemand S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ARA-S1",
+      "nom": "Langues Étrangères : ARABE S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-CHI-S1",
+      "nom": "Langues Étrangères : CHINOIS S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-CIVAL",
+      "nom": "Langues Étrangères : MODULE Civilisation latinoaméricaine",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-TH+MUS",
+      "nom": "Langues Étrangères : MODULES Théâtre et Musique",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-CATALAN",
+      "nom": "Langues Étrangères : MODULE Catalan",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-ARTS",
+      "nom": "Langues Étrangères : MODULE Art et société",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-PUB",
+      "nom": "Langues Étrangères : MODULE Publicité",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-RSI",
+      "nom": "Langues Étrangères : MODULE Ingénieurs responsables",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-PRO",
+      "nom": "Langues Étrangères : MODULE Professionnel",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-DEBAT",
+      "nom": "Langues Étrangères : MODULE Débat et expression orale",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-HUMOUR",
+      "nom": "Langues Étrangères : MODULE Humour",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1",
+      "nom": "Langues Étrangères : ESPAGNOL S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ITA-S1-ITACONT",
+      "nom": "Langues Étrangères : ASPECTS ET PROBLEMES DE L'ITALIE CONTEMPORAINE",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ITA-S1",
+      "nom": "Langues Étrangères : ITALIEN S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-JAP-S1",
+      "nom": "Langues Étrangères : JAPONAIS S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-POR-S1",
+      "nom": "Langues Étrangères : PORTUGAIS S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-POR-S1-CINE",
+      "nom": "Langues Étrangères : CINEMAS ET SOCIETES",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-RUS-S1",
+      "nom": "Langues Étrangères : RUSSE S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLE Dpt PEB2 S1",
+      "nom": "Langues Étrangères : FLE Production Ecrite Niv. B1/2/C1 du CECR Sem1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLECRL2hS1",
+      "nom": "Langues Étrangères : Tutorat fle au CRL",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLEDptCCB2C1-S1",
+      "nom": "FLE pour les étudiants en département Cultures Comparées Niv B2/C1 : Semestre 1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLE Dpt S1",
+      "nom": "Français Langue Etrangère : FLE pour les étudiants en Départements Niveau A1 au C1 du CECRL",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLEDptTTCB1B2S1",
+      "nom": "Langues Étrangères : FLE Compréhension orale & écrite Production écrite B1/B2 Sem1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "TC-3-H-CTC1",
+      "nom": "Sciences Humaines et Sociales : Culture Telecom et Communication (S1)"
+    },
+    {
+      "code": "EPS-3-S1",
+      "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives"
+    },
+    {
+      "code": "TC-3-T-TSA",
+      "nom": "Télécommunications : Traitement du Signal et Architecture",
+      "domaine": "Syscom"
+    },
+    {
+      "code": "TC-3-I-CRO",
+      "nom": "Informatique : Programmation C",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-3-I-WEB",
+      "nom": "Informatique : Web dynamique",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-3-R-NRP",
+      "nom": "Réseaux & Services : Protocoles réseaux",
+      "domaine": "Réseaux"
+    },
+    {
+      "code": "TC-3-I-PWEB",
+      "nom": "Informatique : Projet Web dynamique",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-3-T-TPS",
+      "nom": "Télécommunications : TP Système de Communication",
+      "domaine": "Syscom"
+    },
+    {
+      "code": "TC-3-P-PALE",
+      "nom": "Projets : Gestion de projets",
+      "domaine": "Projet"
+    },
+    {
+      "code": "TC-3-P-ASDS",
+      "nom": "Projets : Analyse et Synthèse de Documents Scientifiques",
+      "domaine": "Projet"
+    },
+    {
+      "code": "TC-3-P-PTIR",
+      "nom": "Projets : Projet d'initiation à la recherche",
+      "domaine": "Projet"
+    },
+    {
+      "code": "TC-3-P-DRE",
+      "nom": "Projets : Découverte de la recherche",
+      "domaine": "Projet"
+    },
+    {
+      "code": "HU-L-ANG-B1-S6",
+      "nom": "Langues Étrangères : MEETINGS and DECISIONS S6",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ANG-MOD-TRT-S6",
+      "nom": "Langues Étrangères : THEATRE IN ENGLISH S6",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ANG-FLE-TAN-B",
+      "nom": "Langues Étrangères : TANDEM franco-anglais",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-LANG/FLE-TAN",
+      "nom": "Langues Étrangères : TANDEM INTERNATIONAL",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ANG-MOD-MUS-S6",
+      "nom": "Langues Étrangères : SONGS from the ENGLISH SPEAKING WORLD S6",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ALL-S2-CIVI",
+      "nom": "Langues Étrangères : MODULE Culture et civilisation ALLEMAND S2",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ALL-S2-TEC",
+      "nom": "Langues Étrangères : MODULE TECHNIQUE S2",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ALL-S2",
+      "nom": "Langues Étrangères : ALLEMAND S2",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ARA-S2",
+      "nom": "Langues Étrangères : ARABE S2",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-CHI-S2",
+      "nom": "Langues Étrangères : CHINOIS S2",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S2-CINE",
+      "nom": "Langues Étrangères : MODULE Cine",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S2-TH+MUS",
+      "nom": "Langues Étrangères : MODULES Théâtre et Musique",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S2",
+      "nom": "Langues Étrangères : ESPAGNOL S2",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP/FLE-TAN-S2",
+      "nom": "Langues Étrangères : Tandem Franco-espagnol",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S2-INTERCOM",
+      "nom": "Langues Étrangères : MODULE Intercompréhension langues romanes",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ITA-S2-ITACONT",
+      "nom": "Langues Étrangères : ASPECTS ET PROBLEMES DE L'ITALIE CONTEMPORAINE",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ITA-S2",
+      "nom": "Langues Étrangères : ITALIEN S2",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-JAP-S2",
+      "nom": "Langues Étrangères : JAPONAIS S2",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-POR-S2-CINE",
+      "nom": "Langues Étrangères : CINEMAS ET SOCIETES",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-POR-S2",
+      "nom": "Langues Étrangères : PORTUGAIS S2",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-RUS-S2",
+      "nom": "Langues Étrangères : RUSSE S2",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLEDptCCB2C1-S2",
+      "nom": "FLE pour les étudiants en département Cultures Comparées Niv B2/C1 : Semestre 2",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLEDptTTCB1B2S2",
+      "nom": "Langues Étrangères : FLE Compréhension orale & écrite Production écrite B1/B2 Sem2",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLE Dpt S2",
+      "nom": "Français Langue Etrangère : FLE pour les étudiants en Départements Niveau A1 au C1 du CECRL",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLE Dpt PEB2S2",
+      "nom": "Langues Étrangères : FLE Production Ecrite Niv. B1/2/C1 du CECR Sem2",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLE INT Hiver",
+      "nom": "Langues Étrangères : FLE ECOLE INTENSIVE HIVER - 2nd cycle",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLECRL2hS2",
+      "nom": "Langues Étrangères : Tutorat fle au CRL",
+      "domaine": "Huma"
+    },
+    {
+      "code": "TC-3-H-CTC2",
+      "nom": "Sciences Humaines et Sociales : Culture Telecom et Communication (S2)"
+    },
+    {
+      "code": "EPS-3-S2",
+      "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives"
+    },
+    {
+      "code": "TC-4-R-NAS",
+      "nom": "Réseaux & Services : Architecture et services réseaux",
+      "domaine": "Réseaux"
+    },
+    {
+      "code": "TC-4-R-PRF",
+      "nom": "Réseaux & Services : Performances de Réseaux",
+      "domaine": "Réseaux"
+    },
+    {
+      "code": "TC-4-T-CNA",
+      "nom": "Télécommunications : Communications Numériques Avancées",
+      "domaine": "Syscom"
+    },
+    {
+      "code": "TC-4-T-TIP",
+      "nom": "Télécommunications : Traitement de signaux numériques : Parole et Image",
+      "domaine": "Syscom"
+    },
+    {
+      "code": "TC-4-T-PSC",
+      "nom": "Télécommunications : Projet Systèmes de Communication",
+      "domaine": "Syscom"
+    },
+    {
+      "code": "TC-4-R-PRS",
+      "nom": "Réseaux & Services : Programmation, Réseau et Système",
+      "domaine": "Réseaux"
+    },
+    {
+      "code": "TC-4-I-SYD",
+      "nom": "Informatique : Systèmes distribués",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-4-P-GES1",
+      "nom": "Projets : GesPER - Gestion de Projet Entrepreneurial Responsable 1",
+      "domaine": "Projet"
+    },
+    {
+      "code": "TC-4-P-GES2",
+      "nom": "Projets : GesPER - Gestion de Projet Entrepreneurial Responsable 2",
+      "domaine": "Projet"
+    },
+    {
+      "code": "TC-4-P-PRE1",
+      "nom": "Projets : Parcours Recherche",
+      "domaine": "Projet"
+    },
+    {
+      "code": "TC-4-P-SOA",
+      "nom": "Projets : Etat de l'art du parcours recherche",
+      "domaine": "Projet"
+    },
+    {
+      "code": "HU-L-ANG-FLE-TAN-A",
+      "nom": "Langues Étrangères : TANDEM franco-anglais",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-LANG/FLE-TAN",
+      "nom": "Langues Étrangères : TANDEM INTERNATIONAL",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ANG-MOD-CIN",
+      "nom": "Langues Étrangères : CINEMA STUDIES in ENGLISH S7",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ANG-B1-S7",
+      "nom": "Langues Étrangères : JOB HUNTING in English S7",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ALL-S1",
+      "nom": "Langues Étrangères : ALLEMAND S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ALL-S1-PRO",
+      "nom": "Langues Étrangères : Module Professionnel Allemand S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ALL-S1-THE",
+      "nom": "Langues Étrangères : Le théâtre allemand contemporain sur les scènes lyonnaises",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ARA-S1",
+      "nom": "Langues Étrangères : ARABE S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-CHI-S1",
+      "nom": "Langues Étrangères : CHINOIS S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-DEBAT",
+      "nom": "Langues Étrangères : MODULE Débat et expression orale",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-HUMOUR",
+      "nom": "Langues Étrangères : MODULE Humour",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-TH+MUS",
+      "nom": "Langues Étrangères : MODULES Théâtre et Musique",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-CIVAL",
+      "nom": "Langues Étrangères : MODULE Civilisation latinoaméricaine",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1",
+      "nom": "Langues Étrangères : ESPAGNOL S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-RSI",
+      "nom": "Langues Étrangères : MODULE Ingénieurs responsables",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-PRO",
+      "nom": "Langues Étrangères : MODULE Professionnel",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-CATALAN",
+      "nom": "Langues Étrangères : MODULE Catalan",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-ARTS",
+      "nom": "Langues Étrangères : MODULE Art et société",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ESP-S1-PUB",
+      "nom": "Langues Étrangères : MODULE Publicité",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ITA-S1",
+      "nom": "Langues Étrangères : ITALIEN S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-ITA-S1-ITACONT",
+      "nom": "Langues Étrangères : ASPECTS ET PROBLEMES DE L'ITALIE CONTEMPORAINE",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-JAP-S1",
+      "nom": "Langues Étrangères : JAPONAIS S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-POR-S1-CINE",
+      "nom": "Langues Étrangères : CINEMAS ET SOCIETES",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-POR-S1",
+      "nom": "Langues Étrangères : PORTUGAIS S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-RUS-S1",
+      "nom": "Langues Étrangères : RUSSE S1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLE Dpt S1",
+      "nom": "Français Langue Etrangère : FLE pour les étudiants en Départements Niveau A1 au C1 du CECRL",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLECRL2hS1",
+      "nom": "Langues Étrangères : Tutorat fle au CRL",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLEDptTTCB1B2S1",
+      "nom": "Langues Étrangères : FLE Compréhension orale & écrite Production écrite B1/B2 Sem1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLE Dpt INT 4",
+      "nom": "Langues Étrangères : FLE ECOLE INTENSIVE ETE - 2nd et 3e cycle",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLE Dpt PEB2 S1",
+      "nom": "Langues Étrangères : FLE Production Ecrite Niv. B1/2/C1 du CECR Sem1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "HU-L-FLEDptCCB2C1-S1",
+      "nom": "FLE pour les étudiants en département Cultures Comparées Niv B2/C1 : Semestre 1",
+      "domaine": "Huma"
+    },
+    {
+      "code": "EPS-4-S1",
+      "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives"
+    },
+    {
+      "code": "TC-4-H-RSM",
+      "nom": "Sciences Humaines et Sociales : Recherche de Stage et Métiers"
+    },
+    {
+      "code": "TC-4-I-CSC",
+      "nom": "Informatique : Cryptographie et Sécurité des Communications",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-4-I-IAT",
+      "nom": "Informatique : Intelligence Artificielle pour les Télécommunications",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-4-I-INR",
+      "nom": "Informatique : Ingénierie numérique responsable",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-4-R-ARM",
+      "nom": "Réseaux & Services : Architecture des Réseaux Mobiles",
+      "domaine": "Réseaux"
+    },
+    {
+      "code": "TC-4-T-BLF",
+      "nom": "Télécommunications : Boucle locale filaire",
+      "domaine": "Syscom"
+    },
+    {
+      "code": "TC-4-T-RAN",
+      "nom": "Télécommunications : Réseau d'accès radio",
+      "domaine": "Syscom"
+    },
+    {
+      "code": "TC-4-P-PAO",
+      "nom": "Projets : Projet Appel d'Offre Reseaux",
+      "domaine": "Projet"
+    },
+    {
+      "code": "EPS-4-S2",
+      "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives"
+    },
+    {
+      "code": "TC-4-P-PRE2",
+      "nom": "Projets : Parcours Recherche",
+      "domaine": "Projet"
+    },
+    {
+      "code": "TC-4-S-ENT",
+      "nom": "Stages : Stage en entreprise"
+    },
+    {
+      "code": "TC-4-S-RAS",
+      "nom": "Stages : Rapport de Stage"
+    },
+    {
+      "code": "TC-5-OP1-SAT",
+      "nom": "Télécommunications : Satellites et localisation"
+    },
+    {
+      "code": "TC-5-OP1-5G",
+      "nom": "Télécommunications : Vers la 5G"
+    },
+    {
+      "code": "TC-5-OP1-CDN",
+      "nom": "Télécommunications : Réseaux de Diffusion de Contenus"
+    },
+    {
+      "code": "TC-5-OP1-VSR",
+      "nom": "Réseaux & Services : Virtualisation des Systèmes, des Services et des Réseaux"
+    },
+    {
+      "code": "TC-5-OP1-PRJRES",
+      "nom": "Projets : Projet de l'UE Réseau"
+    },
+    {
+      "code": "TC-5-OP2-SCP",
+      "nom": "Télécommunications : Smarty cities et Protocoles"
+    },
+    {
+      "code": "TC-5-OP2-CIT",
+      "nom": "Télécommunications : Cloud IoT"
+    },
+    {
+      "code": "TC-5-OP2-RLD",
+      "nom": "Télécommunications : Réseaux Long Distance"
+    },
+    {
+      "code": "TC-5-OP2-RLO",
+      "nom": "Télécommunications : Radio logicielle"
+    },
+    {
+      "code": "TC-5-OP2-PRJIOT",
+      "nom": "Projets : Projet de l'UE IoT"
+    },
+    {
+      "code": "TC-5-OP3-IAR",
+      "nom": "Télécommunications : IA pour la Robotique"
+    },
+    {
+      "code": "TC-5-OP3-SMR",
+      "nom": "Télécommunications : Systèmes Multi-Robots"
+    },
+    {
+      "code": "TC-5-OP3-OSA",
+      "nom": "Télécommunications : OS Avancé"
+    },
+    {
+      "code": "TC-5-OP3-BED",
+      "nom": "Informatique : Interface matériel/logiciel dans les systèmes embarqués"
+    },
+    {
+      "code": "TC-5-OP3-PRJREB",
+      "nom": "Projets : Projet de l'UE Robotique - Embarqué"
+    },
+    {
+      "code": "TCA-5-OP4-SRS",
+      "nom": "Télécommunications : Sécurité des réseaux et des systèmes"
+    },
+    {
+      "code": "TCA-5-OP4-SVP",
+      "nom": "Télécommunications : Sécurité et vie privée"
+    },
+    {
+      "code": "TCA-5-OP4-ELK",
+      "nom": "Télécommunications : Elastic Kibana Beats"
+    },
+    {
+      "code": "TCA-5-OP4-CIA",
+      "nom": "Télécommunications : Développement AGILE"
+    },
+    {
+      "code": "TCA-5-OP4-PRJSAS",
+      "nom": "Télécommunications : Projet de l'UE Systèmes et Applications Sécurisées"
+    },
+    {
+      "code": "TC-5-TR-ARC",
+      "nom": "Réseaux & Services : Analyse de Risque en sécurité de l'information",
+      "domaine": "Syscom"
+    },
+    {
+      "code": "TC-5-TR-CSAD",
+      "nom": "Télécommunications : Calcul scientifique et Analyse de données",
+      "domaine": "Syscom"
+    },
+    {
+      "code": "TC-5-TR-BTC",
+      "nom": "Informatique : Blockchain et Monnaies électronique",
+      "domaine": "Syscom"
+    },
+    {
+      "code": "TC-5-TR-HOPE",
+      "nom": "Sciences Humaines et Sociales : Humanisme Ouverture Partage Emancipation",
+      "domaine": "Syscom"
+    },
+    {
+      "code": "TC-5-P-PILS",
+      "nom": "Projets : Projets Innovants",
+      "domaine": "Projet"
+    },
+    {
+      "code": "TC-5-P-PILS-RAP",
+      "domaine": "Projet"
+    },
+    {
+      "code": "TC-5-P-PILS-SOU",
+      "domaine": "Projet"
+    },
+    {
+      "code": "EPS-5-S1",
+      "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives"
+    },
+    {
+      "code": "HUMA-PPH",
+      "nom": "Projets : Projet Personnel en Humanités",
+      "domaine": "Projet"
+    },
+    {
+      "code": "HU-SHS-OPTION08-S1",
+      "nom": "Sciences Humaines et Sociales : AGES - Âges, générations, expérience et sociétés"
+    },
+    {
+      "code": "HU-SHS-OPTION09-ii",
+      "nom": "Sciences Humaines et Sociales : Coopérer dans un contexte interculturel"
+    },
+    {
+      "code": "HU-SHS-OPTION10"
+    },
+    {
+      "code": "HU-SHS-OPTION11",
+      "nom": "Sciences Humaines et Sociales : Technique en séries"
+    },
+    {
+      "code": "HU-SHS-OPTION12",
+      "nom": "Sciences Humaines et Sociales : ESS pour ingénieur.e.s"
+    },
+    {
+      "code": "HU-SHS-OPTION04S1-ii",
+      "nom": "Sciences Humaines et Sociales : Economie de la mondialisation"
+    },
+    {
+      "code": "HU-SHS-OPTION17S1-ii",
+      "nom": "Sciences Humaines et Sociales : L'Europe dans tous ses Etats"
+    },
+    {
+      "code": "HU-SHS-OPTION18-S1",
+      "nom": "Sciences Humaines et Sociales : Influences et manipulations"
+    },
+    {
+      "code": "HU-SHS-OPTION19-S1",
+      "nom": "Sciences Humaines et Sociales : # VALEUR! Parce que notre avenir le vaut bien..."
+    },
+    {
+      "code": "HU-SHS-OPTION20S1-ii"
+    },
+    {
+      "code": "HU-SHS-OPTION24"
+    },
+    {
+      "code": "TC-5-STA-S10-ENT",
+      "nom": "Stages : Stage en entreprise"
+    },
+    {
+      "code": "TC-5-STA-S10-RAP",
+      "nom": "Stages : Rapport de Stage"
+    },
+    {
+      "code": "TC-5-STA-S10-SOU",
+      "nom": "Stages : Soutenance de Stage de Fin d'Etudes"
+    }
+  ],
+  "liste": [
+    {
+      "nom": "Choisir la meilleure stratégie de reprise sur erreur dans un réseau",
+      "matiere": "TC-3-R-MAC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Décrire le role et les fonctionnalités de la couche MAC dans un réseau",
+      "matiere": "TC-3-R-MAC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Aloha",
+      "matiere": "TC-3-R-MAC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "CSMA/CD",
+      "matiere": "TC-3-R-MAC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "CSMA/CA",
+      "matiere": "TC-3-R-MAC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "WiFi",
+      "matiere": "TC-3-R-MAC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Ethernet",
+      "matiere": "TC-3-R-MAC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Spanning Tree",
+      "matiere": "TC-3-R-MAC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "VLAN",
+      "matiere": "TC-3-R-MAC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Identifier les méthodes de partage de canal utilisables dans un réseau.",
+      "matiere": "TC-3-R-MAC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "TDMA",
+      "matiere": "TC-3-R-MAC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "FDMA",
+      "matiere": "TC-3-R-MAC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "CDMA",
+      "matiere": "TC-3-R-MAC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Décrire le rôle et les fonctionnalités de la couche réseau.",
+      "matiere": "TC-3-R-IP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Décrire le rôle et les fonctionnalités de la couche transport",
+      "matiere": "TC-3-R-IP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "IPv4",
+      "matiere": "TC-3-R-IP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "IPv6",
+      "matiere": "TC-3-R-IP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "ICMP",
+      "matiere": "TC-3-R-IP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "TCP",
+      "matiere": "TC-3-R-IP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "UDP",
+      "matiere": "TC-3-R-IP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Déployer et configurer un réseau local",
+      "matiere": "TC-3-R-IP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Câbler, manipuler une baie de brassage",
+      "matiere": "TC-3-R-IP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Utiliser le logiciel Wireshark pour collecter et analyser des traces",
+      "matiere": "TC-3-R-IP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mesurer les performances d'un réseau local",
+      "matiere": "TC-3-R-IP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Concevoir un plan d'adressage pour un réseau local",
+      "matiere": "TC-3-R-IP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "DHCP",
+      "matiere": "TC-3-R-IP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "DNS",
+      "matiere": "TC-3-R-IP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "NAT",
+      "matiere": "TC-3-R-IP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Manipuler des codes numériques",
+      "matiere": "TC-3-T-CMN",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mettre en œuvre des codeurs source/canal",
+      "matiere": "TC-3-T-CMN",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Codage de l'information, Algèbre de Boole, Logique combinatoire et logique séquentielle",
+      "matiere": "TC-3-T-CMN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Codage de source : Théorème du codage de source, codage Shannon-Fano, codage de Huffman, codage Arithmétique, codage RLC et codage LZW",
+      "matiere": "TC-3-T-CMN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Codage de canal  : Théorème du codage de canal, codes groupes (Hamming), codes cycliques (BCH), codes convolutifs.",
+      "matiere": "TC-3-T-CMN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Analyser des systèmes logiques",
+      "matiere": "TC-3-T-CMN",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Evaluer les performances d'une modulation numérique",
+      "matiere": "TC-3-T-CMN",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Analyser la structure d'un modulateur numérique.",
+      "matiere": "TC-3-T-CMN",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Principe des modulations numériques, critères d'évaluation",
+      "matiere": "TC-3-T-CMN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modulation des signaux numériques: par déplacement d'amplitude (MDA), de phase (MDP) et de fréquence (MDF) et modulation QAM.",
+      "matiere": "TC-3-T-CMN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Structure des modulateurs et démodulateurs.",
+      "matiere": "TC-3-T-CMN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Dimensionner et évaluer des codeurs (source/canal)",
+      "matiere": "TC-3-T-CMN",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Réaliser une modélisation et une analyse fonctionnelles d'un système de transmission numérique",
+      "matiere": "TC-3-T-CMN",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Caractéristiques des différentes technologies de modulation",
+      "matiere": "TC-3-T-CMN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modulation analogique",
+      "matiere": "TC-3-T-CMN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modulation d'amplitude",
+      "matiere": "TC-3-T-CMN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modulation de fréquence",
+      "matiere": "TC-3-T-CMN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "SNR",
+      "matiere": "TC-3-T-CMN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Codage de source, codage de canal",
+      "matiere": "TC-3-T-CMN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modulation des signaux numériques: par déplacement d'amplitude (MDA), de phase (MDP) et de fréquence (MDF) et modulation QAM.",
+      "matiere": "TC-3-T-CMN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Evaluer la qualité d'un signal reçu",
+      "matiere": "TC-3-T-CAT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Evaluer les principaux paramètres des différentes modulations analogiques",
+      "matiere": "TC-3-T-CAT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Diagramme de rayonnement",
+      "matiere": "TC-3-T-CAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modèle d'un canal radio en espace libre et avec 1 réflexion",
+      "matiere": "TC-3-T-CAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Caractéristiques des antennes",
+      "matiere": "TC-3-T-CAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Fonctionnement d'une antenne",
+      "matiere": "TC-3-T-CAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Gain",
+      "matiere": "TC-3-T-CAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Propagation en espace libre",
+      "matiere": "TC-3-T-CAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modèle à 2 raies",
+      "matiere": "TC-3-T-CAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Bilan de liaison",
+      "matiere": "TC-3-T-CAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Fonctionnement d'une fibre optique",
+      "matiere": "TC-3-T-CAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Caractéristiques d'une fibre optique ",
+      "matiere": "TC-3-T-CAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Caractéristiques des différentes technologies de modulation",
+      "matiere": "TC-3-T-CAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modulation analogique",
+      "matiere": "TC-3-T-CAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modulation d'amplitude",
+      "matiere": "TC-3-T-CAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modulation de fréquence",
+      "matiere": "TC-3-T-CAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "SNR",
+      "matiere": "TC-3-T-CAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Opérations basiques (déplacement, écriture, enregistrement) sous vi",
+      "matiere": "TC-3-I-PIT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Opérations standard (copier, coller, annuler) sous vi",
+      "matiere": "TC-3-I-PIT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Opérations avancées (split, fusion, recherche) sous vi",
+      "matiere": "TC-3-I-PIT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Interpréteur de commandes Python",
+      "matiere": "TC-3-I-PIT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Concepts basiques (listes, tuples, dictionnaires, structures conditionnelles, boucles) sous Python",
+      "matiere": "TC-3-I-PIT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Concepts standard (modularité, exceptions, classes, manipulation de fichiers) sous Python",
+      "matiere": "TC-3-I-PIT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Script Bash",
+      "matiere": "TC-3-I-PIT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Instructions simples de l'interpréteur de commandes Python",
+      "matiere": "TC-3-I-PIT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Manipuler des variables sous Bash et Python",
+      "matiere": "TC-3-I-PIT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Traduire un énoncé simple en un programme fonctionnel  Bash ou Python",
+      "matiere": "TC-3-I-PIT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Suivre un tutoriel en autonomie",
+      "matiere": "TC-3-I-PIT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Coder et décoder une information en binaire",
+      "matiere": "TC-3-I-ARC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Construire des circuits combinatoires complexes",
+      "matiere": "TC-3-I-ARC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Modéliser le comportement d'un circuit séquentiel par un automate fini",
+      "matiere": "TC-3-I-ARC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Construire le circuit séquentiel correspondant à un automate fini",
+      "matiere": "TC-3-I-ARC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Evaluer les coûts en temps et en espace d'un circuit numérique",
+      "matiere": "TC-3-I-ARC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Codage de l'information",
+      "matiere": "TC-3-I-ARC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Logique booléenne",
+      "matiere": "TC-3-I-ARC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Logique séquentielle",
+      "matiere": "TC-3-I-ARC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Jeu d'instruction",
+      "matiere": "TC-3-I-ARC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Architecture d'un (vrai) processeur",
+      "matiere": "TC-3-I-ARC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Notions de Langage de haut niveau et compilation",
+      "matiere": "TC-3-I-ARC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Mise en œuvre des outils de communication et synchronisation  en langage Python (tubes, signaux, files de messages, mémoires partagées, sémaphores)",
+      "matiere": "TC-3-I-PPC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Concevoir, implanter et analyser des programmes en exécution parallèle et concurrente en langage Python",
+      "matiere": "TC-3-I-PPC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Fondamentaux des systèmes d'exploitation (structure, services, interruptions)",
+      "matiere": "TC-3-I-PPC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Processus",
+      "matiere": "TC-3-I-PPC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Fils d'exécution",
+      "matiere": "TC-3-I-PPC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modèles de communication inter-processus",
+      "matiere": "TC-3-I-PPC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Mécanismes de synchronisation entre processus et fils d'exécution",
+      "matiere": "TC-3-I-PPC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Traduire l'énoncé mathématique d'un problème en un programme fonctionnel",
+      "matiere": "TC-3-I-ELP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Structurer des programmes java et python",
+      "matiere": "TC-3-I-ELP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Choisir de coder pour des comportements plutôt que pour des objets particuliers",
+      "matiere": "TC-3-I-ELP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Principe de récurrence",
+      "matiere": "TC-3-I-ELP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Polymorphisme en java",
+      "matiere": "TC-3-I-ELP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Duck typing en python",
+      "matiere": "TC-3-I-ELP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Exécuter de manière asynchrone un flot de fonctions en javascript",
+      "matiere": "TC-3-I-ELP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Exécuter des tâches en concurrence en go.",
+      "matiere": "TC-3-I-ELP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Callback et promesse javascript, goroutine et channel,",
+      "matiere": "TC-3-I-ELP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Prototyper un flot de traitements de données en python.",
+      "matiere": "TC-3-I-ELP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Visualisation de données avec NumPy, SciPy et matplotlib.",
+      "matiere": "TC-3-I-ELP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Structures de données récursives (listes, arbres),",
+      "matiere": "TC-3-I-ELP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Notions de l'algorithmique :  définition, écriture, preuve, complexité en temps et mémoire",
+      "matiere": "TC-3-I-ALG",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Algorithmes fondamentaux :  tris, file/liste, parcours d'arbre, de graphes",
+      "matiere": "TC-3-I-ALG",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modéliser une expérience aléatoire : univers, évènement, variables aléatoire, signal aléatoire",
+      "matiere": "TC-3-R-PBS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Exploiter la modélisation statistique d'un problème pour le résoudre en calculant une probablité, une espérance, la dsp d'un signal aléatoire, etc",
+      "matiere": "TC-3-R-PBS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Univers, expérience, évènement. Notion de probabilité (fréquentielle, axiomatique). Prob. élémentaires et conditionnelles, indépendance, théorème de Bayes",
+      "matiere": "TC-3-R-PBS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Principales lois de probabilité des variables aléatoires discrètes et continues. Espérance, variance, fonction d'une variable aléatoire.",
+      "matiere": "TC-3-R-PBS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Théorème de Bienaymé-Tchebycheff, Théorème de Bernouilli, Théorème central limite",
+      "matiere": "TC-3-R-PBS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Couples de variables aléatoires : loi conjointe, lois marginales, conditionnelles. Covariance, cœf de corrélation. Fonction d'un couple de variables aléatoires",
+      "matiere": "TC-3-R-PBS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Processus stochastique, stationnarité et ergodisme, dsp d'un signal aléatoire (théorème de Wiener Khintchine), filtrage d'un signal aléatoire.",
+      "matiere": "TC-3-R-PBS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Variable aléatoire, loi de probabilité, loi normale, Théorème Central Limite, Modèle",
+      "matiere": "TC-3-R-PBS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modéliser une expérience aléatoire : univers, évènement, variables aléatoire, signal aléatoire",
+      "matiere": "TC-3-R-PBS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Principales lois de probabilité des variables aléatoires discrètes et continues. Espérance, variance, fonction d'une variable aléatoire.",
+      "matiere": "TC-3-R-PBS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Théorème de Bienaymé-Tchebycheff, Théorème de Bernouilli, Théorème central limite",
+      "matiere": "TC-3-R-PBS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Couples de variables aléatoires : loi conjointe, lois marginales, conditionnelles. Covariance, cœf de corrélation. Fonction d'un couple de variables aléatoires",
+      "matiere": "TC-3-R-PBS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Loi d'erlang, canal de rayleigh, détection",
+      "matiere": "TC-3-R-PBS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Principales lois de probabilité des variables aléatoires discrètes et continues. Espérance, variance, fonction d'une variable aléatoire.",
+      "matiere": "TC-3-R-PBS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Matlab, histogramme, caal de rayleigh",
+      "matiere": "TC-3-R-PBS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Caractériser en temps et en fréquence un « signal déterministe »",
+      "matiere": "TC-3-T-SIS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Caractériser en temps et en fréquence un « Système Linéaire Temporellement Invariant (SLTI)»",
+      "matiere": "TC-3-T-SIS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Choisir la représentation la plus adaptée au signal à étudier et analyser ce signal en temps et en fréquence",
+      "matiere": "TC-3-T-SIS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Calculer la sortie d'un SLTI par l'opération de convolution",
+      "matiere": "TC-3-T-SIS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Déterminer la sortie d'un système régi par une équation différentielle à cœfficients constants, initialement au repos ou non",
+      "matiere": "TC-3-T-SIS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Déterminer la sortie d'un système régi par une équation aux différences à cœfficients constants, initialement au repos ou non",
+      "matiere": "TC-3-T-SIS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Calculer la sortie d'un SLTI à l'aide des Transformées (Fourier, Laplace, Z)",
+      "matiere": "TC-3-T-SIS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Echantillonner un signal",
+      "matiere": "TC-3-T-SIS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Représentation des signaux déterministes",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Signaux particuliers: Dirac, Peigne de Dirac, échelon, sinusoïde, exponentielle complexe",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Transformation de la variable changement d'échelle, inversion temporelle",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Corrélation entre les signaux, autocorrélation, intercorrélation",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Stabilité, causalité, invariance temporelle",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Réponse impulsionnelle, réponse indicielle",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Opération de convolution",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Séries de Fourier,",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Transformée de Fourier: en temps continu et en temps discret, DFT.",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Transformée de Laplace, Transformée en Z.",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Réponse fréquentielle, diagramme de Bode, densité spectrale",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Fonction de transfert",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Filtres de 1er ordre et 2nd ordre",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Filtrage adapté",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Théorème de l'échantillonnage",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Signal déterministe, Système Linéaire Temporellement Invariant (SLTI), analyse temporelle et fréquentielle, Transformées, Echantillonnage",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Détecter un signal par filtrage adapté",
+      "matiere": "TC-3-T-SIS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Filtrer un signal",
+      "matiere": "TC-3-T-SIS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Corrélation entre les signaux, autocorrélation, intercorrélation",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Opération de convolution",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Filtres de 1er ordre et 2nd ordre",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Filtrage adapté",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Filtrage, Matlab, FDATool",
+      "matiere": "TC-3-T-SIS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Analyser les dimensions technique, sociologique et économique des télécommunications",
+      "matiere": "TC-3-H-CTC1",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Réaliser une recherche documentaire",
+      "matiere": "TC-3-H-CTC1",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Réaliser une présentation adaptée à la cible",
+      "matiere": "TC-3-H-CTC1",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Acquérir une culture générale du secteur des télécoms",
+      "matiere": "TC-3-H-CTC1",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Culture générale, communication orale, recherche documentaire",
+      "matiere": "TC-3-H-CTC1",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Etre capable de modéliser et de concevoir un filtre numérique",
+      "matiere": "TC-3-T-TSA",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Etre capable d'analyser les propriétés/caractéristiques des filtres numériques",
+      "matiere": "TC-3-T-TSA",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Les principes du filtrage numérique",
+      "matiere": "TC-3-T-TSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Les méthodes pour le calcul des filtres numériques",
+      "matiere": "TC-3-T-TSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Les contraintes liées à l'environnement numérique",
+      "matiere": "TC-3-T-TSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "les méthodes d'évaluation des performances des filtres numériques",
+      "matiere": "TC-3-T-TSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Signaux et système, filtres numériques, échantillonnage",
+      "matiere": "TC-3-T-TSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Etre capable d'implémenter un filtre numérique sur un DSP",
+      "matiere": "TC-3-T-TSA",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Etre capable d'utiliser des logiciels de simulation pour simuler / évaluer des filtres numériques",
+      "matiere": "TC-3-T-TSA",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Les techniques d'implémentation des filtres numériques",
+      "matiere": "TC-3-T-TSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "La mise en œuvre d'un système de développement pour DSP",
+      "matiere": "TC-3-T-TSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Structure des filtres numériques,  DSP",
+      "matiere": "TC-3-T-TSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Concevoir un algorithme à partir d'un problème",
+      "matiere": "TC-3-I-CRO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Maîtriser la récursivité",
+      "matiere": "TC-3-I-CRO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Maîtriser le mécanisme d'indirection (pointeurs en C)",
+      "matiere": "TC-3-I-CRO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Concevoir, réaliser, déverminer, optimiser un programme en C pour résoudre un problème.",
+      "matiere": "TC-3-I-CRO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Utiliser les outils de compilation et déverminage: gcc, gdb, make, valgrind.",
+      "matiere": "TC-3-I-CRO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Utiliser les outils de méta-compilation sur des exemple simple: lex, yacc.",
+      "matiere": "TC-3-I-CRO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Le Langage C",
+      "matiere": "TC-3-I-CRO",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Base de l'exécutif: chaîne de compilation, exécution d'un programme, pile d'exécution",
+      "matiere": "TC-3-I-CRO",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Connaitre les bases des grammaire et de la compilation des langages de programmation",
+      "matiere": "TC-3-I-CRO",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Choisir une structure de données pour implémenter un algorithme",
+      "matiere": "TC-3-I-CRO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Liste chainée, tableau, arbre",
+      "matiere": "TC-3-I-CRO",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Développer des applications web modernes",
+      "matiere": "TC-3-I-WEB",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Déployer des applications sur le web",
+      "matiere": "TC-3-I-WEB",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Différences entre bases de données relationnelles, NoSQL, objets",
+      "matiere": "TC-3-I-WEB",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Services WEB et protocoles client-serveur",
+      "matiere": "TC-3-I-WEB",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Protocole HTTP",
+      "matiere": "TC-3-I-WEB",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Langage HTML, CSS",
+      "matiere": "TC-3-I-WEB",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Structuration modèle-vue-controlleur",
+      "matiere": "TC-3-I-WEB",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Moteurs de rendu coté serveur",
+      "matiere": "TC-3-I-WEB",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Applications riches coté client (Ajax, JavaScript)",
+      "matiere": "TC-3-I-WEB",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Déploiements multi-instances avec serveur HTTP",
+      "matiere": "TC-3-I-WEB",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "CGI, FastCGI, Proxy HTTP, modules Sécurisation HTTPS",
+      "matiere": "TC-3-I-WEB",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Maintien de sessions applicatives",
+      "matiere": "TC-3-I-WEB",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modéliser, concevoir et interroger un système d'information",
+      "matiere": "TC-3-I-WEB",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mener une analyse conceptuelle",
+      "matiere": "TC-3-I-WEB",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Format Entité/Association et schéma relationnel",
+      "matiere": "TC-3-I-WEB",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Écriture de requêtes au format SQL et prise en compte des contraintes de clés primaires et étrangères",
+      "matiere": "TC-3-I-WEB",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Configurer des éléments actifs (switch, routeur) d'un réseau dans des architectures élémentaires LOAN et WAN",
+      "matiere": "TC-3-R-NRP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Implémenter le routage des réseaux à l'échelle de l'Internet",
+      "matiere": "TC-3-R-NRP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mettre en œuvre une diffusion Multicast Vidéo",
+      "matiere": "TC-3-R-NRP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Implémenter le routage des Réseaux IPv6, RIPng, OSPFv4 et BGP",
+      "matiere": "TC-3-R-NRP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Principes du routage IP et algorithmes associés Bellman Ford, Dijkstra",
+      "matiere": "TC-3-R-NRP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Protocoles de routage intérieur RIP, OSPF et extérieur à l'Internet, BGP",
+      "matiere": "TC-3-R-NRP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Protocole IP Multicast PIM Dense et Sparse",
+      "matiere": "TC-3-R-NRP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Routage IPV6 et Tunnel IPV4 IPV6",
+      "matiere": "TC-3-R-NRP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Effectuer une veille technologique sur les frameworks web",
+      "matiere": "TC-3-I-PWEB",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mode¿liser, concevoir un syste¿me d'information",
+      "matiere": "TC-3-I-PWEB",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Intégrer différents outils/frameworks web de programmation front/back-end",
+      "matiere": "TC-3-I-PWEB",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Effectuer des tests de déploiement à partir d'un use case précis",
+      "matiere": "TC-3-I-PWEB",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Effectuer une démonstration des fonctionnalités du site déployé",
+      "matiere": "TC-3-I-PWEB",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Langage de programmation Web dynamique (python, javascript, PHP, etc)",
+      "matiere": "TC-3-I-PWEB",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modèles de structuration d'application Web (MVC, MVT, Microservices,    etc)",
+      "matiere": "TC-3-I-PWEB",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Langage de structuration de données Web (JSON, XML, HTML, etc)",
+      "matiere": "TC-3-I-PWEB",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Réaliser des mesures expérimentales",
+      "matiere": "TC-3-T-TPS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Savoir utiliser et manipuler l'instrumentation de laboratoire (générateurs de signaux, oscilloscope, analyseur de spectre)",
+      "matiere": "TC-3-T-TPS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Analyser en temps et en fréquence un signal analogique ou numérique",
+      "matiere": "TC-3-T-TPS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Implanter des filtres numériques sur des systèmes temps réel",
+      "matiere": "TC-3-T-TPS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Caractériser des modulations analogiques (AM et FM), fréquences, puissances (porteuses et modulant), taux de modulation, excursion en fréquence",
+      "matiere": "TC-3-T-TPS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Modéliser et caractériser des modulations numériques (BPSK,QPSK, MPSK) sous Simulink",
+      "matiere": "TC-3-T-TPS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Démoduler numériquement un signal FM",
+      "matiere": "TC-3-T-TPS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Faire un bilan de liaison d'une chaine de transmission radio",
+      "matiere": "TC-3-T-TPS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mesures et analyse de signaux , DSP d'un bruit blanc",
+      "matiere": "TC-3-T-TPS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Caractérisation d'un système (réponse impulsionnelle et fréquentielle)",
+      "matiere": "TC-3-T-TPS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Techniques d'implantation de filtres en temps réel (ligne à retard, buffer circulaire, trame)",
+      "matiere": "TC-3-T-TPS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Etude d'un signal radio, caractéristiques d'une antenne, bilan de liaison, pertes, diagramme de rayonnement.",
+      "matiere": "TC-3-T-TPS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Paramètres d'une modulation numérique: rapidité de modulation, débit, filtres de mise en forme, constellation, diagramme de l'œil, EVM",
+      "matiere": "TC-3-T-TPS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "FDATool, Simulink USRP radio, GNU Radio companion, Analyse spectrale",
+      "matiere": "TC-3-T-TPS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Synthétiser et implanter des filtres numériques sur DSP Texas Instrument",
+      "matiere": "TC-3-T-TPS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Synthétiser et implanter des filtres numériques sur FPGA en VHDL",
+      "matiere": "TC-3-T-TPS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Maitriser un environnement de développement et de test pour DSP (Code Composer Studio, Matlab).",
+      "matiere": "TC-3-T-TPS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Maitriser un environnement de développement et de test pour FPGA (Altera, Matlab, Simulink).",
+      "matiere": "TC-3-T-TPS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Configurer des cartes de transmission radio (USRP, Dongle USB RTL-SDR radio)",
+      "matiere": "TC-3-T-TPS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Manipuler des systèmes de développement radio logicielle (GNU Radio, Communications System Toolbox Support Package for USRP Radio).",
+      "matiere": "TC-3-T-TPS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Etudier un récepteur FM conçu dans un environnement de radio logicielle",
+      "matiere": "TC-3-T-TPS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mesures et analyse de signaux , DSP d'un bruit blanc",
+      "matiere": "TC-3-T-TPS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Caractérisation d'un système (réponse impulsionnelle et fréquentielle)",
+      "matiere": "TC-3-T-TPS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Techniques d'implantation de filtres en temps réel (ligne à retard, buffer circulaire, trame)",
+      "matiere": "TC-3-T-TPS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Etude d'un signal radio, caractéristiques d'une antenne, bilan de liaison, pertes, diagramme de rayonnement.",
+      "matiere": "TC-3-T-TPS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Paramètres d'une modulation numérique: rapidité de modulation, débit, filtres de mise en forme, constellation, diagramme de l'œil, EVM",
+      "matiere": "TC-3-T-TPS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "DSP, FPGA,  VHDL,Matlab, FDATool, Antenne",
+      "matiere": "TC-3-T-TPS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Gérer un projet agile en mode iteratif",
+      "matiere": "TC-3-P-PALE",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Gérer un projet en flux de fonctions",
+      "matiere": "TC-3-P-PALE",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Estimer les tâches d'un projet",
+      "matiere": "TC-3-P-PALE",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Accompagner un client dans un projet",
+      "matiere": "TC-3-P-PALE",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Cycle agile Scrum",
+      "matiere": "TC-3-P-PALE",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Flux agile Kanban",
+      "matiere": "TC-3-P-PALE",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Gestion de projet, développement agile",
+      "matiere": "TC-3-P-PALE",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Prendre le lead d'un projet",
+      "matiere": "TC-3-P-PALE",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Interagir avec une équipe, un client",
+      "matiere": "TC-3-P-PALE",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Artistes et specifieurs",
+      "matiere": "TC-3-P-PALE",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Marshmallow Challenge",
+      "matiere": "TC-3-P-PALE",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Savoir trouver des documents pertinents et fiables par rapport à un problème posé",
+      "matiere": "TC-3-P-ASDS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Analyser la structure et le contenu des différents documents scientifiques",
+      "matiere": "TC-3-P-ASDS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Savoir situer un résultat dans un état de l'art",
+      "matiere": "TC-3-P-ASDS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Réaliser une étude bibliographique sur un sujet de recherche récent",
+      "matiere": "TC-3-P-ASDS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Connaitre des différents types de documents scientifiques, savoir comment ils sont élaborés et être capable d'évaluer leur fiabilité",
+      "matiere": "TC-3-P-ASDS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Connaitre la structure des différents documents scientifiques",
+      "matiere": "TC-3-P-ASDS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Savoir où et comment chercher un document pertinent sur un sujet donné",
+      "matiere": "TC-3-P-ASDS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Connaitre des règles de présentation de résultats scientifiques",
+      "matiere": "TC-3-P-ASDS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Présenter des résultats scientifiques à l'écrit, à l'oral et sous forme de poster",
+      "matiere": "TC-3-P-ASDS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "S'insérer dans une équipe de recherche",
+      "matiere": "TC-3-P-PTIR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Travailler en groupe (avec 4 autres étudiants)",
+      "matiere": "TC-3-P-PTIR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Réaliser un travail individuel dans le cadre d'un projet de groupe",
+      "matiere": "TC-3-P-PTIR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Présentation synthétique et régulière, à l'oral, de ses travaux",
+      "matiere": "TC-3-P-PTIR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Rédaction d'une état de l'art",
+      "matiere": "TC-3-P-PTIR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Rédaction d'un rapport de synthèse d'une activité d'initiation recherche",
+      "matiere": "TC-3-P-PTIR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Etat de l'art d'un sujet d'actualité en recherche",
+      "matiere": "TC-3-P-PTIR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Méthodologie pour une étude bibliographique",
+      "matiere": "TC-3-P-PTIR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Méthodologie pour réaliser un travail de recherche (théorique ou expérimental).",
+      "matiere": "TC-3-P-PTIR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Saisir les grandes lignes d'un exposé scientifique",
+      "matiere": "TC-3-P-DRE",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Connaître les acteurs d'un laboratoire",
+      "matiere": "TC-3-P-DRE",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Les activités de l'enseignant-chercheur",
+      "matiere": "TC-3-P-DRE",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "La vie d'une équipe de recherche",
+      "matiere": "TC-3-P-DRE",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Les questions ouvertes sur un sujet scientifique",
+      "matiere": "TC-3-P-DRE",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Analyser les dimensions technique, sociologique et économique des télécommunications",
+      "matiere": "TC-3-H-CTC2",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Réaliser une recherche documentaire",
+      "matiere": "TC-3-H-CTC2",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Réaliser une présentation adaptée à la cible",
+      "matiere": "TC-3-H-CTC2",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Acquérir une culture générale du secteur des télécoms",
+      "matiere": "TC-3-H-CTC2",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Culture générale, communication orale, recherche documentaire",
+      "matiere": "TC-3-H-CTC2",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Concevoir et déployer une architecture de réseau MPLS, M-BGP et MPLS VPN,",
+      "matiere": "TC-4-R-NAS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Dimensionner la qualité de service avec DiffServ, RSVP,",
+      "matiere": "TC-4-R-NAS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Ingénierie de trafic avec MPLS TE et élaboration d'une politique de QoS",
+      "matiere": "TC-4-R-NAS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mettre en œuvre un réseau de VoIP, téléphones SIP, IPBX, Centre d'appels, SVI",
+      "matiere": "TC-4-R-NAS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Définir une politique de sécurité réseau IPSec.",
+      "matiere": "TC-4-R-NAS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Réseaux privés virtuels, 802.1Q, VLAN, Tunnel GRE,",
+      "matiere": "TC-4-R-NAS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Chiffrement des données",
+      "matiere": "TC-4-R-NAS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "MPLS, protocoles LDP, technologie des VRF, routage M-BGP",
+      "matiere": "TC-4-R-NAS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Protocoles de voix sur IP, SIP, RTP/RTCP,",
+      "matiere": "TC-4-R-NAS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Qualité de service, modèles DiffServ, RSVP et ingénierie de trafic MPLS TE",
+      "matiere": "TC-4-R-NAS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Configuration des éléments actifs (switch, routeur) dans ces architectures réseau",
+      "matiere": "TC-4-R-NAS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Chiffrement des données",
+      "matiere": "TC-4-R-NAS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Savoir modéliser un système de réseau en utilisant des outils analytiques",
+      "matiere": "TC-4-R-PRF",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Savoir simuler un système en utilisant un simulateur à événements discrets",
+      "matiere": "TC-4-R-PRF",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Savoir évaluer les performances en régime transitoire et stationnaire d'un système en utilisant des outils analytiques ou de simulation.",
+      "matiere": "TC-4-R-PRF",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Savoir dimensionner un réseau en menant une évaluation de performances adéquate",
+      "matiere": "TC-4-R-PRF",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Connaître les outils analytiques de modélisation: Chaîne de Markov à temps discret, Chaîne de Markov à temps continu, Files d'attente, Réseaux de file d'attente.",
+      "matiere": "TC-4-R-PRF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Connaître les différentes équations caractérisant les régimes transitoires et permanents des modèles analytiques.",
+      "matiere": "TC-4-R-PRF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Connaître le principe de la génération de nombres aléatoires",
+      "matiere": "TC-4-R-PRF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Connaître les fondements théoriques de la simulation à évènements discrets et les base du simulateur NS2",
+      "matiere": "TC-4-R-PRF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Savoir modéliser et évaluer quelques systèmes simples de trasmission (approches d'accès au canal, des codes correcteurs, retransmissions, etc.) en utilisant des outils analytiques",
+      "matiere": "TC-4-R-PRF",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Connaître les outils analytiques de modélisation: Chaîne de Markov à temps discret, Chaîne de Markov à temps continu, Files d'attente, Réseaux de file d'attente.",
+      "matiere": "TC-4-R-PRF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Connaître des outils analytiques et de simulations utiles pour l'évaluations de performances de systèmes numériques déjà déployés ( capacités, limites, fiabilité, goulots d'étranglement, etc.)",
+      "matiere": "TC-4-R-PRF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Savoir mettre en place une approche scientifique permettant l'analyse des performances d'un système en modélisant correctement le système et les entrées et en calculant et analysant des métriques de performance en sortie",
+      "matiere": "TC-4-R-PRF",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Savoir modéliser quelques problèmes d'ingénieirie en utilisant des outils analytiques (Chaine de Markov) ayant un inéteret dans différents domaines de l'ingénierie",
+      "matiere": "TC-4-R-PRF",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Connaître quelques outils analytiques et de simulation utiles pour la forumation de différents problèmes d'ingénierie",
+      "matiere": "TC-4-R-PRF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Concevoir un système de transmission numérique (point à point) suivant une démarche cohérente et validée, adapté à un canal de transmission",
+      "matiere": "TC-4-T-CNA",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Optimiser des blocs d'un système de transmission en sachant démontrer ses performances, par la théorie",
+      "matiere": "TC-4-T-CNA",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Modèle théorique en bande de base d'un système de transmission",
+      "matiere": "TC-4-T-CNA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modèle d'un canal radio en bande de base",
+      "matiere": "TC-4-T-CNA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Méthodes d'évaluation des performances d'un système de transmission",
+      "matiere": "TC-4-T-CNA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Techniques de transmission en canal réel : codage canal, égalisation, diversité, étalement de spectre, multi-porteuses, MIMO",
+      "matiere": "TC-4-T-CNA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Communications numériques, traitement du signal, codage, égalisation, étalement de spectre, multi-porteuses, MIMO",
+      "matiere": "TC-4-T-CNA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Simuler un système de transmission simple sous Simulink (Matlab)",
+      "matiere": "TC-4-T-CNA",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Fonctions principales d'une chaine de transmission complète en point à point",
+      "matiere": "TC-4-T-CNA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Rôle et mise en œuvre des différentes fonctions élémentaire de la chaine de traitement",
+      "matiere": "TC-4-T-CNA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Simulink, modélisation, performance",
+      "matiere": "TC-4-T-CNA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Analyser un standard : identifier les différentes fonctions et leurs rôles",
+      "matiere": "TC-4-T-CNA",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Comprendre les nouvelles technologies",
+      "matiere": "TC-4-T-CNA",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Anticiper sur les évolutions technologiques à venir pour les systèmes radio",
+      "matiere": "TC-4-T-CNA",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Standards radio (couche PHY) : Wifi, GSM, UMTS, LTE,¿",
+      "matiere": "TC-4-T-CNA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modéliser un signal continu ou discret par un signal approximant",
+      "matiere": "TC-4-T-TIP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Modéliser le système phonatoire et le système auditif pour analyser et synthétiser la parôle et l'audio",
+      "matiere": "TC-4-T-TIP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Etant donné une problématique (segmentation ou débruitage ou identification ou autre), concevoir une chaîne de traitement d'images pour résoudre cette problématique",
+      "matiere": "TC-4-T-TIP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Caractéristiques principales des espaces de représentations des signaux et des images",
+      "matiere": "TC-4-T-TIP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Approximation optimale des signaux et des images",
+      "matiere": "TC-4-T-TIP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Compréhension de la transformée en ondelettes et de l'analyse multi- résolution",
+      "matiere": "TC-4-T-TIP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Traitements de base pour les images",
+      "matiere": "TC-4-T-TIP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Espace de Hilbert, Transformée de Fourier, Transformée Cosinus, Transformée en ondelettes,",
+      "matiere": "TC-4-T-TIP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Analyser (comprendre la chaîne de traitement, identifier les différentes briques) les standards de compression de la parôle, de l'audio, des images et des vidéos",
+      "matiere": "TC-4-T-TIP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Concevoir une chaîne de compression de la parôle, de l'audio, des images et des vidéos",
+      "matiere": "TC-4-T-TIP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Approximation optimale des signaux et des images",
+      "matiere": "TC-4-T-TIP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Techniques de quantification et de codage parôle, audio, image 2D et vidéo",
+      "matiere": "TC-4-T-TIP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Standards de compression de parôle, audio, image et vidéo",
+      "matiere": "TC-4-T-TIP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Mettre en œuvre les techniques d'analyse multirésolution des signaux et des images",
+      "matiere": "TC-4-T-TIP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Réaliser une chaîne logicielle de traitement d'image en utilisant des outils tels que MATLAB ou STARLING",
+      "matiere": "TC-4-T-TIP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Méthodologies d'analyse et de synhèse de la parôle et de l'audio",
+      "matiere": "TC-4-T-TIP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Techniques de quantification et de codage parôle, audio, image et vidéo",
+      "matiere": "TC-4-T-TIP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Méthodologies d'analyse de masse de données (\"Machine Learning\" et \"Deep Learning\")",
+      "matiere": "TC-4-T-TIP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Etant donné une base de données images ou vidéos, mettre en œuvre les techniques d'analyse de données (Apprentissage \"Machine Learning\" et Apprentissage profond \"Deep Learning\") pour classer ou identifier des objets visuels (Intelligence Artificielle)",
+      "matiere": "TC-4-T-TIP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Utiliser un environnement de développement nouveau, type matlab, labview, gnu radio.",
+      "matiere": "TC-4-T-PSC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Dans le but de concevoir un émetteur/récepteur respectant un ensemble de critères techniques précisé par le cahier des charges ou une norme à respecter, savoir établir un découpage fonctionnel du projet.",
+      "matiere": "TC-4-T-PSC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Approfondir un point technique particulier pour être capable de concevoir et développer un programme réalisant la fonction concernée (simulation et/ou implémentation physique sur PC ou système embarqué). Ceci peut impliquer de modéliser un phénomène physique; identifier les entrées/sorties pertinentes et les relations entre elles; développer un algorithme; mettre au point une procédure de test de la fonction.",
+      "matiere": "TC-4-T-PSC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "radio logicielle, multipaths, OFDM",
+      "matiere": "TC-4-T-PSC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Concevoir un banc de test permettant de mettre en évidence expérimentalement un aspect connu de façon théorique",
+      "matiere": "TC-4-T-PSC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Concevoir une procédure de test et d'évaluation du système complet en fonction de critères pertinents. Par exemple, évaluer : le taux d'erreur binaire, le débit atteint, le nombre d'utilisateurs, etc;  en fonction de : la longueur d'une ligne ADSL, la charge d'une zone donnée desservie par un AP wifi, la norme de référence utilisée, etc etc",
+      "matiere": "TC-4-T-PSC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Utiliser les outils de conduite de projet (travail en équipe, planning, etc)",
+      "matiere": "TC-4-T-PSC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "timeline, communicaton, organisation, suivi",
+      "matiere": "TC-4-T-PSC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Utiliser les outils de conduite de projet (travail en équipe, planning, etc)",
+      "matiere": "TC-4-T-PSC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Approfondir un point technique particulier pour être capable de concevoir et développer un programme réalisant la fonction concernée (simulation et/ou implémentation physique sur PC ou système embarqué). Ceci peut impliquer de modéliser un phénomène physique; identifier les entrées/sorties pertinentes et les relations entre elles; développer un algorithme; mettre au point une procédure de test de la fonction.",
+      "matiere": "TC-4-T-PSC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Savoir comparer différentes architectures distribuées",
+      "matiere": "TC-4-I-SYD",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Vocabulaire lié à l'architecture des systèmes informatiques",
+      "matiere": "TC-4-I-SYD",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Problématiques liés aux grands systèmes",
+      "matiere": "TC-4-I-SYD",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Sun RPC, RMI, DCOM",
+      "matiere": "TC-4-I-SYD",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Savoir raisonner sur les fondements asynchrones des communications",
+      "matiere": "TC-4-I-SYD",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Proposer des mécanismes de consensus",
+      "matiere": "TC-4-I-SYD",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Principes définissant les systèmes distribués concernant la mémoire globale et le temps",
+      "matiere": "TC-4-I-SYD",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Vocabulaire associé aux systèmes distribués et à la tolérance de panne",
+      "matiere": "TC-4-I-SYD",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Algorithmes et résultats de référence en distribué : FLP, Paxos, Bitcoin, 2PC",
+      "matiere": "TC-4-I-SYD",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Mécanisme de synchronisation temporel associé aux horloges de Lamport et vectorielles",
+      "matiere": "TC-4-I-SYD",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Protocoles distribués, Transactions, Consensus, Délais",
+      "matiere": "TC-4-I-SYD",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Bitcoin",
+      "matiere": "TC-4-I-SYD",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Paxos",
+      "matiere": "TC-4-I-SYD",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Raft",
+      "matiere": "TC-4-I-SYD",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Rédiger son CV",
+      "matiere": "TC-4-H-RSM",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Utiliser différents outils et techniques pour rechercher un stage ou un emploi en lien avec son projet professionnel",
+      "matiere": "TC-4-H-RSM",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Connaissance du secteur et des métiers des Technologies de l'Information",
+      "matiere": "TC-4-H-RSM",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Déployer une architecture de communication sécurisée",
+      "matiere": "TC-4-I-CSC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Principe d'utilisation des cryptographies symétrique et asymétrique",
+      "matiere": "TC-4-I-CSC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Architectures de gestion de clé (CA, DANE/TLSA, PGP)",
+      "matiere": "TC-4-I-CSC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Protocoles cryptographiques (TLS, Kerberos, etc.)",
+      "matiere": "TC-4-I-CSC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "RSA, AES, PKI, TLS",
+      "matiere": "TC-4-I-CSC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Analyser les lacunes de sécurité d'une communication",
+      "matiere": "TC-4-I-CSC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Exemples de fondations mathématiques",
+      "matiere": "TC-4-I-CSC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Coûts de chiffrement/déchiffrement/attaque",
+      "matiere": "TC-4-I-CSC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Cryptographie, Cryptanalyse",
+      "matiere": "TC-4-I-CSC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Enjeux éthiques de la cryptographie",
+      "matiere": "TC-4-I-CSC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Principe d'utilisation des cryptographies symétrique et asymétrique",
+      "matiere": "TC-4-I-CSC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Architectures de gestion de clé (CA, DANE/TLSA, PGP)",
+      "matiere": "TC-4-I-CSC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Coûts de chiffrement/déchiffrement/attaque",
+      "matiere": "TC-4-I-CSC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Éthique, cryptographie, vie privée",
+      "matiere": "TC-4-I-CSC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Savoir comparer différentes architectures distribuées",
+      "matiere": "TC-4-I-IAT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Base de Docker",
+      "matiere": "TC-4-I-IAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Base de Spring",
+      "matiere": "TC-4-I-IAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Vocabulaire lié à l'architecture des systèmes informatiques",
+      "matiere": "TC-4-I-IAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Problématiques liés aux grands systèmes",
+      "matiere": "TC-4-I-IAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Sun RPC, RMI, DCOM",
+      "matiere": "TC-4-I-IAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Savoir présenter et communiquer sur un système informatique complexe avec les outils du génie logiciel",
+      "matiere": "TC-4-I-INR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Comprendre les enjeux liés à la vérification de programmes informatiques. Principalement liés à l'opposition entre un code prouvé formellement et un code testé",
+      "matiere": "TC-4-I-INR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Comprendre les grandes lignes de la gestion de projet informatique.",
+      "matiere": "TC-4-I-INR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Comprendre les cycles de vie du produit logiciel",
+      "matiere": "TC-4-I-INR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Représentation et utilisation des Schemas UML pour représenter une architecture IT",
+      "matiere": "TC-4-I-INR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Approches formelles. Langage B",
+      "matiere": "TC-4-I-INR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Utilisation des Designs patterns logiciels pour décrire un programme",
+      "matiere": "TC-4-I-INR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Développement Agile et méthode SCRUM",
+      "matiere": "TC-4-I-INR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Objets Calistenics",
+      "matiere": "TC-4-I-INR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Développement par les tests",
+      "matiere": "TC-4-I-INR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Abstraction formelle d'un système",
+      "matiere": "TC-4-I-INR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Programmation Junit, TDD",
+      "matiere": "TC-4-I-INR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Langage B",
+      "matiere": "TC-4-I-INR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Analyser des traces d'utilisation des réseaux mobiles",
+      "matiere": "TC-4-R-ARM",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Gestion de mobilité",
+      "matiere": "TC-4-R-ARM",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Canaux de transport",
+      "matiere": "TC-4-R-ARM",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Canaux logiques",
+      "matiere": "TC-4-R-ARM",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Gestion des ressources",
+      "matiere": "TC-4-R-ARM",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Mapping des canaux, zone de localisation, paging, handover, etablissement, protocole RRC",
+      "matiere": "TC-4-R-ARM",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Proposer des solutions d'évolution des architectures de réseaux mobile",
+      "matiere": "TC-4-R-ARM",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Réseau d'accès / réseau cœur",
+      "matiere": "TC-4-R-ARM",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Sécurité des réseaux mobiles",
+      "matiere": "TC-4-R-ARM",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Protocoles du plan données et du plan contrôle",
+      "matiere": "TC-4-R-ARM",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Plan contrôle, plan donnees, reseau d'acces, reseau cœur",
+      "matiere": "TC-4-R-ARM",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Décrire les concepts de bases d'un réseau cellulaire",
+      "matiere": "TC-4-R-ARM",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Décrire l'émission/réception de messages (données ou voix)",
+      "matiere": "TC-4-R-ARM",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Éléments d'architecture des réseaux 2G, 3G ou 4G",
+      "matiere": "TC-4-R-ARM",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Réseaux cellulaire, etablissement d'appel, etablissement d'une session IP, access stratum, non-access stratum",
+      "matiere": "TC-4-R-ARM",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Dimensionner un réseau téléphonique d'entreprise à partir d'un cahier des charges",
+      "matiere": "TC-4-T-BLF",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Configurer des équipements du réseau d'accès ADSL : routeur domestique, DSLAM, BAS",
+      "matiere": "TC-4-T-BLF",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Boucle locale : réseau de distribution, unité de raccordement d'abonné",
+      "matiere": "TC-4-T-BLF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Fonction commutation, hiérarchie de commutateurs",
+      "matiere": "TC-4-T-BLF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Signalisation SS7 : architecture, Protocoles, établissement d'appel",
+      "matiere": "TC-4-T-BLF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Fonction transmission, multiplexage SDH",
+      "matiere": "TC-4-T-BLF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Téléphonie d'entreprise : PABX, charge de trafic, dimensionnement",
+      "matiere": "TC-4-T-BLF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Générations de technologies xDSL",
+      "matiere": "TC-4-T-BLF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "ADSL : architecture accès/collecte, couches de protocoles mises en jeu : PPP, ATM, Ethernet.",
+      "matiere": "TC-4-T-BLF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "riple play, Notion de QoS",
+      "matiere": "TC-4-T-BLF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "RTC, boucle locale, PABX, ADSL, DSLAM",
+      "matiere": "TC-4-T-BLF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Perspective historique sur l'évolution du RTC et des technologies d'accès/ collecte ADSL",
+      "matiere": "TC-4-T-BLF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Générations de technologies xDSL",
+      "matiere": "TC-4-T-BLF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Rentabiliser, convergence",
+      "matiere": "TC-4-T-BLF",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Comprendre les caractéristiques des protocoles de couches 1& 2 des systèmes radio cellulaires ou wlan",
+      "matiere": "TC-4-T-RAN",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Connaître les techniques de l'accès radio cellulaire et de partage des ressources",
+      "matiere": "TC-4-T-RAN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Techniques de multiplexage (TDMA, FDMA, CDMA, OFDMA)",
+      "matiere": "TC-4-T-RAN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modèle hexagonal pour les réseaux cellulaires",
+      "matiere": "TC-4-T-RAN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Calcul d'interférences",
+      "matiere": "TC-4-T-RAN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Réseaux cellulaire, partage des ressources radio, multiplexage (FDMA, TDMA, CDMA, OFDMA)",
+      "matiere": "TC-4-T-RAN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Appréhender les problématiques de l'ingénierie radio : dimensionnement, planification, gestion des interférences",
+      "matiere": "TC-4-T-RAN",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Etudier une trace réelle sur analyseur de signaux vectoriel et analyser les signaux présents",
+      "matiere": "TC-4-T-RAN",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Caractéristiques principales des couches 1&2 des systèmes cellulaires",
+      "matiere": "TC-4-T-RAN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Caractéristiques principale des couches 1&2 du Wifi",
+      "matiere": "TC-4-T-RAN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Dimensionnement, planification cellulaire, gestion des interférences",
+      "matiere": "TC-4-T-RAN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Calculer la charge d'un réseau cellulaire et l'optimiser",
+      "matiere": "TC-4-T-RAN",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Savoir utiliser des informations diverses pour évaluer les performances d'un réseau cellulaire (trafic, QoS, qualité des liens radio)",
+      "matiere": "TC-4-T-RAN",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Techniques de calcul de charge d'un réseau cellulaire",
+      "matiere": "TC-4-T-RAN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Techniques d'optimisation d'un réseau cellulaire",
+      "matiere": "TC-4-T-RAN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Futures évolutions (vers la 5G)",
+      "matiere": "TC-4-T-RAN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Performances des réseaux cellulaires",
+      "matiere": "TC-4-T-RAN",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Analyser un existant, les besoins et les contraintes",
+      "matiere": "TC-4-P-PAO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Concevoir une architecture de réseau LAN/MAN/WAN",
+      "matiere": "TC-4-P-PAO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Sélectionner et caractériser les matériels et logiciels appropriés (LAN/MAN, sécurité, administration de réseau, TOIP, WIFI)",
+      "matiere": "TC-4-P-PAO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Organiser et planifier un déploiement avec les contraintes de migration et le support à l'exploitation de la solution",
+      "matiere": "TC-4-P-PAO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mettre en œuvre une démarche de réponse à un appel d'offres",
+      "matiere": "TC-4-P-PAO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Elaborer une offre technique, organisationnelle et financière",
+      "matiere": "TC-4-P-PAO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Effectuer une soutenance de défense d'offre, argumenter face au client",
+      "matiere": "TC-4-P-PAO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Travailler en équipe d'experts",
+      "matiere": "TC-4-P-PAO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Les phases d'un appel d'offres",
+      "matiere": "TC-4-P-PAO",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Architecture et services dans un réseau de communication",
+      "matiere": "TC-4-P-PAO",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Estimer leur charge de travail,",
+      "matiere": "TC-4-S-ENT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Travailler en équipe, collaborer",
+      "matiere": "TC-4-S-ENT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Rédiger un rapport de projet, une note de synthèse",
+      "matiere": "TC-4-S-ENT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Notions de savoir être, code en entreprise",
+      "matiere": "TC-4-S-ENT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Notions de relations manager, équipe, collaborateur",
+      "matiere": "TC-4-S-ENT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Management de projet, méthodologie Agile",
+      "matiere": "TC-4-S-ENT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Caractériser les techniques de transmission spécifiques aux liaisons satellites",
+      "matiere": "TC-5-OP1-SAT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Caractéristiques des liens radio",
+      "matiere": "TC-5-OP1-SAT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Modulation",
+      "matiere": "TC-5-OP1-SAT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Connaitre le secteur d'activité lié aux communications par satellites",
+      "matiere": "TC-5-OP1-SAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Localisation",
+      "matiere": "TC-5-OP1-SAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Radionavigation",
+      "matiere": "TC-5-OP1-SAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Collecte de donnée",
+      "matiere": "TC-5-OP1-SAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Acteurs du marché",
+      "matiere": "TC-5-OP1-SAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Notion d'orbite",
+      "matiere": "TC-5-OP1-SAT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Protocoles MAC",
+      "matiere": "TC-5-OP1-SAT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Etude de cas réels",
+      "matiere": "TC-5-OP1-SAT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Comprendre les mécanismes de standardisation",
+      "matiere": "TC-5-OP1-5G",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Comprendre les enjeux des futurs standards",
+      "matiere": "TC-5-OP1-5G",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Rédiger une note de lecture sur une nouvelle technologie",
+      "matiere": "TC-5-OP1-5G",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Appréhender l'évolution technologique",
+      "matiere": "TC-5-OP1-5G",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Défis de la 5G",
+      "matiere": "TC-5-OP1-5G",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Processus de standardisation",
+      "matiere": "TC-5-OP1-5G",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Technologies émergeantes : massive MIMO, mmWaves, cloud RAN, I.A. dans les réseaux",
+      "matiere": "TC-5-OP1-5G",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Conduire un projet de virtualisation d'un système d'information",
+      "matiere": "TC-5-OP1-VSR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Choix d'architecture technique de virtualisation et cloud",
+      "matiere": "TC-5-OP1-VSR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Concevoir et déployer une architecture de virtualisation et cloud",
+      "matiere": "TC-5-OP1-VSR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Techniques de virtualisation, hyperviseur, machine virtuelle, docker, vSwitch.",
+      "matiere": "TC-5-OP1-VSR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Haute disponibilité et Déduplication et techniques de virtualisation des systèmes de fichiers, RAID, LVM, ZFS, ZPOOL,",
+      "matiere": "TC-5-OP1-VSR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Architectures de virtualisation des serveurs, des postes de travail et des réseaux, VMWare, OpenStack, Azure, SDN",
+      "matiere": "TC-5-OP1-VSR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Virtualisation des fonctions réseaux, NFV, langage P4.",
+      "matiere": "TC-5-OP1-VSR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Concevoir son réseau d'accès xG",
+      "matiere": "TC-5-OP1-PRJRES",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Concevoir un CDN dans une architecture de réseau de diffusion de contenus",
+      "matiere": "TC-5-OP1-PRJRES",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mettre en œuvre des stratégies de streaming vidéo haute performance",
+      "matiere": "TC-5-OP1-PRJRES",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mettre en œuvre des serveurs de vidéo à la demande",
+      "matiere": "TC-5-OP1-PRJRES",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Protocole de streaming, caching vidéo, MPEG DASH",
+      "matiere": "TC-5-OP1-PRJRES",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Technologie CDN, Akamai, Netflix, AnyCast BGP",
+      "matiere": "TC-5-OP1-PRJRES",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Savoir manipuler la plateforme IoT-lab",
+      "matiere": "TC-5-OP2-SCP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Programmer des capteurs communicants",
+      "matiere": "TC-5-OP2-SCP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Collecter des données de capteurs et d'usage du réseau",
+      "matiere": "TC-5-OP2-SCP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Analyser les caractéristiques d'un réseau radio",
+      "matiere": "TC-5-OP2-SCP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Problématiques des villes intelligentes et de l'Internet des objets",
+      "matiere": "TC-5-OP2-SCP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Déploiements d'architectures de réseaux, notamment de capteurs, dans l'espace urbain",
+      "matiere": "TC-5-OP2-SCP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Différentes familles de topologies et protocoles réseaux utilisés",
+      "matiere": "TC-5-OP2-SCP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Tour d'horizon des acteurs et cas d'usage majeurs sur le marché ou à venir",
+      "matiere": "TC-5-OP2-SCP",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Reprendre un projet complexe existant",
+      "matiere": "TC-5-OP2-CIT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Analyser des contraintes opérationnelles de fonctionnement d'une plateforme matérielle contrainte en ressource",
+      "matiere": "TC-5-OP2-CIT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mettre en place des stratégies et configurations de consensus distribués pour de la tolérance aux pannes",
+      "matiere": "TC-5-OP2-CIT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mettre en place des services à haute disponiblité",
+      "matiere": "TC-5-OP2-CIT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mettre en place en gestion d'équipe agile à la fois à gros grain avec une grande équipe, et à la fois à grain fin en binôme",
+      "matiere": "TC-5-OP2-CIT",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Boards, processeurs ARM (Raspberry PI)",
+      "matiere": "TC-5-OP2-CIT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Brokers d'événements (MQTT)",
+      "matiere": "TC-5-OP2-CIT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Frameworks de développement d'application à haute disponiblité (Vert.x, Akka)",
+      "matiere": "TC-5-OP2-CIT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Plateformes de déploiement, monitoring et d'orchestration (Docker, Kubernetes)",
+      "matiere": "TC-5-OP2-CIT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Base de données distribuées (MongoDB)",
+      "matiere": "TC-5-OP2-CIT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Frameworks de calcul distribué (Spark, etc)",
+      "matiere": "TC-5-OP2-CIT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Frameworks de Machine Learning (TensorFlow, etc)",
+      "matiere": "TC-5-OP2-CIT",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Choisir la meilleure technologie LPWAN pour une application donnée",
+      "matiere": "TC-5-OP2-RLD",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Collecter des données environnementales en utilisant une technologie LPWAN",
+      "matiere": "TC-5-OP2-RLD",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Créer un réseau LPWAN point-à-point",
+      "matiere": "TC-5-OP2-RLD",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Utiliser un réseau public LPWAN pour collecter les données",
+      "matiere": "TC-5-OP2-RLD",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Visualiser et analyser les données environnementales",
+      "matiere": "TC-5-OP2-RLD",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Apprendre les méthodes permettant une connectivité IPv6 dans les réseaux contraintes",
+      "matiere": "TC-5-OP2-RLD",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Etudier la connectivité d'un réseau LPWAN",
+      "matiere": "TC-5-OP2-RLD",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mesurer les performances d'un réseau LPWAN",
+      "matiere": "TC-5-OP2-RLD",
+      "type": "Capacité"
+    },
+    {
+      "nom": "LPWAN, LoRa, LoRaWAN, Sigfox, Ingenu, NB-IoT, LTE-M, The Things Network, IPv6 header compression",
+      "matiere": "TC-5-OP2-RLD",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Concevoir et Implementer un système de reception radio.",
+      "matiere": "TC-5-OP2-RLO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Analyser un standard: identifier les caractéristiques relevantes pour la radio e leurs impacts sur la performance.",
+      "matiere": "TC-5-OP2-RLO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Savoir reconnaitre les limitations des techniques employés dans l'implementation d'une chaine radio.",
+      "matiere": "TC-5-OP2-RLO",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Fonctionnement approfondi des chaines radio pour les systèmes de communication sans fil.",
+      "matiere": "TC-5-OP2-RLO",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Techniques de traitement de signal pour la mise en forme d'un signal radio réel (filtrage, synchronisation, demodulation, etc...).",
+      "matiere": "TC-5-OP2-RLO",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "GNU Radio et les systèmes de traitement de signal orienté à data-flow.",
+      "matiere": "TC-5-OP2-RLO",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Techniques d'implementation de radio logicielle.",
+      "matiere": "TC-5-OP2-RLO",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Connaître les enjeux de l'IA en Robotique",
+      "matiere": "TC-5-OP3-IAR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Implémenter un algorithme de plus court chemin comme A*",
+      "matiere": "TC-5-OP3-IAR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Modéliser un problème de prise de décision comme un MDP",
+      "matiere": "TC-5-OP3-IAR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Expliquer les objectifs sous-jacents de l'apprentissage par renforcement",
+      "matiere": "TC-5-OP3-IAR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Comprendre les principaux résultats de convergence des algorithmes de programmation dynamique",
+      "matiere": "TC-5-OP3-IAR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Implémenter les algorithmes d'apprentissage par renforcement exacts et approchés",
+      "matiere": "TC-5-OP3-IAR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Agent : architectures pour la robotique, Systèmes-Multi-Agents",
+      "matiere": "TC-5-OP3-IAR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Architectures bio-inspirées et Swarm robotics",
+      "matiere": "TC-5-OP3-IAR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Algorithmes de planification A*",
+      "matiere": "TC-5-OP3-IAR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Processus décisionnel de Markov (MDP)",
+      "matiere": "TC-5-OP3-IAR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Problème d¿apprentissage par renforcement",
+      "matiere": "TC-5-OP3-IAR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Algorithmes d'apprentissage par renforcement: policy, value iteration, Qlearning, Sarsa, DQN, policy gradient",
+      "matiere": "TC-5-OP3-IAR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Schémas d'approximation linéaire et non-linéaire (avec réseaux de neurones)",
+      "matiere": "TC-5-OP3-IAR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Implémenter un comportement de navigation réactive et de téléopération",
+      "matiere": "TC-5-OP3-SMR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Implémenter un algorithme de planification et suivi de chemin (type A*)",
+      "matiere": "TC-5-OP3-SMR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Développer sur le middleware ROS (Robotic Operating System)",
+      "matiere": "TC-5-OP3-SMR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Piloter un robot Turtlebot",
+      "matiere": "TC-5-OP3-SMR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Exploiter une camera pour la navigation d'un robot",
+      "matiere": "TC-5-OP3-SMR",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Différentes architectures de contrôle",
+      "matiere": "TC-5-OP3-SMR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Représentations de l'environnement (carte métrique, topologique,..)",
+      "matiere": "TC-5-OP3-SMR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Problèmes multi-robot tel que la connectivité et la cartographie et solutions",
+      "matiere": "TC-5-OP3-SMR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Navigation réactive pour robot mobile",
+      "matiere": "TC-5-OP3-SMR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Principaux types de capteurs (laser, camera 2D/3D)",
+      "matiere": "TC-5-OP3-SMR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Le middleware ROS",
+      "matiere": "TC-5-OP3-SMR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Plateforme robots Turtlebots.",
+      "matiere": "TC-5-OP3-SMR",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Programmer un mécanisme d'appel système",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Compilation séparé, édition de lien",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Mode d'exécutions et privilèges CPU",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Appels système",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Isolation noyau/application",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Changement de contexte",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Programmer un mécanisme d'appel système",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mode d'exécutions et privilèges CPU",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Appels système",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Isolation noyau/application",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Cross-compiler, émuler, et deboguer un logiciel pour une plateforme embarquée contenant un processeur ARM (Raspberry Pi)",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Programmer en assembleur ARM",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Programmer un mécanisme d'appel système",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Compilation séparé, édition de lien",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Mode d'exécutions et privilèges CPU",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Appels système",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Isolation noyau/application",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Structures de données d'un ordonnanceur : liste de processus, process control block",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Gestionnaire d'interruptions",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Pour les plus rapides : gestion mémoire, pagination, isolation processus, MMU, traduction d'adresse",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Programmer un mécanisme d'appel système",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Compilation séparé, édition de lien",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Mode d'exécutions et privilèges CPU",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Appels système",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Isolation noyau/application",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Changement de contexte",
+      "matiere": "TC-5-OP3-OSA",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Programmer un micro-contrôleur:",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Configurer un chip radio",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Configuration réseau",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Protocole de communication numérique sans fil",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Programmation C embarqués",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Gestionnaire d'interruption, pilotes de périphériques, OS léger",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Administration linux",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Programmer un micro-contrôleur:",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Construire une distribution linux pour un système embarqué",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Programmation C embarqués",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Gestionnaire d'interruption, pilotes de périphériques, OS léger",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Construire une chaîne de compilation croisée",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Configuration réseau",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Protocole de communication numérique sans fil",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Ma��triser les outils de programmation embarqué: JTAG, UART, ethernet",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Programmation C embarqués",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Gestionnaire d'interruption, pilotes de périphériques, OS léger",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Administration linux",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Programmer un micro-contrôleur",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Configurer un chip radio",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Construire une chaîne de compilation croisée",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Programmation C embarqués",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Configurer un chip radio",
+      "matiere": "TC-5-OP3-BED",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Concevoir un système d'information sécurisé",
+      "matiere": "TCA-5-OP4-SRS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Réaliser une analyse critique des produits de sécurité",
+      "matiere": "TCA-5-OP4-SRS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Classes de vulnérabilités",
+      "matiere": "TCA-5-OP4-SRS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Modèles de contrôle d'accès",
+      "matiere": "TCA-5-OP4-SRS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Limites théoriques et pratiques des outils de sécurité",
+      "matiere": "TCA-5-OP4-SRS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Sécurité logicielle, vulnérabilités, contrôle d'accès",
+      "matiere": "TCA-5-OP4-SRS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Concevoir un système d'information sécurisé",
+      "matiere": "TCA-5-OP4-SRS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Usage et mise en œuvre d'un IDS",
+      "matiere": "TCA-5-OP4-SRS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Mécanismes de sécurité du WiFi",
+      "matiere": "TCA-5-OP4-SRS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "IDS, Sécurité wifi",
+      "matiere": "TCA-5-OP4-SRS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Analyser et expliquer une attaque documentée",
+      "matiere": "TCA-5-OP4-SRS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Usage et mise en œuvre d'un IDS",
+      "matiere": "TCA-5-OP4-SRS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Comprendre les enjeux en matière de vie privée, les risques associés et leurs impacts",
+      "matiere": "TCA-5-OP4-SVP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Réaliser une analyse critique d'un système sous l'angle de la protection des données personnelles",
+      "matiere": "TCA-5-OP4-SVP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Intégrer des solutions de protection de la vie privée au sein de produits",
+      "matiere": "TCA-5-OP4-SVP",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Visualiser des données sous différentes formes",
+      "matiere": "TCA-5-OP4-ELK",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Collecter des données issues de sites web distant d'information",
+      "matiere": "TCA-5-OP4-ELK",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Comprendre les problèmes de passage à l'échelle pour la collecte de données",
+      "matiere": "TCA-5-OP4-ELK",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Développer des outils de collectes conformes aux contraintes d'accès",
+      "matiere": "TCA-5-OP4-ELK",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Kibana",
+      "matiere": "TCA-5-OP4-ELK",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "LogStash",
+      "matiere": "TCA-5-OP4-ELK",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Beats",
+      "matiere": "TCA-5-OP4-ELK",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Prendre en main une infrastructure de traitement massif de données",
+      "matiere": "TCA-5-OP4-ELK",
+      "type": "Capacité"
+    },
+    {
+      "nom": "ElasticSearch",
+      "matiere": "TCA-5-OP4-ELK",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Analyser des enjeux stratégiques,",
+      "matiere": "TC-5-TR-ARC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Auditer de sécurité pour identifier les scénarios de menace , caractériser et évaluer les risques,",
+      "matiere": "TC-5-TR-ARC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Produire un plan de traitement des risques",
+      "matiere": "TC-5-TR-ARC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Etudier et utiliser deux méthodes différentes d'analyse de risques",
+      "matiere": "TC-5-TR-ARC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Etude de la norme iso27005",
+      "matiere": "TC-5-TR-ARC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Implanter un workflow de calcul allant de l'accès aux données jusqu'à la visualisation des résultats",
+      "matiere": "TC-5-TR-CSAD",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Concevoir et entraîner un réseau de neurones profond pour un problème de classification",
+      "matiere": "TC-5-TR-CSAD",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Exploiter les infrastructures de calcul distribué (lancement d'applications dans le cloud, manipulation d'images virtuelles etc.)",
+      "matiere": "TC-5-TR-CSAD",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Modéliser un jeu de données sous la forme d'un graphe",
+      "matiere": "TC-5-TR-CSAD",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Identifier et appliquer les algorithmes adaptés à un modèle de graphe donné",
+      "matiere": "TC-5-TR-CSAD",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Comprendre l'écosystème de calcul scientifique en Python",
+      "matiere": "TC-5-TR-CSAD",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Comprendre les principes algorithmiques de l'apprentissage statistique et neuronal",
+      "matiere": "TC-5-TR-CSAD",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Comprendre les infrastructures de calcul distribué (Data_Form et cloud) et leurs usages",
+      "matiere": "TC-5-TR-CSAD",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Comprendre les algorithmes de détection de communautés appliqués aux graphes aléatoires, temporels, small world et \"scale-free\".",
+      "matiere": "TC-5-TR-CSAD",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Paramétrer et compiler une crypto-monnaie, amorcer une blockchain, expérimenter",
+      "matiere": "TC-5-TR-BTC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Mobiliser et articuler les différents logiciels blockchain et crypto-monnaies",
+      "matiere": "TC-5-TR-BTC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Codes du bitcoin et des crypto-monnaies à preuve de travail",
+      "matiere": "TC-5-TR-BTC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Créer des smart contracts",
+      "matiere": "TC-5-TR-BTC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Trouver l'information relative aux projets blockchain/crypto-monnaies",
+      "matiere": "TC-5-TR-BTC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Faire des choix technologiques liés à l'état de la technique et au contexte d¿usage",
+      "matiere": "TC-5-TR-BTC",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Organisation des projets blockchain/crypto-monnaies",
+      "matiere": "TC-5-TR-BTC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Histoire et évolution des technologies blockchain/crypto-monnaies/DAO",
+      "matiere": "TC-5-TR-BTC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Logiciels et services participant à l'écosystème des réseaux crypto- monétaires",
+      "matiere": "TC-5-TR-BTC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Tokens ERC20 et smart contracts Ethereum",
+      "matiere": "TC-5-TR-BTC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Habitat numérique des projets blockchain/crypto-monnaies",
+      "matiere": "TC-5-TR-BTC",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Evaluer les apports et limites d'un enjeu socio-technique",
+      "matiere": "TC-5-TR-HOPE",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Transmettre les résultats d'une étude sous forme de partage collectif",
+      "matiere": "TC-5-TR-HOPE",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Etude sociologique de terrain",
+      "matiere": "TC-5-TR-HOPE",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Mettre en place un processus d'amélioration d'idées",
+      "matiere": "TC-5-P-PILS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Savoir démarrer un projet technologique sur la base de connaissances acquises",
+      "matiere": "TC-5-P-PILS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "Comprendre la valeur de l'usage",
+      "matiere": "TC-5-P-PILS",
+      "type": "Capacité"
+    },
+    {
+      "nom": "LeanStartup",
+      "matiere": "TC-5-P-PILS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Réalisation de vidéos support",
+      "matiere": "TC-5-P-PILS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Prototypage rapide de solutions",
+      "matiere": "TC-5-P-PILS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Projet, Innovation, LeanStartup",
+      "matiere": "TC-5-P-PILS",
+      "type": "Connaissance"
+    },
+    {
+      "nom": "Mettre en place un outil de gestion de projet d'équipe",
+      "matiere": "TC-5-P-PILS",
+      "type": "Capacité"
+    }
+  ]
+}
