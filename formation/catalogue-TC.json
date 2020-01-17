@@ -5318,7 +5318,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38773&_lang=fr",
             "detail": {
-              "code": "TC-5-OP1-SAT",
+              "code": "TC-5-T-OP1-SAT",
               "ects": "2.0",
               "cours": "12.0 h",
               "td": "20.0 h",
@@ -5393,7 +5393,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38580&_lang=fr",
             "detail": {
-              "code": "TC-5-OP1-5G",
+              "code": "TC-5-T-OP1-5G",
               "ects": "2.0",
               "cours": "28.0 h",
               "td": "0.0 h",
@@ -5470,7 +5470,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38771&_lang=fr",
             "detail": {
-              "code": "TC-5-OP1-CDN",
+              "code": "TC-5-R-OP1-CDN",
               "ects": "2.0",
               "cours": "18.0 h",
               "td": "6.0 h",
@@ -5485,7 +5485,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38632&_lang=fr",
             "detail": {
-              "code": "TC-5-OP1-VSR",
+              "code": "TC-5-R-OP1-VSR",
               "ects": "2.0",
               "cours": "12.0 h",
               "td": "4.0 h",
@@ -5570,7 +5570,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=39035&_lang=fr",
             "detail": {
-              "code": "TC-5-OP1-PRJRES",
+              "code": "TC-5-P-OP1-PRJRES",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "0.0 h",
@@ -5644,7 +5644,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=39102&_lang=fr",
             "detail": {
-              "code": "TC-5-OP2-SCP",
+              "code": "TC-5-R-OP2-SCP",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "32.0 h",
@@ -5717,7 +5717,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38708&_lang=fr",
             "detail": {
-              "code": "TC-5-OP2-CIT",
+              "code": "TC-5-I-OP2-CIT",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "0.0 h",
@@ -5830,7 +5830,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38345&_lang=fr",
             "detail": {
-              "code": "TC-5-OP2-RLD",
+              "code": "TC-5-R-OP2-RLD",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "32.0 h",
@@ -5919,7 +5919,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=37685&_lang=fr",
             "detail": {
-              "code": "TC-5-OP2-RLO",
+              "code": "TC-5-T-OP2-RLO",
               "ects": "2.0",
               "cours": "8.0 h",
               "td": "0.0 h",
@@ -6015,7 +6015,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=39036&_lang=fr",
             "detail": {
-              "code": "TC-5-OP2-PRJIOT",
+              "code": "TC-5-P-OP2-PRJIOT",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "0.0 h",
@@ -6078,7 +6078,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=39032&_lang=fr",
             "detail": {
-              "code": "TC-5-OP3-IAR",
+              "code": "TC-5-I-OP3-IAR",
               "ects": "2.0",
               "cours": "16.0 h",
               "td": "16.0 h",
@@ -6196,7 +6196,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38700&_lang=fr",
             "detail": {
-              "code": "TC-5-OP3-SMR",
+              "code": "TC-5-I-OP3-SMR",
               "ects": "2.0",
               "cours": "4.0 h",
               "td": "14.0 h",
@@ -6308,7 +6308,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=39103&_lang=fr",
             "detail": {
-              "code": "TC-5-OP3-OSA",
+              "code": "TC-5-I-OP3-OSA",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "16.0 h",
@@ -6448,7 +6448,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=37686&_lang=fr",
             "detail": {
-              "code": "TC-5-OP3-BED",
+              "code": "TC-5-I-OP3-BED",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "16.0 h",
@@ -6594,7 +6594,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=39037&_lang=fr",
             "detail": {
-              "code": "TC-5-OP3-PRJREB",
+              "code": "TC-5-P-OP3-PRJREB",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "0.0 h",
@@ -6693,7 +6693,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38703&_lang=fr",
             "detail": {
-              "code": "TCA-5-OP4-SRS",
+              "code": "TCA-5-I-OP4-SRS",
               "ects": "2.0",
               "cours": "10.0 h",
               "td": "0.0 h",
@@ -6773,7 +6773,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=39104&_lang=fr",
             "detail": {
-              "code": "TCA-5-OP4-SVP",
+              "code": "TCA-5-I-OP4-SVP",
               "ects": "2.0",
               "cours": "8.0 h",
               "td": "0.0 h",
@@ -6871,7 +6871,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=37684&_lang=fr",
             "detail": {
-              "code": "TCA-5-OP4-ELK",
+              "code": "TCA-5-I-OP4-ELK",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "32.0 h",
@@ -6942,7 +6942,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=37687&_lang=fr",
             "detail": {
-              "code": "TCA-5-OP4-CIA",
+              "code": "TCA-5-I-OP4-CIA",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "16.0 h",
@@ -7051,7 +7051,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=39038&_lang=fr",
             "detail": {
-              "code": "TCA-5-OP4-PRJSAS",
+              "code": "TCA-5-P-OP4-PRJSAS",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "0.0 h",
@@ -7121,7 +7121,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38943&_lang=fr",
             "detail": {
-              "code": "TC-5-TR-ARC",
+              "code": "TC-5-I-TR-ARC",
               "ects": "2.0",
               "cours": "4.0 h",
               "td": "28.0 h",
@@ -7188,7 +7188,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38723&_lang=fr",
             "detail": {
-              "code": "TC-5-TR-CSAD",
+              "code": "TC-5-I-TR-CSAD",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "0.0 h",
@@ -7288,7 +7288,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=39890&_lang=fr",
             "detail": {
-              "code": "TC-5-TR-BTC",
+              "code": "TC-5-I-TR-BTC",
               "ects": "2.0",
               "cours": "8.0 h",
               "td": "24.0 h",
@@ -7369,7 +7369,7 @@
             "UE": "Options de 5TC (TC-5-OPT)",
             "url": "http://planete.insa-lyon.fr/scolpeda/f/ects?id=38072&_lang=fr",
             "detail": {
-              "code": "TC-5-TR-HOPE",
+              "code": "TC-5-H-TR-HOPE",
               "ects": "2.0",
               "cours": "0.0 h",
               "td": "8.0 h",

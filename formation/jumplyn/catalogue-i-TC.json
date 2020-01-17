@@ -3,880 +3,923 @@
     "Syscom",
     "Réseaux",
     "Info",
-    "Huma",
-    "Projet"
+    "SoftSkills"
   ],
   "matieres": [
     {
       "code": "TC-3-R-MAC",
-      "nom": "Réseaux : Mécanismes d'Accès au Canal",
+      "nom": "Mécanismes d'Accès au Canal",
       "domaine": "Réseaux"
     },
     {
       "code": "TC-3-R-IP",
-      "nom": "Réseaux : Protocoles TCP/IP",
+      "nom": "Protocoles TCP/IP",
       "domaine": "Réseaux"
     },
     {
       "code": "TC-3-T-CMN",
-      "nom": "Télécommunications : Codages et Modulations Numériques",
+      "nom": "Codages et Modulations Numériques",
       "domaine": "Syscom"
     },
     {
       "code": "TC-3-T-CAT",
-      "nom": "Télécommunications : Canaux de transmission",
+      "nom": "Canaux de transmission",
       "domaine": "Syscom"
     },
     {
       "code": "TC-3-I-PIT",
-      "nom": "Informatique : Passeport Informatique Telecoms",
+      "nom": "Passeport Informatique Telecoms",
       "domaine": "Info"
     },
     {
       "code": "TC-3-I-ARC",
-      "nom": "Informatique : Architecture",
+      "nom": "Architecture",
       "domaine": "Info"
     },
     {
       "code": "TC-3-I-PPC",
-      "nom": "Informatique : Programmation Parallèle et Concurrente",
+      "nom": "Programmation Parallèle et Concurrente",
       "domaine": "Info"
     },
     {
       "code": "TC-3-I-ELP",
-      "nom": "Informatique : Ecosystème des langages de programmation",
+      "nom": "Ecosystème des langages de programmation",
       "domaine": "Info"
     },
     {
       "code": "TC-3-I-ALG",
-      "nom": "Informatique : Algorithmique",
+      "nom": "Algorithmique",
       "domaine": "Info"
     },
     {
       "code": "TC-3-R-PBS",
-      "nom": "Outils & Méthodes : Probabilités et statistiques",
+      "nom": "Probabilités et statistiques",
       "domaine": "Réseaux"
     },
     {
       "code": "TC-3-T-SIS",
-      "nom": "Télécommunications : Signaux et Systèmes",
+      "nom": "Signaux et Systèmes",
       "domaine": "Syscom"
     },
     {
       "code": "HU-L-ANG-FLE-TAN-A",
-      "nom": "Langues Étrangères : TANDEM franco-anglais",
-      "domaine": "Huma"
+      "nom": "TANDEM franco-anglais",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ANG-MOD-PUB",
-      "nom": "Langues Étrangères : PUBLIC SPEAKING",
-      "domaine": "Huma"
+      "nom": "PUBLIC SPEAKING",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ANG-MOD-MUS-S5",
-      "nom": "Langues Étrangères : SONGS from the ENGLISH SPEAKING WORLD S5",
-      "domaine": "Huma"
+      "nom": "SONGS from the ENGLISH SPEAKING WORLD S5",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ANG-B1-S5",
-      "nom": "Langues Étrangères : SOCIAL SKILLS at WORK S5",
-      "domaine": "Huma"
+      "nom": "SOCIAL SKILLS at WORK S5",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-LANG/FLE-TAN",
-      "nom": "Langues Étrangères : TANDEM INTERNATIONAL",
-      "domaine": "Huma"
+      "nom": "TANDEM INTERNATIONAL",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP/FLE-TAN-S1",
-      "nom": "Langues Étrangères : Tandem Franco-espagnol",
-      "domaine": "Huma"
+      "nom": "Tandem Franco-espagnol",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ANG-MOD-TRT-S5",
-      "nom": "Langues Étrangères : THEATRE in ENGLISH S5",
-      "domaine": "Huma"
+      "nom": "THEATRE in ENGLISH S5",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ALL-S1-THE",
-      "nom": "Langues Étrangères : Le théâtre allemand contemporain sur les scènes lyonnaises",
-      "domaine": "Huma"
+      "nom": "Le théâtre allemand contemporain sur les scènes lyonnaises",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ALL-S1",
-      "nom": "Langues Étrangères : ALLEMAND S1",
-      "domaine": "Huma"
+      "nom": "ALLEMAND S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ALL-S1-PRO",
-      "nom": "Langues Étrangères : Module Professionnel Allemand S1",
-      "domaine": "Huma"
+      "nom": "Module Professionnel Allemand S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ALL/FLE-TAN-S1",
-      "nom": "Langues Étrangères : Module Tandem Allemand S1",
-      "domaine": "Huma"
+      "nom": "Module Tandem Allemand S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ARA-S1",
-      "nom": "Langues Étrangères : ARABE S1",
-      "domaine": "Huma"
+      "nom": "ARABE S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-CHI-S1",
-      "nom": "Langues Étrangères : CHINOIS S1",
-      "domaine": "Huma"
+      "nom": "CHINOIS S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-CIVAL",
-      "nom": "Langues Étrangères : MODULE Civilisation latinoaméricaine",
-      "domaine": "Huma"
+      "nom": "MODULE Civilisation latinoaméricaine",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-TH+MUS",
-      "nom": "Langues Étrangères : MODULES Théâtre et Musique",
-      "domaine": "Huma"
+      "nom": "MODULES Théâtre et Musique",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-CATALAN",
-      "nom": "Langues Étrangères : MODULE Catalan",
-      "domaine": "Huma"
+      "nom": "MODULE Catalan",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-ARTS",
-      "nom": "Langues Étrangères : MODULE Art et société",
-      "domaine": "Huma"
+      "nom": "MODULE Art et société",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-PUB",
-      "nom": "Langues Étrangères : MODULE Publicité",
-      "domaine": "Huma"
+      "nom": "MODULE Publicité",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-RSI",
-      "nom": "Langues Étrangères : MODULE Ingénieurs responsables",
-      "domaine": "Huma"
+      "nom": "MODULE Ingénieurs responsables",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-PRO",
-      "nom": "Langues Étrangères : MODULE Professionnel",
-      "domaine": "Huma"
+      "nom": "MODULE Professionnel",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-DEBAT",
-      "nom": "Langues Étrangères : MODULE Débat et expression orale",
-      "domaine": "Huma"
+      "nom": "MODULE Débat et expression orale",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-HUMOUR",
-      "nom": "Langues Étrangères : MODULE Humour",
-      "domaine": "Huma"
+      "nom": "MODULE Humour",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1",
-      "nom": "Langues Étrangères : ESPAGNOL S1",
-      "domaine": "Huma"
+      "nom": "ESPAGNOL S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ITA-S1-ITACONT",
-      "nom": "Langues Étrangères : ASPECTS ET PROBLEMES DE L'ITALIE CONTEMPORAINE",
-      "domaine": "Huma"
+      "nom": "ASPECTS ET PROBLEMES DE L'ITALIE CONTEMPORAINE",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ITA-S1",
-      "nom": "Langues Étrangères : ITALIEN S1",
-      "domaine": "Huma"
+      "nom": "ITALIEN S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-JAP-S1",
-      "nom": "Langues Étrangères : JAPONAIS S1",
-      "domaine": "Huma"
+      "nom": "JAPONAIS S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-POR-S1",
-      "nom": "Langues Étrangères : PORTUGAIS S1",
-      "domaine": "Huma"
+      "nom": "PORTUGAIS S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-POR-S1-CINE",
-      "nom": "Langues Étrangères : CINEMAS ET SOCIETES",
-      "domaine": "Huma"
+      "nom": "CINEMAS ET SOCIETES",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-RUS-S1",
-      "nom": "Langues Étrangères : RUSSE S1",
-      "domaine": "Huma"
+      "nom": "RUSSE S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLE Dpt PEB2 S1",
-      "nom": "Langues Étrangères : FLE Production Ecrite Niv. B1/2/C1 du CECR Sem1",
-      "domaine": "Huma"
+      "nom": "FLE Production Ecrite Niv. B1/2/C1 du CECR Sem1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLECRL2hS1",
-      "nom": "Langues Étrangères : Tutorat fle au CRL",
-      "domaine": "Huma"
+      "nom": "Tutorat fle au CRL",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLEDptCCB2C1-S1",
-      "nom": "FLE pour les étudiants en département Cultures Comparées Niv B2/C1 : Semestre 1",
-      "domaine": "Huma"
+      "nom": "Semestre 1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLE Dpt S1",
-      "nom": "Français Langue Etrangère : FLE pour les étudiants en Départements Niveau A1 au C1 du CECRL",
-      "domaine": "Huma"
+      "nom": "FLE pour les étudiants en Départements Niveau A1 au C1 du CECRL",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLEDptTTCB1B2S1",
-      "nom": "Langues Étrangères : FLE Compréhension orale & écrite Production écrite B1/B2 Sem1",
-      "domaine": "Huma"
+      "nom": "FLE Compréhension orale & écrite Production écrite B1/B2 Sem1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-3-H-CTC1",
-      "nom": "Sciences Humaines et Sociales : Culture Telecom et Communication (S1)"
+      "nom": "Culture Telecom et Communication (S1)",
+      "domaine": "SoftSkills"
     },
     {
       "code": "EPS-3-S1",
-      "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives"
+      "nom": "EC Activités Physiques et Sportives",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-3-T-TSA",
-      "nom": "Télécommunications : Traitement du Signal et Architecture",
+      "nom": "Traitement du Signal et Architecture",
       "domaine": "Syscom"
     },
     {
       "code": "TC-3-I-CRO",
-      "nom": "Informatique : Programmation C",
+      "nom": "Programmation C",
       "domaine": "Info"
     },
     {
       "code": "TC-3-I-WEB",
-      "nom": "Informatique : Web dynamique",
+      "nom": "Web dynamique",
       "domaine": "Info"
     },
     {
       "code": "TC-3-R-NRP",
-      "nom": "Réseaux & Services : Protocoles réseaux",
+      "nom": "Protocoles réseaux",
       "domaine": "Réseaux"
     },
     {
       "code": "TC-3-I-PWEB",
-      "nom": "Informatique : Projet Web dynamique",
+      "nom": "Projet Web dynamique",
       "domaine": "Info"
     },
     {
       "code": "TC-3-T-TPS",
-      "nom": "Télécommunications : TP Système de Communication",
+      "nom": "TP Système de Communication",
       "domaine": "Syscom"
     },
     {
       "code": "TC-3-P-PALE",
-      "nom": "Projets : Gestion de projets",
-      "domaine": "Projet"
+      "nom": "Gestion de projets",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-3-P-ASDS",
-      "nom": "Projets : Analyse et Synthèse de Documents Scientifiques",
-      "domaine": "Projet"
+      "nom": "Analyse et Synthèse de Documents Scientifiques",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-3-P-PTIR",
-      "nom": "Projets : Projet d'initiation à la recherche",
-      "domaine": "Projet"
+      "nom": "Projet d'initiation à la recherche",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-3-P-DRE",
-      "nom": "Projets : Découverte de la recherche",
-      "domaine": "Projet"
+      "nom": "Découverte de la recherche",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ANG-B1-S6",
-      "nom": "Langues Étrangères : MEETINGS and DECISIONS S6",
-      "domaine": "Huma"
+      "nom": "MEETINGS and DECISIONS S6",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ANG-MOD-TRT-S6",
-      "nom": "Langues Étrangères : THEATRE IN ENGLISH S6",
-      "domaine": "Huma"
+      "nom": "THEATRE IN ENGLISH S6",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ANG-FLE-TAN-B",
-      "nom": "Langues Étrangères : TANDEM franco-anglais",
-      "domaine": "Huma"
+      "nom": "TANDEM franco-anglais",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-LANG/FLE-TAN",
-      "nom": "Langues Étrangères : TANDEM INTERNATIONAL",
-      "domaine": "Huma"
+      "nom": "TANDEM INTERNATIONAL",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ANG-MOD-MUS-S6",
-      "nom": "Langues Étrangères : SONGS from the ENGLISH SPEAKING WORLD S6",
-      "domaine": "Huma"
+      "nom": "SONGS from the ENGLISH SPEAKING WORLD S6",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ALL-S2-CIVI",
-      "nom": "Langues Étrangères : MODULE Culture et civilisation ALLEMAND S2",
-      "domaine": "Huma"
+      "nom": "MODULE Culture et civilisation ALLEMAND S2",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ALL-S2-TEC",
-      "nom": "Langues Étrangères : MODULE TECHNIQUE S2",
-      "domaine": "Huma"
+      "nom": "MODULE TECHNIQUE S2",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ALL-S2",
-      "nom": "Langues Étrangères : ALLEMAND S2",
-      "domaine": "Huma"
+      "nom": "ALLEMAND S2",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ARA-S2",
-      "nom": "Langues Étrangères : ARABE S2",
-      "domaine": "Huma"
+      "nom": "ARABE S2",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-CHI-S2",
-      "nom": "Langues Étrangères : CHINOIS S2",
-      "domaine": "Huma"
+      "nom": "CHINOIS S2",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S2-CINE",
-      "nom": "Langues Étrangères : MODULE Cine",
-      "domaine": "Huma"
+      "nom": "MODULE Cine",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S2-TH+MUS",
-      "nom": "Langues Étrangères : MODULES Théâtre et Musique",
-      "domaine": "Huma"
+      "nom": "MODULES Théâtre et Musique",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S2",
-      "nom": "Langues Étrangères : ESPAGNOL S2",
-      "domaine": "Huma"
+      "nom": "ESPAGNOL S2",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP/FLE-TAN-S2",
-      "nom": "Langues Étrangères : Tandem Franco-espagnol",
-      "domaine": "Huma"
+      "nom": "Tandem Franco-espagnol",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S2-INTERCOM",
-      "nom": "Langues Étrangères : MODULE Intercompréhension langues romanes",
-      "domaine": "Huma"
+      "nom": "MODULE Intercompréhension langues romanes",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ITA-S2-ITACONT",
-      "nom": "Langues Étrangères : ASPECTS ET PROBLEMES DE L'ITALIE CONTEMPORAINE",
-      "domaine": "Huma"
+      "nom": "ASPECTS ET PROBLEMES DE L'ITALIE CONTEMPORAINE",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ITA-S2",
-      "nom": "Langues Étrangères : ITALIEN S2",
-      "domaine": "Huma"
+      "nom": "ITALIEN S2",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-JAP-S2",
-      "nom": "Langues Étrangères : JAPONAIS S2",
-      "domaine": "Huma"
+      "nom": "JAPONAIS S2",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-POR-S2-CINE",
-      "nom": "Langues Étrangères : CINEMAS ET SOCIETES",
-      "domaine": "Huma"
+      "nom": "CINEMAS ET SOCIETES",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-POR-S2",
-      "nom": "Langues Étrangères : PORTUGAIS S2",
-      "domaine": "Huma"
+      "nom": "PORTUGAIS S2",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-RUS-S2",
-      "nom": "Langues Étrangères : RUSSE S2",
-      "domaine": "Huma"
+      "nom": "RUSSE S2",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLEDptCCB2C1-S2",
-      "nom": "FLE pour les étudiants en département Cultures Comparées Niv B2/C1 : Semestre 2",
-      "domaine": "Huma"
+      "nom": "Semestre 2",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLEDptTTCB1B2S2",
-      "nom": "Langues Étrangères : FLE Compréhension orale & écrite Production écrite B1/B2 Sem2",
-      "domaine": "Huma"
+      "nom": "FLE Compréhension orale & écrite Production écrite B1/B2 Sem2",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLE Dpt S2",
-      "nom": "Français Langue Etrangère : FLE pour les étudiants en Départements Niveau A1 au C1 du CECRL",
-      "domaine": "Huma"
+      "nom": "FLE pour les étudiants en Départements Niveau A1 au C1 du CECRL",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLE Dpt PEB2S2",
-      "nom": "Langues Étrangères : FLE Production Ecrite Niv. B1/2/C1 du CECR Sem2",
-      "domaine": "Huma"
+      "nom": "FLE Production Ecrite Niv. B1/2/C1 du CECR Sem2",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLE INT Hiver",
-      "nom": "Langues Étrangères : FLE ECOLE INTENSIVE HIVER - 2nd cycle",
-      "domaine": "Huma"
+      "nom": "FLE ECOLE INTENSIVE HIVER - 2nd cycle",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLECRL2hS2",
-      "nom": "Langues Étrangères : Tutorat fle au CRL",
-      "domaine": "Huma"
+      "nom": "Tutorat fle au CRL",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-3-H-CTC2",
-      "nom": "Sciences Humaines et Sociales : Culture Telecom et Communication (S2)"
+      "nom": "Culture Telecom et Communication (S2)",
+      "domaine": "SoftSkills"
     },
     {
       "code": "EPS-3-S2",
-      "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives"
+      "nom": "EC Activités Physiques et Sportives",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-4-R-NAS",
-      "nom": "Réseaux & Services : Architecture et services réseaux",
+      "nom": "Architecture et services réseaux",
       "domaine": "Réseaux"
     },
     {
       "code": "TC-4-R-PRF",
-      "nom": "Réseaux & Services : Performances de Réseaux",
+      "nom": "Performances de Réseaux",
       "domaine": "Réseaux"
     },
     {
       "code": "TC-4-T-CNA",
-      "nom": "Télécommunications : Communications Numériques Avancées",
+      "nom": "Communications Numériques Avancées",
       "domaine": "Syscom"
     },
     {
       "code": "TC-4-T-TIP",
-      "nom": "Télécommunications : Traitement de signaux numériques : Parole et Image",
+      "nom": "Traitement de signaux numériques : Parole et Image",
       "domaine": "Syscom"
     },
     {
       "code": "TC-4-T-PSC",
-      "nom": "Télécommunications : Projet Systèmes de Communication",
+      "nom": "Projet Systèmes de Communication",
       "domaine": "Syscom"
     },
     {
       "code": "TC-4-R-PRS",
-      "nom": "Réseaux & Services : Programmation, Réseau et Système",
+      "nom": "Programmation, Réseau et Système",
       "domaine": "Réseaux"
     },
     {
       "code": "TC-4-I-SYD",
-      "nom": "Informatique : Systèmes distribués",
+      "nom": "Systèmes distribués",
       "domaine": "Info"
     },
     {
       "code": "TC-4-P-GES1",
-      "nom": "Projets : GesPER - Gestion de Projet Entrepreneurial Responsable 1",
-      "domaine": "Projet"
+      "nom": "GesPER - Gestion de Projet Entrepreneurial Responsable 1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-4-P-GES2",
-      "nom": "Projets : GesPER - Gestion de Projet Entrepreneurial Responsable 2",
-      "domaine": "Projet"
+      "nom": "GesPER - Gestion de Projet Entrepreneurial Responsable 2",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-4-P-PRE1",
-      "nom": "Projets : Parcours Recherche",
-      "domaine": "Projet"
+      "nom": "Parcours Recherche",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-4-P-SOA",
-      "nom": "Projets : Etat de l'art du parcours recherche",
-      "domaine": "Projet"
+      "nom": "Etat de l'art du parcours recherche",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ANG-FLE-TAN-A",
-      "nom": "Langues Étrangères : TANDEM franco-anglais",
-      "domaine": "Huma"
+      "nom": "TANDEM franco-anglais",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-LANG/FLE-TAN",
-      "nom": "Langues Étrangères : TANDEM INTERNATIONAL",
-      "domaine": "Huma"
+      "nom": "TANDEM INTERNATIONAL",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ANG-MOD-CIN",
-      "nom": "Langues Étrangères : CINEMA STUDIES in ENGLISH S7",
-      "domaine": "Huma"
+      "nom": "CINEMA STUDIES in ENGLISH S7",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ANG-B1-S7",
-      "nom": "Langues Étrangères : JOB HUNTING in English S7",
-      "domaine": "Huma"
+      "nom": "JOB HUNTING in English S7",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ALL-S1",
-      "nom": "Langues Étrangères : ALLEMAND S1",
-      "domaine": "Huma"
+      "nom": "ALLEMAND S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ALL-S1-PRO",
-      "nom": "Langues Étrangères : Module Professionnel Allemand S1",
-      "domaine": "Huma"
+      "nom": "Module Professionnel Allemand S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ALL-S1-THE",
-      "nom": "Langues Étrangères : Le théâtre allemand contemporain sur les scènes lyonnaises",
-      "domaine": "Huma"
+      "nom": "Le théâtre allemand contemporain sur les scènes lyonnaises",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ARA-S1",
-      "nom": "Langues Étrangères : ARABE S1",
-      "domaine": "Huma"
+      "nom": "ARABE S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-CHI-S1",
-      "nom": "Langues Étrangères : CHINOIS S1",
-      "domaine": "Huma"
+      "nom": "CHINOIS S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-DEBAT",
-      "nom": "Langues Étrangères : MODULE Débat et expression orale",
-      "domaine": "Huma"
+      "nom": "MODULE Débat et expression orale",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-HUMOUR",
-      "nom": "Langues Étrangères : MODULE Humour",
-      "domaine": "Huma"
+      "nom": "MODULE Humour",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-TH+MUS",
-      "nom": "Langues Étrangères : MODULES Théâtre et Musique",
-      "domaine": "Huma"
+      "nom": "MODULES Théâtre et Musique",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-CIVAL",
-      "nom": "Langues Étrangères : MODULE Civilisation latinoaméricaine",
-      "domaine": "Huma"
+      "nom": "MODULE Civilisation latinoaméricaine",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1",
-      "nom": "Langues Étrangères : ESPAGNOL S1",
-      "domaine": "Huma"
+      "nom": "ESPAGNOL S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-RSI",
-      "nom": "Langues Étrangères : MODULE Ingénieurs responsables",
-      "domaine": "Huma"
+      "nom": "MODULE Ingénieurs responsables",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-PRO",
-      "nom": "Langues Étrangères : MODULE Professionnel",
-      "domaine": "Huma"
+      "nom": "MODULE Professionnel",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-CATALAN",
-      "nom": "Langues Étrangères : MODULE Catalan",
-      "domaine": "Huma"
+      "nom": "MODULE Catalan",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-ARTS",
-      "nom": "Langues Étrangères : MODULE Art et société",
-      "domaine": "Huma"
+      "nom": "MODULE Art et société",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ESP-S1-PUB",
-      "nom": "Langues Étrangères : MODULE Publicité",
-      "domaine": "Huma"
+      "nom": "MODULE Publicité",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ITA-S1",
-      "nom": "Langues Étrangères : ITALIEN S1",
-      "domaine": "Huma"
+      "nom": "ITALIEN S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-ITA-S1-ITACONT",
-      "nom": "Langues Étrangères : ASPECTS ET PROBLEMES DE L'ITALIE CONTEMPORAINE",
-      "domaine": "Huma"
+      "nom": "ASPECTS ET PROBLEMES DE L'ITALIE CONTEMPORAINE",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-JAP-S1",
-      "nom": "Langues Étrangères : JAPONAIS S1",
-      "domaine": "Huma"
+      "nom": "JAPONAIS S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-POR-S1-CINE",
-      "nom": "Langues Étrangères : CINEMAS ET SOCIETES",
-      "domaine": "Huma"
+      "nom": "CINEMAS ET SOCIETES",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-POR-S1",
-      "nom": "Langues Étrangères : PORTUGAIS S1",
-      "domaine": "Huma"
+      "nom": "PORTUGAIS S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-RUS-S1",
-      "nom": "Langues Étrangères : RUSSE S1",
-      "domaine": "Huma"
+      "nom": "RUSSE S1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLE Dpt S1",
-      "nom": "Français Langue Etrangère : FLE pour les étudiants en Départements Niveau A1 au C1 du CECRL",
-      "domaine": "Huma"
+      "nom": "FLE pour les étudiants en Départements Niveau A1 au C1 du CECRL",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLECRL2hS1",
-      "nom": "Langues Étrangères : Tutorat fle au CRL",
-      "domaine": "Huma"
+      "nom": "Tutorat fle au CRL",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLEDptTTCB1B2S1",
-      "nom": "Langues Étrangères : FLE Compréhension orale & écrite Production écrite B1/B2 Sem1",
-      "domaine": "Huma"
+      "nom": "FLE Compréhension orale & écrite Production écrite B1/B2 Sem1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLE Dpt INT 4",
-      "nom": "Langues Étrangères : FLE ECOLE INTENSIVE ETE - 2nd et 3e cycle",
-      "domaine": "Huma"
+      "nom": "FLE ECOLE INTENSIVE ETE - 2nd et 3e cycle",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLE Dpt PEB2 S1",
-      "nom": "Langues Étrangères : FLE Production Ecrite Niv. B1/2/C1 du CECR Sem1",
-      "domaine": "Huma"
+      "nom": "FLE Production Ecrite Niv. B1/2/C1 du CECR Sem1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-L-FLEDptCCB2C1-S1",
-      "nom": "FLE pour les étudiants en département Cultures Comparées Niv B2/C1 : Semestre 1",
-      "domaine": "Huma"
+      "nom": "Semestre 1",
+      "domaine": "SoftSkills"
     },
     {
       "code": "EPS-4-S1",
-      "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives"
+      "nom": "EC Activités Physiques et Sportives",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-4-H-RSM",
-      "nom": "Sciences Humaines et Sociales : Recherche de Stage et Métiers"
+      "nom": "Recherche de Stage et Métiers",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-4-I-CSC",
-      "nom": "Informatique : Cryptographie et Sécurité des Communications",
+      "nom": "Cryptographie et Sécurité des Communications",
       "domaine": "Info"
     },
     {
       "code": "TC-4-I-IAT",
-      "nom": "Informatique : Intelligence Artificielle pour les Télécommunications",
+      "nom": "Intelligence Artificielle pour les Télécommunications",
       "domaine": "Info"
     },
     {
       "code": "TC-4-I-INR",
-      "nom": "Informatique : Ingénierie numérique responsable",
+      "nom": "Ingénierie numérique responsable",
       "domaine": "Info"
     },
     {
       "code": "TC-4-R-ARM",
-      "nom": "Réseaux & Services : Architecture des Réseaux Mobiles",
+      "nom": "Architecture des Réseaux Mobiles",
       "domaine": "Réseaux"
     },
     {
       "code": "TC-4-T-BLF",
-      "nom": "Télécommunications : Boucle locale filaire",
+      "nom": "Boucle locale filaire",
       "domaine": "Syscom"
     },
     {
       "code": "TC-4-T-RAN",
-      "nom": "Télécommunications : Réseau d'accès radio",
+      "nom": "Réseau d'accès radio",
       "domaine": "Syscom"
     },
     {
       "code": "TC-4-P-PAO",
-      "nom": "Projets : Projet Appel d'Offre Reseaux",
-      "domaine": "Projet"
+      "nom": "Projet Appel d'Offre Reseaux",
+      "domaine": "SoftSkills"
     },
     {
       "code": "EPS-4-S2",
-      "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives"
+      "nom": "EC Activités Physiques et Sportives",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-4-P-PRE2",
-      "nom": "Projets : Parcours Recherche",
-      "domaine": "Projet"
+      "nom": "Parcours Recherche",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-4-S-ENT",
-      "nom": "Stages : Stage en entreprise"
+      "nom": "Stage en entreprise",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-4-S-RAS",
-      "nom": "Stages : Rapport de Stage"
+      "nom": "Rapport de Stage",
+      "domaine": "SoftSkills"
     },
     {
-      "code": "TC-5-OP1-SAT",
-      "nom": "Télécommunications : Satellites et localisation"
-    },
-    {
-      "code": "TC-5-OP1-5G",
-      "nom": "Télécommunications : Vers la 5G"
-    },
-    {
-      "code": "TC-5-OP1-CDN",
-      "nom": "Télécommunications : Réseaux de Diffusion de Contenus"
-    },
-    {
-      "code": "TC-5-OP1-VSR",
-      "nom": "Réseaux & Services : Virtualisation des Systèmes, des Services et des Réseaux"
-    },
-    {
-      "code": "TC-5-OP1-PRJRES",
-      "nom": "Projets : Projet de l'UE Réseau"
-    },
-    {
-      "code": "TC-5-OP2-SCP",
-      "nom": "Télécommunications : Smarty cities et Protocoles"
-    },
-    {
-      "code": "TC-5-OP2-CIT",
-      "nom": "Télécommunications : Cloud IoT"
-    },
-    {
-      "code": "TC-5-OP2-RLD",
-      "nom": "Télécommunications : Réseaux Long Distance"
-    },
-    {
-      "code": "TC-5-OP2-RLO",
-      "nom": "Télécommunications : Radio logicielle"
-    },
-    {
-      "code": "TC-5-OP2-PRJIOT",
-      "nom": "Projets : Projet de l'UE IoT"
-    },
-    {
-      "code": "TC-5-OP3-IAR",
-      "nom": "Télécommunications : IA pour la Robotique"
-    },
-    {
-      "code": "TC-5-OP3-SMR",
-      "nom": "Télécommunications : Systèmes Multi-Robots"
-    },
-    {
-      "code": "TC-5-OP3-OSA",
-      "nom": "Télécommunications : OS Avancé"
-    },
-    {
-      "code": "TC-5-OP3-BED",
-      "nom": "Informatique : Interface matériel/logiciel dans les systèmes embarqués"
-    },
-    {
-      "code": "TC-5-OP3-PRJREB",
-      "nom": "Projets : Projet de l'UE Robotique - Embarqué"
-    },
-    {
-      "code": "TCA-5-OP4-SRS",
-      "nom": "Télécommunications : Sécurité des réseaux et des systèmes"
-    },
-    {
-      "code": "TCA-5-OP4-SVP",
-      "nom": "Télécommunications : Sécurité et vie privée"
-    },
-    {
-      "code": "TCA-5-OP4-ELK",
-      "nom": "Télécommunications : Elastic Kibana Beats"
-    },
-    {
-      "code": "TCA-5-OP4-CIA",
-      "nom": "Télécommunications : Développement AGILE"
-    },
-    {
-      "code": "TCA-5-OP4-PRJSAS",
-      "nom": "Télécommunications : Projet de l'UE Systèmes et Applications Sécurisées"
-    },
-    {
-      "code": "TC-5-TR-ARC",
-      "nom": "Réseaux & Services : Analyse de Risque en sécurité de l'information",
+      "code": "TC-5-T-OP1-SAT",
+      "nom": "Satellites et localisation",
       "domaine": "Syscom"
     },
     {
-      "code": "TC-5-TR-CSAD",
-      "nom": "Télécommunications : Calcul scientifique et Analyse de données",
+      "code": "TC-5-T-OP1-5G",
+      "nom": "Vers la 5G",
       "domaine": "Syscom"
     },
     {
-      "code": "TC-5-TR-BTC",
-      "nom": "Informatique : Blockchain et Monnaies électronique",
+      "code": "TC-5-R-OP1-CDN",
+      "nom": "Réseaux de Diffusion de Contenus",
+      "domaine": "Réseaux"
+    },
+    {
+      "code": "TC-5-R-OP1-VSR",
+      "nom": "Virtualisation des Systèmes, des Services et des Réseaux",
+      "domaine": "Réseaux"
+    },
+    {
+      "code": "TC-5-P-OP1-PRJRES",
+      "nom": "Projet de l'UE Réseau",
+      "domaine": "SoftSkills"
+    },
+    {
+      "code": "TC-5-R-OP2-SCP",
+      "nom": "Smarty cities et Protocoles",
+      "domaine": "Réseaux"
+    },
+    {
+      "code": "TC-5-I-OP2-CIT",
+      "nom": "Cloud IoT",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-5-R-OP2-RLD",
+      "nom": "Réseaux Long Distance",
+      "domaine": "Réseaux"
+    },
+    {
+      "code": "TC-5-T-OP2-RLO",
+      "nom": "Radio logicielle",
       "domaine": "Syscom"
     },
     {
-      "code": "TC-5-TR-HOPE",
-      "nom": "Sciences Humaines et Sociales : Humanisme Ouverture Partage Emancipation",
-      "domaine": "Syscom"
+      "code": "TC-5-P-OP2-PRJIOT",
+      "nom": "Projet de l'UE IoT",
+      "domaine": "SoftSkills"
+    },
+    {
+      "code": "TC-5-I-OP3-IAR",
+      "nom": "IA pour la Robotique",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-5-I-OP3-SMR",
+      "nom": "Systèmes Multi-Robots",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-5-I-OP3-OSA",
+      "nom": "OS Avancé",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-5-I-OP3-BED",
+      "nom": "Interface matériel/logiciel dans les systèmes embarqués",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-5-P-OP3-PRJREB",
+      "nom": "Projet de l'UE Robotique - Embarqué",
+      "domaine": "SoftSkills"
+    },
+    {
+      "code": "TCA-5-I-OP4-SRS",
+      "nom": "Sécurité des réseaux et des systèmes",
+      "domaine": "Info"
+    },
+    {
+      "code": "TCA-5-I-OP4-SVP",
+      "nom": "Sécurité et vie privée",
+      "domaine": "Info"
+    },
+    {
+      "code": "TCA-5-I-OP4-ELK",
+      "nom": "Elastic Kibana Beats",
+      "domaine": "Info"
+    },
+    {
+      "code": "TCA-5-I-OP4-CIA",
+      "nom": "Développement AGILE",
+      "domaine": "Info"
+    },
+    {
+      "code": "TCA-5-P-OP4-PRJSAS",
+      "nom": "Projet de l'UE Systèmes et Applications Sécurisées",
+      "domaine": "SoftSkills"
+    },
+    {
+      "code": "TC-5-I-TR-ARC",
+      "nom": "Analyse de Risque en sécurité de l'information",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-5-I-TR-CSAD",
+      "nom": "Calcul scientifique et Analyse de données",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-5-I-TR-BTC",
+      "nom": "Blockchain et Monnaies électronique",
+      "domaine": "Info"
+    },
+    {
+      "code": "TC-5-H-TR-HOPE",
+      "nom": "Humanisme Ouverture Partage Emancipation",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-5-P-PILS",
-      "nom": "Projets : Projets Innovants",
-      "domaine": "Projet"
+      "nom": "Projets Innovants",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-5-P-PILS-RAP",
-      "domaine": "Projet"
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-5-P-PILS-SOU",
-      "domaine": "Projet"
+      "domaine": "SoftSkills"
     },
     {
       "code": "EPS-5-S1",
-      "nom": "Education Physique et Sportive : EC Activités Physiques et Sportives"
+      "nom": "EC Activités Physiques et Sportives",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HUMA-PPH",
-      "nom": "Projets : Projet Personnel en Humanités",
-      "domaine": "Projet"
+      "nom": "Projet Personnel en Humanités",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-SHS-OPTION08-S1",
-      "nom": "Sciences Humaines et Sociales : AGES - Âges, générations, expérience et sociétés"
+      "nom": "AGES - Âges, générations, expérience et sociétés",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-SHS-OPTION09-ii",
-      "nom": "Sciences Humaines et Sociales : Coopérer dans un contexte interculturel"
+      "nom": "Coopérer dans un contexte interculturel",
+      "domaine": "SoftSkills"
     },
     {
-      "code": "HU-SHS-OPTION10"
+      "code": "HU-SHS-OPTION10",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-SHS-OPTION11",
-      "nom": "Sciences Humaines et Sociales : Technique en séries"
+      "nom": "Technique en séries",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-SHS-OPTION12",
-      "nom": "Sciences Humaines et Sociales : ESS pour ingénieur.e.s"
+      "nom": "ESS pour ingénieur.e.s",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-SHS-OPTION04S1-ii",
-      "nom": "Sciences Humaines et Sociales : Economie de la mondialisation"
+      "nom": "Economie de la mondialisation",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-SHS-OPTION17S1-ii",
-      "nom": "Sciences Humaines et Sociales : L'Europe dans tous ses Etats"
+      "nom": "L'Europe dans tous ses Etats",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-SHS-OPTION18-S1",
-      "nom": "Sciences Humaines et Sociales : Influences et manipulations"
+      "nom": "Influences et manipulations",
+      "domaine": "SoftSkills"
     },
     {
       "code": "HU-SHS-OPTION19-S1",
-      "nom": "Sciences Humaines et Sociales : # VALEUR! Parce que notre avenir le vaut bien..."
+      "nom": "# VALEUR! Parce que notre avenir le vaut bien...",
+      "domaine": "SoftSkills"
     },
     {
-      "code": "HU-SHS-OPTION20S1-ii"
+      "code": "HU-SHS-OPTION20S1-ii",
+      "domaine": "SoftSkills"
     },
     {
-      "code": "HU-SHS-OPTION24"
+      "code": "HU-SHS-OPTION24",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-5-STA-S10-ENT",
-      "nom": "Stages : Stage en entreprise"
+      "nom": "Stage en entreprise",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-5-STA-S10-RAP",
-      "nom": "Stages : Rapport de Stage"
+      "nom": "Rapport de Stage",
+      "domaine": "SoftSkills"
     },
     {
       "code": "TC-5-STA-S10-SOU",
-      "nom": "Stages : Soutenance de Stage de Fin d'Etudes"
+      "nom": "Soutenance de Stage de Fin d'Etudes",
+      "domaine": "SoftSkills"
     }
   ],
   "liste": [
@@ -3192,977 +3235,977 @@
     },
     {
       "nom": "Caractériser les techniques de transmission spécifiques aux liaisons satellites",
-      "matiere": "TC-5-OP1-SAT",
+      "matiere": "TC-5-T-OP1-SAT",
       "type": "Capacité"
     },
     {
       "nom": "Caractéristiques des liens radio",
-      "matiere": "TC-5-OP1-SAT",
+      "matiere": "TC-5-T-OP1-SAT",
       "type": "Capacité"
     },
     {
       "nom": "Modulation",
-      "matiere": "TC-5-OP1-SAT",
+      "matiere": "TC-5-T-OP1-SAT",
       "type": "Capacité"
     },
     {
       "nom": "Connaitre le secteur d'activité lié aux communications par satellites",
-      "matiere": "TC-5-OP1-SAT",
+      "matiere": "TC-5-T-OP1-SAT",
       "type": "Connaissance"
     },
     {
       "nom": "Localisation",
-      "matiere": "TC-5-OP1-SAT",
+      "matiere": "TC-5-T-OP1-SAT",
       "type": "Connaissance"
     },
     {
       "nom": "Radionavigation",
-      "matiere": "TC-5-OP1-SAT",
+      "matiere": "TC-5-T-OP1-SAT",
       "type": "Connaissance"
     },
     {
       "nom": "Collecte de donnée",
-      "matiere": "TC-5-OP1-SAT",
+      "matiere": "TC-5-T-OP1-SAT",
       "type": "Connaissance"
     },
     {
       "nom": "Acteurs du marché",
-      "matiere": "TC-5-OP1-SAT",
+      "matiere": "TC-5-T-OP1-SAT",
       "type": "Connaissance"
     },
     {
       "nom": "Notion d'orbite",
-      "matiere": "TC-5-OP1-SAT",
+      "matiere": "TC-5-T-OP1-SAT",
       "type": "Connaissance"
     },
     {
       "nom": "Protocoles MAC",
-      "matiere": "TC-5-OP1-SAT",
+      "matiere": "TC-5-T-OP1-SAT",
       "type": "Capacité"
     },
     {
       "nom": "Etude de cas réels",
-      "matiere": "TC-5-OP1-SAT",
+      "matiere": "TC-5-T-OP1-SAT",
       "type": "Capacité"
     },
     {
       "nom": "Comprendre les mécanismes de standardisation",
-      "matiere": "TC-5-OP1-5G",
+      "matiere": "TC-5-T-OP1-5G",
       "type": "Capacité"
     },
     {
       "nom": "Comprendre les enjeux des futurs standards",
-      "matiere": "TC-5-OP1-5G",
+      "matiere": "TC-5-T-OP1-5G",
       "type": "Capacité"
     },
     {
       "nom": "Rédiger une note de lecture sur une nouvelle technologie",
-      "matiere": "TC-5-OP1-5G",
+      "matiere": "TC-5-T-OP1-5G",
       "type": "Capacité"
     },
     {
       "nom": "Appréhender l'évolution technologique",
-      "matiere": "TC-5-OP1-5G",
+      "matiere": "TC-5-T-OP1-5G",
       "type": "Capacité"
     },
     {
       "nom": "Défis de la 5G",
-      "matiere": "TC-5-OP1-5G",
+      "matiere": "TC-5-T-OP1-5G",
       "type": "Connaissance"
     },
     {
       "nom": "Processus de standardisation",
-      "matiere": "TC-5-OP1-5G",
+      "matiere": "TC-5-T-OP1-5G",
       "type": "Connaissance"
     },
     {
       "nom": "Technologies émergeantes : massive MIMO, mmWaves, cloud RAN, I.A. dans les réseaux",
-      "matiere": "TC-5-OP1-5G",
+      "matiere": "TC-5-T-OP1-5G",
       "type": "Connaissance"
     },
     {
       "nom": "Conduire un projet de virtualisation d'un système d'information",
-      "matiere": "TC-5-OP1-VSR",
+      "matiere": "TC-5-R-OP1-VSR",
       "type": "Capacité"
     },
     {
       "nom": "Choix d'architecture technique de virtualisation et cloud",
-      "matiere": "TC-5-OP1-VSR",
+      "matiere": "TC-5-R-OP1-VSR",
       "type": "Capacité"
     },
     {
       "nom": "Concevoir et déployer une architecture de virtualisation et cloud",
-      "matiere": "TC-5-OP1-VSR",
+      "matiere": "TC-5-R-OP1-VSR",
       "type": "Capacité"
     },
     {
       "nom": "Techniques de virtualisation, hyperviseur, machine virtuelle, docker, vSwitch.",
-      "matiere": "TC-5-OP1-VSR",
+      "matiere": "TC-5-R-OP1-VSR",
       "type": "Connaissance"
     },
     {
       "nom": "Haute disponibilité et Déduplication et techniques de virtualisation des systèmes de fichiers, RAID, LVM, ZFS, ZPOOL,",
-      "matiere": "TC-5-OP1-VSR",
+      "matiere": "TC-5-R-OP1-VSR",
       "type": "Connaissance"
     },
     {
       "nom": "Architectures de virtualisation des serveurs, des postes de travail et des réseaux, VMWare, OpenStack, Azure, SDN",
-      "matiere": "TC-5-OP1-VSR",
+      "matiere": "TC-5-R-OP1-VSR",
       "type": "Connaissance"
     },
     {
       "nom": "Virtualisation des fonctions réseaux, NFV, langage P4.",
-      "matiere": "TC-5-OP1-VSR",
+      "matiere": "TC-5-R-OP1-VSR",
       "type": "Connaissance"
     },
     {
       "nom": "Concevoir son réseau d'accès xG",
-      "matiere": "TC-5-OP1-PRJRES",
+      "matiere": "TC-5-P-OP1-PRJRES",
       "type": "Capacité"
     },
     {
       "nom": "Concevoir un CDN dans une architecture de réseau de diffusion de contenus",
-      "matiere": "TC-5-OP1-PRJRES",
+      "matiere": "TC-5-P-OP1-PRJRES",
       "type": "Capacité"
     },
     {
       "nom": "Mettre en œuvre des stratégies de streaming vidéo haute performance",
-      "matiere": "TC-5-OP1-PRJRES",
+      "matiere": "TC-5-P-OP1-PRJRES",
       "type": "Capacité"
     },
     {
       "nom": "Mettre en œuvre des serveurs de vidéo à la demande",
-      "matiere": "TC-5-OP1-PRJRES",
+      "matiere": "TC-5-P-OP1-PRJRES",
       "type": "Capacité"
     },
     {
       "nom": "Protocole de streaming, caching vidéo, MPEG DASH",
-      "matiere": "TC-5-OP1-PRJRES",
+      "matiere": "TC-5-P-OP1-PRJRES",
       "type": "Connaissance"
     },
     {
       "nom": "Technologie CDN, Akamai, Netflix, AnyCast BGP",
-      "matiere": "TC-5-OP1-PRJRES",
+      "matiere": "TC-5-P-OP1-PRJRES",
       "type": "Connaissance"
     },
     {
       "nom": "Savoir manipuler la plateforme IoT-lab",
-      "matiere": "TC-5-OP2-SCP",
+      "matiere": "TC-5-R-OP2-SCP",
       "type": "Capacité"
     },
     {
       "nom": "Programmer des capteurs communicants",
-      "matiere": "TC-5-OP2-SCP",
+      "matiere": "TC-5-R-OP2-SCP",
       "type": "Capacité"
     },
     {
       "nom": "Collecter des données de capteurs et d'usage du réseau",
-      "matiere": "TC-5-OP2-SCP",
+      "matiere": "TC-5-R-OP2-SCP",
       "type": "Capacité"
     },
     {
       "nom": "Analyser les caractéristiques d'un réseau radio",
-      "matiere": "TC-5-OP2-SCP",
+      "matiere": "TC-5-R-OP2-SCP",
       "type": "Capacité"
     },
     {
       "nom": "Problématiques des villes intelligentes et de l'Internet des objets",
-      "matiere": "TC-5-OP2-SCP",
+      "matiere": "TC-5-R-OP2-SCP",
       "type": "Connaissance"
     },
     {
       "nom": "Déploiements d'architectures de réseaux, notamment de capteurs, dans l'espace urbain",
-      "matiere": "TC-5-OP2-SCP",
+      "matiere": "TC-5-R-OP2-SCP",
       "type": "Connaissance"
     },
     {
       "nom": "Différentes familles de topologies et protocoles réseaux utilisés",
-      "matiere": "TC-5-OP2-SCP",
+      "matiere": "TC-5-R-OP2-SCP",
       "type": "Connaissance"
     },
     {
       "nom": "Tour d'horizon des acteurs et cas d'usage majeurs sur le marché ou à venir",
-      "matiere": "TC-5-OP2-SCP",
+      "matiere": "TC-5-R-OP2-SCP",
       "type": "Connaissance"
     },
     {
       "nom": "Reprendre un projet complexe existant",
-      "matiere": "TC-5-OP2-CIT",
+      "matiere": "TC-5-I-OP2-CIT",
       "type": "Capacité"
     },
     {
       "nom": "Analyser des contraintes opérationnelles de fonctionnement d'une plateforme matérielle contrainte en ressource",
-      "matiere": "TC-5-OP2-CIT",
+      "matiere": "TC-5-I-OP2-CIT",
       "type": "Capacité"
     },
     {
       "nom": "Mettre en place des stratégies et configurations de consensus distribués pour de la tolérance aux pannes",
-      "matiere": "TC-5-OP2-CIT",
+      "matiere": "TC-5-I-OP2-CIT",
       "type": "Capacité"
     },
     {
       "nom": "Mettre en place des services à haute disponiblité",
-      "matiere": "TC-5-OP2-CIT",
+      "matiere": "TC-5-I-OP2-CIT",
       "type": "Capacité"
     },
     {
       "nom": "Mettre en place en gestion d'équipe agile à la fois à gros grain avec une grande équipe, et à la fois à grain fin en binôme",
-      "matiere": "TC-5-OP2-CIT",
+      "matiere": "TC-5-I-OP2-CIT",
       "type": "Capacité"
     },
     {
       "nom": "Boards, processeurs ARM (Raspberry PI)",
-      "matiere": "TC-5-OP2-CIT",
+      "matiere": "TC-5-I-OP2-CIT",
       "type": "Connaissance"
     },
     {
       "nom": "Brokers d'événements (MQTT)",
-      "matiere": "TC-5-OP2-CIT",
+      "matiere": "TC-5-I-OP2-CIT",
       "type": "Connaissance"
     },
     {
       "nom": "Frameworks de développement d'application à haute disponiblité (Vert.x, Akka)",
-      "matiere": "TC-5-OP2-CIT",
+      "matiere": "TC-5-I-OP2-CIT",
       "type": "Connaissance"
     },
     {
       "nom": "Plateformes de déploiement, monitoring et d'orchestration (Docker, Kubernetes)",
-      "matiere": "TC-5-OP2-CIT",
+      "matiere": "TC-5-I-OP2-CIT",
       "type": "Connaissance"
     },
     {
       "nom": "Base de données distribuées (MongoDB)",
-      "matiere": "TC-5-OP2-CIT",
+      "matiere": "TC-5-I-OP2-CIT",
       "type": "Connaissance"
     },
     {
       "nom": "Frameworks de calcul distribué (Spark, etc)",
-      "matiere": "TC-5-OP2-CIT",
+      "matiere": "TC-5-I-OP2-CIT",
       "type": "Connaissance"
     },
     {
       "nom": "Frameworks de Machine Learning (TensorFlow, etc)",
-      "matiere": "TC-5-OP2-CIT",
+      "matiere": "TC-5-I-OP2-CIT",
       "type": "Connaissance"
     },
     {
       "nom": "Choisir la meilleure technologie LPWAN pour une application donnée",
-      "matiere": "TC-5-OP2-RLD",
+      "matiere": "TC-5-R-OP2-RLD",
       "type": "Capacité"
     },
     {
       "nom": "Collecter des données environnementales en utilisant une technologie LPWAN",
-      "matiere": "TC-5-OP2-RLD",
+      "matiere": "TC-5-R-OP2-RLD",
       "type": "Capacité"
     },
     {
       "nom": "Créer un réseau LPWAN point-à-point",
-      "matiere": "TC-5-OP2-RLD",
+      "matiere": "TC-5-R-OP2-RLD",
       "type": "Capacité"
     },
     {
       "nom": "Utiliser un réseau public LPWAN pour collecter les données",
-      "matiere": "TC-5-OP2-RLD",
+      "matiere": "TC-5-R-OP2-RLD",
       "type": "Capacité"
     },
     {
       "nom": "Visualiser et analyser les données environnementales",
-      "matiere": "TC-5-OP2-RLD",
+      "matiere": "TC-5-R-OP2-RLD",
       "type": "Capacité"
     },
     {
       "nom": "Apprendre les méthodes permettant une connectivité IPv6 dans les réseaux contraintes",
-      "matiere": "TC-5-OP2-RLD",
+      "matiere": "TC-5-R-OP2-RLD",
       "type": "Capacité"
     },
     {
       "nom": "Etudier la connectivité d'un réseau LPWAN",
-      "matiere": "TC-5-OP2-RLD",
+      "matiere": "TC-5-R-OP2-RLD",
       "type": "Capacité"
     },
     {
       "nom": "Mesurer les performances d'un réseau LPWAN",
-      "matiere": "TC-5-OP2-RLD",
+      "matiere": "TC-5-R-OP2-RLD",
       "type": "Capacité"
     },
     {
       "nom": "LPWAN, LoRa, LoRaWAN, Sigfox, Ingenu, NB-IoT, LTE-M, The Things Network, IPv6 header compression",
-      "matiere": "TC-5-OP2-RLD",
+      "matiere": "TC-5-R-OP2-RLD",
       "type": "Connaissance"
     },
     {
       "nom": "Concevoir et Implementer un système de reception radio.",
-      "matiere": "TC-5-OP2-RLO",
+      "matiere": "TC-5-T-OP2-RLO",
       "type": "Capacité"
     },
     {
       "nom": "Analyser un standard: identifier les caractéristiques relevantes pour la radio e leurs impacts sur la performance.",
-      "matiere": "TC-5-OP2-RLO",
+      "matiere": "TC-5-T-OP2-RLO",
       "type": "Capacité"
     },
     {
       "nom": "Savoir reconnaitre les limitations des techniques employés dans l'implementation d'une chaine radio.",
-      "matiere": "TC-5-OP2-RLO",
+      "matiere": "TC-5-T-OP2-RLO",
       "type": "Capacité"
     },
     {
       "nom": "Fonctionnement approfondi des chaines radio pour les systèmes de communication sans fil.",
-      "matiere": "TC-5-OP2-RLO",
+      "matiere": "TC-5-T-OP2-RLO",
       "type": "Connaissance"
     },
     {
       "nom": "Techniques de traitement de signal pour la mise en forme d'un signal radio réel (filtrage, synchronisation, demodulation, etc...).",
-      "matiere": "TC-5-OP2-RLO",
+      "matiere": "TC-5-T-OP2-RLO",
       "type": "Connaissance"
     },
     {
       "nom": "GNU Radio et les systèmes de traitement de signal orienté à data-flow.",
-      "matiere": "TC-5-OP2-RLO",
+      "matiere": "TC-5-T-OP2-RLO",
       "type": "Connaissance"
     },
     {
       "nom": "Techniques d'implementation de radio logicielle.",
-      "matiere": "TC-5-OP2-RLO",
+      "matiere": "TC-5-T-OP2-RLO",
       "type": "Connaissance"
     },
     {
       "nom": "Connaître les enjeux de l'IA en Robotique",
-      "matiere": "TC-5-OP3-IAR",
+      "matiere": "TC-5-I-OP3-IAR",
       "type": "Capacité"
     },
     {
       "nom": "Implémenter un algorithme de plus court chemin comme A*",
-      "matiere": "TC-5-OP3-IAR",
+      "matiere": "TC-5-I-OP3-IAR",
       "type": "Capacité"
     },
     {
       "nom": "Modéliser un problème de prise de décision comme un MDP",
-      "matiere": "TC-5-OP3-IAR",
+      "matiere": "TC-5-I-OP3-IAR",
       "type": "Capacité"
     },
     {
       "nom": "Expliquer les objectifs sous-jacents de l'apprentissage par renforcement",
-      "matiere": "TC-5-OP3-IAR",
+      "matiere": "TC-5-I-OP3-IAR",
       "type": "Capacité"
     },
     {
       "nom": "Comprendre les principaux résultats de convergence des algorithmes de programmation dynamique",
-      "matiere": "TC-5-OP3-IAR",
+      "matiere": "TC-5-I-OP3-IAR",
       "type": "Capacité"
     },
     {
       "nom": "Implémenter les algorithmes d'apprentissage par renforcement exacts et approchés",
-      "matiere": "TC-5-OP3-IAR",
+      "matiere": "TC-5-I-OP3-IAR",
       "type": "Capacité"
     },
     {
       "nom": "Agent : architectures pour la robotique, Systèmes-Multi-Agents",
-      "matiere": "TC-5-OP3-IAR",
+      "matiere": "TC-5-I-OP3-IAR",
       "type": "Connaissance"
     },
     {
       "nom": "Architectures bio-inspirées et Swarm robotics",
-      "matiere": "TC-5-OP3-IAR",
+      "matiere": "TC-5-I-OP3-IAR",
       "type": "Connaissance"
     },
     {
       "nom": "Algorithmes de planification A*",
-      "matiere": "TC-5-OP3-IAR",
+      "matiere": "TC-5-I-OP3-IAR",
       "type": "Connaissance"
     },
     {
       "nom": "Processus décisionnel de Markov (MDP)",
-      "matiere": "TC-5-OP3-IAR",
+      "matiere": "TC-5-I-OP3-IAR",
       "type": "Connaissance"
     },
     {
       "nom": "Problème d¿apprentissage par renforcement",
-      "matiere": "TC-5-OP3-IAR",
+      "matiere": "TC-5-I-OP3-IAR",
       "type": "Connaissance"
     },
     {
       "nom": "Algorithmes d'apprentissage par renforcement: policy, value iteration, Qlearning, Sarsa, DQN, policy gradient",
-      "matiere": "TC-5-OP3-IAR",
+      "matiere": "TC-5-I-OP3-IAR",
       "type": "Connaissance"
     },
     {
       "nom": "Schémas d'approximation linéaire et non-linéaire (avec réseaux de neurones)",
-      "matiere": "TC-5-OP3-IAR",
+      "matiere": "TC-5-I-OP3-IAR",
       "type": "Connaissance"
     },
     {
       "nom": "Implémenter un comportement de navigation réactive et de téléopération",
-      "matiere": "TC-5-OP3-SMR",
+      "matiere": "TC-5-I-OP3-SMR",
       "type": "Capacité"
     },
     {
       "nom": "Implémenter un algorithme de planification et suivi de chemin (type A*)",
-      "matiere": "TC-5-OP3-SMR",
+      "matiere": "TC-5-I-OP3-SMR",
       "type": "Capacité"
     },
     {
       "nom": "Développer sur le middleware ROS (Robotic Operating System)",
-      "matiere": "TC-5-OP3-SMR",
+      "matiere": "TC-5-I-OP3-SMR",
       "type": "Capacité"
     },
     {
       "nom": "Piloter un robot Turtlebot",
-      "matiere": "TC-5-OP3-SMR",
+      "matiere": "TC-5-I-OP3-SMR",
       "type": "Capacité"
     },
     {
       "nom": "Exploiter une camera pour la navigation d'un robot",
-      "matiere": "TC-5-OP3-SMR",
+      "matiere": "TC-5-I-OP3-SMR",
       "type": "Capacité"
     },
     {
       "nom": "Différentes architectures de contrôle",
-      "matiere": "TC-5-OP3-SMR",
+      "matiere": "TC-5-I-OP3-SMR",
       "type": "Connaissance"
     },
     {
       "nom": "Représentations de l'environnement (carte métrique, topologique,..)",
-      "matiere": "TC-5-OP3-SMR",
+      "matiere": "TC-5-I-OP3-SMR",
       "type": "Connaissance"
     },
     {
       "nom": "Problèmes multi-robot tel que la connectivité et la cartographie et solutions",
-      "matiere": "TC-5-OP3-SMR",
+      "matiere": "TC-5-I-OP3-SMR",
       "type": "Connaissance"
     },
     {
       "nom": "Navigation réactive pour robot mobile",
-      "matiere": "TC-5-OP3-SMR",
+      "matiere": "TC-5-I-OP3-SMR",
       "type": "Connaissance"
     },
     {
       "nom": "Principaux types de capteurs (laser, camera 2D/3D)",
-      "matiere": "TC-5-OP3-SMR",
+      "matiere": "TC-5-I-OP3-SMR",
       "type": "Connaissance"
     },
     {
       "nom": "Le middleware ROS",
-      "matiere": "TC-5-OP3-SMR",
+      "matiere": "TC-5-I-OP3-SMR",
       "type": "Connaissance"
     },
     {
       "nom": "Plateforme robots Turtlebots.",
-      "matiere": "TC-5-OP3-SMR",
+      "matiere": "TC-5-I-OP3-SMR",
       "type": "Connaissance"
     },
     {
       "nom": "Programmer un mécanisme d'appel système",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Capacité"
     },
     {
       "nom": "Compilation séparé, édition de lien",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Mode d'exécutions et privilèges CPU",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Appels système",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Isolation noyau/application",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Changement de contexte",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Programmer un mécanisme d'appel système",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Capacité"
     },
     {
       "nom": "Mode d'exécutions et privilèges CPU",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Appels système",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Isolation noyau/application",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Cross-compiler, émuler, et deboguer un logiciel pour une plateforme embarquée contenant un processeur ARM (Raspberry Pi)",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Capacité"
     },
     {
       "nom": "Programmer en assembleur ARM",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Capacité"
     },
     {
       "nom": "Programmer un mécanisme d'appel système",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Capacité"
     },
     {
       "nom": "Compilation séparé, édition de lien",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Mode d'exécutions et privilèges CPU",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Appels système",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Isolation noyau/application",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Structures de données d'un ordonnanceur : liste de processus, process control block",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Gestionnaire d'interruptions",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Pour les plus rapides : gestion mémoire, pagination, isolation processus, MMU, traduction d'adresse",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Programmer un mécanisme d'appel système",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Capacité"
     },
     {
       "nom": "Compilation séparé, édition de lien",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Mode d'exécutions et privilèges CPU",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Appels système",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Isolation noyau/application",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Changement de contexte",
-      "matiere": "TC-5-OP3-OSA",
+      "matiere": "TC-5-I-OP3-OSA",
       "type": "Connaissance"
     },
     {
       "nom": "Programmer un micro-contrôleur:",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Capacité"
     },
     {
       "nom": "Configurer un chip radio",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Capacité"
     },
     {
       "nom": "Configuration réseau",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Connaissance"
     },
     {
       "nom": "Protocole de communication numérique sans fil",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Connaissance"
     },
     {
       "nom": "Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Connaissance"
     },
     {
       "nom": "Programmation C embarqués",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Connaissance"
     },
     {
       "nom": "Gestionnaire d'interruption, pilotes de périphériques, OS léger",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Connaissance"
     },
     {
       "nom": "Administration linux",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Connaissance"
     },
     {
       "nom": "Programmer un micro-contrôleur:",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Capacité"
     },
     {
       "nom": "Construire une distribution linux pour un système embarqué",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Capacité"
     },
     {
       "nom": "Programmation C embarqués",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Connaissance"
     },
     {
       "nom": "Gestionnaire d'interruption, pilotes de périphériques, OS léger",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Connaissance"
     },
     {
       "nom": "Construire une chaîne de compilation croisée",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Capacité"
     },
     {
       "nom": "Configuration réseau",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Connaissance"
     },
     {
       "nom": "Protocole de communication numérique sans fil",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Connaissance"
     },
     {
       "nom": "Ma��triser les outils de programmation embarqué: JTAG, UART, ethernet",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Connaissance"
     },
     {
       "nom": "Programmation C embarqués",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Connaissance"
     },
     {
       "nom": "Gestionnaire d'interruption, pilotes de périphériques, OS léger",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Connaissance"
     },
     {
       "nom": "Administration linux",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Connaissance"
     },
     {
       "nom": "Programmer un micro-contrôleur",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Capacité"
     },
     {
       "nom": "Configurer un chip radio",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Capacité"
     },
     {
       "nom": "Construire une chaîne de compilation croisée",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Capacité"
     },
     {
       "nom": "Maîtriser les outils de programmation embarqué: JTAG, UART, ethernet",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Connaissance"
     },
     {
       "nom": "Programmation C embarqués",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Connaissance"
     },
     {
       "nom": "Configurer un chip radio",
-      "matiere": "TC-5-OP3-BED",
+      "matiere": "TC-5-I-OP3-BED",
       "type": "Capacité"
     },
     {
       "nom": "Concevoir un système d'information sécurisé",
-      "matiere": "TCA-5-OP4-SRS",
+      "matiere": "TCA-5-I-OP4-SRS",
       "type": "Capacité"
     },
     {
       "nom": "Réaliser une analyse critique des produits de sécurité",
-      "matiere": "TCA-5-OP4-SRS",
+      "matiere": "TCA-5-I-OP4-SRS",
       "type": "Capacité"
     },
     {
       "nom": "Classes de vulnérabilités",
-      "matiere": "TCA-5-OP4-SRS",
+      "matiere": "TCA-5-I-OP4-SRS",
       "type": "Connaissance"
     },
     {
       "nom": "Modèles de contrôle d'accès",
-      "matiere": "TCA-5-OP4-SRS",
+      "matiere": "TCA-5-I-OP4-SRS",
       "type": "Connaissance"
     },
     {
       "nom": "Limites théoriques et pratiques des outils de sécurité",
-      "matiere": "TCA-5-OP4-SRS",
+      "matiere": "TCA-5-I-OP4-SRS",
       "type": "Connaissance"
     },
     {
       "nom": "Sécurité logicielle, vulnérabilités, contrôle d'accès",
-      "matiere": "TCA-5-OP4-SRS",
+      "matiere": "TCA-5-I-OP4-SRS",
       "type": "Connaissance"
     },
     {
       "nom": "Concevoir un système d'information sécurisé",
-      "matiere": "TCA-5-OP4-SRS",
+      "matiere": "TCA-5-I-OP4-SRS",
       "type": "Capacité"
     },
     {
       "nom": "Usage et mise en œuvre d'un IDS",
-      "matiere": "TCA-5-OP4-SRS",
+      "matiere": "TCA-5-I-OP4-SRS",
       "type": "Connaissance"
     },
     {
       "nom": "Mécanismes de sécurité du WiFi",
-      "matiere": "TCA-5-OP4-SRS",
+      "matiere": "TCA-5-I-OP4-SRS",
       "type": "Connaissance"
     },
     {
       "nom": "IDS, Sécurité wifi",
-      "matiere": "TCA-5-OP4-SRS",
+      "matiere": "TCA-5-I-OP4-SRS",
       "type": "Connaissance"
     },
     {
       "nom": "Analyser et expliquer une attaque documentée",
-      "matiere": "TCA-5-OP4-SRS",
+      "matiere": "TCA-5-I-OP4-SRS",
       "type": "Capacité"
     },
     {
       "nom": "Usage et mise en œuvre d'un IDS",
-      "matiere": "TCA-5-OP4-SRS",
+      "matiere": "TCA-5-I-OP4-SRS",
       "type": "Connaissance"
     },
     {
       "nom": "Comprendre les enjeux en matière de vie privée, les risques associés et leurs impacts",
-      "matiere": "TCA-5-OP4-SVP",
+      "matiere": "TCA-5-I-OP4-SVP",
       "type": "Capacité"
     },
     {
       "nom": "Réaliser une analyse critique d'un système sous l'angle de la protection des données personnelles",
-      "matiere": "TCA-5-OP4-SVP",
+      "matiere": "TCA-5-I-OP4-SVP",
       "type": "Capacité"
     },
     {
       "nom": "Intégrer des solutions de protection de la vie privée au sein de produits",
-      "matiere": "TCA-5-OP4-SVP",
+      "matiere": "TCA-5-I-OP4-SVP",
       "type": "Capacité"
     },
     {
       "nom": "Visualiser des données sous différentes formes",
-      "matiere": "TCA-5-OP4-ELK",
+      "matiere": "TCA-5-I-OP4-ELK",
       "type": "Capacité"
     },
     {
       "nom": "Collecter des données issues de sites web distant d'information",
-      "matiere": "TCA-5-OP4-ELK",
+      "matiere": "TCA-5-I-OP4-ELK",
       "type": "Capacité"
     },
     {
       "nom": "Comprendre les problèmes de passage à l'échelle pour la collecte de données",
-      "matiere": "TCA-5-OP4-ELK",
+      "matiere": "TCA-5-I-OP4-ELK",
       "type": "Capacité"
     },
     {
       "nom": "Développer des outils de collectes conformes aux contraintes d'accès",
-      "matiere": "TCA-5-OP4-ELK",
+      "matiere": "TCA-5-I-OP4-ELK",
       "type": "Capacité"
     },
     {
       "nom": "Kibana",
-      "matiere": "TCA-5-OP4-ELK",
+      "matiere": "TCA-5-I-OP4-ELK",
       "type": "Connaissance"
     },
     {
       "nom": "LogStash",
-      "matiere": "TCA-5-OP4-ELK",
+      "matiere": "TCA-5-I-OP4-ELK",
       "type": "Connaissance"
     },
     {
       "nom": "Beats",
-      "matiere": "TCA-5-OP4-ELK",
+      "matiere": "TCA-5-I-OP4-ELK",
       "type": "Connaissance"
     },
     {
       "nom": "Prendre en main une infrastructure de traitement massif de données",
-      "matiere": "TCA-5-OP4-ELK",
+      "matiere": "TCA-5-I-OP4-ELK",
       "type": "Capacité"
     },
     {
       "nom": "ElasticSearch",
-      "matiere": "TCA-5-OP4-ELK",
+      "matiere": "TCA-5-I-OP4-ELK",
       "type": "Connaissance"
     },
     {
       "nom": "Analyser des enjeux stratégiques,",
-      "matiere": "TC-5-TR-ARC",
+      "matiere": "TC-5-I-TR-ARC",
       "type": "Capacité"
     },
     {
       "nom": "Auditer de sécurité pour identifier les scénarios de menace , caractériser et évaluer les risques,",
-      "matiere": "TC-5-TR-ARC",
+      "matiere": "TC-5-I-TR-ARC",
       "type": "Capacité"
     },
     {
       "nom": "Produire un plan de traitement des risques",
-      "matiere": "TC-5-TR-ARC",
+      "matiere": "TC-5-I-TR-ARC",
       "type": "Capacité"
     },
     {
       "nom": "Etudier et utiliser deux méthodes différentes d'analyse de risques",
-      "matiere": "TC-5-TR-ARC",
+      "matiere": "TC-5-I-TR-ARC",
       "type": "Connaissance"
     },
     {
       "nom": "Etude de la norme iso27005",
-      "matiere": "TC-5-TR-ARC",
+      "matiere": "TC-5-I-TR-ARC",
       "type": "Connaissance"
     },
     {
       "nom": "Implanter un workflow de calcul allant de l'accès aux données jusqu'à la visualisation des résultats",
-      "matiere": "TC-5-TR-CSAD",
+      "matiere": "TC-5-I-TR-CSAD",
       "type": "Capacité"
     },
     {
       "nom": "Concevoir et entraîner un réseau de neurones profond pour un problème de classification",
-      "matiere": "TC-5-TR-CSAD",
+      "matiere": "TC-5-I-TR-CSAD",
       "type": "Capacité"
     },
     {
       "nom": "Exploiter les infrastructures de calcul distribué (lancement d'applications dans le cloud, manipulation d'images virtuelles etc.)",
-      "matiere": "TC-5-TR-CSAD",
+      "matiere": "TC-5-I-TR-CSAD",
       "type": "Capacité"
     },
     {
       "nom": "Modéliser un jeu de données sous la forme d'un graphe",
-      "matiere": "TC-5-TR-CSAD",
+      "matiere": "TC-5-I-TR-CSAD",
       "type": "Capacité"
     },
     {
       "nom": "Identifier et appliquer les algorithmes adaptés à un modèle de graphe donné",
-      "matiere": "TC-5-TR-CSAD",
+      "matiere": "TC-5-I-TR-CSAD",
       "type": "Capacité"
     },
     {
       "nom": "Comprendre l'écosystème de calcul scientifique en Python",
-      "matiere": "TC-5-TR-CSAD",
+      "matiere": "TC-5-I-TR-CSAD",
       "type": "Connaissance"
     },
     {
       "nom": "Comprendre les principes algorithmiques de l'apprentissage statistique et neuronal",
-      "matiere": "TC-5-TR-CSAD",
+      "matiere": "TC-5-I-TR-CSAD",
       "type": "Connaissance"
     },
     {
       "nom": "Comprendre les infrastructures de calcul distribué (Data_Form et cloud) et leurs usages",
-      "matiere": "TC-5-TR-CSAD",
+      "matiere": "TC-5-I-TR-CSAD",
       "type": "Connaissance"
     },
     {
       "nom": "Comprendre les algorithmes de détection de communautés appliqués aux graphes aléatoires, temporels, small world et \"scale-free\".",
-      "matiere": "TC-5-TR-CSAD",
+      "matiere": "TC-5-I-TR-CSAD",
       "type": "Connaissance"
     },
     {
       "nom": "Paramétrer et compiler une crypto-monnaie, amorcer une blockchain, expérimenter",
-      "matiere": "TC-5-TR-BTC",
+      "matiere": "TC-5-I-TR-BTC",
       "type": "Capacité"
     },
     {
       "nom": "Mobiliser et articuler les différents logiciels blockchain et crypto-monnaies",
-      "matiere": "TC-5-TR-BTC",
+      "matiere": "TC-5-I-TR-BTC",
       "type": "Capacité"
     },
     {
       "nom": "Codes du bitcoin et des crypto-monnaies à preuve de travail",
-      "matiere": "TC-5-TR-BTC",
+      "matiere": "TC-5-I-TR-BTC",
       "type": "Connaissance"
     },
     {
       "nom": "Créer des smart contracts",
-      "matiere": "TC-5-TR-BTC",
+      "matiere": "TC-5-I-TR-BTC",
       "type": "Capacité"
     },
     {
       "nom": "Trouver l'information relative aux projets blockchain/crypto-monnaies",
-      "matiere": "TC-5-TR-BTC",
+      "matiere": "TC-5-I-TR-BTC",
       "type": "Capacité"
     },
     {
       "nom": "Faire des choix technologiques liés à l'état de la technique et au contexte d¿usage",
-      "matiere": "TC-5-TR-BTC",
+      "matiere": "TC-5-I-TR-BTC",
       "type": "Capacité"
     },
     {
       "nom": "Organisation des projets blockchain/crypto-monnaies",
-      "matiere": "TC-5-TR-BTC",
+      "matiere": "TC-5-I-TR-BTC",
       "type": "Connaissance"
     },
     {
       "nom": "Histoire et évolution des technologies blockchain/crypto-monnaies/DAO",
-      "matiere": "TC-5-TR-BTC",
+      "matiere": "TC-5-I-TR-BTC",
       "type": "Connaissance"
     },
     {
       "nom": "Logiciels et services participant à l'écosystème des réseaux crypto- monétaires",
-      "matiere": "TC-5-TR-BTC",
+      "matiere": "TC-5-I-TR-BTC",
       "type": "Connaissance"
     },
     {
       "nom": "Tokens ERC20 et smart contracts Ethereum",
-      "matiere": "TC-5-TR-BTC",
+      "matiere": "TC-5-I-TR-BTC",
       "type": "Connaissance"
     },
     {
       "nom": "Habitat numérique des projets blockchain/crypto-monnaies",
-      "matiere": "TC-5-TR-BTC",
+      "matiere": "TC-5-I-TR-BTC",
       "type": "Connaissance"
     },
     {
       "nom": "Evaluer les apports et limites d'un enjeu socio-technique",
-      "matiere": "TC-5-TR-HOPE",
+      "matiere": "TC-5-H-TR-HOPE",
       "type": "Capacité"
     },
     {
       "nom": "Transmettre les résultats d'une étude sous forme de partage collectif",
-      "matiere": "TC-5-TR-HOPE",
+      "matiere": "TC-5-H-TR-HOPE",
       "type": "Capacité"
     },
     {
       "nom": "Etude sociologique de terrain",
-      "matiere": "TC-5-TR-HOPE",
+      "matiere": "TC-5-H-TR-HOPE",
       "type": "Connaissance"
     },
     {

@@ -6,25 +6,30 @@ unless process.argv[2]?
 courses = require process.argv[2]
 refs = require "../refCompetences.coffee"
 
-domaines = ['Syscom', 'Réseaux', 'Info', 'Huma', 'Projet']
+domaines = ['Syscom', 'Réseaux', 'Info', 'SoftSkills']
 mapDomaines =
   'T': 'Syscom'
   'R': 'Réseaux'
   'I': 'Info'
-  'H': 'Huma'
-  'L': 'Huma'
-  'PPH': 'Huma'
-  'P': 'Projet'
+  'H': 'SoftSkills'
+  'P': 'SoftSkills'
+  'S': 'SoftSkills'
 
 matieres = []
 
 extractMat = (ec) ->
-  # console.log '->', JSON.stringify ec.code, null, 2
-  domaine = ec.code.split(/[.*\d|HU|HUMA]-/)[1].substring(0,1)
+  # console.log '->', JSON.stringify ec.nom, null, 2
+  domaine = if ec.code.startsWith('HU') or ec.code.startsWith('EPS') then 'S' else ec.code.split(/[.*\d]-/)[1].substring(0,1)
+
+  unless ec.nom
+    console.error "Pas de nom de matiere : #{JSON.stringify ec, null, 2}"
+    return
+      'code': ec.code
+      'domaine': mapDomaines[domaine]
 
   return
     'code': ec.code
-    'nom': ec.nom
+    'nom': ec.nom.substring(ec.nom.indexOf(' : ') + ' : '.length)
     'domaine': mapDomaines[domaine]
 
 liste = []
