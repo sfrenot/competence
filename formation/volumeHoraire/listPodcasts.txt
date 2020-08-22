@@ -1,0 +1,24 @@
+[?25l[J[J[J[J[J[J[?25h[?1049h[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[24;1H"extractPodcast.coffee" 26L, 809C[1;1Hunless process.argv[2]?
+  console.log "Lancement : coffee ./extractVol <fichierVol.json>"
+  process.exit(0)
+
+courses = require process.argv[2]
+
+split = (vol) ->
+  return vol.split('.0 h')[0]
+
+courses.forEach (departement) ->
+  departement.semestres.forEach (semestre) ->
+    semestre.ecs.forEach (ec) ->[13;7Hif not ec.detail.code.startsWith("HU")[14;9Hec.code =  "#{ec.detail.code}"[15;9Hec.annee = semestre.url.charAt(semestre.url.length-3)[16;9Hec.semestre = semestre.url.slice(-1)[17;9Hec.nom = ec.detail.nom[18;9Hec.podcasts = [][20;9Hdelete ec.detail[21;9Hdelete ec.url[22;9Hdelete ec.UE[23;9Hconsole.log ec[1;1H[?25h
+  [?25l[24;1HType  :qa  and press <Enter> to exit Vim[2;3H[?25h
+  [?25l[24;1H[K[24;1H:[?2004h[?25h[?25l[24;1H[K[3;3H[?25h
+
+
+
+
+  
+
+[?25l[24;1HType  :qa  and press <Enter> to exit Vim[10;1H[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[?25h[?25l[1;23r[23;1H
+[1;24r[23;7H#console.log "#{ec.detail.code},#{split(ec.detail.cours)},\[24;1H[K[9;1H[?25h[?25l[24;1HType  :qa  and press <Enter> to exit Vim[9;1H[?25h[?25l[1;23r[1;1H[2M[1;24r[22;9H#{split(ec.detail.td)},#{split(ec.detail.tp)},\[23;9H#{split(ec.detail.projet)}"[24;1H[K[18;9H[?25h[19;9H[20;9H[?25l[24;1HType  :qa  and press <Enter> to exit Vim[20;9H[?25h[24;1H[?2004l[?2004l[?1l>[>4;m[?1049lVim: Error reading input, exiting...
+Vim: Finished.
+[24;1H[23;2t[23;1t

@@ -1,0 +1,562 @@
+[
+  {
+    code: 'TC-3-R-MAC',
+    annee: '3',
+    semestre: '1',
+    nom: "Réseaux : Mécanismes d'Accès au Canal",
+    podcasts: []
+  },
+  {
+    code: 'TC-3-R-IP',
+    annee: '3',
+    semestre: '1',
+    nom: 'Réseaux : Protocoles TCP/IP',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-T-CMN',
+    annee: '3',
+    semestre: '1',
+    nom: 'Télécommunications : Codages et Modulations Numériques',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-T-CAT',
+    annee: '3',
+    semestre: '1',
+    nom: 'Télécommunications : Canaux de transmission',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-I-PIT',
+    annee: '3',
+    semestre: '1',
+    nom: 'Informatique : Passeport Informatique Telecoms',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-I-ARC',
+    annee: '3',
+    semestre: '1',
+    nom: 'Informatique : Architecture',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-I-PPC',
+    annee: '3',
+    semestre: '1',
+    nom: 'Informatique : Programmation Parallèle et Concurrente',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-I-ELP',
+    annee: '3',
+    semestre: '1',
+    nom: 'Informatique : Ecosystème des langages de programmation',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-I-ALG',
+    annee: '3',
+    semestre: '1',
+    nom: 'Informatique : Algorithmique',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-R-PBS',
+    annee: '3',
+    semestre: '1',
+    nom: 'Outils & Méthodes : Probabilités et statistiques',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-T-SIS',
+    annee: '3',
+    semestre: '1',
+    nom: 'Télécommunications : Signaux et Systèmes',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-H-CTC1',
+    annee: '3',
+    semestre: '1',
+    nom: 'Sciences Humaines et Sociales : Culture Telecom et Communication (S1)',
+    podcasts: []
+  },
+  {
+    code: 'EPS-3-S1',
+    annee: '3',
+    semestre: '1',
+    nom: 'Education Physique et Sportive : EC Activités Physiques et Sportives',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-T-TSA',
+    annee: '3',
+    semestre: '2',
+    nom: 'Télécommunications : Traitement du Signal et Architecture',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-I-CRO',
+    annee: '3',
+    semestre: '2',
+    nom: 'Informatique : Programmation C',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-I-WEB',
+    annee: '3',
+    semestre: '2',
+    nom: 'Informatique : Web dynamique',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-R-NRP',
+    annee: '3',
+    semestre: '2',
+    nom: 'Réseaux & Services : Protocoles réseaux',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-I-PWEB',
+    annee: '3',
+    semestre: '2',
+    nom: 'Informatique : Projet Web dynamique',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-T-TPS',
+    annee: '3',
+    semestre: '2',
+    nom: 'Télécommunications : TP Système de Communication',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-P-PALE',
+    annee: '3',
+    semestre: '2',
+    nom: 'Projets : Gestion de projets',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-P-ASDS',
+    annee: '3',
+    semestre: '2',
+    nom: 'Projets : Analyse et Synthèse de Documents Scientifiques',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-P-PTIR',
+    annee: '3',
+    semestre: '2',
+    nom: "Projets : Projet d'initiation à la recherche",
+    podcasts: []
+  },
+  {
+    code: 'TC-3-P-DRE',
+    annee: '3',
+    semestre: '2',
+    nom: 'Projets : Découverte de la recherche',
+    podcasts: []
+  },
+  {
+    code: 'TC-3-H-CTC2',
+    annee: '3',
+    semestre: '2',
+    nom: 'Sciences Humaines et Sociales : Culture Telecom et Communication (S2)',
+    podcasts: []
+  },
+  {
+    code: 'EPS-3-S2',
+    annee: '3',
+    semestre: '2',
+    nom: 'Education Physique et Sportive : EC Activités Physiques et Sportives',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-R-NAS',
+    annee: '4',
+    semestre: '1',
+    nom: 'Réseaux & Services : Architecture et services réseaux',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-R-PRF',
+    annee: '4',
+    semestre: '1',
+    nom: 'Réseaux & Services : Performances de Réseaux',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-T-CNA',
+    annee: '4',
+    semestre: '1',
+    nom: 'Télécommunications : Communications Numériques Avancées',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-T-TIP',
+    annee: '4',
+    semestre: '1',
+    nom: 'Télécommunications : Traitement de signaux numériques : Parole et Image',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-T-PSC',
+    annee: '4',
+    semestre: '1',
+    nom: 'Télécommunications : Projet Systèmes de Communication',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-R-PRS',
+    annee: '4',
+    semestre: '1',
+    nom: 'Réseaux & Services : Programmation, Réseau et Système',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-I-SYD',
+    annee: '4',
+    semestre: '1',
+    nom: 'Informatique : Systèmes distribués',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-P-GES1',
+    annee: '4',
+    semestre: '1',
+    nom: 'Projets : GesPER - Gestion de Projet Entrepreneurial Responsable 1',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-P-GES2',
+    annee: '4',
+    semestre: '1',
+    nom: 'Projets : GesPER - Gestion de Projet Entrepreneurial Responsable 2',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-P-PRE1',
+    annee: '4',
+    semestre: '1',
+    nom: 'Projets : Parcours Recherche',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-P-SOA',
+    annee: '4',
+    semestre: '1',
+    nom: "Projets : Etat de l'art du parcours recherche",
+    podcasts: []
+  },
+  {
+    code: 'EPS-4-S1',
+    annee: '4',
+    semestre: '1',
+    nom: 'Education Physique et Sportive : EC Activités Physiques et Sportives',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-H-RSM',
+    annee: '4',
+    semestre: '1',
+    nom: 'Sciences Humaines et Sociales : Recherche de Stage et Métiers',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-I-CSC',
+    annee: '4',
+    semestre: '2',
+    nom: 'Informatique : Cryptographie et Sécurité des Communications',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-I-IAT',
+    annee: '4',
+    semestre: '2',
+    nom: 'Informatique : Intelligence Artificielle pour les Télécommunications',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-I-INR',
+    annee: '4',
+    semestre: '2',
+    nom: 'Informatique : Ingénierie numérique responsable',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-R-ARM',
+    annee: '4',
+    semestre: '2',
+    nom: 'Réseaux & Services : Architecture des Réseaux Mobiles',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-T-BLF',
+    annee: '4',
+    semestre: '2',
+    nom: 'Télécommunications : Boucle locale filaire',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-T-RAN',
+    annee: '4',
+    semestre: '2',
+    nom: "Télécommunications : Réseau d'accès radio",
+    podcasts: []
+  },
+  {
+    code: 'TC-4-P-PAO',
+    annee: '4',
+    semestre: '2',
+    nom: "Projets : Projet Appel d'Offre Reseaux",
+    podcasts: []
+  },
+  {
+    code: 'EPS-4-S2',
+    annee: '4',
+    semestre: '2',
+    nom: 'Education Physique et Sportive : EC Activités Physiques et Sportives',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-P-PRE2',
+    annee: '4',
+    semestre: '2',
+    nom: 'Projets : Parcours Recherche',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-S-ENT',
+    annee: '4',
+    semestre: '2',
+    nom: 'Stages : Stage en entreprise',
+    podcasts: []
+  },
+  {
+    code: 'TC-4-S-RAS',
+    annee: '4',
+    semestre: '2',
+    nom: 'Stages : Rapport de Stage',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-T-OP1-SAT',
+    annee: '5',
+    semestre: '1',
+    nom: 'Télécommunications : Satellites et localisation',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-T-OP1-5G',
+    annee: '5',
+    semestre: '1',
+    nom: 'Télécommunications : Vers la 5G',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-R-OP1-CDN',
+    annee: '5',
+    semestre: '1',
+    nom: 'Télécommunications : Réseaux de Diffusion de Contenus',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-R-OP1-VSR',
+    annee: '5',
+    semestre: '1',
+    nom: 'Réseaux & Services : Virtualisation des Systèmes, des Services et des Réseaux',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-P-OP1-PRJRES',
+    annee: '5',
+    semestre: '1',
+    nom: "Projets : Projet de l'UE Réseau",
+    podcasts: []
+  },
+  {
+    code: 'TC-5-R-OP2-SCP',
+    annee: '5',
+    semestre: '1',
+    nom: 'Télécommunications : Smarty cities et Protocoles',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-I-OP2-CIT',
+    annee: '5',
+    semestre: '1',
+    nom: 'Télécommunications : Cloud IoT',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-R-OP2-RLD',
+    annee: '5',
+    semestre: '1',
+    nom: 'Télécommunications : Réseaux Long Distance',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-T-OP2-RLO',
+    annee: '5',
+    semestre: '1',
+    nom: 'Télécommunications : Radio logicielle',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-P-OP2-PRJIOT',
+    annee: '5',
+    semestre: '1',
+    nom: "Projets : Projet de l'UE IoT",
+    podcasts: []
+  },
+  {
+    code: 'TC-5-I-OP3-IAR',
+    annee: '5',
+    semestre: '1',
+    nom: 'Télécommunications : IA pour la Robotique',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-I-OP3-SMR',
+    annee: '5',
+    semestre: '1',
+    nom: 'Télécommunications : Systèmes Multi-Robots',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-I-OP3-OSA',
+    annee: '5',
+    semestre: '1',
+    nom: 'Télécommunications : OS Avancé',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-I-OP3-BED',
+    annee: '5',
+    semestre: '1',
+    nom: 'Informatique : Interface matériel/logiciel dans les systèmes embarqués',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-P-OP3-PRJREB',
+    annee: '5',
+    semestre: '1',
+    nom: "Projets : Projet de l'UE Robotique - Embarqué",
+    podcasts: []
+  },
+  {
+    code: 'TCA-5-I-OP4-SRS',
+    annee: '5',
+    semestre: '1',
+    nom: 'Télécommunications : Sécurité des réseaux et des systèmes',
+    podcasts: []
+  },
+  {
+    code: 'TCA-5-I-OP4-SVP',
+    annee: '5',
+    semestre: '1',
+    nom: 'Télécommunications : Sécurité et vie privée',
+    podcasts: []
+  },
+  {
+    code: 'TCA-5-I-OP4-ELK',
+    annee: '5',
+    semestre: '1',
+    nom: 'Télécommunications : Elastic Kibana Beats',
+    podcasts: []
+  },
+  {
+    code: 'TCA-5-I-OP4-CIA',
+    annee: '5',
+    semestre: '1',
+    nom: 'Télécommunications : Développement AGILE',
+    podcasts: []
+  },
+  {
+    code: 'TCA-5-P-OP4-PRJSAS',
+    annee: '5',
+    semestre: '1',
+    nom: "Télécommunications : Projet de l'UE Systèmes et Applications Sécurisées",
+    podcasts: []
+  },
+  {
+    code: 'TC-5-I-TR-ARC',
+    annee: '5',
+    semestre: '1',
+    nom: "Réseaux & Services : Analyse de Risque en sécurité de l'information",
+    podcasts: []
+  },
+  {
+    code: 'TC-5-I-TR-CSAD',
+    annee: '5',
+    semestre: '1',
+    nom: 'Télécommunications : Calcul scientifique et Analyse de données',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-I-TR-BTC',
+    annee: '5',
+    semestre: '1',
+    nom: 'Informatique : Blockchain et Monnaies électronique',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-H-TR-HOPE',
+    annee: '5',
+    semestre: '1',
+    nom: 'Sciences Humaines et Sociales : Humanisme Ouverture Partage Emancipation',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-P-PILS',
+    annee: '5',
+    semestre: '1',
+    nom: 'Projets : Projets Innovants',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-P-PILS-RAP',
+    annee: '5',
+    semestre: '1',
+    nom: undefined,
+    podcasts: []
+  },
+  {
+    code: 'TC-5-P-PILS-SOU',
+    annee: '5',
+    semestre: '1',
+    nom: undefined,
+    podcasts: []
+  },
+  {
+    code: 'EPS-5-S1',
+    annee: '5',
+    semestre: '1',
+    nom: 'Education Physique et Sportive : EC Activités Physiques et Sportives',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-STA-S10-ENT',
+    annee: '5',
+    semestre: '2',
+    nom: 'Stages : Stage en entreprise',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-STA-S10-RAP',
+    annee: '5',
+    semestre: '2',
+    nom: 'Stages : Rapport de Stage',
+    podcasts: []
+  },
+  {
+    code: 'TC-5-STA-S10-SOU',
+    annee: '5',
+    semestre: '2',
+    nom: "Stages : Soutenance de Stage de Fin d'Etudes",
+    podcasts: []
+  }
+]
