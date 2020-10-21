@@ -89,6 +89,7 @@ request()
         # if $(@).attr('href') is '/fr/formation/parcours/722/3/1' # GI
         # if $(@).attr('href') is '/fr/formation/parcours/726/4/1' # IF
         # if $(@).attr('href') is '/fr/formation/parcours/719/4/2' #GCU
+        # if $(@).attr('href') is '/fr/formation/parcours/1334/5/2' #GM
           if $(@).text().trim() is "Parcours Standard#{SPECIALITE}" or
              $(@).text().trim().startsWith("Parcours 5IF") or
              departement is 'GM'
@@ -117,6 +118,7 @@ request()
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=38623&_lang=fr' #GEN
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=38494&_lang=fr' #GI
             # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=38444&_lang=fr' # GCU
+            # if $('a', @).attr('href') is 'http://planete.insa-lyon.fr/scolpeda/f/ects?id=41824&_lang=fr' # GM
               urls.push
                 UE: currentUE
                 url: $('a', @).attr('href')
@@ -136,10 +138,12 @@ request()
             tika.on 'close', (code) ->
               resolve(res)
           .then (pdf) ->
+            if _.isEmpty(pdf)
+              console.error ("Warning : url inconnue #{url.url}")
             semestre.ecs.push
               UE: url.UE
               url: url.url
-              detail: analyseur(pdf, DPTINSA)
+              detail: unless _.isEmpty(pdf) then analyseur(pdf, DPTINSA) else {}
 
 .then () ->
   console.log "#{JSON.stringify catalogue, null, 2}"

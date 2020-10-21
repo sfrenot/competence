@@ -105,26 +105,24 @@
                 "Connaissance : Les modes de gestion des stocks"
               ],
               "competenceToCapaciteEtConnaissance": {
-                "C11 ; C12": [
-                  "Connaissance : Interdépendance des décisions)"
-                ],
-                "C14": [
+                "GI-C14": [
                   "Connaissance : Les modes de gestion des stocks",
                   "Capacité : Gérer les approvisionnements et les stocks d'une entreprise"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Capacité : Situer les fonctions et objectifs de la gestion de production pour une entreprise de production de biens"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Capacité : Situer les fonctions et objectifs de la gestion de production pour une entreprise de production de biens"
                 ],
-                "C10": [
+                "GI-C10": [
                   "Capacité : Situer les fonctions et objectifs de la gestion de production pour une entreprise de production de biens"
                 ],
-                "C12": [
-                  "Capacité : Situer les fonctions et objectifs de la gestion de production pour une entreprise de production de biens"
+                "GI-C12": [
+                  "Capacité : Situer les fonctions et objectifs de la gestion de production pour une entreprise de production de biens",
+                  "Connaissance : Interdépendance des décisions"
                 ],
-                "C13": [
+                "GI-C13": [
                   "Capacité : Situer les fonctions et objectifs de la gestion de production pour une entreprise de production de biens"
                 ],
                 "A1": [
@@ -133,7 +131,7 @@
                 "A2": [
                   "Capacité : Choisir la méthode de gestion la plus adaptée à un contexte donné"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Capacité : Calculer les charges et gérer des ressources de production à moyen et long terme"
                 ]
               },
@@ -342,7 +340,7 @@
                   "Capacité : Calculer et interpréter les principaux indicateurs associés à une variable aléatoire",
                   "Capacité : Mettre en œuvre un test statistique pour valider (ou non) une hypothèse relative à une population"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Connaissance : Notion de probabilité",
                   "Connaissance : Notion de probabilités conditionnelles et d'événements indépendants",
                   "Connaissance : Notion de variable aléatoire",
@@ -363,7 +361,7 @@
                   "Capacité : Estimer les paramètres d'une population statistique à partir d'un échantillon de données (estimation ponctuelle et par intervalle de confiance)",
                   "Capacité : Mettre en œuvre un test statistique pour valider (ou non) une hypothèse relative à une population"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Connaissance : Notion de probabilité",
                   "Connaissance : Notion de probabilités conditionnelles et d'événements indépendants",
                   "Connaissance : Principaux indicateurs de variables aléatoires (espérance, variance ...)",
@@ -379,7 +377,7 @@
                   "Capacité : Estimer les paramètres d'une population statistique à partir d'un échantillon de données (estimation ponctuelle et par intervalle de confiance)",
                   "Capacité : Mettre en œuvre un test statistique pour valider (ou non) une hypothèse relative à une population"
                 ],
-                "C14": [
+                "GI-C14": [
                   "Connaissance : Notion de probabilité",
                   "Connaissance : Schémas d'analyse combinatoire",
                   "Connaissance : Lois du calcul probabiliste",
@@ -392,7 +390,7 @@
                   "Capacité : Calculer et interpréter les principaux indicateurs associés à une variable aléatoire",
                   "Capacité : Calculer un risque client / un risque fournisseur en fonction d'une procédure de contrôle qualité"
                 ],
-                "C16": [
+                "GI-C16": [
                   "Connaissance : Notion de probabilité",
                   "Connaissance : Notion de probabilités conditionnelles et d'événements indépendants",
                   "Connaissance : Notions d'échantillon, de population et d'inférence statistique",
@@ -501,7 +499,7 @@
                   "Connaissance : Outils de la qualité : QQOQCP, feuille de relevé, diagrammes, Pareto, brainstorming, Ishikawa, matrice de vote",
                   "Capacité : Découvrir une méthodologie de résolution de problème autour d'un cas logistique"
                 ],
-                "C16": [
+                "GI-C16": [
                   "Connaissance : Phases de résolution de problème : poser le problème, identifier les origines, trouver des solutions, les mettre en application et vérifier que les objectifs annoncés sont atteints",
                   "Connaissance : Outils de la qualité : QQOQCP, feuille de relevé, diagrammes, Pareto, brainstorming, Ishikawa, matrice de vote",
                   "Capacité : Mettre en œuvre les outils de la Qualité en gestion de projet",
@@ -511,7 +509,7 @@
                   "Connaissance : Outils de la qualité : QQOQCP, feuille de relevé, diagrammes, Pareto, brainstorming, Ishikawa, matrice de vote",
                   "Capacité : Découvrir une méthodologie de résolution de problème autour d'un cas logistique"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Capacité : Diagnostiquer les performances logistiques et industrielles d'une entreprise",
                   "Capacité : Analyser les indicateurs de performances",
                   "Capacité : Identifier les sources de ralentissement de flux et les actions correctives"
@@ -519,13 +517,13 @@
                 "A3": [
                   "Capacité : Analyser les indicateurs de performances"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Capacité : Dérouler une démarche de progrès PDCA"
                 ],
-                "C18": [
+                "GI-C18": [
                   "Capacité : Construire une stratégie de développement industriel et commercial"
                 ],
-                "C19": [
+                "GI-C19": [
                   "Capacité : Construire une stratégie de développement industriel et commercial"
                 ]
               },
@@ -630,7 +628,7 @@
                 "Connaissance : Transcrire un algorithme écrit en pseudo-langage en programme Java"
               ],
               "competenceToCapaciteEtConnaissance": {
-                "C8": [
+                "GI-C8": [
                   "Connaissance : Types, variables, actions élémentaires",
                   "Connaissance : Fonctions/procédures",
                   "Connaissance : Structures de contrôle séquentielles, conditionnelles et itératives",
@@ -643,7 +641,7 @@
                   "Connaissance : Construire des algorithmes en pseudo-langage à partir de spécifications",
                   "Connaissance : Transcrire un algorithme écrit en pseudo-langage en programme Java"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Connaissance : Algorithmes fondamentaux sur les tableaux (tri, recherche dichotomique)",
                   "Connaissance : Algorithmes fondamentaux sur les listes chaînées, les piles, les files, les arbres, les graphes (création, insertion, suppression, parcours)",
                   "Connaissance : Construire des algorithmes en pseudo-langage à partir de spécifications",
@@ -749,7 +747,7 @@
                   "Connaissance : Les outils associés",
                   "Capacité : Raffiner les exigences en séquences, activités"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Connaissance : Notion de classes, d'instances, de méthodes",
                   "Connaissance : Mécanismes d'encapsulation, d'héritage et de polymorphisme",
                   "Connaissance : Les diagrammes UML en général",
@@ -759,11 +757,11 @@
                   "Capacité : Construire un diagramme état/transition",
                   "Capacité : Construire les algorithmes des méthodes de classes"
                 ],
-                "C23": [
+                "GI-C23": [
                   "Connaissance : Les cas d'utilisation et le diagramme de séquence",
                   "Capacité : Identifier et formaliser les exigences client"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Capacité : Déclarer, instancier et utiliser un objet en Java",
                   "Capacité : Coder une classe JAVA à partir de son diagramme de classe"
                 ]
@@ -843,7 +841,7 @@
                   "Connaissance : Principes clés des systèmes d'exploitation (gestion des processus, de la mémoire et des fichiers, pilotes)",
                   "Capacité : Comprendre les compromis entre coûts et performances du matériel"
                 ],
-                "C10": [
+                "GI-C10": [
                   "Connaissance : Principes clés des systèmes d'exploitation (gestion des processus, de la mémoire et des fichiers, pilotes)",
                   "Capacité : Choisir les caractéristiques techniques d'un matériel informatique en fonction des besoins hardware et software",
                   "Capacité : Comprendre les compromis entre coûts et performances du matériel",
@@ -911,15 +909,15 @@
                 "A3": [
                   "Capacité : Comprendre les enjeux de la CFAO"
                 ],
-                "C10": [
+                "GI-C10": [
                   "Capacité : Comprendre les enjeux de la CFAO",
                   "Capacité : Appréhender les enjeux économiques des stratégies d¿usinage"
                 ],
-                "C12": [
+                "GI-C12": [
                   "Capacité : Comprendre les enjeux de la CFAO",
                   "Capacité : Appréhender les enjeux économiques des stratégies d¿usinage"
                 ],
-                "C19": [
+                "GI-C19": [
                   "Capacité : Appréhender les enjeux économiques des stratégies d¿usinage"
                 ]
               },
@@ -990,16 +988,16 @@
                 "A3": [
                   "Capacité : Modéliser et expérimenter le comportement des outils de coupe"
                 ],
-                "A6,C8": [
+                "A6": [
                   "Capacité : Concevoir une gamme de fabrication mécanique en choisissant un brut adapté, en concevant un moule métallique, en respectant les contraintes géométriques en tenant compte des contraintes économiques, en prenant en compte les capabilités machines"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Capacité : Concevoir une gamme de fabrication mécanique en choisissant un brut adapté, en concevant un moule métallique, en respectant les contraintes géométriques en tenant compte des contraintes économiques, en prenant en compte les capabilités machines"
                 ],
-                "C12": [
+                "GI-C12": [
                   "Capacité : Concevoir une gamme de fabrication mécanique en choisissant un brut adapté, en concevant un moule métallique, en respectant les contraintes géométriques en tenant compte des contraintes économiques, en prenant en compte les capabilités machines"
                 ],
-                "C19": [
+                "GI-C19": [
                   "Capacité : Concevoir une gamme de fabrication mécanique en choisissant un brut adapté, en concevant un moule métallique, en respectant les contraintes géométriques en tenant compte des contraintes économiques, en prenant en compte les capabilités machines"
                 ]
               },
@@ -1090,22 +1088,22 @@
                   "Connaissance : Modèle de régression et prédicteur mathématique",
                   "Connaissance : Modèle statistique associé à l'analyse de variance"
                 ],
-                "C21": [
+                "GI-C21": [
                   "Connaissance : Mise en place d'une organisation optimale d'expérimentation"
                 ],
                 "B2": [
                   "Connaissance : Modèle de régression et prédicteur mathématique",
                   "Connaissance : Modèle statistique associé à l'analyse de variance"
                 ],
-                "C16": [
+                "GI-C16": [
                   "Connaissance : Mise en œuvre d'un plan d'expériences",
                   "Capacité : Trouver une condition optimale de réglage"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Capacité : Proposer la planification des essais à conduire (A2, A3, C21), Réaliser les mesures",
                   "Capacité : Analyser les résultats obtenus (facteurs influents et modèle)"
                 ],
-                "C20": [
+                "GI-C20": [
                   "Capacité : Proposer la planification des essais à conduire (A2, A3, C21), Réaliser les mesures"
                 ],
                 "A3": [
@@ -1907,7 +1905,7 @@
                 "A6": [
                   "Capacité : Communiquer de manière appropriée"
                 ],
-                "C20": [
+                "GI-C20": [
                   "Capacité : S'intégrer dans un groupe, se positionner, construire une relation dynamique au groupe",
                   "Capacité : S'engager dans un projet collectif"
                 ],
@@ -2126,23 +2124,23 @@
                 "Connaissance : Modèles markoviens, Réseaux de File d'Attente"
               ],
               "competenceToCapaciteEtConnaissance": {
-                "C8": [
+                "GI-C8": [
                   "Connaissance : Espace d'états discrets fini ou non-fini",
                   "Connaissance : Réseaux de Petri",
                   "Connaissance : Identification et Vérification des hypothèses",
                   "Connaissance : Modèles markoviens, Réseaux de File d'Attente"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Connaissance : Commutation d'états stables",
                   "Connaissance : Notion de comportements déterministes ou aléatoires"
                 ],
-                "C14": [
+                "GI-C14": [
                   "Connaissance : Indicateurs de performances"
                 ],
-                "C23": [
+                "GI-C23": [
                   "Capacité : Exploiter d'un cahier des Charges"
                 ],
-                "C15": [
+                "GI-C15": [
                   "Capacité : Appréhender un système au travers des paradigmes production/consommation et client/ serveur",
                   "Capacité : Dimensionner et évaluer les performances en régime permanent"
                 ],
@@ -2199,7 +2197,7 @@
                   "Capacité : Traduire un modèle E/A en modèle relationnel normalisé",
                   "Capacité : Créer un document XML bien formé à partir d'une DTD"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Connaissance : Architecture des SGBD",
                   "Connaissance : Modèle Entité/Association",
                   "Connaissance : Notions de dépendances fonctionnelles, multivaluées",
@@ -2288,7 +2286,7 @@
                   "Capacité : Concevoir un modèle fonctionnel et/ou un modèle physique d'un système de production",
                   "Capacité : Identifier et détailler les processus d'un système"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Capacité : Concevoir un modèle fonctionnel et/ou un modèle physique d'un système de production",
                   "Capacité : Spécifier un système d'information",
                   "Capacité : Identifier et détailler les processus d'un système"
@@ -2354,10 +2352,10 @@
                 "A1": [
                   "Capacité : Spécifier un programme linéaire à partir de la description d'un existant déterministe"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Capacité : Concevoir un outil d'aide à la décision mono-critère pour le pilotage d'un processus de production sous contraintes de ressources cumulatives"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Capacité : Concevoir un outil d'aide à la décision mono-critère pour le pilotage d'un processus de production sous contraintes de ressources cumulatives"
                 ]
               },
@@ -2442,7 +2440,7 @@
                   "Connaissance : Les ordres de grandeur des caractéristiques mécaniques (raideurs, efforts, frottement, ...)",
                   "Capacité : Imaginer les phénomènes d'interaction mécanique entre les éléments constitutifs d'un mécanisme"
                 ],
-                "C18": [
+                "GI-C18": [
                   "Connaissance : Les technologies classiques et élémentaires d'actionnement mécanique (entrainement par frottement, électromagnétique, hydraulique)",
                   "Connaissance : Les principes de fonctionnement de mécanismes de sécurité (frein, embrayage, ressorts, ...)"
                 ],
@@ -2454,7 +2452,7 @@
                 "B1": [
                   "Connaissance : Les principes de fonctionnement de mécanismes de sécurité (frein, embrayage, ressorts, ...)"
                 ],
-                "C21": [
+                "GI-C21": [
                   "Connaissance : Les ordres de grandeur des caractéristiques mécaniques (raideurs, efforts, frottement, ...)",
                   "Capacité : Imaginer les phénomènes d'interaction mécanique entre les éléments constitutifs d'un mécanisme"
                 ],
@@ -2463,7 +2461,7 @@
                   "Capacité : Dimensionner à la fatigue (courbes de Wöhler, théorie de Miner) (A3, C9) -Dimensionner des liaisons avec calcul de tolérances",
                   "Capacité : Dimensionner de composants (roulements, vis)"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Capacité : Dimensionner à la fatigue (courbes de Wöhler, théorie de Miner) (A3, C9) -Dimensionner des liaisons avec calcul de tolérances",
                   "Capacité : Dimensionner de composants (roulements, vis)"
                 ]
@@ -2548,17 +2546,17 @@
                   "Connaissance : Connaître ses outils (SysML)",
                   "Capacité : Modéliser un système"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Connaissance : Connaître l'Ingénierie Système",
                   "Connaissance : Connaître ses outils (SysML)",
                   "Capacité : Modéliser un système"
                 ],
-                "C10": [
+                "GI-C10": [
                   "Connaissance : Connaître l'Ingénierie Système",
                   "Connaissance : Connaître ses outils (SysML)",
                   "Capacité : Modéliser un système"
                 ],
-                "C23": [
+                "GI-C23": [
                   "Connaissance : Connaître l'Ingénierie Système",
                   "Connaissance : Connaître ses outils (SysML)"
                 ],
@@ -2665,22 +2663,22 @@
                   "Capacité : Gérer un projet",
                   "Capacité : Concevoir un équipement de production respectant des attentes de productivité et de sécurité"
                 ],
-                "C16": [
+                "GI-C16": [
                   "Capacité : Gérer un projet"
                 ],
-                "C18": [
+                "GI-C18": [
                   "Capacité : Gérer un projet"
                 ],
-                "C20": [
+                "GI-C20": [
                   "Capacité : Gérer un projet"
                 ],
-                "C21": [
+                "GI-C21": [
                   "Capacité : Gérer un projet"
                 ],
-                "C22": [
+                "GI-C22": [
                   "Capacité : Gérer un projet"
                 ],
-                "C23": [
+                "GI-C23": [
                   "Capacité : Gérer un projet"
                 ],
                 "A1": [
@@ -2696,10 +2694,10 @@
                 "A6": [
                   "Capacité : Concevoir un équipement de production respectant des attentes de productivité et de sécurité"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Capacité : Concevoir un équipement de production respectant des attentes de productivité et de sécurité"
                 ],
-                "C10": [
+                "GI-C10": [
                   "Capacité : Concevoir un équipement de production respectant des attentes de productivité et de sécurité",
                   "Capacité : Dimensionner un bâti mécano soudé",
                   "Capacité : Dimensionner paliers, courroies",
@@ -3391,7 +3389,7 @@
                 "A6": [
                   "Capacité : Communiquer de manière appropriée"
                 ],
-                "C20": [
+                "GI-C20": [
                   "Capacité : S'intégrer dans un groupe, se positionner, construire une relation dynamique au groupe",
                   "Capacité : S'engager dans un projet collectif"
                 ],
@@ -3569,25 +3567,25 @@
                   "Capacité : Spécifier les besoins des Systèmes Automatisés de Production",
                   "Capacité : Utiliser une méthode d'analyse et de conception d'un S.A.P"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Connaissance : Les architectures d'automatisme (de la couche physique (capteurs et actionneurs intelligents, réseaux locaux industriels, ...) à l'informatique de contrôle-commande)",
                   "Connaissance : Les outils de conception et développement d'automatismes",
                   "Capacité : Analyser, dimensionner et concevoir un système automatisé de production : en termes de pilotage d'outils de production",
                   "Capacité : Spécifier les besoins des Systèmes Automatisés de Production",
                   "Capacité : Utiliser une méthode d'analyse et de conception d'un S.A.P"
                 ],
-                "C10": [
+                "GI-C10": [
                   "Connaissance : Les architectures d'automatisme (de la couche physique (capteurs et actionneurs intelligents, réseaux locaux industriels, ...) à l'informatique de contrôle-commande)",
                   "Capacité : Analyser, dimensionner et concevoir un système automatisé de production : en termes de pilotage d'outils de production",
                   "Capacité : Utiliser une méthode d'analyse et de conception d'un S.A.P"
                 ],
-                "C12": [
+                "GI-C12": [
                   "Connaissance : Les architectures d'automatisme (de la couche physique (capteurs et actionneurs intelligents, réseaux locaux industriels, ...) à l'informatique de contrôle-commande)",
                   "Connaissance : Les outils de conception et développement d'automatismes",
                   "Capacité : Analyser, dimensionner et concevoir un système automatisé de production : en termes de pilotage d'outils de production",
                   "Capacité : Utiliser une méthode d'analyse et de conception d'un S.A.P"
                 ],
-                "C19": [
+                "GI-C19": [
                   "Connaissance : Les architectures d'automatisme (de la couche physique (capteurs et actionneurs intelligents, réseaux locaux industriels, ...) à l'informatique de contrôle-commande)",
                   "Capacité : Utiliser une méthode d'analyse et de conception d'un S.A.P"
                 ],
@@ -3596,27 +3594,27 @@
                   "Capacité : Analyser, dimensionner et concevoir un système automatisé de production : en termes de pilotage d'outils de production",
                   "Capacité : Utiliser une méthode d'analyse et de conception d'un S.A.P"
                 ],
-                "C23": [
+                "GI-C23": [
                   "Connaissance : Les méthodologies de projet d'automatismes",
                   "Capacité : Analyser, dimensionner et concevoir un système automatisé de production : en termes de pilotage d'outils de production",
                   "Capacité : Utiliser une méthode d'analyse et de conception d'un S.A.P"
                 ],
-                "C22": [
+                "GI-C22": [
                   "Connaissance : Les méthodologies de projet d'automatismes"
                 ],
-                "C21": [
+                "GI-C21": [
                   "Connaissance : Les méthodologies de projet d'automatismes"
                 ],
-                "C20": [
+                "GI-C20": [
                   "Connaissance : Les méthodologies de projet d'automatismes",
                   "Capacité : Analyser, dimensionner et concevoir un système automatisé de production : en termes de pilotage d'outils de production",
                   "Capacité : Utiliser une méthode d'analyse et de conception d'un S.A.P"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Connaissance : Les outils de conception et développement d'automatismes",
                   "Capacité : Analyser, dimensionner et concevoir un système automatisé de production : en termes de pilotage d'outils de production"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Connaissance : Les outils de conception et développement d'automatismes",
                   "Capacité : Analyser, dimensionner et concevoir un système automatisé de production : en termes de pilotage d'outils de production",
                   "Capacité : Utiliser une méthode d'analyse et de conception d'un S.A.P"
@@ -3634,7 +3632,7 @@
                   "Capacité : Analyser, dimensionner et concevoir un système automatisé de production : en termes de pilotage d'outils de production",
                   "Capacité : Utiliser une méthode d'analyse et de conception d'un S.A.P"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Capacité : Analyser, dimensionner et concevoir un système automatisé de production : en termes de pilotage d'outils de production",
                   "Capacité : Utiliser une méthode d'analyse et de conception d'un S.A.P"
                 ],
@@ -3795,24 +3793,24 @@
                 "Connaissance : Aide à la décision"
               ],
               "competenceToCapaciteEtConnaissance": {
-                "C22": [
+                "GI-C22": [
                   "Connaissance : Définir un argumentaire pour le dimensionnement",
                   "Connaissance : Arbre de Fautes, Diagramme de fiabilité"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Connaissance : MTBF MTTF MTTR",
                   "Connaissance : Graphe d'états, chaîne de Markov"
                 ],
-                "C23": [
+                "GI-C23": [
                   "Connaissance : Aide à la décision"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Capacité : Appréhender les phénomènes de dysfonctionnement"
                 ],
-                "C15": [
+                "GI-C15": [
                   "Capacité : Analyse préliminaire de Risques"
                 ],
-                "C18": [
+                "GI-C18": [
                   "Capacité : Durée de vie, Fiabilité, Disponibilité, Maintenabilité des structures matérielles et organisationnelles"
                 ],
                 "B3": [
@@ -3822,7 +3820,7 @@
                 "B2": [
                   "Capacité : Négocier des solutions renforçant la tolérance aux fautes"
                 ],
-                "C19": [
+                "GI-C19": [
                   "Capacité : Dimensionnement"
                 ]
               },
@@ -3930,13 +3928,13 @@
                   "Capacité : Choisir la méthode de prévision adaptée à un contexte donné et l'appliquer",
                   "Capacité : Gérer un projet d'implantation d'ERP"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Connaissance : Techniques et méthodes d'ordonnancement d'atelier (machine unique, machines parallèles, flowshop, jobshop, organisations hybrides)",
                   "Connaissance : Méthodes de prévisions et leur place dans la gestion de la demande",
                   "Connaissance : Briques applicatives composant les systèmes d'informations d'entreprise (ERP,  ...)",
                   "Connaissance : Démarche de mise en œuvre d'ERP"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Connaissance : Techniques et méthodes d'ordonnancement d'atelier (machine unique, machines parallèles, flowshop, jobshop, organisations hybrides)",
                   "Connaissance : Techniques et méthodes d'ordonnancement de projet (PERT, ...)",
                   "Connaissance : Méthodes de prévisions et leur place dans la gestion de la demande",
@@ -3944,7 +3942,7 @@
                   "Capacité : Comprendre la problématique de gestion des prévisions",
                   "Capacité : Choisir la méthode de prévision adaptée à un contexte donné et l'appliquer"
                 ],
-                "C12": [
+                "GI-C12": [
                   "Connaissance : Techniques et méthodes d'ordonnancement d'atelier (machine unique, machines parallèles, flowshop, jobshop, organisations hybrides)"
                 ],
                 "A2": [
@@ -3953,13 +3951,13 @@
                   "Capacité : Choisir la méthode de prévision adaptée à un contexte donné et l'appliquer",
                   "Capacité : Choisir la brique applicative d'un système d'information d'entreprise (ERP,  ...)"
                 ],
-                "C16": [
+                "GI-C16": [
                   "Connaissance : Méthodes de prévisions et leur place dans la gestion de la demande",
                   "Connaissance : Démarche de mise en œuvre d'ERP",
                   "Capacité : Choisir ou proposer une méthode de résolution d'un problème d'ordonnancement d'atelier la plus adaptée à un contexte donné, et l'appliquer",
                   "Capacité : Gérer un projet d'implantation d'ERP"
                 ],
-                "C18": [
+                "GI-C18": [
                   "Connaissance : Démarche de mise en œuvre d'ERP",
                   "Capacité : Spécifier un problème d'ordonnancement",
                   "Capacité : Choisir ou proposer une méthode de résolution d'un problème d'ordonnancement d'atelier la plus adaptée à un contexte donné, et l'appliquer",
@@ -3967,17 +3965,17 @@
                   "Capacité : Choisir la méthode de prévision adaptée à un contexte donné et l'appliquer",
                   "Capacité : Choisir la brique applicative d'un système d'information d'entreprise (ERP,  ...)"
                 ],
-                "C22": [
+                "GI-C22": [
                   "Connaissance : Démarche de mise en œuvre d'ERP",
                   "Capacité : Gérer un projet d'implantation d'ERP"
                 ],
-                "C23": [
+                "GI-C23": [
                   "Connaissance : Démarche de mise en œuvre d'ERP",
                   "Capacité : Spécifier un problème d'ordonnancement",
                   "Capacité : Choisir la méthode de prévision adaptée à un contexte donné et l'appliquer",
                   "Capacité : Gérer un projet d'implantation d'ERP"
                 ],
-                "C24": [
+                "GI-C24": [
                   "Connaissance : Démarche de mise en œuvre d'ERP",
                   "Capacité : Choisir la brique applicative d'un système d'information d'entreprise (ERP,  ...)",
                   "Capacité : Gérer un projet d'implantation d'ERP"
@@ -4121,7 +4119,7 @@
                 "A6": [
                   "Capacité : Appliquer une démarche « projet de simulation»"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Capacité : Appliquer une démarche « projet de simulation»",
                   "Capacité : Tracer les flux",
                   "Capacité : Analyser les flux moyens",
@@ -4130,10 +4128,10 @@
                   "Capacité : Dimensionner une chaîne de production",
                   "Capacité : Proposer des modifications pour optimiser les flux"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Capacité : Appliquer une démarche « projet de simulation»"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Capacité : Appliquer une démarche « projet de simulation»",
                   "Capacité : Tracer les flux",
                   "Capacité : Analyser les flux moyens",
@@ -4142,7 +4140,7 @@
                   "Capacité : Dimensionner une chaîne de production",
                   "Capacité : Proposer des modifications pour optimiser les flux"
                 ],
-                "C10": [
+                "GI-C10": [
                   "Capacité : Appliquer une démarche « projet de simulation»",
                   "Capacité : Analyser les flux moyens",
                   "Capacité : Trouver le goulot d'étranglement",
@@ -4150,7 +4148,7 @@
                   "Capacité : Dimensionner une chaîne de production",
                   "Capacité : Proposer des modifications pour optimiser les flux"
                 ],
-                "C15": [
+                "GI-C15": [
                   "Capacité : Appliquer une démarche « projet de simulation»",
                   "Capacité : Rendre les stocks fonctionnels",
                   "Capacité : Dimensionner une chaîne de production",
@@ -4980,19 +4978,19 @@
                 "Connaissance : Méthodes d'évaluation des IHM"
               ],
               "competenceToCapaciteEtConnaissance": {
-                "C7": [
+                "GI-C7": [
                   "Connaissance : Méthodes et outils pour la conception de systèmes interactifs",
                   "Connaissance : Analyse des besoins utilisateurs, modélisation de l'activité",
                   "Capacité : Savoir appliquer une méthode centrée utilisateur pour concevoir un système interactif"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Connaissance : Méthodes et outils pour la conception de systèmes interactifs",
                   "Connaissance : Outils pour la créativité, l'idéation",
                   "Connaissance : Prototypage de systèmes interactifs",
                   "Connaissance : Critères d'ergonomie pour la conception d'IHM",
                   "Capacité : Savoir appliquer une méthode centrée utilisateur pour concevoir un système interactif"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Connaissance : Méthodes et outils pour la conception de systèmes interactifs",
                   "Connaissance : Prototypage de systèmes interactifs",
                   "Connaissance : Critères d'ergonomie pour la conception d'IHM",
@@ -5000,7 +4998,7 @@
                   "Capacité : Savoir appliquer une méthode centrée utilisateur pour concevoir un système interactif",
                   "Capacité : Savoir faire la critique ergonomique d'un système interactif"
                 ],
-                "C23": [
+                "GI-C23": [
                   "Connaissance : Analyse des besoins utilisateurs, modélisation de l'activité",
                   "Connaissance : Méthodes d'évaluation des IHM",
                   "Capacité : Savoir appliquer une méthode centrée utilisateur pour concevoir un système interactif"
@@ -5094,7 +5092,7 @@
                 "A5": [
                   "Capacité : -S'approprier des outils de traitement des données structurées (Excel et stat) (C9, C10, C11) -Savoir prendre une décision sur la base de résultats numériques (C7) -Choisir une méthode de traitement en fonction des données et des objectifs"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Capacité : -S'approprier des outils de traitement des données structurées (Excel et stat) (C9, C10, C11) -Savoir prendre une décision sur la base de résultats numériques (C7) -Choisir une méthode de traitement en fonction des données et des objectifs"
                 ]
               },
@@ -5231,18 +5229,18 @@
                 "A4": [
                   "Connaissance : La conception d¿un modèle dimensionnel, adapté à l'analyse"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Capacité : Collecter les besoins du client en matière d'analyse",
                   "Capacité : Exploiter les données dans la perspective de l'activité analysée"
                 ],
-                "C23": [
+                "GI-C23": [
                   "Capacité : Collecter les besoins du client en matière d'analyse"
                 ],
                 "A2": [
                   "Capacité : Identifier les sources de données de production utiles pour une démarche analytique",
                   "Capacité : Traiter des informations volumineuses en vue de leur analyse"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Capacité : Identifier les sources de données de production utiles pour une démarche analytique"
                 ],
                 "B2": [
@@ -5251,7 +5249,7 @@
                 "B5": [
                   "Capacité : Mener un projet à bien, en travaillant en groupe"
                 ],
-                "C20": [
+                "GI-C20": [
                   "Capacité : Mener un projet à bien, en travaillant en groupe"
                 ]
               },
@@ -5301,10 +5299,10 @@
                 "Connaissance : -Architecture d'applications basées sur les services Web -Modèle-Vue-Contrôleur -Protocole HTTP -Serveur d'application -Service Web REST -Format d'échange de données"
               ],
               "competenceToCapaciteEtConnaissance": {
-                "C19": [
+                "GI-C19": [
                   "Capacité : -Concevoir et développer une application distribuée permettant le stockage, l'accès à distance et la visualisation de données associées à la réalisation de processus (A5.Traiter des données, C7) -Analyser les performances des processus à partir des traces générées par le système d'information (A6, C8) -Réaliser un travail en équipe"
                 ],
-                "C21": [
+                "GI-C21": [
                   "Capacité : -Concevoir et développer une application distribuée permettant le stockage, l'accès à distance et la visualisation de données associées à la réalisation de processus (A5.Traiter des données, C7) -Analyser les performances des processus à partir des traces générées par le système d'information (A6, C8) -Réaliser un travail en équipe"
                 ],
                 "B2": [
@@ -5344,10 +5342,10 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "C18": [
+                "GI-C18": [
                   "Capacité : -Mettre en œuvre les outils du management (C21, C22, C23) -Apprendre à conduire collectivement un projet réel : organisation collective du groupe, communication, animation, coordination (C20, C21) -Appliquer avec rigueur une démarche structurée, cohérente et pertinente de conception d'une solution industrielle en intégrant les facteurs de performance : Risques + coûts + Qualité + Usage (A6, C7, C8, C9, C10, C16, C22, C23) -Collecter, extraire, structurer et analyser les informations (C7) -Évaluer ses forces et ses limites, mener une négociation -Être force de proposition (B1, B3, B6) -Analyser dans une approche globale, de façon systémique, une entreprise, une organisation, un projet, un problème"
                 ],
-                "C25": [
+                "GI-C25": [
                   "Capacité : -Mettre en œuvre les outils du management (C21, C22, C23) -Apprendre à conduire collectivement un projet réel : organisation collective du groupe, communication, animation, coordination (C20, C21) -Appliquer avec rigueur une démarche structurée, cohérente et pertinente de conception d'une solution industrielle en intégrant les facteurs de performance : Risques + coûts + Qualité + Usage (A6, C7, C8, C9, C10, C16, C22, C23) -Collecter, extraire, structurer et analyser les informations (C7) -Évaluer ses forces et ses limites, mener une négociation -Être force de proposition (B1, B3, B6) -Analyser dans une approche globale, de façon systémique, une entreprise, une organisation, un projet, un problème"
                 ],
                 "B6": [
@@ -5538,16 +5536,16 @@
                 "Connaissance : Les processus mis en œuvre dans la conduite de projet"
               ],
               "competenceToCapaciteEtConnaissance": {
-                "C21": [
+                "GI-C21": [
                   "Capacité : Définir, planifier, gérer et maîtriser le contenu d'un projet (PBS, WBS)",
                   "Capacité : Planifier le déroulement d'un projet en tenant compte des contraintes de ressource et des incertitudes (PERT, Gantt, méthode de la chaîne critique, MS Project)",
                   "Capacité : Assurer le suivi d'un projet en rendant compte des écarts par rapport à la planification initiale, avec des indicateurs et tableaux de bord pertinents",
                   "Capacité : Établir un budget, suivre et maîtriser les couts"
                 ],
-                "C23": [
+                "GI-C23": [
                   "Capacité : Définir, planifier, gérer et maîtriser le contenu d'un projet (PBS, WBS)"
                 ],
-                "C20": [
+                "GI-C20": [
                   "Capacité : Assurer le suivi d'un projet en rendant compte des écarts par rapport à la planification initiale, avec des indicateurs et tableaux de bord pertinents"
                 ]
               },
@@ -5614,7 +5612,7 @@
                 "Connaissance : Calcul de rentabilité financière d'un projet"
               ],
               "competenceToCapaciteEtConnaissance": {
-                "C7": [
+                "GI-C7": [
                   "Connaissance : Méthodes d'optimisation",
                   "Connaissance : Politique d'ordonnancement en fonction de charge d'atelier",
                   "Connaissance : Calcul de rentabilité financière d'un projet",
@@ -5623,20 +5621,20 @@
                   "Capacité : Réaliser un Ordonnancement à capacité finie et infinie,",
                   "Capacité : Étudier les effets du choix d'une heuristique de séquencement, ainsi que des périodes de travail,"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Connaissance : Méthodes d'optimisation",
                   "Connaissance : Politique d'ordonnancement en fonction de charge d'atelier",
                   "Capacité : Réaliser un Ordonnancement à capacité finie et infinie,",
                   "Capacité : Étudier les effets du choix d'une heuristique de séquencement, ainsi que des périodes de travail,",
                   "Capacité : Prendre en compte les contraintes (chevauchement, fractionnement, insécabilité, etc.) et gérer les aléas de production (panne sur une machine ...)"
                 ],
-                "C10": [
+                "GI-C10": [
                   "Connaissance : Calcul de rentabilité financière d'un projet",
                   "Capacité : Réaliser un Ordonnancement à capacité finie et infinie,",
                   "Capacité : Étudier les effets du choix d'une heuristique de séquencement, ainsi que des périodes de travail,",
                   "Capacité : Prendre en compte les contraintes (chevauchement, fractionnement, insécabilité, etc.) et gérer les aléas de production (panne sur une machine ...)"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Connaissance : Calcul de rentabilité financière d'un projet",
                   "Capacité : Prendre en compte les contraintes (chevauchement, fractionnement, insécabilité, etc.) et gérer les aléas de production (panne sur une machine ...)",
                   "Capacité : Analyser et évaluer les caractéristiques techniques et financières du logiciel d'ordonnancement."
@@ -5647,7 +5645,7 @@
                 "A3": [
                   "Capacité : Identifier des méthodes de calcul du temps opératoire et de calcul des charges prévisionnelles (personnel et équipement)"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Capacité : Identifier des méthodes de calcul du temps opératoire et de calcul des charges prévisionnelles (personnel et équipement)",
                   "Capacité : Caractériser les données techniques (opérations, ressources, temps opératoires, gammes, ordres de fabrication ...)",
                   "Capacité : Réaliser un Ordonnancement à capacité finie et infinie,",
@@ -5667,7 +5665,7 @@
                 "B4": [
                   "Capacité : Analyser et évaluer les caractéristiques techniques et financières du logiciel d'ordonnancement."
                 ],
-                "C22": [
+                "GI-C22": [
                   "Capacité : Analyser et évaluer les caractéristiques techniques et financières du logiciel d'ordonnancement."
                 ]
               }
@@ -5718,7 +5716,7 @@
                   "Capacité : Maitriser l'utilisation d¿un progiciel de gestion intégré (ERP) pour la planification et gestion de la production dans le cadre de la fabrication discrète",
                   "Capacité : Utiliser le paramétrage fonctionnel d¿un ERP pour la planification de la production"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Connaissance : SAP ERP (structure, concepts, applications)",
                   "Capacité : Maitriser l'utilisation d¿un progiciel de gestion intégré (ERP) pour la planification et gestion de la production dans le cadre de la fabrication discrète",
                   "Capacité : Utiliser le paramétrage fonctionnel d¿un ERP pour la planification de la production",
@@ -5730,7 +5728,7 @@
                   "Connaissance : Stratégies de planification (MTO, ATO, MTS)",
                   "Capacité : Utiliser le paramétrage fonctionnel d¿un ERP pour la planification de la production"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Connaissance : Processus de planification et d'exécution de la production (gestion sur prévision, assemblage à la commande)",
                   "Connaissance : Processus de traitement de commande client"
                 ],
@@ -5743,13 +5741,13 @@
                   "Capacité : Maitriser l'utilisation d¿un progiciel de gestion intégré (ERP) pour la planification et gestion de la production dans le cadre de la fabrication discrète",
                   "Capacité : Utiliser le paramétrage fonctionnel d¿un ERP pour la planification de la production"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Connaissance : Stratégies de planification (MTO, ATO, MTS)",
                   "Capacité : Maitriser l'utilisation d¿un progiciel de gestion intégré (ERP) pour la planification et gestion de la production dans le cadre de la fabrication discrète",
                   "Capacité : Utiliser le paramétrage fonctionnel d¿un ERP pour la planification de la production",
                   "Capacité : Comprendre les enjeux de l'intégration des processus de gestion à travers un ERP"
                 ],
-                "C10": [
+                "GI-C10": [
                   "Capacité : Maitriser l'utilisation d¿un progiciel de gestion intégré (ERP) pour la planification et gestion de la production dans le cadre de la fabrication discrète",
                   "Capacité : Utiliser le paramétrage fonctionnel d¿un ERP pour la planification de la production"
                 ]
@@ -5883,25 +5881,25 @@
                 "Connaissance : Les outils de base de l'optimisation mathématiques autrement appelée Recherche Opérationnelle"
               ],
               "competenceToCapaciteEtConnaissance": {
-                "C8": [
+                "GI-C8": [
                   "Capacité : Modéliser un problème d'optimisation mathématique"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Capacité : Analyser un problème d'optimisation mathématique"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Capacité : Appliquer les outils de recherche opérationnelle sur des problèmes de génie industriel tel que : ordonnancement, planification de la production, bin packing, couverture, planification de projet, distribution, tournées de véhicules, etc."
                 ],
-                "C12": [
+                "GI-C12": [
                   "Capacité : Appliquer les outils de recherche opérationnelle sur des problèmes de génie industriel tel que : ordonnancement, planification de la production, bin packing, couverture, planification de projet, distribution, tournées de véhicules, etc."
                 ],
-                "C14": [
+                "GI-C14": [
                   "Capacité : Appliquer les outils de recherche opérationnelle sur des problèmes de génie industriel tel que : ordonnancement, planification de la production, bin packing, couverture, planification de projet, distribution, tournées de véhicules, etc."
                 ],
-                "C15": [
+                "GI-C15": [
                   "Capacité : Appliquer les outils de recherche opérationnelle sur des problèmes de génie industriel tel que : ordonnancement, planification de la production, bin packing, couverture, planification de projet, distribution, tournées de véhicules, etc."
                 ],
-                "C21": [
+                "GI-C21": [
                   "Capacité : Appliquer les outils de recherche opérationnelle sur des problèmes de génie industriel tel que : ordonnancement, planification de la production, bin packing, couverture, planification de projet, distribution, tournées de véhicules, etc."
                 ]
               },
@@ -5953,10 +5951,10 @@
                 "Connaissance : -Fonctions du MES (A6, C8), -Analyse de performance et TRS (C7, C16), -Traçabilité de production (C7), -Pilotage de l'exécution de la production"
               ],
               "competenceToCapaciteEtConnaissance": {
-                "C7": [
+                "GI-C7": [
                   "Connaissance : -Fonctions du MES (A6, C8), -Analyse de performance et TRS (C7, C16), -Traçabilité de production (C7), -Pilotage de l'exécution de la production"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Connaissance : -Fonctions du MES (A6, C8), -Analyse de performance et TRS (C7, C16), -Traçabilité de production (C7), -Pilotage de l'exécution de la production"
                 ]
               },
@@ -6020,7 +6018,7 @@
                 "A5": [
                   "Connaissance : Six Sigma, Maîtrise Statistique des Processus (MSP)"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Connaissance : Six Sigma, Maîtrise Statistique des Processus (MSP)",
                   "Connaissance : Total Productive Maintenance (TPM)",
                   "Connaissance : Fiabilité"
@@ -6028,13 +6026,13 @@
                 "A3": [
                   "Capacité : Comprendre les enjeux et outils de la qualité (système qualité et outils de la qualité) et de la maintenance (impact de l'organisation de la maintenance sur les autres fonctions de l'entreprise)"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Capacité : Comprendre les enjeux et outils de la qualité (système qualité et outils de la qualité) et de la maintenance (impact de l'organisation de la maintenance sur les autres fonctions de l'entreprise)"
                 ],
-                "C16": [
+                "GI-C16": [
                   "Capacité : Comprendre les enjeux et outils de la qualité (système qualité et outils de la qualité) et de la maintenance (impact de l'organisation de la maintenance sur les autres fonctions de l'entreprise)"
                 ],
-                "C20": [
+                "GI-C20": [
                   "Capacité : Comprendre les enjeux et outils de la qualité (système qualité et outils de la qualité) et de la maintenance (impact de l'organisation de la maintenance sur les autres fonctions de l'entreprise)"
                 ]
               },
@@ -6105,10 +6103,10 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "C18": [
+                "GI-C18": [
                   "Capacité : -Mettre en œuvre les outils du management (C21, C22, C23) -Apprendre à conduire collectivement un projet réel : organisation collective du groupe, communication, animation, coordination (C20, C21) -Appliquer avec rigueur une démarche structurée, cohérente et pertinente de conception d'une solution industrielle en intégrant les facteurs de performance : Risques + coûts + Qualité + Usage (A6, C7, C8, C9, C10, C16, C22, C23) -Collecter, extraire, structurer et analyser les informations (C7) -Évaluer ses forces et ses limites, mener une négociation -Être force de proposition (B1, B3, B6) -Analyser dans une approche globale, de façon systémique, une entreprise, une organisation, un projet, un problème"
                 ],
-                "C25": [
+                "GI-C25": [
                   "Capacité : -Mettre en œuvre les outils du management (C21, C22, C23) -Apprendre à conduire collectivement un projet réel : organisation collective du groupe, communication, animation, coordination (C20, C21) -Appliquer avec rigueur une démarche structurée, cohérente et pertinente de conception d'une solution industrielle en intégrant les facteurs de performance : Risques + coûts + Qualité + Usage (A6, C7, C8, C9, C10, C16, C22, C23) -Collecter, extraire, structurer et analyser les informations (C7) -Évaluer ses forces et ses limites, mener une négociation -Être force de proposition (B1, B3, B6) -Analyser dans une approche globale, de façon systémique, une entreprise, une organisation, un projet, un problème"
                 ],
                 "B6": [
@@ -6380,7 +6378,7 @@
                 "B4": [
                   "Connaissance : Dispositifs et acteurs de la recherche en France et la place des ingénieurs-docteurs"
                 ],
-                "C19": [
+                "GI-C19": [
                   "Connaissance : Dispositifs et acteurs de la recherche en France et la place des ingénieurs-docteurs"
                 ]
               },
@@ -6664,12 +6662,12 @@
                   "Capacité : S'initier à la gestion des ressources humaines et aux relations sociales",
                   "Capacité : Clarifier son projet professionnel et se situer comme manager"
                 ],
-                "C26": [
+                "GI-C26": [
                   "Connaissance : Finalités et méthodes de gestion des ressources humaines, instances représentatives du personnel, principaux enjeux des relations sociales en entreprise",
                   "Connaissance : Principes et outils de GRH (recrutement, évaluation et gestion des compétences, rémunération, gestion de carrière, etc.)",
                   "Connaissance : Relations sociales et contrat de travail : dialogue social, IRP, organisations syndicales et négociations collectives"
                 ],
-                "C24": [
+                "GI-C24": [
                   "Connaissance : Finalités et méthodes de gestion des ressources humaines, instances représentatives du personnel, principaux enjeux des relations sociales en entreprise",
                   "Connaissance : Principes et outils de GRH (recrutement, évaluation et gestion des compétences, rémunération, gestion de carrière, etc.)",
                   "Capacité : S'initier à la gestion des ressources humaines et aux relations sociales"
@@ -6695,7 +6693,7 @@
                   "Connaissance : Éléments de droit du travail",
                   "Connaissance : Management interculturel"
                 ],
-                "C22": [
+                "GI-C22": [
                   "Connaissance : Motivation et management du changement",
                   "Connaissance : Relations sociales et contrat de travail : dialogue social, IRP, organisations syndicales et négociations collectives",
                   "Connaissance : Conventions collectives",
@@ -6846,35 +6844,35 @@
                 "A1": [
                   "Capacité : Modéliser le processus de réalisation d'une activité"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Capacité : Modéliser le processus de réalisation d'une activité",
                   "Capacité : Suivre leur évolution et valider leur respect (traçabilité des besoins)"
                 ],
-                "C13": [
+                "GI-C13": [
                   "Capacité : Modéliser le processus de réalisation d'une activité"
                 ],
-                "C21": [
+                "GI-C21": [
                   "Capacité : Assurer une qualité de reporting par la mise en place d'indicateurs pertinents",
                   "Capacité : Suivre leur évolution et valider leur respect (traçabilité des besoins)"
                 ],
-                "C24": [
+                "GI-C24": [
                   "Capacité : Valoriser, protéger et pérenniser le savoir-faire des entités"
                 ],
-                "C18": [
+                "GI-C18": [
                   "Capacité : Mettre en perspective les connaissances scientifiques avec l'évolution des savoirs et des technologies"
                 ],
-                "C20": [
+                "GI-C20": [
                   "Capacité : Définir et appliquer un plan d'actions",
                   "Capacité : Conduire collectivement un projet"
                 ],
-                "C23": [
+                "GI-C23": [
                   "Capacité : Définir et appliquer un plan d'actions",
                   "Capacité : Identifier, formaliser et contractualiser les besoins d'un client"
                 ],
                 "B6": [
                   "Capacité : Définir et appliquer un plan d'actions"
                 ],
-                "C16": [
+                "GI-C16": [
                   "Capacité : Suivre leur évolution et valider leur respect (traçabilité des besoins)"
                 ]
               },
@@ -7044,7 +7042,7 @@
                   "Capacité : Concevoir un système de fabrication intelligent, l'usine de l'avenir",
                   "Capacité : Déterminer des méthodes d'aide à la décision pour la Configuration du système de production dans le contexte de l'Industrie 4.0, de l'Internet des objets Big Data"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Connaissance : Méthodes de prévision de la demande",
                   "Connaissance : Méthodes de planification de la production",
                   "Connaissance : Méthodes de gestion des stocks sous incertitude",
@@ -7059,7 +7057,7 @@
                   "Capacité : Configurer des cellules manufacturières via la technologie du groupe",
                   "Capacité : Déterminer des méthodes d'aide à la décision pour la Configuration du système de production dans le contexte de l'Industrie 4.0, de l'Internet des objets Big Data"
                 ],
-                "C15": [
+                "GI-C15": [
                   "Connaissance : Méthodes de prévision de la demande",
                   "Connaissance : Méthodes de planification de la production",
                   "Connaissance : Méthodes de gestion des stocks sous incertitude",
@@ -7078,7 +7076,7 @@
                   "Capacité : Équilibrer une ligne d'assemblage",
                   "Capacité : Configurer des cellules manufacturières via la technologie du groupe"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Connaissance : Méthodes de planification de la production",
                   "Connaissance : Méthodes de gestion des stocks sous incertitude",
                   "Connaissance : Méthodes de conception et de configuration de systèmes de production",
@@ -7092,26 +7090,26 @@
                   "Capacité : Concevoir un système de fabrication intelligent, l'usine de l'avenir",
                   "Capacité : Déterminer des méthodes d'aide à la décision pour la Configuration du système de production dans le contexte de l'Industrie 4.0, de l'Internet des objets Big Data"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Connaissance : Méthodes de gestion des stocks sous incertitude",
                   "Capacité : Identifier des stratégies de La gestion des stocks sous incertitude"
                 ],
-                "C14": [
+                "GI-C14": [
                   "Connaissance : Méthodes de gestion des stocks sous incertitude",
                   "Capacité : Identifier des stratégies de La gestion des stocks sous incertitude"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Connaissance : Méthodes de conception et de configuration de systèmes de production",
                   "Capacité : Optimiser conjointement transport et stocks",
                   "Capacité : Concevoir un système de fabrication intelligent, l'usine de l'avenir",
                   "Capacité : Déterminer des méthodes d'aide à la décision pour la Configuration du système de production dans le contexte de l'Industrie 4.0, de l'Internet des objets Big Data"
                 ],
-                "C10": [
+                "GI-C10": [
                   "Connaissance : Méthodes de conception et de configuration de systèmes de production",
                   "Capacité : Concevoir des réseaux de distribution sous incertitude",
                   "Capacité : Déterminer des méthodes d'aide à la décision pour la Configuration du système de production dans le contexte de l'Industrie 4.0, de l'Internet des objets Big Data"
                 ],
-                "C12": [
+                "GI-C12": [
                   "Connaissance : Méthodes de conception et de configuration de systèmes de production",
                   "Capacité : Déterminer la Performance de Supply Chain",
                   "Capacité : Configurer des cellules manufacturières via la technologie du groupe",
@@ -7235,41 +7233,41 @@
               ],
               "connaissance": [],
               "competenceToCapaciteEtConnaissance": {
-                "C16": [
+                "GI-C16": [
                   "Capacité : Mener une démarche de résolution de problèmes et d'exposer la démarche sous la forme d'un poster A3",
                   "Capacité : Définir les actions de progrès à mettre en œuvre",
                   "Capacité : Appliquer les outils du Lean (flux continu, flux tiré, SMED, 5S, lissage, arrêt au premier défaut) sur un cas concret (simulation d'atelier de production)"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Capacité : Utiliser le VSM pour cartographier le flux valeur l'état initial et concevoir une cartographie remaniée intégrant les principes de la production au plus juste et de la qualité parfaite"
                 ],
-                "C12": [
+                "GI-C12": [
                   "Capacité : Utiliser le VSM pour cartographier le flux valeur l'état initial et concevoir une cartographie remaniée intégrant les principes de la production au plus juste et de la qualité parfaite",
                   "Capacité : Appliquer les outils du Lean (flux continu, flux tiré, SMED, 5S, lissage, arrêt au premier défaut) sur un cas concret (simulation d'atelier de production)"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Capacité : Identifier les activités à valeur ajoutée et les sources de gaspillages à partir d'étude de cas et de situation réelles"
                 ],
-                "C18": [
+                "GI-C18": [
                   "Capacité : Définir les actions de progrès à mettre en œuvre",
                   "Capacité : Appliquer les outils du Lean (flux continu, flux tiré, SMED, 5S, lissage, arrêt au premier défaut) sur un cas concret (simulation d'atelier de production)"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Capacité : Appliquer les outils du Lean (flux continu, flux tiré, SMED, 5S, lissage, arrêt au premier défaut) sur un cas concret (simulation d'atelier de production)"
                 ],
-                "C14": [
+                "GI-C14": [
                   "Capacité : Appliquer les outils du Lean (flux continu, flux tiré, SMED, 5S, lissage, arrêt au premier défaut) sur un cas concret (simulation d'atelier de production)"
                 ],
-                "C19": [
+                "GI-C19": [
                   "Capacité : Appliquer les outils du Lean (flux continu, flux tiré, SMED, 5S, lissage, arrêt au premier défaut) sur un cas concret (simulation d'atelier de production)"
                 ],
                 "B4": [
                   "Capacité : Appliquer les outils du Lean (flux continu, flux tiré, SMED, 5S, lissage, arrêt au premier défaut) sur un cas concret (simulation d'atelier de production)"
                 ],
-                "C24": [
+                "GI-C24": [
                   "Capacité : Accompagner les changements de comportements dans les organisations Lean"
                 ],
-                "C25": [
+                "GI-C25": [
                   "Capacité : Accompagner les changements de comportements dans les organisations Lean"
                 ]
               },
@@ -7399,10 +7397,10 @@
                 "Connaissance : Les outils de la maintenance"
               ],
               "competenceToCapaciteEtConnaissance": {
-                "C8": [
+                "GI-C8": [
                   "Capacité : Comprendre les enjeux de l'achat d'une GMAO"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Capacité : Comprendre les enjeux de l'achat d'une GMAO",
                   "Capacité : Définir une politique de maintenance"
                 ],
@@ -7418,10 +7416,10 @@
                 "A5": [
                   "Capacité : Définir une politique de maintenance"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Capacité : Définir une politique de maintenance"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Capacité : Définir une politique de maintenance"
                 ]
               },
@@ -7517,7 +7515,7 @@
                   "Capacité : Méthodologiques : analyser et modéliser formellement les problèmes de planification ou d'ordonnancement de ressources matérielles et / ou humaines ainsi que les problèmes d'aide à la décision mono et multicritères",
                   "Capacité : Techniques : déterminer la complexité d'un problème et proposer des outils potentiels de résolution"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Capacité : Méthodologiques : analyser et modéliser formellement les problèmes de planification ou d'ordonnancement de ressources matérielles et / ou humaines ainsi que les problèmes d'aide à la décision mono et multicritères"
                 ],
                 "A3": [
@@ -7526,22 +7524,22 @@
                 "A4": [
                   "Capacité : Mettre en œuvre une démarche structurée pour aborder ce type de problèmes (de l'identification à la validation des résultats obtenus)"
                 ],
-                "C10": [
+                "GI-C10": [
                   "Capacité : Mettre en œuvre une démarche structurée pour aborder ce type de problèmes (de l'identification à la validation des résultats obtenus)"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Capacité : Mettre en œuvre une démarche structurée pour aborder ce type de problèmes (de l'identification à la validation des résultats obtenus)"
                 ],
-                "C12": [
+                "GI-C12": [
                   "Capacité : Mettre en œuvre une démarche structurée pour aborder ce type de problèmes (de l'identification à la validation des résultats obtenus)"
                 ],
-                "C13": [
+                "GI-C13": [
                   "Capacité : Mettre en œuvre une démarche structurée pour aborder ce type de problèmes (de l'identification à la validation des résultats obtenus)"
                 ],
-                "C14": [
+                "GI-C14": [
                   "Capacité : Mettre en œuvre une démarche structurée pour aborder ce type de problèmes (de l'identification à la validation des résultats obtenus)"
                 ],
-                "C15": [
+                "GI-C15": [
                   "Capacité : Mettre en œuvre une démarche structurée pour aborder ce type de problèmes (de l'identification à la validation des résultats obtenus)"
                 ]
               },
@@ -7654,13 +7652,13 @@
                 "A5": [
                   "Capacité : Évaluer les besoins en ressources humaines"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Capacité : Évaluer les besoins en ressources humaines",
                   "Capacité : Dimensionner le personnel",
                   "Capacité : Définir les horaires de présence du personnel",
                   "Capacité : Planifier les emplois du temps du personnel"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Capacité : Dimensionner le personnel",
                   "Capacité : Définir les horaires de présence du personnel",
                   "Capacité : Planifier les emplois du temps du personnel"
@@ -7669,7 +7667,7 @@
                   "Capacité : Définir les horaires de présence du personnel",
                   "Capacité : Planifier les emplois du temps du personnel"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Capacité : Planifier les emplois du temps du personnel"
                 ]
               },
@@ -7741,7 +7739,7 @@
                 "Connaissance : CBA."
               ],
               "competenceToCapaciteEtConnaissance": {
-                "C20": [
+                "GI-C20": [
                   "Capacité : Organiser une table ronde",
                   "Capacité : Savoir maîtriser un débat"
                 ],
@@ -7764,10 +7762,10 @@
                   "Capacité : Définir les enjeux et les risques industriels tant sur le plan structurel qu'organisationnel",
                   "Capacité : Savoir maîtriser un débat"
                 ],
-                "C17": [
+                "GI-C17": [
                   "Capacité : Définir les enjeux et les risques industriels tant sur le plan structurel qu'organisationnel"
                 ],
-                "C26": [
+                "GI-C26": [
                   "Capacité : Interpeller des intervenants industriels"
                 ]
               },
@@ -7881,16 +7879,16 @@
                   "Capacité : Développer des solutions et réaliser des expérimentations",
                   "Capacité : Analyser les résultats obtenus et proposer des recommandations"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Capacité : S'approprier le sujet en mobilisant les connaissances théoriques pertinentes et en réalisant un état de l'art",
                   "Capacité : Comprendre et formaliser le problème de recherche",
                   "Capacité : Analyser les résultats obtenus et proposer des recommandations"
                 ],
-                "C19": [
+                "GI-C19": [
                   "Capacité : S'approprier le sujet en mobilisant les connaissances théoriques pertinentes et en réalisant un état de l'art",
                   "Capacité : Comprendre et formaliser le problème de recherche"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Capacité : Comprendre et formaliser le problème de recherche",
                   "Capacité : Émettre des pistes de résolution",
                   "Capacité : Développer des solutions et réaliser des expérimentations"
@@ -7909,7 +7907,7 @@
                   "Capacité : Développer des solutions et réaliser des expérimentations",
                   "Capacité : Analyser les résultats obtenus et proposer des recommandations"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Capacité : Développer des solutions et réaliser des expérimentations",
                   "Capacité : Analyser les résultats obtenus et proposer des recommandations"
                 ],
@@ -8092,7 +8090,7 @@
                   "Capacité : Concevoir un système de fabrication intelligent, l'usine de l'avenir",
                   "Capacité : Déterminer des méthodes d'aide à la décision pour la Configuration du système de production dans le contexte de l'Industrie 4.0, de l'Internet des objets Big Data"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Connaissance : Méthodes de prévision de la demande",
                   "Connaissance : Méthodes de planification de la production",
                   "Connaissance : Méthodes de gestion des stocks sous incertitude",
@@ -8107,7 +8105,7 @@
                   "Capacité : Configurer des cellules manufacturières via la technologie du groupe",
                   "Capacité : Déterminer des méthodes d'aide à la décision pour la Configuration du système de production dans le contexte de l'Industrie 4.0, de l'Internet des objets Big Data"
                 ],
-                "C15": [
+                "GI-C15": [
                   "Connaissance : Méthodes de prévision de la demande",
                   "Connaissance : Méthodes de planification de la production",
                   "Connaissance : Méthodes de gestion des stocks sous incertitude",
@@ -8126,7 +8124,7 @@
                   "Capacité : Équilibrer une ligne d'assemblage",
                   "Capacité : Configurer des cellules manufacturières via la technologie du groupe"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Connaissance : Méthodes de planification de la production",
                   "Connaissance : Méthodes de gestion des stocks sous incertitude",
                   "Connaissance : Méthodes de conception et de configuration de systèmes de production",
@@ -8140,26 +8138,26 @@
                   "Capacité : Concevoir un système de fabrication intelligent, l'usine de l'avenir",
                   "Capacité : Déterminer des méthodes d'aide à la décision pour la Configuration du système de production dans le contexte de l'Industrie 4.0, de l'Internet des objets Big Data"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Connaissance : Méthodes de gestion des stocks sous incertitude",
                   "Capacité : Identifier des stratégies de La gestion des stocks sous incertitude"
                 ],
-                "C14": [
+                "GI-C14": [
                   "Connaissance : Méthodes de gestion des stocks sous incertitude",
                   "Capacité : Identifier des stratégies de La gestion des stocks sous incertitude"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Connaissance : Méthodes de conception et de configuration de systèmes de production",
                   "Capacité : Optimiser conjointement transport et stocks",
                   "Capacité : Concevoir un système de fabrication intelligent, l'usine de l'avenir",
                   "Capacité : Déterminer des méthodes d'aide à la décision pour la Configuration du système de production dans le contexte de l'Industrie 4.0, de l'Internet des objets Big Data"
                 ],
-                "C10": [
+                "GI-C10": [
                   "Connaissance : Méthodes de conception et de configuration de systèmes de production",
                   "Capacité : Concevoir des réseaux de distribution sous incertitude",
                   "Capacité : Déterminer des méthodes d'aide à la décision pour la Configuration du système de production dans le contexte de l'Industrie 4.0, de l'Internet des objets Big Data"
                 ],
-                "C12": [
+                "GI-C12": [
                   "Connaissance : Méthodes de conception et de configuration de systèmes de production",
                   "Capacité : Déterminer la Performance de Supply Chain",
                   "Capacité : Configurer des cellules manufacturières via la technologie du groupe",
@@ -8284,10 +8282,10 @@
                 "Connaissance : Les outils de la maintenance"
               ],
               "competenceToCapaciteEtConnaissance": {
-                "C8": [
+                "GI-C8": [
                   "Capacité : Comprendre les enjeux de l'achat d'une GMAO"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Capacité : Comprendre les enjeux de l'achat d'une GMAO",
                   "Capacité : Définir une politique de maintenance"
                 ],
@@ -8303,10 +8301,10 @@
                 "A5": [
                   "Capacité : Définir une politique de maintenance"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Capacité : Définir une politique de maintenance"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Capacité : Définir une politique de maintenance"
                 ]
               },
@@ -8402,7 +8400,7 @@
                   "Capacité : Méthodologiques : analyser et modéliser formellement les problèmes de planification ou d'ordonnancement de ressources matérielles et / ou humaines ainsi que les problèmes d'aide à la décision mono et multicritères",
                   "Capacité : Techniques : déterminer la complexité d'un problème et proposer des outils potentiels de résolution"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Capacité : Méthodologiques : analyser et modéliser formellement les problèmes de planification ou d'ordonnancement de ressources matérielles et / ou humaines ainsi que les problèmes d'aide à la décision mono et multicritères"
                 ],
                 "A3": [
@@ -8411,22 +8409,22 @@
                 "A4": [
                   "Capacité : Mettre en œuvre une démarche structurée pour aborder ce type de problèmes (de l'identification à la validation des résultats obtenus)"
                 ],
-                "C10": [
+                "GI-C10": [
                   "Capacité : Mettre en œuvre une démarche structurée pour aborder ce type de problèmes (de l'identification à la validation des résultats obtenus)"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Capacité : Mettre en œuvre une démarche structurée pour aborder ce type de problèmes (de l'identification à la validation des résultats obtenus)"
                 ],
-                "C12": [
+                "GI-C12": [
                   "Capacité : Mettre en œuvre une démarche structurée pour aborder ce type de problèmes (de l'identification à la validation des résultats obtenus)"
                 ],
-                "C13": [
+                "GI-C13": [
                   "Capacité : Mettre en œuvre une démarche structurée pour aborder ce type de problèmes (de l'identification à la validation des résultats obtenus)"
                 ],
-                "C14": [
+                "GI-C14": [
                   "Capacité : Mettre en œuvre une démarche structurée pour aborder ce type de problèmes (de l'identification à la validation des résultats obtenus)"
                 ],
-                "C15": [
+                "GI-C15": [
                   "Capacité : Mettre en œuvre une démarche structurée pour aborder ce type de problèmes (de l'identification à la validation des résultats obtenus)"
                 ]
               },
@@ -8539,13 +8537,13 @@
                 "A5": [
                   "Capacité : Évaluer les besoins en ressources humaines"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Capacité : Évaluer les besoins en ressources humaines",
                   "Capacité : Dimensionner le personnel",
                   "Capacité : Définir les horaires de présence du personnel",
                   "Capacité : Planifier les emplois du temps du personnel"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Capacité : Dimensionner le personnel",
                   "Capacité : Définir les horaires de présence du personnel",
                   "Capacité : Planifier les emplois du temps du personnel"
@@ -8554,7 +8552,7 @@
                   "Capacité : Définir les horaires de présence du personnel",
                   "Capacité : Planifier les emplois du temps du personnel"
                 ],
-                "C11": [
+                "GI-C11": [
                   "Capacité : Planifier les emplois du temps du personnel"
                 ]
               },
@@ -8626,7 +8624,7 @@
                 "Connaissance : CBA."
               ],
               "competenceToCapaciteEtConnaissance": {
-                "C20": [
+                "GI-C20": [
                   "Capacité : Organiser une table ronde",
                   "Capacité : Savoir maîtriser un débat"
                 ],
@@ -8649,10 +8647,10 @@
                   "Capacité : Définir les enjeux et les risques industriels tant sur le plan structurel qu'organisationnel",
                   "Capacité : Savoir maîtriser un débat"
                 ],
-                "C17": [
+                "GI-C17": [
                   "Capacité : Définir les enjeux et les risques industriels tant sur le plan structurel qu'organisationnel"
                 ],
-                "C26": [
+                "GI-C26": [
                   "Capacité : Interpeller des intervenants industriels"
                 ]
               },
@@ -8766,16 +8764,16 @@
                   "Capacité : Développer des solutions et réaliser des expérimentations",
                   "Capacité : Analyser les résultats obtenus et proposer des recommandations"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Capacité : S'approprier le sujet en mobilisant les connaissances théoriques pertinentes et en réalisant un état de l'art",
                   "Capacité : Comprendre et formaliser le problème de recherche",
                   "Capacité : Analyser les résultats obtenus et proposer des recommandations"
                 ],
-                "C19": [
+                "GI-C19": [
                   "Capacité : S'approprier le sujet en mobilisant les connaissances théoriques pertinentes et en réalisant un état de l'art",
                   "Capacité : Comprendre et formaliser le problème de recherche"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Capacité : Comprendre et formaliser le problème de recherche",
                   "Capacité : Émettre des pistes de résolution",
                   "Capacité : Développer des solutions et réaliser des expérimentations"
@@ -8794,7 +8792,7 @@
                   "Capacité : Développer des solutions et réaliser des expérimentations",
                   "Capacité : Analyser les résultats obtenus et proposer des recommandations"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Capacité : Développer des solutions et réaliser des expérimentations",
                   "Capacité : Analyser les résultats obtenus et proposer des recommandations"
                 ],
@@ -8976,84 +8974,84 @@
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C10": [
+                "GI-C10": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C12": [
+                "GI-C12": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C13": [
+                "GI-C13": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C18": [
+                "GI-C18": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C19": [
+                "GI-C19": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C20": [
+                "GI-C20": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C21": [
+                "GI-C21": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C22": [
+                "GI-C22": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C23": [
+                "GI-C23": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
@@ -9128,84 +9126,84 @@
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C10": [
+                "GI-C10": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C12": [
+                "GI-C12": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C13": [
+                "GI-C13": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C18": [
+                "GI-C18": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C19": [
+                "GI-C19": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C20": [
+                "GI-C20": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C21": [
+                "GI-C21": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C22": [
+                "GI-C22": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C23": [
+                "GI-C23": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
@@ -9260,20 +9258,20 @@
                   "Connaissance : Profession ingénieur",
                   "Capacité : Développer et exercer des capacités d'analyse des enjeux éthiques d'un projet, d'une organisation, d'une situation professionnelle pour faire des choix"
                 ],
-                "C26": [
+                "GI-C26": [
                   "Connaissance : Responsabilité/éthique",
                   "Connaissance : Théories éthiques",
                   "Connaissance : Controverses",
                   "Capacité : Développer et exercer des capacités d'analyse des enjeux éthiques d'un projet, d'une organisation, d'une situation professionnelle pour faire des choix"
                 ],
-                "C25": [
+                "GI-C25": [
                   "Connaissance : Responsabilité/éthique",
                   "Connaissance : Risques",
                   "Connaissance : Controverses",
                   "Connaissance : Profession ingénieur",
                   "Capacité : Développer et exercer des capacités d'analyse des enjeux éthiques d'un projet, d'une organisation, d'une situation professionnelle pour faire des choix"
                 ],
-                "C20": [
+                "GI-C20": [
                   "Capacité : Transmettre à un public les résultats de son analyse"
                 ],
                 "B4": [
@@ -9353,84 +9351,84 @@
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C7": [
+                "GI-C7": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C8": [
+                "GI-C8": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C9": [
+                "GI-C9": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C10": [
+                "GI-C10": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C12": [
+                "GI-C12": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C13": [
+                "GI-C13": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C18": [
+                "GI-C18": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C19": [
+                "GI-C19": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C20": [
+                "GI-C20": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C21": [
+                "GI-C21": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C22": [
+                "GI-C22": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
                   "Connaissance : Sourcing et réapprovisionnement des matières",
                   "Capacité : Développer les capacités d'observation et d'analyse stratégique d'une organisation, Intégrer les aspects techniques et socio-économiques d'un projet ou d'un processus (de production, de gestion, ...)"
                 ],
-                "C23": [
+                "GI-C23": [
                   "Connaissance : Organisation industriel",
                   "Connaissance : Amélioration continue",
                   "Connaissance : Analyse de donnée de production et dimensionnement du système",
@@ -9485,20 +9483,20 @@
                   "Connaissance : Profession ingénieur",
                   "Capacité : Développer et exercer des capacités d'analyse des enjeux éthiques d'un projet, d'une organisation, d'une situation professionnelle pour faire des choix"
                 ],
-                "C26": [
+                "GI-C26": [
                   "Connaissance : Responsabilité/éthique",
                   "Connaissance : Théories éthiques",
                   "Connaissance : Controverses",
                   "Capacité : Développer et exercer des capacités d'analyse des enjeux éthiques d'un projet, d'une organisation, d'une situation professionnelle pour faire des choix"
                 ],
-                "C25": [
+                "GI-C25": [
                   "Connaissance : Responsabilité/éthique",
                   "Connaissance : Risques",
                   "Connaissance : Controverses",
                   "Connaissance : Profession ingénieur",
                   "Capacité : Développer et exercer des capacités d'analyse des enjeux éthiques d'un projet, d'une organisation, d'une situation professionnelle pour faire des choix"
                 ],
-                "C20": [
+                "GI-C20": [
                   "Capacité : Transmettre à un public les résultats de son analyse"
                 ],
                 "B4": [
@@ -9605,19 +9603,19 @@
                   "Capacité : Analyser une situation et la problématiser",
                   "Capacité : Travailler en équipe"
                 ],
-                "C21": [
+                "GI-C21": [
                   "Connaissance : Retour d'expérience",
                   "Capacité : Analyser une situation et la problématiser",
                   "Capacité : Atteindre les objectifs et/ou livrables attendus"
                 ],
-                "C22": [
+                "GI-C22": [
                   "Connaissance : Retour d'expérience",
                   "Capacité : Réaliser un travail personnel en situation professionnelle, en résolvant une problématique industrielle et/ou scientifique",
                   "Capacité : Analyser une situation et la problématiser",
                   "Capacité : Atteindre les objectifs et/ou livrables attendus",
                   "Capacité : Développer autonomie, imagination, curiosité, rigueur scientifique et responsabilité"
                 ],
-                "C23": [
+                "GI-C23": [
                   "Connaissance : Retour d'expérience",
                   "Capacité : Réaliser un travail personnel en situation professionnelle, en résolvant une problématique industrielle et/ou scientifique",
                   "Capacité : Analyser une situation et la problématiser",
